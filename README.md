@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (today)
 - [EdgeTX/edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge of OpenTx (1 week ago)
 - [pascallanger/DIY-Multiprotocol-TX-Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module) - Multiprotocol TX Module (or MULTI-Module) is a 2.4GHz transmitter module which controls many different receivers and models. (1 week ago)
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot (1 week ago)
@@ -51,7 +52,6 @@
 - [soffchen/NanoPi-R2S](https://github.com/soffchen/NanoPi-R2S) - 使用 Github Actions 在线编译内置 OpenClash 的 NanoPi-R2S 固件 (2 months ago)
 - [paparazzi/paparazzi](https://github.com/paparazzi/paparazzi) - Paparazzi is a free and open-source hardware and software project for unmanned (air) vehicles. This is the main software repository. (2 months ago)
 - [tty228/luci-app-serverchan](https://github.com/tty228/luci-app-serverchan) - serverchan running on openwrt (2 months ago)
-- [peng-zhihui/GrblHost](https://github.com/peng-zhihui/GrblHost) - Grbl雕刻机配套上位机 (3 months ago)
 
 #### 💬 Feedback
 
