@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (today)
 - [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (1 day ago)
 - [EdgeTX/edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge of OpenTx (1 week ago)
 - [pascallanger/DIY-Multiprotocol-TX-Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module) - Multiprotocol TX Module (or MULTI-Module) is a 2.4GHz transmitter module which controls many different receivers and models. (1 week ago)
@@ -51,7 +52,6 @@
 - [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) - Kernel code of the Blackbox Mate Online (2 months ago)
 - [soffchen/NanoPi-R2S](https://github.com/soffchen/NanoPi-R2S) - 使用 Github Actions 在线编译内置 OpenClash 的 NanoPi-R2S 固件 (2 months ago)
 - [paparazzi/paparazzi](https://github.com/paparazzi/paparazzi) - Paparazzi is a free and open-source hardware and software project for unmanned (air) vehicles. This is the main software repository. (2 months ago)
-- [tty228/luci-app-serverchan](https://github.com/tty228/luci-app-serverchan) - serverchan running on openwrt (2 months ago)
 
 #### 💬 Feedback
 
