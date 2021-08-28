@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pitronicteam/BF-wiki-in-Chinese](https://github.com/pitronicteam/BF-wiki-in-Chinese) -  (3 days ago)
+- [pitronicteam/BF-wiki-in-Chinese](https://github.com/pitronicteam/BF-wiki-in-Chinese) -  (4 days ago)
 - [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) - Kernel code of the Blackbox Mate Online (1 week ago)
 - [DusKing1/bf-src-main-check](https://github.com/DusKing1/bf-src-main-check) -  (1 week ago)
 - [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) - Firmware for stm32f051 based speed controllers for use with mutirotors (3 weeks ago)
@@ -23,14 +23,14 @@
 #### 🔭 Latest releases I've contributed to
 
 - [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.18.0](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.18.0), 3 weeks ago) - A Web-App to flash your ESC&#39;s from the browser using the Web-Serial API.
-- [AlkaMotors/F051_Bootloader_Updater](https://github.com/AlkaMotors/F051_Bootloader_Updater) ([V10](https://github.com/AlkaMotors/F051_Bootloader_Updater/releases/tag/V10), 3 weeks ago) - 
+- [AlkaMotors/F051_Bootloader_Updater](https://github.com/AlkaMotors/F051_Bootloader_Updater) ([V10](https://github.com/AlkaMotors/F051_Bootloader_Updater/releases/tag/V10), 4 weeks ago) - 
 - [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.74](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.74), 1 month ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
 - [betaflight/blackbox-log-viewer](https://github.com/betaflight/blackbox-log-viewer) ([3.5.0](https://github.com/betaflight/blackbox-log-viewer/releases/tag/3.5.0), 1 year ago) - Interactive log viewer for flight logs recorded with blackbox
 
 #### 🔨 My recent Pull Requests
 
-- [Update azure used fixed ubuntu version](https://github.com/betaflight/betaflight-configurator/pull/2576) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (4 days ago)
-- [Remove outdated dashboard setting in HYBRIDG4 target](https://github.com/betaflight/unified-targets/pull/498) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (6 days ago)
+- [Update azure used fixed ubuntu version](https://github.com/betaflight/betaflight-configurator/pull/2576) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (5 days ago)
+- [Remove outdated dashboard setting in HYBRIDG4 target](https://github.com/betaflight/unified-targets/pull/498) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 week ago)
 - [fix typos in code comments in main/common and main/drivers folders](https://github.com/betaflight/betaflight/pull/10905) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 week ago)
 - [Fix typo in gps_conversion.c](https://github.com/betaflight/betaflight/pull/10904) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 week ago)
 - [Create spelling.yml](https://github.com/DusKing1/betaflight/pull/1) on [DusKing1/betaflight](https://github.com/DusKing1/betaflight) (1 week ago)
@@ -42,7 +42,7 @@
 
 #### ⭐ Recent Stars
 
-- [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (today)
+- [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (1 day ago)
 - [EdgeTX/edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge of OpenTx (1 week ago)
 - [pascallanger/DIY-Multiprotocol-TX-Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module) - Multiprotocol TX Module (or MULTI-Module) is a 2.4GHz transmitter module which controls many different receivers and models. (1 week ago)
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot (1 week ago)
