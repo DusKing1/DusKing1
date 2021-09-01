@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.18.0](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.18.0), 3 weeks ago) - A Web-App to flash your ESC&#39;s from the browser using the Web-Serial API.
+- [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.18.0](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.18.0), 4 weeks ago) - A Web-App to flash your ESC&#39;s from the browser using the Web-Serial API.
 - [AlkaMotors/F051_Bootloader_Updater](https://github.com/AlkaMotors/F051_Bootloader_Updater) ([V10](https://github.com/AlkaMotors/F051_Bootloader_Updater/releases/tag/V10), 1 month ago) - 
 - [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.74](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.74), 1 month ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
 - [betaflight/blackbox-log-viewer](https://github.com/betaflight/blackbox-log-viewer) ([3.5.0](https://github.com/betaflight/blackbox-log-viewer/releases/tag/3.5.0), 1 year ago) - Interactive log viewer for flight logs recorded with blackbox
@@ -42,11 +42,11 @@
 
 #### ⭐ Recent Stars
 
-- [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (3 days ago)
-- [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (4 days ago)
-- [EdgeTX/edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge of OpenTx (1 week ago)
-- [pascallanger/DIY-Multiprotocol-TX-Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module) - Multiprotocol TX Module (or MULTI-Module) is a 2.4GHz transmitter module which controls many different receivers and models. (1 week ago)
-- [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot (1 week ago)
+- [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (4 days ago)
+- [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (5 days ago)
+- [EdgeTX/edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge of OpenTx (2 weeks ago)
+- [pascallanger/DIY-Multiprotocol-TX-Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module) - Multiprotocol TX Module (or MULTI-Module) is a 2.4GHz transmitter module which controls many different receivers and models. (2 weeks ago)
+- [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot (2 weeks ago)
 - [seldridge/verilog](https://github.com/seldridge/verilog) - Repository for basic (and not so basic) Verilog blocks with high re-use potential (1 month ago)
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。 (2 months ago)
 - [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) - Kernel code of the Blackbox Mate Online (2 months ago)
