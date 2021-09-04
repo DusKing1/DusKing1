@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) - Firmware for stm32f051 based speed controllers for use with mutirotors (2 days ago)
+- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) - Firmware for stm32f051 based speed controllers for use with mutirotors (3 days ago)
 - [pitronicteam/BF-wiki-in-Chinese](https://github.com/pitronicteam/BF-wiki-in-Chinese) -  (1 week ago)
 - [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) - Kernel code of the Blackbox Mate Online (2 weeks ago)
 - [DusKing1/bf-src-main-check](https://github.com/DusKing1/bf-src-main-check) -  (2 weeks ago)
@@ -29,9 +29,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update the artifact name of the CI](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/pull/66) on [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) (2 days ago)
+- [Update the artifact name of the CI](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/pull/66) on [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) (3 days ago)
 - [Update azure used fixed ubuntu version](https://github.com/betaflight/betaflight-configurator/pull/2576) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (1 week ago)
-- [Remove outdated dashboard setting in HYBRIDG4 target](https://github.com/betaflight/unified-targets/pull/498) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 week ago)
+- [Remove outdated dashboard setting in HYBRIDG4 target](https://github.com/betaflight/unified-targets/pull/498) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (2 weeks ago)
 - [fix typos in code comments in main/common and main/drivers folders](https://github.com/betaflight/betaflight/pull/10905) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (2 weeks ago)
 - [Fix typo in gps_conversion.c](https://github.com/betaflight/betaflight/pull/10904) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (2 weeks ago)
 - [Create spelling.yml](https://github.com/DusKing1/betaflight/pull/1) on [DusKing1/betaflight](https://github.com/DusKing1/betaflight) (2 weeks ago)
@@ -42,7 +42,7 @@
 
 #### ⭐ Recent Stars
 
-- [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (6 days ago)
+- [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (1 week ago)
 - [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (1 week ago)
 - [EdgeTX/edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge of OpenTx (2 weeks ago)
 - [pascallanger/DIY-Multiprotocol-TX-Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module) - Multiprotocol TX Module (or MULTI-Module) is a 2.4GHz transmitter module which controls many different receivers and models. (2 weeks ago)
