@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) - Firmware for stm32f051 based speed controllers for use with mutirotors (5 days ago)
-- [pitronicteam/BF-wiki-in-Chinese](https://github.com/pitronicteam/BF-wiki-in-Chinese) -  (1 week ago)
-- [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) - Kernel code of the Blackbox Mate Online (2 weeks ago)
+- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) - Firmware for stm32f051 based speed controllers for use with mutirotors (6 days ago)
+- [pitronicteam/BF-wiki-in-Chinese](https://github.com/pitronicteam/BF-wiki-in-Chinese) -  (2 weeks ago)
+- [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) - Kernel code of the Blackbox Mate Online (3 weeks ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (3 weeks ago)
 - [DusKing1/bf-src-main-check](https://github.com/DusKing1/bf-src-main-check) -  (3 weeks ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (1 month ago)
@@ -30,7 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update the artifact name of the CI](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/pull/66) on [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) (5 days ago)
+- [Update the artifact name of the CI](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/pull/66) on [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) (6 days ago)
 - [Update azure used fixed ubuntu version](https://github.com/betaflight/betaflight-configurator/pull/2576) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (2 weeks ago)
 - [Remove outdated dashboard setting in HYBRIDG4 target](https://github.com/betaflight/unified-targets/pull/498) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (2 weeks ago)
 - [fix typos in code comments in main/common and main/drivers folders](https://github.com/betaflight/betaflight/pull/10905) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (3 weeks ago)
