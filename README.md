@@ -43,7 +43,7 @@
 
 #### ⭐ Recent Stars
 
-- [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡) (today)
+- [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡) (1 day ago)
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (1 week ago)
 - [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (1 week ago)
 - [EdgeTX/edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge of OpenTx (3 weeks ago)
