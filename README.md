@@ -32,7 +32,7 @@
 
 - [Update the artifact name of the CI](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/pull/66) on [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) (1 week ago)
 - [Update azure used fixed ubuntu version](https://github.com/betaflight/betaflight-configurator/pull/2576) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (2 weeks ago)
-- [Remove outdated dashboard setting in HYBRIDG4 target](https://github.com/betaflight/unified-targets/pull/498) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (2 weeks ago)
+- [Remove outdated dashboard setting in HYBRIDG4 target](https://github.com/betaflight/unified-targets/pull/498) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (3 weeks ago)
 - [fix typos in code comments in main/common and main/drivers folders](https://github.com/betaflight/betaflight/pull/10905) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (3 weeks ago)
 - [Fix typo in gps_conversion.c](https://github.com/betaflight/betaflight/pull/10904) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (3 weeks ago)
 - [Create spelling.yml](https://github.com/DusKing1/betaflight/pull/1) on [DusKing1/betaflight](https://github.com/DusKing1/betaflight) (3 weeks ago)
@@ -43,8 +43,8 @@
 
 #### ⭐ Recent Stars
 
-- [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡) (2 days ago)
-- [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (1 week ago)
+- [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡) (3 days ago)
+- [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (2 weeks ago)
 - [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (2 weeks ago)
 - [EdgeTX/edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge of OpenTx (3 weeks ago)
 - [pascallanger/DIY-Multiprotocol-TX-Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module) - Multiprotocol TX Module (or MULTI-Module) is a 2.4GHz transmitter module which controls many different receivers and models. (3 weeks ago)
