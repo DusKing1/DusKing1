@@ -30,6 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add DIAT-MAMBAH743 config file](https://github.com/betaflight/unified-targets/pull/505) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (today)
 - [Update the artifact name of the CI](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/pull/66) on [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) (1 week ago)
 - [Update azure used fixed ubuntu version](https://github.com/betaflight/betaflight-configurator/pull/2576) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (2 weeks ago)
 - [Remove outdated dashboard setting in HYBRIDG4 target](https://github.com/betaflight/unified-targets/pull/498) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (3 weeks ago)
@@ -39,7 +40,6 @@
 - [typofix](https://github.com/DusKing1/PID-Evaluator/pull/9) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (3 weeks ago)
 - [Add spelling check CI](https://github.com/DusKing1/PID-Evaluator/pull/8) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (3 weeks ago)
 - [Add AM32 identifier](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/pull/53) on [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) (1 month ago)
-- [fix wrong type in ID for NERC](https://github.com/betaflight/unified-targets/pull/479) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
 
 #### ⭐ Recent Stars
 
