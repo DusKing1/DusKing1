@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [DusKing1/helloworld-rust](https://github.com/DusKing1/helloworld-rust) - Rustlang running on a custom F103 dev board (today)
 - [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) - Firmware for stm32f051 based speed controllers for use with mutirotors (1 week ago)
 - [pitronicteam/BF-wiki-in-Chinese](https://github.com/pitronicteam/BF-wiki-in-Chinese) -  (2 weeks ago)
 - [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) - Kernel code of the Blackbox Mate Online (3 weeks ago)
@@ -11,10 +12,10 @@
 - [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) - A Web-App to flash your ESC&#39;s from the browser using the Web-Serial API. (2 months ago)
 - [fpvout/DigiView-Android](https://github.com/fpvout/DigiView-Android) - Live video out from your DJI FPV Goggles via USB. (3 months ago)
 - [DusKing1/KISS-GUI-CN](https://github.com/DusKing1/KISS-GUI-CN) - Chinese (Both Simplified and Traditional ) Translation for KISS configurator (5 months ago)
-- [AlkaMotors/F051_Bootloader_Updater](https://github.com/AlkaMotors/F051_Bootloader_Updater) -  (6 months ago)
 
 #### 🌱 My latest projects
 
+- [DusKing1/helloworld-rust](https://github.com/DusKing1/helloworld-rust) - Rustlang running on a custom F103 dev board
 - [DusKing1/bf-src-main-check](https://github.com/DusKing1/bf-src-main-check) - 
 - [DusKing1/KISS-GUI-CN](https://github.com/DusKing1/KISS-GUI-CN) - Chinese (Both Simplified and Traditional ) Translation for KISS configurator
 - [DusKing1/dsp-guide](https://github.com/DusKing1/dsp-guide) - 
