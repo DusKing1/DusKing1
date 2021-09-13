@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DusKing1/draw.io](https://github.com/DusKing1/draw.io) -  (today)
 - [DusKing1/helloworld-rust](https://github.com/DusKing1/helloworld-rust) - Rustlang running on a custom F103 dev board (today)
+- [DusKing1/draw.io](https://github.com/DusKing1/draw.io) -  (today)
 - [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) - Firmware for stm32f051 based speed controllers for use with mutirotors (1 week ago)
 - [pitronicteam/BF-wiki-in-Chinese](https://github.com/pitronicteam/BF-wiki-in-Chinese) -  (2 weeks ago)
 - [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) - Kernel code of the Blackbox Mate Online (3 weeks ago)
