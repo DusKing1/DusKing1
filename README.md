@@ -10,7 +10,7 @@
 - [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) - Kernel code of the Blackbox Mate Online (4 weeks ago)
 - [DusKing1/bf-src-main-check](https://github.com/DusKing1/bf-src-main-check) -  (4 weeks ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (4 weeks ago)
-- [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) - A Web-App to flash your ESC&#39;s from the browser using the Web-Serial API. (2 months ago)
+- [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) - A Web-App to flash your BLHeli_S based ESCs from the browser using the Web-Serial API. (2 months ago)
 - [fpvout/DigiView-Android](https://github.com/fpvout/DigiView-Android) - Live video out from your DJI FPV Goggles via USB. (3 months ago)
 
 #### 🌱 My latest projects
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.18.0](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.18.0), 1 month ago) - A Web-App to flash your ESC&#39;s from the browser using the Web-Serial API.
+- [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.18.0](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.18.0), 1 month ago) - A Web-App to flash your BLHeli_S based ESCs from the browser using the Web-Serial API.
 - [AlkaMotors/F051_Bootloader_Updater](https://github.com/AlkaMotors/F051_Bootloader_Updater) ([V10](https://github.com/AlkaMotors/F051_Bootloader_Updater/releases/tag/V10), 1 month ago) - 
 - [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.74](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.74), 2 months ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.2.9](https://github.com/betaflight/betaflight/releases/tag/4.2.9), 4 months ago) - Open Source Flight Controller Firmware
