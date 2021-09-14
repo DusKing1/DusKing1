@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DusKing1/helloworld-rust](https://github.com/DusKing1/helloworld-rust) - Rustlang running on a custom F103 dev board (today)
-- [DusKing1/draw.io](https://github.com/DusKing1/draw.io) -  (today)
-- [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (2 days ago)
+- [DusKing1/helloworld-rust](https://github.com/DusKing1/helloworld-rust) - Rustlang running on a custom F103 dev board (1 day ago)
+- [DusKing1/draw.io](https://github.com/DusKing1/draw.io) -  (1 day ago)
+- [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (3 days ago)
 - [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) - Firmware for stm32f051 based speed controllers for use with mutirotors (1 week ago)
-- [pitronicteam/BF-wiki-in-Chinese](https://github.com/pitronicteam/BF-wiki-in-Chinese) -  (2 weeks ago)
-- [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) - Kernel code of the Blackbox Mate Online (3 weeks ago)
+- [pitronicteam/BF-wiki-in-Chinese](https://github.com/pitronicteam/BF-wiki-in-Chinese) -  (3 weeks ago)
+- [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) - Kernel code of the Blackbox Mate Online (4 weeks ago)
 - [DusKing1/bf-src-main-check](https://github.com/DusKing1/bf-src-main-check) -  (4 weeks ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (4 weeks ago)
 - [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) - A Web-App to flash your ESC&#39;s from the browser using the Web-Serial API. (2 months ago)
@@ -32,7 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add DIAT-MAMBAH743 config file](https://github.com/betaflight/unified-targets/pull/505) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (2 days ago)
+- [Add DIAT-MAMBAH743 config file](https://github.com/betaflight/unified-targets/pull/505) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (3 days ago)
 - [Update the artifact name of the CI](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/pull/66) on [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) (1 week ago)
 - [Update azure used fixed ubuntu version](https://github.com/betaflight/betaflight-configurator/pull/2576) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (3 weeks ago)
 - [Remove outdated dashboard setting in HYBRIDG4 target](https://github.com/betaflight/unified-targets/pull/498) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (3 weeks ago)
@@ -45,8 +45,8 @@
 
 #### ⭐ Recent Stars
 
-- [d4rken/fpv-dvca](https://github.com/d4rken/fpv-dvca) - An unofficial companion app for DJI&#39;s Digital FPV System. (today)
-- [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡) (5 days ago)
+- [d4rken/fpv-dvca](https://github.com/d4rken/fpv-dvca) - An unofficial companion app for DJI&#39;s Digital FPV System. (1 day ago)
+- [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡) (6 days ago)
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (2 weeks ago)
 - [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (2 weeks ago)
 - [EdgeTX/edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge of OpenTx (3 weeks ago)
