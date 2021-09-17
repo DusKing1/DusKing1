@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [pitronicteam/flowbox-doc](https://github.com/pitronicteam/flowbox-doc) - Documents for FlowBox hardware (today)
 - [DusKing1/helloworld-rust](https://github.com/DusKing1/helloworld-rust) - Rustlang running on a custom F103 dev board (2 days ago)
 - [DusKing1/draw.io](https://github.com/DusKing1/draw.io) -  (4 days ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (6 days ago)
@@ -11,7 +12,6 @@
 - [DusKing1/bf-src-main-check](https://github.com/DusKing1/bf-src-main-check) -  (1 month ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (1 month ago)
 - [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) - A Web-App to flash your BLHeli_S based ESCs from the browser using the Web-Serial API. (2 months ago)
-- [fpvout/DigiView-Android](https://github.com/fpvout/DigiView-Android) - Live video out from your DJI FPV Goggles via USB. (3 months ago)
 
 #### 🌱 My latest projects
 
