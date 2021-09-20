@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DusKing1/helloworld-rust](https://github.com/DusKing1/helloworld-rust) - Rustlang running on a custom F103 dev board (1 day ago)
-- [pitronicteam/flowbox-doc](https://github.com/pitronicteam/flowbox-doc) - Documents for flowbox hardware (1 day ago)
-- [DusKing1/draw.io](https://github.com/DusKing1/draw.io) -  (6 days ago)
+- [DusKing1/helloworld-rust](https://github.com/DusKing1/helloworld-rust) - Rustlang running on a custom F103 dev board (2 days ago)
+- [pitronicteam/flowbox-doc](https://github.com/pitronicteam/flowbox-doc) - Documents for flowbox hardware (2 days ago)
+- [DusKing1/draw.io](https://github.com/DusKing1/draw.io) -  (1 week ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (1 week ago)
 - [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) - Firmware for stm32f051 based speed controllers for use with mutirotors (2 weeks ago)
 - [pitronicteam/BF-wiki-in-Chinese](https://github.com/pitronicteam/BF-wiki-in-Chinese) -  (3 weeks ago)
@@ -32,11 +32,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add DIAT-MAMBAF722_X8 config file](https://github.com/betaflight/unified-targets/pull/507) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (today)
+- [Add DIAT-MAMBAF722_X8 config file](https://github.com/betaflight/unified-targets/pull/507) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 day ago)
 - [Add DIAT-MAMBAH743 config file](https://github.com/betaflight/unified-targets/pull/505) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 week ago)
 - [Update the artifact name of the CI](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/pull/66) on [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) (2 weeks ago)
-- [Update azure used fixed ubuntu version](https://github.com/betaflight/betaflight-configurator/pull/2576) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (3 weeks ago)
-- [Remove outdated dashboard setting in HYBRIDG4 target](https://github.com/betaflight/unified-targets/pull/498) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (4 weeks ago)
+- [Update azure used fixed ubuntu version](https://github.com/betaflight/betaflight-configurator/pull/2576) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (4 weeks ago)
+- [Remove outdated dashboard setting in HYBRIDG4 target](https://github.com/betaflight/unified-targets/pull/498) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
 - [fix typos in code comments in main/common and main/drivers folders](https://github.com/betaflight/betaflight/pull/10905) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 month ago)
 - [Fix typo in gps_conversion.c](https://github.com/betaflight/betaflight/pull/10904) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 month ago)
 - [Create spelling.yml](https://github.com/DusKing1/betaflight/pull/1) on [DusKing1/betaflight](https://github.com/DusKing1/betaflight) (1 month ago)
@@ -45,8 +45,8 @@
 
 #### ⭐ Recent Stars
 
-- [Firmament-Autopilot/FMT-Firmware](https://github.com/Firmament-Autopilot/FMT-Firmware) -  (1 day ago)
-- [d4rken/fpv-dvca](https://github.com/d4rken/fpv-dvca) - An unofficial companion app for DJI&#39;s Digital FPV System. (6 days ago)
+- [Firmament-Autopilot/FMT-Firmware](https://github.com/Firmament-Autopilot/FMT-Firmware) -  (2 days ago)
+- [d4rken/fpv-dvca](https://github.com/d4rken/fpv-dvca) - An unofficial companion app for DJI&#39;s Digital FPV System. (1 week ago)
 - [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡) (1 week ago)
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (3 weeks ago)
 - [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (3 weeks ago)
