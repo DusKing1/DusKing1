@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pitronicteam/flowbox-doc](https://github.com/pitronicteam/flowbox-doc) - Documents for flowbox hardware (3 days ago)
+- [pitronicteam/flowbox-doc](https://github.com/pitronicteam/flowbox-doc) - Documents for flowbox hardware (today)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (6 days ago)
 - [DusKing1/helloworld-rust](https://github.com/DusKing1/helloworld-rust) - Rustlang running on a custom F103 dev board (1 week ago)
 - [DusKing1/draw.io](https://github.com/DusKing1/draw.io) -  (1 week ago)
