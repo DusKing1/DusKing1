@@ -32,7 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix h743 bard identifier](https://github.com/betaflight/betaflight/pull/10985) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (today)
+- [Fix h743 board identifier](https://github.com/betaflight/betaflight/pull/10985) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (today)
 - [Add support for PINIO input and PINIO RX](https://github.com/betaflight/betaflight/pull/10983) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (2 days ago)
 - [Add DIAT-MAMBAF722_X8 config file](https://github.com/betaflight/unified-targets/pull/507) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 week ago)
 - [Add DIAT-MAMBAH743 config file](https://github.com/betaflight/unified-targets/pull/505) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (2 weeks ago)
