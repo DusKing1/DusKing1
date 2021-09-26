@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix h743 bard identifier](https://github.com/betaflight/betaflight/pull/10985) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (today)
 - [Add support for PINIO input and PINIO RX](https://github.com/betaflight/betaflight/pull/10983) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (2 days ago)
 - [Add DIAT-MAMBAF722_X8 config file](https://github.com/betaflight/unified-targets/pull/507) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 week ago)
 - [Add DIAT-MAMBAH743 config file](https://github.com/betaflight/unified-targets/pull/505) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (2 weeks ago)
@@ -41,7 +42,6 @@
 - [fix typos in code comments in main/common and main/drivers folders](https://github.com/betaflight/betaflight/pull/10905) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 month ago)
 - [Fix typo in gps_conversion.c](https://github.com/betaflight/betaflight/pull/10904) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 month ago)
 - [Create spelling.yml](https://github.com/DusKing1/betaflight/pull/1) on [DusKing1/betaflight](https://github.com/DusKing1/betaflight) (1 month ago)
-- [typofix](https://github.com/DusKing1/PID-Evaluator/pull/9) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (1 month ago)
 
 #### ⭐ Recent Stars
 
