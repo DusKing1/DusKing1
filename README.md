@@ -24,14 +24,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.2.10](https://github.com/betaflight/betaflight/releases/tag/4.2.10), today) - Open Source Flight Controller Firmware
 - [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.18.0](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.18.0), 1 month ago) - A Web-App to flash your BLHeli_S based ESCs from the browser using the Web-Serial API.
 - [AlkaMotors/F051_Bootloader_Updater](https://github.com/AlkaMotors/F051_Bootloader_Updater) ([V10](https://github.com/AlkaMotors/F051_Bootloader_Updater/releases/tag/V10), 2 months ago) - 
 - [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.74](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.74), 2 months ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
-- [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.2.9](https://github.com/betaflight/betaflight/releases/tag/4.2.9), 5 months ago) - Open Source Flight Controller Firmware
 - [betaflight/blackbox-log-viewer](https://github.com/betaflight/blackbox-log-viewer) ([3.5.0](https://github.com/betaflight/blackbox-log-viewer/releases/tag/3.5.0), 1 year ago) - Interactive log viewer for flight logs recorded with blackbox
 
 #### 🔨 My recent Pull Requests
 
+- [Add serial settings for mambaf722 x8](https://github.com/betaflight/unified-targets/pull/512) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (today)
 - [Fix h743 board identifier](https://github.com/betaflight/betaflight/pull/10985) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (4 days ago)
 - [Add support for PINIO input and PINIO RX](https://github.com/betaflight/betaflight/pull/10983) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (6 days ago)
 - [Add DIAT-MAMBAF722_X8 config file](https://github.com/betaflight/unified-targets/pull/507) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 week ago)
@@ -41,7 +42,6 @@
 - [Remove outdated dashboard setting in HYBRIDG4 target](https://github.com/betaflight/unified-targets/pull/498) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
 - [fix typos in code comments in main/common and main/drivers folders](https://github.com/betaflight/betaflight/pull/10905) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 month ago)
 - [Fix typo in gps_conversion.c](https://github.com/betaflight/betaflight/pull/10904) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 month ago)
-- [Create spelling.yml](https://github.com/DusKing1/betaflight/pull/1) on [DusKing1/betaflight](https://github.com/DusKing1/betaflight) (1 month ago)
 
 #### ⭐ Recent Stars
 
