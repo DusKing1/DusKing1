@@ -47,7 +47,7 @@
 
 - [rubegartor/ReelSteady-Joiner](https://github.com/rubegartor/ReelSteady-Joiner) - ReelSteady Joiner join multiple GoPro separate video files into one without losing the gyro data (1 week ago)
 - [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) - Tools for handling firmwares of DJI products, with focus on quadcopters. (2 weeks ago)
-- [Firmament-Autopilot/FMT-Firmware](https://github.com/Firmament-Autopilot/FMT-Firmware) -  (2 weeks ago)
+- [Firmament-Autopilot/FMT-Firmware](https://github.com/Firmament-Autopilot/FMT-Firmware) - FMT Autopilot Embedded Software (2 weeks ago)
 - [d4rken/fpv-dvca](https://github.com/d4rken/fpv-dvca) - An unofficial companion app for DJI&#39;s Digital FPV System. (3 weeks ago)
 - [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡) (3 weeks ago)
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (1 month ago)
