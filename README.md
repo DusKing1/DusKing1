@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (today)
 - [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) - Kernel code of the Blackbox Mate Online (3 days ago)
-- [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (4 days ago)
 - [pitronicteam/flowbox-doc](https://github.com/pitronicteam/flowbox-doc) - Documents for flowbox hardware (5 days ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (1 week ago)
 - [DusKing1/helloworld-rust](https://github.com/DusKing1/helloworld-rust) - Rustlang running on a custom F103 dev board (2 weeks ago)
