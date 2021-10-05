@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [rubegartor/ReelSteady-Joiner](https://github.com/rubegartor/ReelSteady-Joiner) - ReelSteady Joiner join multiple GoPro separate video files into one without losing the gyro data (1 week ago)
+- [rubegartor/ReelSteady-Joiner](https://github.com/rubegartor/ReelSteady-Joiner) - ReelSteady Joiner merge multiple GoPro separate video files into one without losing the gyro data (1 week ago)
 - [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) - Tools for handling firmwares of DJI products, with focus on quadcopters. (2 weeks ago)
 - [Firmament-Autopilot/FMT-Firmware](https://github.com/Firmament-Autopilot/FMT-Firmware) - FMT Autopilot Embedded Software (2 weeks ago)
 - [d4rken/fpv-dvca](https://github.com/d4rken/fpv-dvca) - An unofficial companion app for DJI&#39;s Digital FPV System. (3 weeks ago)
