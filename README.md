@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [ShameCom/ShameCom](https://github.com/ShameCom/ShameCom) - 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！ (today)
 - [rubegartor/ReelSteady-Joiner](https://github.com/rubegartor/ReelSteady-Joiner) - ReelSteady Joiner merge multiple GoPro separate video files into one without losing the gyro data (1 week ago)
 - [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) - Tools for handling firmwares of DJI products, with focus on quadcopters. (2 weeks ago)
 - [Firmament-Autopilot/FMT-Firmware](https://github.com/Firmament-Autopilot/FMT-Firmware) - FMT Autopilot Embedded Software (2 weeks ago)
@@ -54,7 +55,6 @@
 - [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (1 month ago)
 - [EdgeTX/edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge of OpenTx (1 month ago)
 - [pascallanger/DIY-Multiprotocol-TX-Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module) - Multiprotocol TX Module (or MULTI-Module) is a 2.4GHz transmitter module which controls many different receivers and models. (1 month ago)
-- [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot (1 month ago)
 
 #### 💬 Feedback
 
