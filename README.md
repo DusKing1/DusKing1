@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fixed link error on readme.md](https://github.com/betaflight/firmware-presets/pull/28) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (today)
 - [Fix H743 identifier](https://github.com/betaflight/unified-targets/pull/513) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (4 days ago)
 - [add license info in readme](https://github.com/DusKing1/PID-Evaluator/pull/22) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (1 week ago)
 - [add bbm link in readme](https://github.com/DusKing1/PID-Evaluator/pull/21) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (1 week ago)
@@ -41,7 +42,6 @@
 - [Add serial settings for mambaf722 x8](https://github.com/betaflight/unified-targets/pull/512) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 week ago)
 - [Fix h743 board identifier](https://github.com/betaflight/betaflight/pull/10985) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 week ago)
 - [Add support for PINIO input and PINIO RX](https://github.com/betaflight/betaflight/pull/10983) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (2 weeks ago)
-- [Add DIAT-MAMBAF722_X8 config file](https://github.com/betaflight/unified-targets/pull/507) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
