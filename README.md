@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add BMI270 filter settings](https://github.com/betaflight/firmware-presets/pull/47) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (today)
 - [Fixed link error on readme.md](https://github.com/betaflight/firmware-presets/pull/28) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (3 days ago)
 - [Fix H743 identifier](https://github.com/betaflight/unified-targets/pull/513) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 week ago)
 - [add license info in readme](https://github.com/DusKing1/PID-Evaluator/pull/22) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (1 week ago)
@@ -41,7 +42,6 @@
 - [Revert &#34;Merge pull request #8 from DusKing1/spelling-CI&#34;](https://github.com/DusKing1/PID-Evaluator/pull/18) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (1 week ago)
 - [Add serial settings for mambaf722 x8](https://github.com/betaflight/unified-targets/pull/512) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 week ago)
 - [Fix h743 board identifier](https://github.com/betaflight/betaflight/pull/10985) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (2 weeks ago)
-- [Add support for PINIO input and PINIO RX](https://github.com/betaflight/betaflight/pull/10983) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
