@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [mikel-brostrom/Yolov5_DeepSort_Pytorch](https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch) - Real-time multi-object tracker using YOLO v5 and deep sort  (today)
 - [pitronicteam/blackbox-tools](https://github.com/pitronicteam/blackbox-tools) - Tools for working with blackbox flight logs (1 week ago)
 - [me-no-dev/esp8266fcgui](https://github.com/me-no-dev/esp8266fcgui) - KISS and BetaFlight GUI on ESP8266 (1 week ago)
 - [ShameCom/ShameCom](https://github.com/ShameCom/ShameCom) - 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！ (1 week ago)
@@ -54,7 +55,6 @@
 - [d4rken/fpv-dvca](https://github.com/d4rken/fpv-dvca) - An unofficial companion app for DJI&#39;s Digital FPV System. (1 month ago)
 - [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡) (1 month ago)
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (1 month ago)
-- [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (1 month ago)
 
 #### 💬 Feedback
 
