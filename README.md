@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add PSD code](https://github.com/DusKing1/PID-Evaluator/pull/26) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (today)
 - [update BBM link in readme](https://github.com/DusKing1/PID-Evaluator/pull/25) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (3 days ago)
 - [Add BMI270 filter settings](https://github.com/betaflight/firmware-presets/pull/47) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (1 week ago)
 - [Fixed link error on readme.md](https://github.com/betaflight/firmware-presets/pull/28) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (1 week ago)
@@ -41,7 +42,6 @@
 - [remove unnecessary &#34;-&#34;](https://github.com/DusKing1/PID-Evaluator/pull/20) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (3 weeks ago)
 - [Revert &#34;Merge pull request #8 from DusKing1/spelling-CI&#34;](https://github.com/DusKing1/PID-Evaluator/pull/19) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (3 weeks ago)
 - [Revert &#34;Merge pull request #8 from DusKing1/spelling-CI&#34;](https://github.com/DusKing1/PID-Evaluator/pull/18) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (3 weeks ago)
-- [Add serial settings for mambaf722 x8](https://github.com/betaflight/unified-targets/pull/512) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
