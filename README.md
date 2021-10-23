@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference) - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson. (today)
 - [whc2001/SonyMultiPortRemoteControl](https://github.com/whc2001/SonyMultiPortRemoteControl) - Remote control protocol (partial) for Sony cameras with MultiPort (2 days ago)
 - [epietrowicz/Sony-Multiport-Controller](https://github.com/epietrowicz/Sony-Multiport-Controller) - Hardware implementation controlling the shutter of any Sony camera with a multiport connector (2 days ago)
 - [mikel-brostrom/Yolov5_DeepSort_Pytorch](https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch) - Real-time multi-object tracker using YOLO v5 and deep sort  (4 days ago)
@@ -54,7 +55,6 @@
 - [rubegartor/ReelSteady-Joiner](https://github.com/rubegartor/ReelSteady-Joiner) - ReelSteady Joiner merge multiple GoPro separate video files into one without losing the gyro data (4 weeks ago)
 - [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) - Tools for handling firmwares of DJI products, with focus on quadcopters. (1 month ago)
 - [Firmament-Autopilot/FMT-Firmware](https://github.com/Firmament-Autopilot/FMT-Firmware) - FMT Autopilot Embedded Software (1 month ago)
-- [d4rken/fpv-dvca](https://github.com/d4rken/fpv-dvca) - An unofficial companion app for DJI&#39;s Digital FPV System. (1 month ago)
 
 #### 💬 Feedback
 
