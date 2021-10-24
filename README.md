@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.77](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.77), 2 days ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
+- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.78](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.78), today) - Firmware for stm32f051 based speed controllers for use with mutirotors
 - [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.19.1](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.19.1), 1 week ago) - A Web-App to flash your BLHeli_S based ESCs from the browser using the Web-Serial API.
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.2.10](https://github.com/betaflight/betaflight/releases/tag/4.2.10), 3 weeks ago) - Open Source Flight Controller Firmware
 - [AlkaMotors/F051_Bootloader_Updater](https://github.com/AlkaMotors/F051_Bootloader_Updater) ([V10](https://github.com/AlkaMotors/F051_Bootloader_Updater/releases/tag/V10), 2 months ago) - 
