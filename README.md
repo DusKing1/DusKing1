@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix azure pipelines](https://github.com/betaflight/unified-targets/pull/521) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (today)
 - [Add PSD code](https://github.com/DusKing1/PID-Evaluator/pull/26) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (4 days ago)
 - [update BBM link in readme](https://github.com/DusKing1/PID-Evaluator/pull/25) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (1 week ago)
 - [Add BMI270 filter settings](https://github.com/betaflight/firmware-presets/pull/47) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (2 weeks ago)
@@ -41,7 +42,6 @@
 - [add bbm link in readme](https://github.com/DusKing1/PID-Evaluator/pull/21) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (3 weeks ago)
 - [remove unnecessary &#34;-&#34;](https://github.com/DusKing1/PID-Evaluator/pull/20) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (3 weeks ago)
 - [Revert &#34;Merge pull request #8 from DusKing1/spelling-CI&#34;](https://github.com/DusKing1/PID-Evaluator/pull/19) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (3 weeks ago)
-- [Revert &#34;Merge pull request #8 from DusKing1/spelling-CI&#34;](https://github.com/DusKing1/PID-Evaluator/pull/18) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
