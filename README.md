@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [enazoe/yolo-tensorrt](https://github.com/enazoe/yolo-tensorrt) - TensorRT8.Support Yolov5s,m,l,x .darknet -&gt; tensorrt.  Yolov4  Yolov3 use raw darknet *.weights and *.cfg fils.  If the wrapper is useful to you,please Star it. (today)
 - [dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference) - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson. (3 days ago)
 - [whc2001/SonyMultiPortRemoteControl](https://github.com/whc2001/SonyMultiPortRemoteControl) - Remote control protocol (partial) for Sony cameras with MultiPort (5 days ago)
 - [epietrowicz/Sony-Multiport-Controller](https://github.com/epietrowicz/Sony-Multiport-Controller) - Hardware implementation controlling the shutter of any Sony camera with a multiport connector (5 days ago)
@@ -54,7 +55,6 @@
 - [ShameCom/ShameCom](https://github.com/ShameCom/ShameCom) - 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！ (2 weeks ago)
 - [rubegartor/ReelSteady-Joiner](https://github.com/rubegartor/ReelSteady-Joiner) - ReelSteady Joiner merge multiple GoPro separate video files into one without losing the gyro data (1 month ago)
 - [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) - Tools for handling firmwares of DJI products, with focus on quadcopters. (1 month ago)
-- [Firmament-Autopilot/FMT-Firmware](https://github.com/Firmament-Autopilot/FMT-Firmware) - FMT Autopilot Embedded Software (1 month ago)
 
 #### 💬 Feedback
 
