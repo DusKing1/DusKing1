@@ -10,7 +10,7 @@
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (1 month ago)
 - [DusKing1/helloworld-rust](https://github.com/DusKing1/helloworld-rust) - Rustlang running on a custom F103 dev board (1 month ago)
 - [DusKing1/draw.io](https://github.com/DusKing1/draw.io) -  (1 month ago)
-- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) - Firmware for stm32f051 based speed controllers for use with mutirotors (1 month ago)
+- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) - Firmware for stm32f051 based speed controllers for use with mutirotors (2 months ago)
 - [DusKing1/bf-src-main-check](https://github.com/DusKing1/bf-src-main-check) -  (2 months ago)
 
 #### 🌱 My latest projects
@@ -24,15 +24,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.78](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.78), 6 days ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
-- [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.19.1](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.19.1), 1 week ago) - A Web-App to flash your BLHeli_S based ESCs from the browser using the Web-Serial API.
+- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.78](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.78), 1 week ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
+- [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.19.1](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.19.1), 2 weeks ago) - A Web-App to flash your BLHeli_S based ESCs from the browser using the Web-Serial API.
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.2.10](https://github.com/betaflight/betaflight/releases/tag/4.2.10), 1 month ago) - Open Source Flight Controller Firmware
 - [AlkaMotors/F051_Bootloader_Updater](https://github.com/AlkaMotors/F051_Bootloader_Updater) ([V10](https://github.com/AlkaMotors/F051_Bootloader_Updater/releases/tag/V10), 3 months ago) - 
 - [betaflight/blackbox-log-viewer](https://github.com/betaflight/blackbox-log-viewer) ([3.5.0](https://github.com/betaflight/blackbox-log-viewer/releases/tag/3.5.0), 2 years ago) - Interactive log viewer for flight logs recorded with blackbox
 
 #### 🔨 My recent Pull Requests
 
-- [Fix azure pipelines](https://github.com/betaflight/unified-targets/pull/521) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (5 days ago)
+- [Fix azure pipelines](https://github.com/betaflight/unified-targets/pull/521) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (6 days ago)
 - [Add PSD code](https://github.com/DusKing1/PID-Evaluator/pull/26) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (1 week ago)
 - [update BBM link in readme](https://github.com/DusKing1/PID-Evaluator/pull/25) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (1 week ago)
 - [Add BMI270 filter settings](https://github.com/betaflight/firmware-presets/pull/47) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (2 weeks ago)
@@ -45,9 +45,9 @@
 
 #### ⭐ Recent Stars
 
-- [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) - NVIDIA DeepStream SDK 5.1 configuration for YOLO models (1 day ago)
-- [stm32-rs/stm32f0xx-hal](https://github.com/stm32-rs/stm32f0xx-hal) - A Rust `embedded-hal` implementation for all MCUs in the STM32 F0 family (3 days ago)
-- [enazoe/yolo-tensorrt](https://github.com/enazoe/yolo-tensorrt) - TensorRT8.Support Yolov5s,m,l,x .darknet -&gt; tensorrt.  Yolov4  Yolov3 use raw darknet *.weights and *.cfg fils.  If the wrapper is useful to you,please Star it. (4 days ago)
+- [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) - NVIDIA DeepStream SDK 5.1 configuration for YOLO models (2 days ago)
+- [stm32-rs/stm32f0xx-hal](https://github.com/stm32-rs/stm32f0xx-hal) - A Rust `embedded-hal` implementation for all MCUs in the STM32 F0 family (4 days ago)
+- [enazoe/yolo-tensorrt](https://github.com/enazoe/yolo-tensorrt) - TensorRT8.Support Yolov5s,m,l,x .darknet -&gt; tensorrt.  Yolov4  Yolov3 use raw darknet *.weights and *.cfg fils.  If the wrapper is useful to you,please Star it. (5 days ago)
 - [dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference) - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson. (1 week ago)
 - [whc2001/SonyMultiPortRemoteControl](https://github.com/whc2001/SonyMultiPortRemoteControl) - Remote control protocol (partial) for Sony cameras with MultiPort (1 week ago)
 - [epietrowicz/Sony-Multiport-Controller](https://github.com/epietrowicz/Sony-Multiport-Controller) - Hardware implementation controlling the shutter of any Sony camera with a multiport connector (1 week ago)
