@@ -45,6 +45,8 @@
 
 #### ⭐ Recent Stars
 
+- [indra4837/yolov4_trt_ros](https://github.com/indra4837/yolov4_trt_ros) - YOLOv4 object detector using TensorRT engine (today)
+- [ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch) - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。 (today)
 - [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) - NVIDIA DeepStream SDK 5.1 configuration for YOLO models (2 days ago)
 - [stm32-rs/stm32f0xx-hal](https://github.com/stm32-rs/stm32f0xx-hal) - A Rust `embedded-hal` implementation for all MCUs in the STM32 F0 family (4 days ago)
 - [enazoe/yolo-tensorrt](https://github.com/enazoe/yolo-tensorrt) - TensorRT8.Support Yolov5s,m,l,x .darknet -&gt; tensorrt.  Yolov4  Yolov3 use raw darknet *.weights and *.cfg fils.  If the wrapper is useful to you,please Star it. (5 days ago)
@@ -53,8 +55,6 @@
 - [epietrowicz/Sony-Multiport-Controller](https://github.com/epietrowicz/Sony-Multiport-Controller) - Hardware implementation controlling the shutter of any Sony camera with a multiport connector (1 week ago)
 - [mikel-brostrom/Yolov5_DeepSort_Pytorch](https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch) - Real-time multi-object tracker using YOLO v5 and deep sort  (1 week ago)
 - [pitronicteam/blackbox-tools](https://github.com/pitronicteam/blackbox-tools) - Tools for working with blackbox flight logs (3 weeks ago)
-- [me-no-dev/esp8266fcgui](https://github.com/me-no-dev/esp8266fcgui) - KISS and BetaFlight GUI on ESP8266 (3 weeks ago)
-- [ShameCom/ShameCom](https://github.com/ShameCom/ShameCom) - 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！ (3 weeks ago)
 
 #### 💬 Feedback
 
