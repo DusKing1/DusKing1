@@ -49,7 +49,7 @@
 - [ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch) - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。 (1 day ago)
 - [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) - NVIDIA DeepStream SDK 5.1 configuration for YOLO models (3 days ago)
 - [stm32-rs/stm32f0xx-hal](https://github.com/stm32-rs/stm32f0xx-hal) - A Rust `embedded-hal` implementation for all MCUs in the STM32 F0 family (5 days ago)
-- [enazoe/yolo-tensorrt](https://github.com/enazoe/yolo-tensorrt) - TensorRT8.Support Yolov5s,m,l,x .darknet -&gt; tensorrt.  Yolov4  Yolov3 use raw darknet *.weights and *.cfg fils.  If the wrapper is useful to you,please Star it. (6 days ago)
+- [enazoe/yolo-tensorrt](https://github.com/enazoe/yolo-tensorrt) - TensorRT8.Support Yolov5n,s,m,l,x .darknet -&gt; tensorrt.  Yolov4  Yolov3 use raw darknet *.weights and *.cfg fils.  If the wrapper is useful to you,please Star it. (6 days ago)
 - [dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference) - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson. (1 week ago)
 - [whc2001/SonyMultiPortRemoteControl](https://github.com/whc2001/SonyMultiPortRemoteControl) - Remote control protocol (partial) for Sony cameras with MultiPort (1 week ago)
 - [epietrowicz/Sony-Multiport-Controller](https://github.com/epietrowicz/Sony-Multiport-Controller) - Hardware implementation controlling the shutter of any Sony camera with a multiport connector (1 week ago)
