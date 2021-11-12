@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add new target NEUTRONRCF407](https://github.com/betaflight/unified-targets/pull/527) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (today)
 - [Fix azure pipelines](https://github.com/betaflight/unified-targets/pull/521) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (2 weeks ago)
 - [Add PSD code](https://github.com/DusKing1/PID-Evaluator/pull/26) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (3 weeks ago)
 - [update BBM link in readme](https://github.com/DusKing1/PID-Evaluator/pull/25) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (3 weeks ago)
@@ -42,7 +43,6 @@
 - [add license info in readme](https://github.com/DusKing1/PID-Evaluator/pull/22) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (1 month ago)
 - [add bbm link in readme](https://github.com/DusKing1/PID-Evaluator/pull/21) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (1 month ago)
 - [remove unnecessary &#34;-&#34;](https://github.com/DusKing1/PID-Evaluator/pull/20) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (1 month ago)
-- [Revert &#34;Merge pull request #8 from DusKing1/spelling-CI&#34;](https://github.com/DusKing1/PID-Evaluator/pull/19) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (1 month ago)
 
 #### ⭐ Recent Stars
 
