@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add new HARC target HAKRCF722D](https://github.com/betaflight/unified-targets/pull/529) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (today)
 - [Add new target NEUTRONRCF407](https://github.com/betaflight/unified-targets/pull/527) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (6 days ago)
 - [Fix azure pipelines](https://github.com/betaflight/unified-targets/pull/521) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (3 weeks ago)
 - [Add PSD code](https://github.com/DusKing1/PID-Evaluator/pull/26) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (4 weeks ago)
@@ -42,7 +43,6 @@
 - [Fix H743 identifier](https://github.com/betaflight/unified-targets/pull/513) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
 - [add license info in readme](https://github.com/DusKing1/PID-Evaluator/pull/22) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (1 month ago)
 - [add bbm link in readme](https://github.com/DusKing1/PID-Evaluator/pull/21) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (1 month ago)
-- [remove unnecessary &#34;-&#34;](https://github.com/DusKing1/PID-Evaluator/pull/20) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (1 month ago)
 
 #### ⭐ Recent Stars
 
