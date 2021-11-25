@@ -29,6 +29,7 @@
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.2.11](https://github.com/betaflight/betaflight/releases/tag/4.2.11), 2 weeks ago) - Open Source Flight Controller Firmware
 - [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.19.1](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.19.1), 1 month ago) - A Web-App to flash your BLHeli_S based ESCs from the browser using the Web-Serial API.
 - [AlkaMotors/F051_Bootloader_Updater](https://github.com/AlkaMotors/F051_Bootloader_Updater) ([V10](https://github.com/AlkaMotors/F051_Bootloader_Updater/releases/tag/V10), 3 months ago) - 
+- [iNavFlight/blackbox-log-viewer](https://github.com/iNavFlight/blackbox-log-viewer) ([3.4.0](https://github.com/iNavFlight/blackbox-log-viewer/releases/tag/3.4.0), 2 years ago) - Interactive log viewer for flight logs recorded with blackbox
 - [betaflight/blackbox-log-viewer](https://github.com/betaflight/blackbox-log-viewer) ([3.5.0](https://github.com/betaflight/blackbox-log-viewer/releases/tag/3.5.0), 2 years ago) - Interactive log viewer for flight logs recorded with blackbox
 
 #### 🔨 My recent Pull Requests
