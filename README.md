@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Chore: update node to 10.17.0](https://github.com/marceloavf/github-tools-vsts/pull/65) on [marceloavf/github-tools-vsts](https://github.com/marceloavf/github-tools-vsts) (today)
 - [fix: update node to 10.17.0](https://github.com/marceloavf/github-tools-vsts/pull/64) on [marceloavf/github-tools-vsts](https://github.com/marceloavf/github-tools-vsts) (today)
 - [Add new HARC target HAKRCF722D](https://github.com/betaflight/unified-targets/pull/529) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 week ago)
 - [Add new target NEUTRONRCF407](https://github.com/betaflight/unified-targets/pull/527) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (2 weeks ago)
@@ -43,7 +44,6 @@
 - [Add BMI270 filter settings](https://github.com/betaflight/firmware-presets/pull/47) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (1 month ago)
 - [Fixed link error on readme.md](https://github.com/betaflight/firmware-presets/pull/28) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (1 month ago)
 - [Fix H743 identifier](https://github.com/betaflight/unified-targets/pull/513) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
-- [add license info in readme](https://github.com/DusKing1/PID-Evaluator/pull/22) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (1 month ago)
 
 #### ⭐ Recent Stars
 
