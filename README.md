@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pitronicteam/BlackBox-Mate-wiki](https://github.com/pitronicteam/BlackBox-Mate-wiki) -  (1 day ago)
+- [pitronicteam/BlackBox-Mate-wiki](https://github.com/pitronicteam/BlackBox-Mate-wiki) -  (2 days ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (1 week ago)
 - [DusKing1/sim-key](https://github.com/DusKing1/sim-key) - simulated keyboard on esp8266 nodemcu v3 (3 weeks ago)
 - [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) - Kernel code of the Blackbox Mate Online (1 month ago)
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.80](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.80), 1 week ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
+- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.80](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.80), 2 weeks ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.2.11](https://github.com/betaflight/betaflight/releases/tag/4.2.11), 2 weeks ago) - Open Source Flight Controller Firmware
 - [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.19.1](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.19.1), 1 month ago) - A Web-App to flash your BLHeli_S based ESCs from the browser using the Web-Serial API.
 - [AlkaMotors/F051_Bootloader_Updater](https://github.com/AlkaMotors/F051_Bootloader_Updater) ([V10](https://github.com/AlkaMotors/F051_Bootloader_Updater/releases/tag/V10), 4 months ago) - 
@@ -34,8 +34,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Chore: update node to 10.17.0](https://github.com/marceloavf/github-tools-vsts/pull/65) on [marceloavf/github-tools-vsts](https://github.com/marceloavf/github-tools-vsts) (today)
-- [fix: update node to 10.17.0](https://github.com/marceloavf/github-tools-vsts/pull/64) on [marceloavf/github-tools-vsts](https://github.com/marceloavf/github-tools-vsts) (today)
+- [Chore: update node to 10.17.0](https://github.com/marceloavf/github-tools-vsts/pull/65) on [marceloavf/github-tools-vsts](https://github.com/marceloavf/github-tools-vsts) (1 day ago)
+- [fix: update node to 10.17.0](https://github.com/marceloavf/github-tools-vsts/pull/64) on [marceloavf/github-tools-vsts](https://github.com/marceloavf/github-tools-vsts) (1 day ago)
 - [Add new HARC target HAKRCF722D](https://github.com/betaflight/unified-targets/pull/529) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 week ago)
 - [Add new target NEUTRONRCF407](https://github.com/betaflight/unified-targets/pull/527) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (2 weeks ago)
 - [Fix azure pipelines](https://github.com/betaflight/unified-targets/pull/521) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [google/audio-to-tactile](https://github.com/google/audio-to-tactile) - Feeling sound with tactile interfaces for hearing accessibility. (1 day ago)
+- [google/audio-to-tactile](https://github.com/google/audio-to-tactile) - Feeling sound with tactile interfaces for hearing accessibility. (2 days ago)
 - [indra4837/yolov4_trt_ros](https://github.com/indra4837/yolov4_trt_ros) - YOLOv4 object detector using TensorRT engine (4 weeks ago)
 - [ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch) - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。 (4 weeks ago)
 - [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) - NVIDIA DeepStream SDK 6.0 configuration for YOLO models (1 month ago)
