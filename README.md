@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix 8k caused cpu over flow and lockup](https://github.com/betaflight/unified-targets/pull/532) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (today)
 - [Chore: update node to 10.17.0](https://github.com/marceloavf/github-tools-vsts/pull/65) on [marceloavf/github-tools-vsts](https://github.com/marceloavf/github-tools-vsts) (3 days ago)
 - [fix: update node to 10.17.0](https://github.com/marceloavf/github-tools-vsts/pull/64) on [marceloavf/github-tools-vsts](https://github.com/marceloavf/github-tools-vsts) (3 days ago)
 - [Add new HARC target HAKRCF722D](https://github.com/betaflight/unified-targets/pull/529) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 week ago)
@@ -43,7 +44,6 @@
 - [update BBM link in readme](https://github.com/DusKing1/PID-Evaluator/pull/25) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (1 month ago)
 - [Add BMI270 filter settings](https://github.com/betaflight/firmware-presets/pull/47) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (1 month ago)
 - [Fixed link error on readme.md](https://github.com/betaflight/firmware-presets/pull/28) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (1 month ago)
-- [Fix H743 identifier](https://github.com/betaflight/unified-targets/pull/513) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
 
 #### ⭐ Recent Stars
 
