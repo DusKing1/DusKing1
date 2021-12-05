@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [utiasDSL/gym-pybullet-drones](https://github.com/utiasDSL/gym-pybullet-drones) - PyBullet Gym environments for single and multi-agent reinforcement learning of quadcopter control (today)
 - [google/audio-to-tactile](https://github.com/google/audio-to-tactile) - Feeling sound with tactile interfaces for hearing accessibility. (1 week ago)
 - [indra4837/yolov4_trt_ros](https://github.com/indra4837/yolov4_trt_ros) - YOLOv4 object detector using TensorRT engine (1 month ago)
 - [ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch) - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。 (1 month ago)
@@ -56,7 +57,6 @@
 - [dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference) - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson. (1 month ago)
 - [whc2001/SonyMultiPortRemoteControl](https://github.com/whc2001/SonyMultiPortRemoteControl) - Remote control protocol (partial) for Sony cameras with MultiPort (1 month ago)
 - [epietrowicz/Sony-Multiport-Controller](https://github.com/epietrowicz/Sony-Multiport-Controller) - Hardware implementation controlling the shutter of any Sony camera with a multiport connector (1 month ago)
-- [mikel-brostrom/Yolov5_DeepSort_Pytorch](https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch) - Real-time multi-object tracker using YOLO v5 and deep sort  (1 month ago)
 
 #### 💬 Feedback
 
