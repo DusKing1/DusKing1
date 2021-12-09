@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix boot_grace_time flag on flowbox target](https://github.com/betaflight/unified-targets/pull/538) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (today)
 - [Disable the CD job on fork](https://github.com/betaflight/firmware-presets/pull/104) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (3 days ago)
 - [Typo fix for presetsLoadError in message.json](https://github.com/betaflight/betaflight-configurator/pull/2682) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (5 days ago)
 - [Fix code aligning in osd_elements.c](https://github.com/betaflight/betaflight/pull/11099) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (5 days ago)
@@ -43,7 +44,6 @@
 - [fix: update node to 10.17.0](https://github.com/marceloavf/github-tools-vsts/pull/64) on [marceloavf/github-tools-vsts](https://github.com/marceloavf/github-tools-vsts) (1 week ago)
 - [Add new HARC target HAKRCF722D](https://github.com/betaflight/unified-targets/pull/529) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (3 weeks ago)
 - [Add new target NEUTRONRCF407](https://github.com/betaflight/unified-targets/pull/527) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (3 weeks ago)
-- [Fix azure pipelines](https://github.com/betaflight/unified-targets/pull/521) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
 
 #### ⭐ Recent Stars
 
