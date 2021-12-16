@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [Aeronavics/ValleyForge](https://github.com/Aeronavics/ValleyForge) - An Embedded Toolchain - A set of software tools (generally BASH) and libraries (generally C&#43;&#43;) to simplify embedded software development. (today)
 - [AlessandroAU/ESP32-CRSF-Packet-Gen](https://github.com/AlessandroAU/ESP32-CRSF-Packet-Gen) - Generate some test CRSF packets with esp32 (3 days ago)
 - [CapnBry/CRServoF](https://github.com/CapnBry/CRServoF) - CRSF to PWM Servo converter for STM32F103 (3 days ago)
 - [ilya-epifanov/gyroflow-ofx](https://github.com/ilya-epifanov/gyroflow-ofx) -  (5 days ago)
@@ -56,7 +57,6 @@
 - [indra4837/yolov4_trt_ros](https://github.com/indra4837/yolov4_trt_ros) - YOLOv4 object detector using TensorRT engine (1 month ago)
 - [ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch) - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。 (1 month ago)
 - [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) - NVIDIA DeepStream SDK 6.0 configuration for YOLO models (1 month ago)
-- [stm32-rs/stm32f0xx-hal](https://github.com/stm32-rs/stm32f0xx-hal) - A Rust `embedded-hal` implementation for all MCUs in the STM32 F0 family (1 month ago)
 
 #### 💬 Feedback
 
