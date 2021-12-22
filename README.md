@@ -34,21 +34,21 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Rename identifiers for unified target matched up with future development](https://github.com/betaflight/betaflight/pull/11142) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (today)
+- [Rename identifiers for unified target matched up with future development](https://github.com/betaflight/betaflight/pull/11142) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 day ago)
 - [Fix boot_grace_time flag on flowbox target](https://github.com/betaflight/unified-targets/pull/538) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 week ago)
 - [Disable the CD job on fork](https://github.com/betaflight/firmware-presets/pull/104) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (2 weeks ago)
 - [Typo fix for presetsLoadError in message.json](https://github.com/betaflight/betaflight-configurator/pull/2682) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (2 weeks ago)
 - [Fix code aligning in osd_elements.c](https://github.com/betaflight/betaflight/pull/11099) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (2 weeks ago)
 - [Fix CPU over flow on G4 when pid rate set to higher than 4k](https://github.com/betaflight/betaflight/pull/11094) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (2 weeks ago)
-- [Fix 8k caused cpu over flow and lockup](https://github.com/betaflight/unified-targets/pull/532) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (2 weeks ago)
+- [Fix 8k caused cpu over flow and lockup](https://github.com/betaflight/unified-targets/pull/532) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (3 weeks ago)
 - [Chore: update node to 10.17.0](https://github.com/marceloavf/github-tools-vsts/pull/65) on [marceloavf/github-tools-vsts](https://github.com/marceloavf/github-tools-vsts) (3 weeks ago)
 - [fix: update node to 10.17.0](https://github.com/marceloavf/github-tools-vsts/pull/64) on [marceloavf/github-tools-vsts](https://github.com/marceloavf/github-tools-vsts) (3 weeks ago)
 - [Add new HARC target HAKRCF722D](https://github.com/betaflight/unified-targets/pull/529) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [Carbon225/raspberry-sbus](https://github.com/Carbon225/raspberry-sbus) - Linux/Raspberry Pi SBUS driver (today)
-- [Aeronavics/ValleyForge](https://github.com/Aeronavics/ValleyForge) - An Embedded Toolchain - A set of software tools (generally BASH) and libraries (generally C&#43;&#43;) to simplify embedded software development. (5 days ago)
+- [Carbon225/raspberry-sbus](https://github.com/Carbon225/raspberry-sbus) - Linux/Raspberry Pi SBUS driver (1 day ago)
+- [Aeronavics/ValleyForge](https://github.com/Aeronavics/ValleyForge) - An Embedded Toolchain - A set of software tools (generally BASH) and libraries (generally C&#43;&#43;) to simplify embedded software development. (6 days ago)
 - [AlessandroAU/ESP32-CRSF-Packet-Gen](https://github.com/AlessandroAU/ESP32-CRSF-Packet-Gen) - Generate some test CRSF packets with esp32 (1 week ago)
 - [CapnBry/CRServoF](https://github.com/CapnBry/CRServoF) - CRSF to PWM Servo converter for STM32F103 (1 week ago)
 - [ilya-epifanov/gyroflow-ofx](https://github.com/ilya-epifanov/gyroflow-ofx) -  (1 week ago)
