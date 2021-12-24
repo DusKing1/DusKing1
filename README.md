@@ -2,7 +2,6 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DusKing1/flowshutter](https://github.com/DusKing1/flowshutter) -  (1 day ago)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (1 day ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (1 day ago)
 - [pitronicteam/BlackBox-Mate-wiki](https://github.com/pitronicteam/BlackBox-Mate-wiki) -  (2 weeks ago)
@@ -12,10 +11,10 @@
 - [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) - Kernel code of the Blackbox Mate Online (2 months ago)
 - [pitronicteam/BF-wiki-in-Chinese](https://github.com/pitronicteam/BF-wiki-in-Chinese) -  (2 months ago)
 - [pitronicteam/flowbox-doc](https://github.com/pitronicteam/flowbox-doc) - Documents for flowbox hardware (2 months ago)
+- [DusKing1/helloworld-rust](https://github.com/DusKing1/helloworld-rust) - Rustlang running on a custom F103 dev board (3 months ago)
 
 #### 🌱 My latest projects
 
-- [DusKing1/flowshutter](https://github.com/DusKing1/flowshutter) - 
 - [DusKing1/sim-key](https://github.com/DusKing1/sim-key) - simulated keyboard on esp8266 nodemcu v3
 - [DusKing1/draw.io](https://github.com/DusKing1/draw.io) - 
 - [DusKing1/helloworld-rust](https://github.com/DusKing1/helloworld-rust) - Rustlang running on a custom F103 dev board
