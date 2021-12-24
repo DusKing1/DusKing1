@@ -34,8 +34,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Disable bitbang and burst dshot on HYBRIDG4](https://github.com/betaflight/unified-targets/pull/545) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (today)
-- [Rename identifiers for F40x unified target](https://github.com/betaflight/betaflight/pull/11142) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (2 days ago)
+- [Disable bitbang and burst dshot on HYBRIDG4](https://github.com/betaflight/unified-targets/pull/545) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 day ago)
+- [Rename identifiers for F40x unified target](https://github.com/betaflight/betaflight/pull/11142) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (3 days ago)
 - [Fix boot_grace_time flag on flowbox target](https://github.com/betaflight/unified-targets/pull/538) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (2 weeks ago)
 - [Disable the CD job on fork](https://github.com/betaflight/firmware-presets/pull/104) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (2 weeks ago)
 - [Typo fix for presetsLoadError in message.json](https://github.com/betaflight/betaflight-configurator/pull/2682) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (2 weeks ago)
@@ -47,8 +47,8 @@
 
 #### ⭐ Recent Stars
 
-- [peterhinch/micropython-async](https://github.com/peterhinch/micropython-async) - Application of uasyncio to hardware interfaces. Tutorial and code. (1 day ago)
-- [Carbon225/raspberry-sbus](https://github.com/Carbon225/raspberry-sbus) - Linux/Raspberry Pi SBUS driver (2 days ago)
+- [peterhinch/micropython-async](https://github.com/peterhinch/micropython-async) - Application of uasyncio to hardware interfaces. Tutorial and code. (2 days ago)
+- [Carbon225/raspberry-sbus](https://github.com/Carbon225/raspberry-sbus) - Linux/Raspberry Pi SBUS driver (3 days ago)
 - [Aeronavics/ValleyForge](https://github.com/Aeronavics/ValleyForge) - An Embedded Toolchain - A set of software tools (generally BASH) and libraries (generally C&#43;&#43;) to simplify embedded software development. (1 week ago)
 - [AlessandroAU/ESP32-CRSF-Packet-Gen](https://github.com/AlessandroAU/ESP32-CRSF-Packet-Gen) - Generate some test CRSF packets with esp32 (1 week ago)
 - [CapnBry/CRServoF](https://github.com/CapnBry/CRServoF) - CRSF to PWM Servo converter for STM32F103 (1 week ago)
