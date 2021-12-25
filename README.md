@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (today)
 - [peterhinch/micropython-async](https://github.com/peterhinch/micropython-async) - Application of uasyncio to hardware interfaces. Tutorial and code. (3 days ago)
 - [Carbon225/raspberry-sbus](https://github.com/Carbon225/raspberry-sbus) - Linux/Raspberry Pi SBUS driver (4 days ago)
 - [Aeronavics/ValleyForge](https://github.com/Aeronavics/ValleyForge) - An Embedded Toolchain - A set of software tools (generally BASH) and libraries (generally C&#43;&#43;) to simplify embedded software development. (1 week ago)
@@ -56,7 +57,6 @@
 - [NVIDIA-AI-IOT/my-jetson-nano-baseboard](https://github.com/NVIDIA-AI-IOT/my-jetson-nano-baseboard) - An open source Jetson Nano baseboard and tools to design your own. (2 weeks ago)
 - [utiasDSL/gym-pybullet-drones](https://github.com/utiasDSL/gym-pybullet-drones) - PyBullet Gym environments for single and multi-agent reinforcement learning of quadcopter control (2 weeks ago)
 - [google/audio-to-tactile](https://github.com/google/audio-to-tactile) - Feeling sound with tactile interfaces for hearing accessibility. (4 weeks ago)
-- [indra4837/yolov4_trt_ros](https://github.com/indra4837/yolov4_trt_ros) - YOLOv4 object detector using TensorRT engine (1 month ago)
 
 #### 💬 Feedback
 
