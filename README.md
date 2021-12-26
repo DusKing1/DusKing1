@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [rtlopez/esp-fc](https://github.com/rtlopez/esp-fc) - Espressif based budget flight controller (today)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (1 day ago)
 - [peterhinch/micropython-async](https://github.com/peterhinch/micropython-async) - Application of uasyncio to hardware interfaces. Tutorial and code. (4 days ago)
 - [Carbon225/raspberry-sbus](https://github.com/Carbon225/raspberry-sbus) - Linux/Raspberry Pi SBUS driver (5 days ago)
@@ -56,7 +57,6 @@
 - [ilya-epifanov/gyroflow-ofx](https://github.com/ilya-epifanov/gyroflow-ofx) -  (2 weeks ago)
 - [NVIDIA-AI-IOT/my-jetson-nano-baseboard](https://github.com/NVIDIA-AI-IOT/my-jetson-nano-baseboard) - An open source Jetson Nano baseboard and tools to design your own. (2 weeks ago)
 - [utiasDSL/gym-pybullet-drones](https://github.com/utiasDSL/gym-pybullet-drones) - PyBullet Gym environments for single and multi-agent reinforcement learning of quadcopter control (3 weeks ago)
-- [google/audio-to-tactile](https://github.com/google/audio-to-tactile) - Feeling sound with tactile interfaces for hearing accessibility. (4 weeks ago)
 
 #### 💬 Feedback
 
