@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Re-order motor map on NEUTRONRCG4AIO](https://github.com/betaflight/unified-targets/pull/548) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (today)
 - [Fix flowbox resources](https://github.com/betaflight/unified-targets/pull/547) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 day ago)
 - [Disable bitbang and burst dshot on HYBRIDG4](https://github.com/betaflight/unified-targets/pull/545) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (6 days ago)
 - [Rename identifiers for F40x unified target](https://github.com/betaflight/betaflight/pull/11142) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 week ago)
@@ -43,7 +44,6 @@
 - [Fix code aligning in osd_elements.c](https://github.com/betaflight/betaflight/pull/11099) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (3 weeks ago)
 - [Fix CPU over flow on G4 when pid rate set to higher than 4k](https://github.com/betaflight/betaflight/pull/11094) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (3 weeks ago)
 - [Fix 8k caused cpu over flow and lockup](https://github.com/betaflight/unified-targets/pull/532) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (4 weeks ago)
-- [Chore: update node to 10.17.0](https://github.com/marceloavf/github-tools-vsts/pull/65) on [marceloavf/github-tools-vsts](https://github.com/marceloavf/github-tools-vsts) (1 month ago)
 
 #### ⭐ Recent Stars
 
