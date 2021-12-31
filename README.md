@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pitronicteam/BlackBox-Mate-wiki](https://github.com/pitronicteam/BlackBox-Mate-wiki) -  (today)
-- [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (1 day ago)
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (3 days ago)
+- [pitronicteam/BlackBox-Mate-wiki](https://github.com/pitronicteam/BlackBox-Mate-wiki) -  (1 day ago)
+- [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (2 days ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (4 days ago)
 - [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (3 weeks ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (3 weeks ago)
 - [DusKing1/sim-key](https://github.com/DusKing1/sim-key) - simulated keyboard on esp8266 nodemcu v3 (1 month ago)
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0-RC1](https://github.com/betaflight/betaflight/releases/tag/4.3.0-RC1), 6 days ago) - Open Source Flight Controller Firmware
+- [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0-RC1](https://github.com/betaflight/betaflight/releases/tag/4.3.0-RC1), 1 week ago) - Open Source Flight Controller Firmware
 - [iNavFlight/blackbox-log-viewer](https://github.com/iNavFlight/blackbox-log-viewer) ([4.0.0](https://github.com/iNavFlight/blackbox-log-viewer/releases/tag/4.0.0), 2 weeks ago) - Interactive log viewer for flight logs recorded with blackbox
 - [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.80](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.80), 1 month ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
 - [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.19.1](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.19.1), 2 months ago) - A Web-App to flash your BLHeli_S based ESCs from the browser using the Web-Serial API.
@@ -34,8 +34,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Re-order motor map on NEUTRONRCG4AIO](https://github.com/betaflight/unified-targets/pull/548) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 day ago)
-- [Fix flowbox resources](https://github.com/betaflight/unified-targets/pull/547) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (2 days ago)
+- [Re-order motor map on NEUTRONRCG4AIO](https://github.com/betaflight/unified-targets/pull/548) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (2 days ago)
+- [Fix flowbox resources](https://github.com/betaflight/unified-targets/pull/547) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (3 days ago)
 - [Disable bitbang and burst dshot on HYBRIDG4](https://github.com/betaflight/unified-targets/pull/545) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 week ago)
 - [Rename identifiers for F40x unified target](https://github.com/betaflight/betaflight/pull/11142) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 week ago)
 - [Fix boot_grace_time flag on flowbox target](https://github.com/betaflight/unified-targets/pull/538) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (3 weeks ago)
@@ -43,13 +43,13 @@
 - [Typo fix for presetsLoadError in message.json](https://github.com/betaflight/betaflight-configurator/pull/2682) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (3 weeks ago)
 - [Fix code aligning in osd_elements.c](https://github.com/betaflight/betaflight/pull/11099) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (3 weeks ago)
 - [Fix CPU over flow on G4 when pid rate set to higher than 4k](https://github.com/betaflight/betaflight/pull/11094) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (4 weeks ago)
-- [Fix 8k caused cpu over flow and lockup](https://github.com/betaflight/unified-targets/pull/532) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (4 weeks ago)
+- [Fix 8k caused cpu over flow and lockup](https://github.com/betaflight/unified-targets/pull/532) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (3 days ago)
-- [rtlopez/esp-fc](https://github.com/rtlopez/esp-fc) - Espressif based budget flight controller (4 days ago)
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (5 days ago)
+- [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (4 days ago)
+- [rtlopez/esp-fc](https://github.com/rtlopez/esp-fc) - Espressif based budget flight controller (5 days ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (6 days ago)
 - [peterhinch/micropython-async](https://github.com/peterhinch/micropython-async) - Application of uasyncio to hardware interfaces. Tutorial and code. (1 week ago)
 - [Carbon225/raspberry-sbus](https://github.com/Carbon225/raspberry-sbus) - Linux/Raspberry Pi SBUS driver (1 week ago)
 - [Aeronavics/ValleyForge](https://github.com/Aeronavics/ValleyForge) - An Embedded Toolchain - A set of software tools (generally BASH) and libraries (generally C&#43;&#43;) to simplify embedded software development. (2 weeks ago)
