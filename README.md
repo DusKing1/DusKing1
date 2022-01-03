@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (2 days ago)
+- [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (today)
 - [DusKing1/logger-presets](https://github.com/DusKing1/logger-presets) -  (3 days ago)
 - [pitronicteam/BlackBox-Mate-wiki](https://github.com/pitronicteam/BlackBox-Mate-wiki) -  (4 days ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (5 days ago)
