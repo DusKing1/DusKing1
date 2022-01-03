@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [bolderflight/sbus](https://github.com/bolderflight/sbus) - Arduino and CMake library for communicating with SBUS receivers and servos. (today)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (1 week ago)
 - [rtlopez/esp-fc](https://github.com/rtlopez/esp-fc) - Espressif based budget flight controller (1 week ago)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (1 week ago)
@@ -57,7 +58,6 @@
 - [AlessandroAU/ESP32-CRSF-Packet-Gen](https://github.com/AlessandroAU/ESP32-CRSF-Packet-Gen) - Generate some test CRSF packets with esp32 (3 weeks ago)
 - [CapnBry/CRServoF](https://github.com/CapnBry/CRServoF) - CRSF to PWM Servo converter for STM32F103 (3 weeks ago)
 - [ilya-epifanov/gyroflow-ofx](https://github.com/ilya-epifanov/gyroflow-ofx) -  (3 weeks ago)
-- [NVIDIA-AI-IOT/my-jetson-nano-baseboard](https://github.com/NVIDIA-AI-IOT/my-jetson-nano-baseboard) - An open source Jetson Nano baseboard and tools to design your own. (3 weeks ago)
 
 #### 💬 Feedback
 
