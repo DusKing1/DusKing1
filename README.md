@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add bmi270 filter settings](https://github.com/betaflight/firmware-presets/pull/141) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (today)
 - [Add NERC-NEUTRONRCH7BT](https://github.com/betaflight/unified-targets/pull/550) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (2 days ago)
 - [Re-order motor map on NEUTRONRCG4AIO](https://github.com/betaflight/unified-targets/pull/548) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 week ago)
 - [Fix flowbox resources](https://github.com/betaflight/unified-targets/pull/547) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 week ago)
@@ -44,7 +45,6 @@
 - [Disable the CD job on fork](https://github.com/betaflight/firmware-presets/pull/104) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (1 month ago)
 - [Typo fix for presetsLoadError in message.json](https://github.com/betaflight/betaflight-configurator/pull/2682) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (1 month ago)
 - [Fix code aligning in osd_elements.c](https://github.com/betaflight/betaflight/pull/11099) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 month ago)
-- [Fix CPU over flow on G4 when pid rate set to higher than 4k](https://github.com/betaflight/betaflight/pull/11094) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 month ago)
 
 #### ⭐ Recent Stars
 
