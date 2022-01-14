@@ -5,7 +5,7 @@
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware (1 week ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (1 week ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (1 week ago)
-- [DusKing1/logger-presets](https://github.com/DusKing1/logger-presets) -  (1 week ago)
+- [DusKing1/logger-presets](https://github.com/DusKing1/logger-presets) -  (2 weeks ago)
 - [pitronicteam/BlackBox-Mate-wiki](https://github.com/pitronicteam/BlackBox-Mate-wiki) -  (2 weeks ago)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (2 weeks ago)
 - [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (1 month ago)
@@ -26,11 +26,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0-RC2](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0-RC2), 4 days ago) - Cross platform configuration tool for the Betaflight firmware
-- [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0-RC2](https://github.com/betaflight/betaflight/releases/tag/4.3.0-RC2), 4 days ago) - Open Source Flight Controller Firmware
+- [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0-RC2](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0-RC2), 5 days ago) - Cross platform configuration tool for the Betaflight firmware
+- [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0-RC2](https://github.com/betaflight/betaflight/releases/tag/4.3.0-RC2), 5 days ago) - Open Source Flight Controller Firmware
 - [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.21.0](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.21.0), 1 week ago) - A Web-App to flash your BLHeli_S and AM32 based ESCs from the browser using the Web-Serial API.
 - [iNavFlight/blackbox-log-viewer](https://github.com/iNavFlight/blackbox-log-viewer) ([4.0.0](https://github.com/iNavFlight/blackbox-log-viewer/releases/tag/4.0.0), 1 month ago) - Interactive log viewer for flight logs recorded with blackbox
-- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.80](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.80), 1 month ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
+- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.80](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.80), 2 months ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
 - [AlkaMotors/F051_Bootloader_Updater](https://github.com/AlkaMotors/F051_Bootloader_Updater) ([V10](https://github.com/AlkaMotors/F051_Bootloader_Updater/releases/tag/V10), 5 months ago) - 
 - [betaflight/blackbox-log-viewer](https://github.com/betaflight/blackbox-log-viewer) ([3.5.0](https://github.com/betaflight/blackbox-log-viewer/releases/tag/3.5.0), 2 years ago) - Interactive log viewer for flight logs recorded with blackbox
 
