@@ -26,8 +26,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0-RC2](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0-RC2), 5 days ago) - Cross platform configuration tool for the Betaflight firmware
-- [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0-RC2](https://github.com/betaflight/betaflight/releases/tag/4.3.0-RC2), 5 days ago) - Open Source Flight Controller Firmware
+- [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0-RC2](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0-RC2), 6 days ago) - Cross platform configuration tool for the Betaflight firmware
+- [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0-RC2](https://github.com/betaflight/betaflight/releases/tag/4.3.0-RC2), 6 days ago) - Open Source Flight Controller Firmware
 - [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.21.0](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.21.0), 1 week ago) - A Web-App to flash your BLHeli_S and AM32 based ESCs from the browser using the Web-Serial API.
 - [iNavFlight/blackbox-log-viewer](https://github.com/iNavFlight/blackbox-log-viewer) ([4.0.0](https://github.com/iNavFlight/blackbox-log-viewer/releases/tag/4.0.0), 1 month ago) - Interactive log viewer for flight logs recorded with blackbox
 - [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.80](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.80), 2 months ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
@@ -52,10 +52,10 @@
 - [bolderflight/sbus](https://github.com/bolderflight/sbus) - Arduino and CMake library for communicating with SBUS receivers and servos. (1 week ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (2 weeks ago)
 - [rtlopez/esp-fc](https://github.com/rtlopez/esp-fc) - Espressif based budget flight controller (2 weeks ago)
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (2 weeks ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (3 weeks ago)
 - [peterhinch/micropython-async](https://github.com/peterhinch/micropython-async) - Application of uasyncio to hardware interfaces. Tutorial and code. (3 weeks ago)
 - [Carbon225/raspberry-sbus](https://github.com/Carbon225/raspberry-sbus) - Linux/Raspberry Pi SBUS driver (3 weeks ago)
-- [Aeronavics/ValleyForge](https://github.com/Aeronavics/ValleyForge) - An Embedded Toolchain - A set of software tools (generally BASH) and libraries (generally C&#43;&#43;) to simplify embedded software development. (4 weeks ago)
+- [Aeronavics/ValleyForge](https://github.com/Aeronavics/ValleyForge) - An Embedded Toolchain - A set of software tools (generally BASH) and libraries (generally C&#43;&#43;) to simplify embedded software development. (1 month ago)
 - [AlessandroAU/ESP32-CRSF-Packet-Gen](https://github.com/AlessandroAU/ESP32-CRSF-Packet-Gen) - Generate some test CRSF packets with esp32 (1 month ago)
 - [CapnBry/CRServoF](https://github.com/CapnBry/CRServoF) - CRSF to PWM Servo converter for STM32F103 (1 month ago)
 - [ilya-epifanov/gyroflow-ofx](https://github.com/ilya-epifanov/gyroflow-ofx) -  (1 month ago)
