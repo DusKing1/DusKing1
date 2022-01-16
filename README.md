@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add NEUTRONRCF411SX1280 target](https://github.com/betaflight/betaflight/pull/11301) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (today)
 - [Typo fix in pidTuningGyroLowpassFilterHelp](https://github.com/betaflight/betaflight-configurator/pull/2741) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (1 week ago)
 - [Add bmi270 filter settings](https://github.com/betaflight/firmware-presets/pull/141) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (1 week ago)
 - [Add NERC-NEUTRONRCH7BT](https://github.com/betaflight/unified-targets/pull/550) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 week ago)
@@ -45,7 +46,6 @@
 - [Rename identifiers for F40x unified target](https://github.com/betaflight/betaflight/pull/11142) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (3 weeks ago)
 - [Fix boot_grace_time flag on flowbox target](https://github.com/betaflight/unified-targets/pull/538) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
 - [Disable the CD job on fork](https://github.com/betaflight/firmware-presets/pull/104) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (1 month ago)
-- [Typo fix for presetsLoadError in message.json](https://github.com/betaflight/betaflight-configurator/pull/2682) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (1 month ago)
 
 #### ⭐ Recent Stars
 
