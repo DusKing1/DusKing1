@@ -49,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [rotorflight/rotorflight](https://github.com/rotorflight/rotorflight) - A repository for storing Rotorflight wiki, media files, changelogs, example files, etc. (today)
 - [AlessioMorale/crsf_parser](https://github.com/AlessioMorale/crsf_parser) - A package to parse and create CRSF (Crossfire) frames, developed primarily to interoperate with ExpressLRS (2 days ago)
 - [bolderflight/sbus](https://github.com/bolderflight/sbus) - Arduino and CMake library for communicating with SBUS receivers and servos. (2 weeks ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (3 weeks ago)
@@ -58,7 +59,6 @@
 - [Carbon225/raspberry-sbus](https://github.com/Carbon225/raspberry-sbus) - Linux/Raspberry Pi SBUS driver (3 weeks ago)
 - [Aeronavics/ValleyForge](https://github.com/Aeronavics/ValleyForge) - An Embedded Toolchain - A set of software tools (generally BASH) and libraries (generally C&#43;&#43;) to simplify embedded software development. (1 month ago)
 - [AlessandroAU/ESP32-CRSF-Packet-Gen](https://github.com/AlessandroAU/ESP32-CRSF-Packet-Gen) - Generate some test CRSF packets with esp32 (1 month ago)
-- [CapnBry/CRServoF](https://github.com/CapnBry/CRServoF) - CRSF to PWM Servo converter for STM32F103 (1 month ago)
 
 #### 💬 Feedback
 
