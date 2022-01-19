@@ -28,7 +28,7 @@
 
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0-RC2](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0-RC2), 1 week ago) - Cross platform configuration tool for the Betaflight firmware
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0-RC2](https://github.com/betaflight/betaflight/releases/tag/4.3.0-RC2), 1 week ago) - Open Source Flight Controller Firmware
-- [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.21.0](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.21.0), 1 week ago) - A Web-App to flash your BLHeli_S and AM32 based ESCs from the browser using the Web-Serial API.
+- [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.21.0](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.21.0), 2 weeks ago) - A Web-App to flash your BLHeli_S and AM32 based ESCs from the browser using the Web-Serial API.
 - [iNavFlight/blackbox-log-viewer](https://github.com/iNavFlight/blackbox-log-viewer) ([4.0.0](https://github.com/iNavFlight/blackbox-log-viewer/releases/tag/4.0.0), 1 month ago) - Interactive log viewer for flight logs recorded with blackbox
 - [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.80](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.80), 2 months ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
 - [AlkaMotors/F051_Bootloader_Updater](https://github.com/AlkaMotors/F051_Bootloader_Updater) ([V10](https://github.com/AlkaMotors/F051_Bootloader_Updater/releases/tag/V10), 5 months ago) - 
@@ -36,11 +36,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add NEUTRONRCF411SX1280 target](https://github.com/betaflight/betaflight/pull/11301) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (2 days ago)
+- [Add NEUTRONRCF411SX1280 target](https://github.com/betaflight/betaflight/pull/11301) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (3 days ago)
 - [Typo fix in pidTuningGyroLowpassFilterHelp](https://github.com/betaflight/betaflight-configurator/pull/2741) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (1 week ago)
-- [Add bmi270 filter settings](https://github.com/betaflight/firmware-presets/pull/141) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (1 week ago)
+- [Add bmi270 filter settings](https://github.com/betaflight/firmware-presets/pull/141) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (2 weeks ago)
 - [Add NERC-NEUTRONRCH7BT](https://github.com/betaflight/unified-targets/pull/550) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (2 weeks ago)
-- [Re-order motor map on NEUTRONRCG4AIO](https://github.com/betaflight/unified-targets/pull/548) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (2 weeks ago)
+- [Re-order motor map on NEUTRONRCG4AIO](https://github.com/betaflight/unified-targets/pull/548) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (3 weeks ago)
 - [Fix flowbox resources](https://github.com/betaflight/unified-targets/pull/547) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (3 weeks ago)
 - [Disable bitbang and burst dshot on HYBRIDG4](https://github.com/betaflight/unified-targets/pull/545) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (3 weeks ago)
 - [Rename identifiers for F40x unified target](https://github.com/betaflight/betaflight/pull/11142) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (4 weeks ago)
@@ -49,13 +49,13 @@
 
 #### ⭐ Recent Stars
 
-- [rotorflight/rotorflight](https://github.com/rotorflight/rotorflight) - A repository for storing Rotorflight wiki, media files, changelogs, example files, etc. (1 day ago)
-- [AlessioMorale/crsf_parser](https://github.com/AlessioMorale/crsf_parser) - A package to parse and create CRSF (Crossfire) frames, developed primarily to interoperate with ExpressLRS (3 days ago)
+- [rotorflight/rotorflight](https://github.com/rotorflight/rotorflight) - A repository for storing Rotorflight wiki, media files, changelogs, example files, etc. (2 days ago)
+- [AlessioMorale/crsf_parser](https://github.com/AlessioMorale/crsf_parser) - A package to parse and create CRSF (Crossfire) frames, developed primarily to interoperate with ExpressLRS (4 days ago)
 - [bolderflight/sbus](https://github.com/bolderflight/sbus) - Arduino and CMake library for communicating with SBUS receivers and servos. (2 weeks ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (3 weeks ago)
 - [rtlopez/esp-fc](https://github.com/rtlopez/esp-fc) - Espressif based budget flight controller (3 weeks ago)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (3 weeks ago)
-- [peterhinch/micropython-async](https://github.com/peterhinch/micropython-async) - Application of uasyncio to hardware interfaces. Tutorial and code. (3 weeks ago)
+- [peterhinch/micropython-async](https://github.com/peterhinch/micropython-async) - Application of uasyncio to hardware interfaces. Tutorial and code. (4 weeks ago)
 - [Carbon225/raspberry-sbus](https://github.com/Carbon225/raspberry-sbus) - Linux/Raspberry Pi SBUS driver (4 weeks ago)
 - [Aeronavics/ValleyForge](https://github.com/Aeronavics/ValleyForge) - An Embedded Toolchain - A set of software tools (generally BASH) and libraries (generally C&#43;&#43;) to simplify embedded software development. (1 month ago)
 - [AlessandroAU/ESP32-CRSF-Packet-Gen](https://github.com/AlessandroAU/ESP32-CRSF-Packet-Gen) - Generate some test CRSF packets with esp32 (1 month ago)
