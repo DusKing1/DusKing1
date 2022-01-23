@@ -26,8 +26,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0-RC2](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0-RC2), 1 week ago) - Cross platform configuration tool for the Betaflight firmware
-- [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0-RC2](https://github.com/betaflight/betaflight/releases/tag/4.3.0-RC2), 1 week ago) - Open Source Flight Controller Firmware
+- [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0-RC2](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0-RC2), 2 weeks ago) - Cross platform configuration tool for the Betaflight firmware
+- [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0-RC2](https://github.com/betaflight/betaflight/releases/tag/4.3.0-RC2), 2 weeks ago) - Open Source Flight Controller Firmware
 - [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.21.0](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.21.0), 2 weeks ago) - A Web-App to flash your BLHeli_S and AM32 based ESCs from the browser using the Web-Serial API.
 - [iNavFlight/blackbox-log-viewer](https://github.com/iNavFlight/blackbox-log-viewer) ([4.0.0](https://github.com/iNavFlight/blackbox-log-viewer/releases/tag/4.0.0), 1 month ago) - Interactive log viewer for flight logs recorded with blackbox
 - [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.80](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.80), 2 months ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
@@ -36,7 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add NEUTRONRCF411SX1280 target](https://github.com/betaflight/betaflight/pull/11301) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (6 days ago)
+- [Add NEUTRONRCF411SX1280 target](https://github.com/betaflight/betaflight/pull/11301) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 week ago)
 - [Typo fix in pidTuningGyroLowpassFilterHelp](https://github.com/betaflight/betaflight-configurator/pull/2741) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (2 weeks ago)
 - [Add bmi270 filter settings](https://github.com/betaflight/firmware-presets/pull/141) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (2 weeks ago)
 - [Add NERC-NEUTRONRCH7BT](https://github.com/betaflight/unified-targets/pull/550) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (2 weeks ago)
@@ -49,11 +49,11 @@
 
 #### ⭐ Recent Stars
 
-- [rotorflight/rotorflight](https://github.com/rotorflight/rotorflight) - A repository for storing Rotorflight wiki, media files, changelogs, example files, etc. (5 days ago)
+- [rotorflight/rotorflight](https://github.com/rotorflight/rotorflight) - A repository for storing Rotorflight wiki, media files, changelogs, example files, etc. (6 days ago)
 - [AlessioMorale/crsf_parser](https://github.com/AlessioMorale/crsf_parser) - A package to parse and create CRSF (Crossfire) frames, developed primarily to interoperate with ExpressLRS (1 week ago)
 - [bolderflight/sbus](https://github.com/bolderflight/sbus) - Arduino and CMake library for communicating with SBUS receivers and servos. (2 weeks ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (3 weeks ago)
-- [rtlopez/esp-fc](https://github.com/rtlopez/esp-fc) - Espressif based budget flight controller (3 weeks ago)
+- [rtlopez/esp-fc](https://github.com/rtlopez/esp-fc) - Espressif based budget flight controller (4 weeks ago)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (4 weeks ago)
 - [peterhinch/micropython-async](https://github.com/peterhinch/micropython-async) - Application of uasyncio to hardware interfaces. Tutorial and code. (1 month ago)
 - [Carbon225/raspberry-sbus](https://github.com/Carbon225/raspberry-sbus) - Linux/Raspberry Pi SBUS driver (1 month ago)
