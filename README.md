@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [typo fix in pidTuningIdleMinRpmHelp](https://github.com/betaflight/betaflight-configurator/pull/2776) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (today)
 - [Add NEUTRONRCF411SX1280 target](https://github.com/betaflight/betaflight/pull/11301) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 week ago)
 - [Typo fix in pidTuningGyroLowpassFilterHelp](https://github.com/betaflight/betaflight-configurator/pull/2741) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (3 weeks ago)
 - [Add bmi270 filter settings](https://github.com/betaflight/firmware-presets/pull/141) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (3 weeks ago)
@@ -45,7 +46,6 @@
 - [Disable bitbang and burst dshot on HYBRIDG4](https://github.com/betaflight/unified-targets/pull/545) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
 - [Rename identifiers for F40x unified target](https://github.com/betaflight/betaflight/pull/11142) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 month ago)
 - [Fix boot_grace_time flag on flowbox target](https://github.com/betaflight/unified-targets/pull/538) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
-- [Disable the CD job on fork](https://github.com/betaflight/firmware-presets/pull/104) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (1 month ago)
 
 #### ⭐ Recent Stars
 
