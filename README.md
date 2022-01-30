@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (today)
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware (3 days ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (3 weeks ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (3 weeks ago)
-- [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (3 weeks ago)
 - [DusKing1/logger-presets](https://github.com/DusKing1/logger-presets) -  (1 month ago)
 - [pitronicteam/BlackBox-Mate-wiki](https://github.com/pitronicteam/BlackBox-Mate-wiki) -  (1 month ago)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (1 month ago)
