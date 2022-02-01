@@ -32,7 +32,6 @@
 - [iNavFlight/blackbox-log-viewer](https://github.com/iNavFlight/blackbox-log-viewer) ([4.0.0](https://github.com/iNavFlight/blackbox-log-viewer/releases/tag/4.0.0), 1 month ago) - Interactive log viewer for flight logs recorded with blackbox
 - [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.80](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.80), 2 months ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
 - [AlkaMotors/F051_Bootloader_Updater](https://github.com/AlkaMotors/F051_Bootloader_Updater) ([V10](https://github.com/AlkaMotors/F051_Bootloader_Updater/releases/tag/V10), 6 months ago) - 
-- [betaflight/blackbox-log-viewer](https://github.com/betaflight/blackbox-log-viewer) ([3.5.0](https://github.com/betaflight/blackbox-log-viewer/releases/tag/3.5.0), 2 years ago) - Interactive log viewer for flight logs recorded with blackbox
 
 #### 🔨 My recent Pull Requests
 
