@@ -26,9 +26,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0-RC3](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0-RC3), today) - Cross platform configuration tool for the Betaflight firmware
+- [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0-RC3](https://github.com/betaflight/betaflight/releases/tag/4.3.0-RC3), today) - Open Source Flight Controller Firmware
 - [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.22.0](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.22.0), 5 days ago) - A Web-App to flash your BLHeli_S and AM32 based ESCs from the browser using the Web-Serial API.
-- [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0-RC2](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0-RC2), 3 weeks ago) - Cross platform configuration tool for the Betaflight firmware
-- [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0-RC2](https://github.com/betaflight/betaflight/releases/tag/4.3.0-RC2), 3 weeks ago) - Open Source Flight Controller Firmware
 - [iNavFlight/blackbox-log-viewer](https://github.com/iNavFlight/blackbox-log-viewer) ([4.0.0](https://github.com/iNavFlight/blackbox-log-viewer/releases/tag/4.0.0), 1 month ago) - Interactive log viewer for flight logs recorded with blackbox
 - [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.80](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.80), 2 months ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
 - [AlkaMotors/F051_Bootloader_Updater](https://github.com/AlkaMotors/F051_Bootloader_Updater) ([V10](https://github.com/AlkaMotors/F051_Bootloader_Updater/releases/tag/V10), 6 months ago) - 
