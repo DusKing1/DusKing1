@@ -4,6 +4,7 @@
 
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (5 days ago)
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware (1 week ago)
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (1 week ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (1 month ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (1 month ago)
 - [DusKing1/logger-presets](https://github.com/DusKing1/logger-presets) -  (1 month ago)
@@ -11,7 +12,6 @@
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (1 month ago)
 - [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (2 months ago)
 - [DusKing1/sim-key](https://github.com/DusKing1/sim-key) - simulated keyboard on esp8266 nodemcu v3 (3 months ago)
-- [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) - Kernel code of the Blackbox Mate Online (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -26,6 +26,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.0.0-rc1](https://github.com/gyroflow/gyroflow/releases/tag/v1.0.0-rc1), today) - Video stabilization using gyroscope data
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0-RC3](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0-RC3), 3 days ago) - Cross platform configuration tool for the Betaflight firmware
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0-RC3](https://github.com/betaflight/betaflight/releases/tag/4.3.0-RC3), 3 days ago) - Open Source Flight Controller Firmware
 - [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.22.0](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.22.0), 1 week ago) - A Web-App to flash your BLHeli_S and AM32 based ESCs from the browser using the Web-Serial API.
@@ -36,15 +37,15 @@
 #### 🔨 My recent Pull Requests
 
 - [typo fix in pidTuningIdleMinRpmHelp](https://github.com/betaflight/betaflight-configurator/pull/2776) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (1 week ago)
+- [Add crowdin badge to README.md](https://github.com/gyroflow/gyroflow/pull/3) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (1 week ago)
 - [Add NEUTRONRCF411SX1280 target](https://github.com/betaflight/betaflight/pull/11301) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (2 weeks ago)
 - [Typo fix in pidTuningGyroLowpassFilterHelp](https://github.com/betaflight/betaflight-configurator/pull/2741) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (4 weeks ago)
 - [Add bmi270 filter settings](https://github.com/betaflight/firmware-presets/pull/141) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (1 month ago)
+- [Update README.md](https://github.com/gyroflow/gyroflow/pull/2) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (1 month ago)
 - [Add NERC-NEUTRONRCH7BT](https://github.com/betaflight/unified-targets/pull/550) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
 - [Re-order motor map on NEUTRONRCG4AIO](https://github.com/betaflight/unified-targets/pull/548) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
 - [Fix flowbox resources](https://github.com/betaflight/unified-targets/pull/547) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
 - [Disable bitbang and burst dshot on HYBRIDG4](https://github.com/betaflight/unified-targets/pull/545) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
-- [Rename identifiers for F40x unified target](https://github.com/betaflight/betaflight/pull/11142) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 month ago)
-- [Fix boot_grace_time flag on flowbox target](https://github.com/betaflight/unified-targets/pull/538) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
 
 #### ⭐ Recent Stars
 
