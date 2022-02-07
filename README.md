@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (1 day ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (today)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (1 week ago)
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware (1 week ago)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (1 week ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update CRSF protocol doc](https://github.com/gyroflow/flowshutter/pull/4) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add link for DIY hardware design](https://github.com/gyroflow/flowshutter/pull/3) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [typo fix in pidTuningIdleMinRpmHelp](https://github.com/betaflight/betaflight-configurator/pull/2776) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (1 week ago)
 - [Add crowdin badge to README.md](https://github.com/gyroflow/gyroflow/pull/3) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (1 week ago)
@@ -44,7 +45,6 @@
 - [Update README.md](https://github.com/gyroflow/gyroflow/pull/2) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (1 month ago)
 - [Add NERC-NEUTRONRCH7BT](https://github.com/betaflight/unified-targets/pull/550) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
 - [Re-order motor map on NEUTRONRCG4AIO](https://github.com/betaflight/unified-targets/pull/548) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
-- [Fix flowbox resources](https://github.com/betaflight/unified-targets/pull/547) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
 
 #### ⭐ Recent Stars
 
