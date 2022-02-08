@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add side note for building on windows](https://github.com/gyroflow/gyroflow/pull/118) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (today)
 - [Update CRSF protocol doc](https://github.com/gyroflow/flowshutter/pull/4) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Add link for DIY hardware design](https://github.com/gyroflow/flowshutter/pull/3) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [typo fix in pidTuningIdleMinRpmHelp](https://github.com/betaflight/betaflight-configurator/pull/2776) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (1 week ago)
@@ -44,7 +45,6 @@
 - [Add bmi270 filter settings](https://github.com/betaflight/firmware-presets/pull/141) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (1 month ago)
 - [Update README.md](https://github.com/gyroflow/gyroflow/pull/2) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (1 month ago)
 - [Add NERC-NEUTRONRCH7BT](https://github.com/betaflight/unified-targets/pull/550) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
-- [Re-order motor map on NEUTRONRCG4AIO](https://github.com/betaflight/unified-targets/pull/548) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
 
 #### ⭐ Recent Stars
 
