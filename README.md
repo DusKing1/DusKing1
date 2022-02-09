@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix arm_state issue and display idle info after record ends](https://github.com/gyroflow/flowshutter/pull/7) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Refactor Sony MTP uart](https://github.com/gyroflow/flowshutter/pull/6) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add DIY flowshuter build video link](https://github.com/gyroflow/flowshutter/pull/5) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Update windows env script and build instruction in readme](https://github.com/gyroflow/gyroflow/pull/128) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (1 day ago)
@@ -44,7 +45,6 @@
 - [typo fix in pidTuningIdleMinRpmHelp](https://github.com/betaflight/betaflight-configurator/pull/2776) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (1 week ago)
 - [Add crowdin badge to README.md](https://github.com/gyroflow/gyroflow/pull/3) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (2 weeks ago)
 - [Add NEUTRONRCF411SX1280 target](https://github.com/betaflight/betaflight/pull/11301) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (3 weeks ago)
-- [Typo fix in pidTuningGyroLowpassFilterHelp](https://github.com/betaflight/betaflight-configurator/pull/2741) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (1 month ago)
 
 #### ⭐ Recent Stars
 
