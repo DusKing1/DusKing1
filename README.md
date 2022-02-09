@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor Sony MTP uart](https://github.com/gyroflow/flowshutter/pull/6) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add DIY flowshuter build video link](https://github.com/gyroflow/flowshutter/pull/5) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Update windows env script and build instruction in readme](https://github.com/gyroflow/gyroflow/pull/128) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (1 day ago)
 - [Add side note for building on windows](https://github.com/gyroflow/gyroflow/pull/118) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (1 day ago)
@@ -44,7 +45,6 @@
 - [Add crowdin badge to README.md](https://github.com/gyroflow/gyroflow/pull/3) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (2 weeks ago)
 - [Add NEUTRONRCF411SX1280 target](https://github.com/betaflight/betaflight/pull/11301) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (3 weeks ago)
 - [Typo fix in pidTuningGyroLowpassFilterHelp](https://github.com/betaflight/betaflight-configurator/pull/2741) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (1 month ago)
-- [Add bmi270 filter settings](https://github.com/betaflight/firmware-presets/pull/141) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (1 month ago)
 
 #### ⭐ Recent Stars
 
