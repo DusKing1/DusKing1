@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (1 day ago)
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (2 days ago)
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (today)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (today)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (1 week ago)
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware (1 week ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (1 month ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add DIY flowshuter build video link](https://github.com/gyroflow/flowshutter/pull/5) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Update windows env script and build instruction in readme](https://github.com/gyroflow/gyroflow/pull/128) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (1 day ago)
 - [Add side note for building on windows](https://github.com/gyroflow/gyroflow/pull/118) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (1 day ago)
 - [Update CRSF protocol doc](https://github.com/gyroflow/flowshutter/pull/4) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
@@ -44,7 +45,6 @@
 - [Add NEUTRONRCF411SX1280 target](https://github.com/betaflight/betaflight/pull/11301) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (3 weeks ago)
 - [Typo fix in pidTuningGyroLowpassFilterHelp](https://github.com/betaflight/betaflight-configurator/pull/2741) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (1 month ago)
 - [Add bmi270 filter settings](https://github.com/betaflight/firmware-presets/pull/141) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (1 month ago)
-- [Update README.md](https://github.com/gyroflow/gyroflow/pull/2) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (1 month ago)
 
 #### ⭐ Recent Stars
 
