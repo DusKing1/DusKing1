@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix schematic mismatch](https://github.com/gyroflow/flowshutter/pull/14) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Cleanup: menu](https://github.com/gyroflow/flowshutter/pull/13) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add battery menu](https://github.com/gyroflow/flowshutter/pull/12) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add dual BMI270 filter settings](https://github.com/betaflight/firmware-presets/pull/182) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (today)
@@ -44,7 +45,6 @@
 - [Cleanup](https://github.com/gyroflow/flowshutter/pull/8) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [fix arm_state issue and display idle info after record ends](https://github.com/gyroflow/flowshutter/pull/7) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Refactor Sony MTP uart](https://github.com/gyroflow/flowshutter/pull/6) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
-- [Add DIY flowshuter build video link](https://github.com/gyroflow/flowshutter/pull/5) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 
 #### ⭐ Recent Stars
 
