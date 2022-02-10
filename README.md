@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add dual BMI270 filter settings](https://github.com/betaflight/firmware-presets/pull/182) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (today)
 - [Delete timer_task.py](https://github.com/gyroflow/flowshutter/pull/11) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Move button detect out of main.py](https://github.com/gyroflow/flowshutter/pull/10) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Move CRSF packet sender out of main.py](https://github.com/gyroflow/flowshutter/pull/9) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
@@ -44,7 +45,6 @@
 - [Add DIY flowshuter build video link](https://github.com/gyroflow/flowshutter/pull/5) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Update windows env script and build instruction in readme](https://github.com/gyroflow/gyroflow/pull/128) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (2 days ago)
 - [Add side note for building on windows](https://github.com/gyroflow/gyroflow/pull/118) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (2 days ago)
-- [Update CRSF protocol doc](https://github.com/gyroflow/flowshutter/pull/4) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 
 #### ⭐ Recent Stars
 
