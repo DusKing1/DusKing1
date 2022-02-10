@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Delete timer_task.py](https://github.com/gyroflow/flowshutter/pull/11) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
+- [Move button detect out of main.py](https://github.com/gyroflow/flowshutter/pull/10) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Move CRSF packet sender out of main.py](https://github.com/gyroflow/flowshutter/pull/9) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Cleanup](https://github.com/gyroflow/flowshutter/pull/8) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [fix arm_state issue and display idle info after record ends](https://github.com/gyroflow/flowshutter/pull/7) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
@@ -43,8 +45,6 @@
 - [Update windows env script and build instruction in readme](https://github.com/gyroflow/gyroflow/pull/128) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (2 days ago)
 - [Add side note for building on windows](https://github.com/gyroflow/gyroflow/pull/118) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (2 days ago)
 - [Update CRSF protocol doc](https://github.com/gyroflow/flowshutter/pull/4) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
-- [Add link for DIY hardware design](https://github.com/gyroflow/flowshutter/pull/3) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
-- [typo fix in pidTuningIdleMinRpmHelp](https://github.com/betaflight/betaflight-configurator/pull/2776) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
