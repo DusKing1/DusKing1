@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (today)
-- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (today)
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (1 day ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (1 week ago)
-- [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware (1 week ago)
+- [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware (2 weeks ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (1 month ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (1 month ago)
 - [DusKing1/logger-presets](https://github.com/DusKing1/logger-presets) -  (1 month ago)
@@ -26,30 +26,30 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.0.0-rc2](https://github.com/gyroflow/gyroflow/releases/tag/v1.0.0-rc2), 1 day ago) - Video stabilization using gyroscope data
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.0.0-rc2](https://github.com/gyroflow/gyroflow/releases/tag/v1.0.0-rc2), 2 days ago) - Video stabilization using gyroscope data
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0-RC3](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0-RC3), 1 week ago) - Cross platform configuration tool for the Betaflight firmware
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0-RC3](https://github.com/betaflight/betaflight/releases/tag/4.3.0-RC3), 1 week ago) - Open Source Flight Controller Firmware
-- [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.22.0](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.22.0), 1 week ago) - A Web-App to flash your BLHeli_S and AM32 based ESCs from the browser using the Web-Serial API.
+- [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.22.0](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.22.0), 2 weeks ago) - A Web-App to flash your BLHeli_S and AM32 based ESCs from the browser using the Web-Serial API.
 - [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.80](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.80), 2 months ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
 - [AlkaMotors/F051_Bootloader_Updater](https://github.com/AlkaMotors/F051_Bootloader_Updater) ([V10](https://github.com/AlkaMotors/F051_Bootloader_Updater/releases/tag/V10), 6 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [fix arm_state issue and display idle info after record ends](https://github.com/gyroflow/flowshutter/pull/7) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
-- [Refactor Sony MTP uart](https://github.com/gyroflow/flowshutter/pull/6) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
-- [Add DIY flowshuter build video link](https://github.com/gyroflow/flowshutter/pull/5) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
-- [Update windows env script and build instruction in readme](https://github.com/gyroflow/gyroflow/pull/128) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (1 day ago)
-- [Add side note for building on windows](https://github.com/gyroflow/gyroflow/pull/118) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (1 day ago)
-- [Update CRSF protocol doc](https://github.com/gyroflow/flowshutter/pull/4) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
-- [Add link for DIY hardware design](https://github.com/gyroflow/flowshutter/pull/3) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
-- [typo fix in pidTuningIdleMinRpmHelp](https://github.com/betaflight/betaflight-configurator/pull/2776) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (1 week ago)
+- [Cleanup](https://github.com/gyroflow/flowshutter/pull/8) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
+- [fix arm_state issue and display idle info after record ends](https://github.com/gyroflow/flowshutter/pull/7) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
+- [Refactor Sony MTP uart](https://github.com/gyroflow/flowshutter/pull/6) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
+- [Add DIY flowshuter build video link](https://github.com/gyroflow/flowshutter/pull/5) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
+- [Update windows env script and build instruction in readme](https://github.com/gyroflow/gyroflow/pull/128) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (2 days ago)
+- [Add side note for building on windows](https://github.com/gyroflow/gyroflow/pull/118) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (2 days ago)
+- [Update CRSF protocol doc](https://github.com/gyroflow/flowshutter/pull/4) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
+- [Add link for DIY hardware design](https://github.com/gyroflow/flowshutter/pull/3) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
+- [typo fix in pidTuningIdleMinRpmHelp](https://github.com/betaflight/betaflight-configurator/pull/2776) on [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) (2 weeks ago)
 - [Add crowdin badge to README.md](https://github.com/gyroflow/gyroflow/pull/3) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (2 weeks ago)
-- [Add NEUTRONRCF411SX1280 target](https://github.com/betaflight/betaflight/pull/11301) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism&#43;&#43; Multi-language Support &amp; BUG Report (1 day ago)
-- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (5 days ago)
+- [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism&#43;&#43; Multi-language Support &amp; BUG Report (2 days ago)
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (6 days ago)
 - [RobotLocomotion/drake](https://github.com/RobotLocomotion/drake) - Model-based design and verification for robotics. (1 week ago)
 - [rotorflight/rotorflight](https://github.com/rotorflight/rotorflight) - A repository for storing Rotorflight wiki, media files, changelogs, example files, etc. (3 weeks ago)
 - [AlessioMorale/crsf_parser](https://github.com/AlessioMorale/crsf_parser) - A package to parse and create CRSF (Crossfire) frames, developed primarily to interoperate with ExpressLRS (3 weeks ago)
