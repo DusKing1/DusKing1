@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add a temperory user settings system](https://github.com/gyroflow/flowshutter/pull/16) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Refactor menu and ui](https://github.com/gyroflow/flowshutter/pull/15) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Fix schematic mismatch](https://github.com/gyroflow/flowshutter/pull/14) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Cleanup: menu](https://github.com/gyroflow/flowshutter/pull/13) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
@@ -44,7 +45,6 @@
 - [Move button detect out of main.py](https://github.com/gyroflow/flowshutter/pull/10) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Move CRSF packet sender out of main.py](https://github.com/gyroflow/flowshutter/pull/9) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Cleanup](https://github.com/gyroflow/flowshutter/pull/8) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
-- [fix arm_state issue and display idle info after record ends](https://github.com/gyroflow/flowshutter/pull/7) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 
 #### ⭐ Recent Stars
 
