@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Bump the version 0.3 to 0.4](https://github.com/gyroflow/flowshutter/pull/18) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Improve settings system and UI](https://github.com/gyroflow/flowshutter/pull/17) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add user setting system](https://github.com/gyroflow/flowshutter/pull/16) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Refactor menu and ui](https://github.com/gyroflow/flowshutter/pull/15) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
@@ -44,7 +45,6 @@
 - [Add dual BMI270 filter settings](https://github.com/betaflight/firmware-presets/pull/182) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (2 days ago)
 - [Delete timer_task.py](https://github.com/gyroflow/flowshutter/pull/11) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [Move button detect out of main.py](https://github.com/gyroflow/flowshutter/pull/10) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
-- [Move CRSF packet sender out of main.py](https://github.com/gyroflow/flowshutter/pull/9) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 
 #### ⭐ Recent Stars
 
