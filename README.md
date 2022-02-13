@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (today)
-- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (3 days ago)
-- [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (1 week ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (1 day ago)
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (4 days ago)
+- [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (2 weeks ago)
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware (2 weeks ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (1 month ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (1 month ago)
@@ -26,29 +26,29 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.0.0-rc3](https://github.com/gyroflow/gyroflow/releases/tag/v1.0.0-rc3), today) - Video stabilization using gyroscope data
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.0.0-rc3](https://github.com/gyroflow/gyroflow/releases/tag/v1.0.0-rc3), 1 day ago) - Video stabilization using gyroscope data
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0-RC3](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0-RC3), 1 week ago) - Cross platform configuration tool for the Betaflight firmware
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0-RC3](https://github.com/betaflight/betaflight/releases/tag/4.3.0-RC3), 1 week ago) - Open Source Flight Controller Firmware
 - [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.22.0](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.22.0), 2 weeks ago) - A Web-App to flash your BLHeli_S and AM32 based ESCs from the browser using the Web-Serial API.
-- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.80](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.80), 2 months ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
+- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.80](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.80), 3 months ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
 - [AlkaMotors/F051_Bootloader_Updater](https://github.com/AlkaMotors/F051_Bootloader_Updater) ([V10](https://github.com/AlkaMotors/F051_Bootloader_Updater/releases/tag/V10), 6 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Bump the version 0.3 to 0.4](https://github.com/gyroflow/flowshutter/pull/18) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
-- [Improve settings system and UI](https://github.com/gyroflow/flowshutter/pull/17) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
-- [Add user setting system](https://github.com/gyroflow/flowshutter/pull/16) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
-- [Refactor menu and ui](https://github.com/gyroflow/flowshutter/pull/15) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
-- [Fix schematic mismatch](https://github.com/gyroflow/flowshutter/pull/14) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
-- [Cleanup: menu](https://github.com/gyroflow/flowshutter/pull/13) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
-- [Add battery menu](https://github.com/gyroflow/flowshutter/pull/12) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
-- [Add dual BMI270 filter settings](https://github.com/betaflight/firmware-presets/pull/182) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (2 days ago)
-- [Delete timer_task.py](https://github.com/gyroflow/flowshutter/pull/11) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
-- [Move button detect out of main.py](https://github.com/gyroflow/flowshutter/pull/10) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
+- [Bump the version 0.3 to 0.4](https://github.com/gyroflow/flowshutter/pull/18) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
+- [Improve settings system and UI](https://github.com/gyroflow/flowshutter/pull/17) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
+- [Add user setting system](https://github.com/gyroflow/flowshutter/pull/16) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
+- [Refactor menu and ui](https://github.com/gyroflow/flowshutter/pull/15) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
+- [Fix schematic mismatch](https://github.com/gyroflow/flowshutter/pull/14) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
+- [Cleanup: menu](https://github.com/gyroflow/flowshutter/pull/13) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
+- [Add battery menu](https://github.com/gyroflow/flowshutter/pull/12) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
+- [Add dual BMI270 filter settings](https://github.com/betaflight/firmware-presets/pull/182) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (3 days ago)
+- [Delete timer_task.py](https://github.com/gyroflow/flowshutter/pull/11) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
+- [Move button detect out of main.py](https://github.com/gyroflow/flowshutter/pull/10) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 
 #### ⭐ Recent Stars
 
-- [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism&#43;&#43; Multi-language Support &amp; BUG Report (4 days ago)
+- [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism&#43;&#43; Multi-language Support &amp; BUG Report (5 days ago)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (1 week ago)
 - [RobotLocomotion/drake](https://github.com/RobotLocomotion/drake) - Model-based design and verification for robotics. (2 weeks ago)
 - [rotorflight/rotorflight](https://github.com/rotorflight/rotorflight) - A repository for storing Rotorflight wiki, media files, changelogs, example files, etc. (3 weeks ago)
