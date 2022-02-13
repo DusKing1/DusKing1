@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix I2C warnings](https://github.com/gyroflow/flowshutter/pull/21) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Fix lockup issue caused by settings mismatch](https://github.com/gyroflow/flowshutter/pull/20) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add a new function level method to change settings](https://github.com/gyroflow/flowshutter/pull/19) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Bump the version 0.3 to 0.4](https://github.com/gyroflow/flowshutter/pull/18) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
@@ -44,7 +45,6 @@
 - [Fix schematic mismatch](https://github.com/gyroflow/flowshutter/pull/14) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Cleanup: menu](https://github.com/gyroflow/flowshutter/pull/13) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Add battery menu](https://github.com/gyroflow/flowshutter/pull/12) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
-- [Add dual BMI270 filter settings](https://github.com/betaflight/firmware-presets/pull/182) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (3 days ago)
 
 #### ⭐ Recent Stars
 
