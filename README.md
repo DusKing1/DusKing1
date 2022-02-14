@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (today)
-- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (4 days ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (1 day ago)
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (5 days ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (2 weeks ago)
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware (2 weeks ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (1 month ago)
@@ -26,7 +26,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.0.0-rc3](https://github.com/gyroflow/gyroflow/releases/tag/v1.0.0-rc3), 1 day ago) - Video stabilization using gyroscope data
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.0.0-rc3](https://github.com/gyroflow/gyroflow/releases/tag/v1.0.0-rc3), 2 days ago) - Video stabilization using gyroscope data
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0-RC3](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0-RC3), 1 week ago) - Cross platform configuration tool for the Betaflight firmware
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0-RC3](https://github.com/betaflight/betaflight/releases/tag/4.3.0-RC3), 1 week ago) - Open Source Flight Controller Firmware
 - [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.22.0](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.22.0), 2 weeks ago) - A Web-App to flash your BLHeli_S and AM32 based ESCs from the browser using the Web-Serial API.
@@ -35,24 +35,24 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add settings version detect](https://github.com/gyroflow/flowshutter/pull/22) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
-- [Fix I2C warnings](https://github.com/gyroflow/flowshutter/pull/21) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
-- [Fix lockup issue caused by settings mismatch](https://github.com/gyroflow/flowshutter/pull/20) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
-- [Add a new function level method to change settings](https://github.com/gyroflow/flowshutter/pull/19) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
-- [Bump the version 0.3 to 0.4](https://github.com/gyroflow/flowshutter/pull/18) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
-- [Improve settings system and UI](https://github.com/gyroflow/flowshutter/pull/17) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
-- [Add user setting system](https://github.com/gyroflow/flowshutter/pull/16) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
-- [Refactor menu and ui](https://github.com/gyroflow/flowshutter/pull/15) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
-- [Fix schematic mismatch](https://github.com/gyroflow/flowshutter/pull/14) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
-- [Cleanup: menu](https://github.com/gyroflow/flowshutter/pull/13) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
+- [Add settings version detect](https://github.com/gyroflow/flowshutter/pull/22) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
+- [Fix I2C warnings](https://github.com/gyroflow/flowshutter/pull/21) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
+- [Fix lockup issue caused by settings mismatch](https://github.com/gyroflow/flowshutter/pull/20) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
+- [Add a new function level method to change settings](https://github.com/gyroflow/flowshutter/pull/19) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
+- [Bump the version 0.3 to 0.4](https://github.com/gyroflow/flowshutter/pull/18) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
+- [Improve settings system and UI](https://github.com/gyroflow/flowshutter/pull/17) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
+- [Add user setting system](https://github.com/gyroflow/flowshutter/pull/16) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
+- [Refactor menu and ui](https://github.com/gyroflow/flowshutter/pull/15) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
+- [Fix schematic mismatch](https://github.com/gyroflow/flowshutter/pull/14) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
+- [Cleanup: menu](https://github.com/gyroflow/flowshutter/pull/13) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
 
 #### ⭐ Recent Stars
 
-- [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism&#43;&#43; Multi-language Support &amp; BUG Report (5 days ago)
+- [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism&#43;&#43; Multi-language Support &amp; BUG Report (6 days ago)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (1 week ago)
 - [RobotLocomotion/drake](https://github.com/RobotLocomotion/drake) - Model-based design and verification for robotics. (2 weeks ago)
-- [rotorflight/rotorflight](https://github.com/rotorflight/rotorflight) - A repository for storing Rotorflight wiki, media files, changelogs, example files, etc. (3 weeks ago)
-- [AlessioMorale/crsf_parser](https://github.com/AlessioMorale/crsf_parser) - A package to parse and create CRSF (Crossfire) frames, developed primarily to interoperate with ExpressLRS (4 weeks ago)
+- [rotorflight/rotorflight](https://github.com/rotorflight/rotorflight) - A repository for storing Rotorflight wiki, media files, changelogs, example files, etc. (4 weeks ago)
+- [AlessioMorale/crsf_parser](https://github.com/AlessioMorale/crsf_parser) - A package to parse and create CRSF (Crossfire) frames, developed primarily to interoperate with ExpressLRS (1 month ago)
 - [bolderflight/sbus](https://github.com/bolderflight/sbus) - Arduino and CMake library for communicating with SBUS receivers and servos. (1 month ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (1 month ago)
 - [rtlopez/esp-fc](https://github.com/rtlopez/esp-fc) - Espressif based budget flight controller (1 month ago)
