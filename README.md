@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor settings write method, avoid hard-coded writing](https://github.com/gyroflow/flowshutter/pull/25) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Fix display version number issue by updating ssd1306 lib](https://github.com/gyroflow/flowshutter/pull/24) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Readme update](https://github.com/gyroflow/flowshutter/pull/23) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add OpenFX info in readme](https://github.com/gyroflow/gyroflow/pull/185) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (today)
@@ -44,10 +45,10 @@
 - [Add a new function level method to change settings](https://github.com/gyroflow/flowshutter/pull/19) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Bump the version 0.3 to 0.4](https://github.com/gyroflow/flowshutter/pull/18) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [Improve settings system and UI](https://github.com/gyroflow/flowshutter/pull/17) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
-- [Add user setting system](https://github.com/gyroflow/flowshutter/pull/16) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 
 #### ⭐ Recent Stars
 
+- [RangerDigital/senko](https://github.com/RangerDigital/senko) - 🦊 Simplest OTA update solution for your Micropython projects. (today)
 - [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism&#43;&#43; Multi-language Support &amp; BUG Report (6 days ago)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (1 week ago)
 - [RobotLocomotion/drake](https://github.com/RobotLocomotion/drake) - Model-based design and verification for robotics. (2 weeks ago)
@@ -57,7 +58,6 @@
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (1 month ago)
 - [rtlopez/esp-fc](https://github.com/rtlopez/esp-fc) - Espressif based budget flight controller (1 month ago)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (1 month ago)
-- [peterhinch/micropython-async](https://github.com/peterhinch/micropython-async) - Application of uasyncio to hardware interfaces. Tutorial and code. (1 month ago)
 
 #### 💬 Feedback
 
