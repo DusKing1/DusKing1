@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Readme update](https://github.com/gyroflow/flowshutter/pull/23) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
+- [Add OpenFX info in readme](https://github.com/gyroflow/gyroflow/pull/185) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (today)
 - [Add settings version detect](https://github.com/gyroflow/flowshutter/pull/22) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Fix I2C warnings](https://github.com/gyroflow/flowshutter/pull/21) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Fix lockup issue caused by settings mismatch](https://github.com/gyroflow/flowshutter/pull/20) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
@@ -43,8 +45,6 @@
 - [Improve settings system and UI](https://github.com/gyroflow/flowshutter/pull/17) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [Add user setting system](https://github.com/gyroflow/flowshutter/pull/16) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Refactor menu and ui](https://github.com/gyroflow/flowshutter/pull/15) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
-- [Fix schematic mismatch](https://github.com/gyroflow/flowshutter/pull/14) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
-- [Cleanup: menu](https://github.com/gyroflow/flowshutter/pull/13) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
 
 #### ⭐ Recent Stars
 
