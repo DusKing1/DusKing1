@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (1 day ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (today)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (2 days ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (2 weeks ago)
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware (2 weeks ago)
@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add GC and fix lockup cause by mistype](https://github.com/gyroflow/flowshutter/pull/29) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
+- [Add AP mode](https://github.com/gyroflow/flowshutter/pull/28) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Refactor settings write method, avoid hard-coded writing](https://github.com/gyroflow/flowshutter/pull/25) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [Fix display version number issue by updating ssd1306 lib](https://github.com/gyroflow/flowshutter/pull/24) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [Readme update](https://github.com/gyroflow/flowshutter/pull/23) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
@@ -43,8 +45,6 @@
 - [Fix I2C warnings](https://github.com/gyroflow/flowshutter/pull/21) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Fix lockup issue caused by settings mismatch](https://github.com/gyroflow/flowshutter/pull/20) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Add a new function level method to change settings](https://github.com/gyroflow/flowshutter/pull/19) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
-- [Bump the version 0.3 to 0.4](https://github.com/gyroflow/flowshutter/pull/18) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
-- [Improve settings system and UI](https://github.com/gyroflow/flowshutter/pull/17) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
 
 #### ⭐ Recent Stars
 
