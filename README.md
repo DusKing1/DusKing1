@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add document for LANC](https://github.com/gyroflow/flowshutter/pull/30) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add GC and fix lockup cause by mistype](https://github.com/gyroflow/flowshutter/pull/29) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Add AP mode](https://github.com/gyroflow/flowshutter/pull/28) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Refactor settings write method, avoid hard-coded writing](https://github.com/gyroflow/flowshutter/pull/25) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
@@ -44,7 +45,6 @@
 - [Add settings version detect](https://github.com/gyroflow/flowshutter/pull/22) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
 - [Fix I2C warnings](https://github.com/gyroflow/flowshutter/pull/21) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
 - [Fix lockup issue caused by settings mismatch](https://github.com/gyroflow/flowshutter/pull/20) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
-- [Add a new function level method to change settings](https://github.com/gyroflow/flowshutter/pull/19) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
 
 #### ⭐ Recent Stars
 
