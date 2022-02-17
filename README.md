@@ -54,10 +54,10 @@
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (1 week ago)
 - [RobotLocomotion/drake](https://github.com/RobotLocomotion/drake) - Model-based design and verification for robotics. (2 weeks ago)
 - [rotorflight/rotorflight](https://github.com/rotorflight/rotorflight) - A repository for storing Rotorflight wiki, media files, changelogs, example files, etc. (1 month ago)
-- [AlessioMorale/crsf_parser](https://github.com/AlessioMorale/crsf_parser) - A package to parse and create CRSF (Crossfire) frames, developed primarily to interoperate with ExpressLRS (1 month ago)
 - [bolderflight/sbus](https://github.com/bolderflight/sbus) - Arduino and CMake library for communicating with SBUS receivers and servos. (1 month ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (1 month ago)
 - [rtlopez/esp-fc](https://github.com/rtlopez/esp-fc) - Espressif based budget flight controller (1 month ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (1 month ago)
 
 #### 💬 Feedback
 
