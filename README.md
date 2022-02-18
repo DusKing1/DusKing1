@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use the full function CRSF RC packet generator to replace hardcoding CRSF packet](https://github.com/gyroflow/flowshutter/pull/31) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add document for LANC](https://github.com/gyroflow/flowshutter/pull/30) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Add GC and fix lockup cause by mistype](https://github.com/gyroflow/flowshutter/pull/29) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [Add AP mode](https://github.com/gyroflow/flowshutter/pull/28) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
@@ -44,7 +45,6 @@
 - [Add OpenFX info in readme](https://github.com/gyroflow/gyroflow/pull/185) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (4 days ago)
 - [Add settings version detect](https://github.com/gyroflow/flowshutter/pull/22) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (5 days ago)
 - [Fix I2C warnings](https://github.com/gyroflow/flowshutter/pull/21) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (5 days ago)
-- [Fix lockup issue caused by settings mismatch](https://github.com/gyroflow/flowshutter/pull/20) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (5 days ago)
 
 #### ⭐ Recent Stars
 
