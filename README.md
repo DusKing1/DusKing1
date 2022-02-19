@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [schoolpost/BlueMagic32](https://github.com/schoolpost/BlueMagic32) - Arduino ESP32 Library for connecting to Blackmagic Cameras using Bluetooth Low Energy.  (today)
 - [bruvv/flowshutter](https://github.com/bruvv/flowshutter) -  (3 days ago)
 - [RangerDigital/senko](https://github.com/RangerDigital/senko) - 🦊 Simplest OTA update solution for your Micropython projects. (5 days ago)
 - [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism&#43;&#43; Multi-language Support &amp; BUG Report (1 week ago)
@@ -57,7 +58,6 @@
 - [bolderflight/sbus](https://github.com/bolderflight/sbus) - Arduino and CMake library for communicating with SBUS receivers and servos. (1 month ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (1 month ago)
 - [rtlopez/esp-fc](https://github.com/rtlopez/esp-fc) - Espressif based budget flight controller (1 month ago)
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (1 month ago)
 
 #### 💬 Feedback
 
