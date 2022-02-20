@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (today)
-- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (5 days ago)
-- [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (2 weeks ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (1 day ago)
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (6 days ago)
+- [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (3 weeks ago)
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware (3 weeks ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (1 month ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (1 month ago)
@@ -26,7 +26,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.85](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.85), 4 days ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
+- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.85](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.85), 5 days ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.0.0-rc3](https://github.com/gyroflow/gyroflow/releases/tag/v1.0.0-rc3), 1 week ago) - Video stabilization using gyroscope data
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0-RC3](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0-RC3), 2 weeks ago) - Cross platform configuration tool for the Betaflight firmware
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0-RC3](https://github.com/betaflight/betaflight/releases/tag/4.3.0-RC3), 2 weeks ago) - Open Source Flight Controller Firmware
@@ -35,22 +35,22 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Use the full function CRSF RC packet generator to replace hardcoding CRSF packet](https://github.com/gyroflow/flowshutter/pull/31) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
-- [Add document for LANC](https://github.com/gyroflow/flowshutter/pull/30) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
-- [Add GC and fix lockup cause by mistype](https://github.com/gyroflow/flowshutter/pull/29) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
-- [Add AP mode](https://github.com/gyroflow/flowshutter/pull/28) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
-- [Refactor settings write method, avoid hard-coded writing](https://github.com/gyroflow/flowshutter/pull/25) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (5 days ago)
-- [Fix display version number issue by updating ssd1306 lib](https://github.com/gyroflow/flowshutter/pull/24) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (5 days ago)
-- [Readme update](https://github.com/gyroflow/flowshutter/pull/23) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (5 days ago)
-- [Add OpenFX info in readme](https://github.com/gyroflow/gyroflow/pull/185) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (5 days ago)
-- [Add settings version detect](https://github.com/gyroflow/flowshutter/pull/22) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
-- [Fix I2C warnings](https://github.com/gyroflow/flowshutter/pull/21) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
+- [Use the full function CRSF RC packet generator to replace hardcoding CRSF packet](https://github.com/gyroflow/flowshutter/pull/31) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
+- [Add document for LANC](https://github.com/gyroflow/flowshutter/pull/30) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
+- [Add GC and fix lockup cause by mistype](https://github.com/gyroflow/flowshutter/pull/29) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
+- [Add AP mode](https://github.com/gyroflow/flowshutter/pull/28) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
+- [Refactor settings write method, avoid hard-coded writing](https://github.com/gyroflow/flowshutter/pull/25) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
+- [Fix display version number issue by updating ssd1306 lib](https://github.com/gyroflow/flowshutter/pull/24) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
+- [Readme update](https://github.com/gyroflow/flowshutter/pull/23) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
+- [Add OpenFX info in readme](https://github.com/gyroflow/gyroflow/pull/185) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (6 days ago)
+- [Add settings version detect](https://github.com/gyroflow/flowshutter/pull/22) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
+- [Fix I2C warnings](https://github.com/gyroflow/flowshutter/pull/21) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [schoolpost/BlueMagic32](https://github.com/schoolpost/BlueMagic32) - Arduino ESP32 Library for connecting to Blackmagic Cameras using Bluetooth Low Energy.  (today)
-- [bruvv/flowshutter](https://github.com/bruvv/flowshutter) -  (3 days ago)
-- [RangerDigital/senko](https://github.com/RangerDigital/senko) - 🦊 Simplest OTA update solution for your Micropython projects. (5 days ago)
+- [schoolpost/BlueMagic32](https://github.com/schoolpost/BlueMagic32) - Arduino ESP32 Library for connecting to Blackmagic Cameras using Bluetooth Low Energy.  (1 day ago)
+- [bruvv/flowshutter](https://github.com/bruvv/flowshutter) -  (4 days ago)
+- [RangerDigital/senko](https://github.com/RangerDigital/senko) - 🦊 Simplest OTA update solution for your Micropython projects. (6 days ago)
 - [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism&#43;&#43; Multi-language Support &amp; BUG Report (1 week ago)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (2 weeks ago)
 - [RobotLocomotion/drake](https://github.com/RobotLocomotion/drake) - Model-based design and verification for robotics. (3 weeks ago)
