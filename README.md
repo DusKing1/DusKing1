@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor menu to ui](https://github.com/gyroflow/flowshutter/pull/34) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add link for FC sized design](https://github.com/gyroflow/flowshutter/pull/33) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add MASTER/SLAVE mode](https://github.com/gyroflow/flowshutter/pull/32) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Use the full function CRSF RC packet generator to replace hardcoding CRSF packet](https://github.com/gyroflow/flowshutter/pull/31) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
@@ -44,7 +45,6 @@
 - [Refactor settings write method, avoid hard-coded writing](https://github.com/gyroflow/flowshutter/pull/25) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Fix display version number issue by updating ssd1306 lib](https://github.com/gyroflow/flowshutter/pull/24) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Readme update](https://github.com/gyroflow/flowshutter/pull/23) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
-- [Add OpenFX info in readme](https://github.com/gyroflow/gyroflow/pull/185) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (1 week ago)
 
 #### ⭐ Recent Stars
 
