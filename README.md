@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (2 days ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (today)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (1 week ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (3 weeks ago)
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware (3 weeks ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add link for FC sized design](https://github.com/gyroflow/flowshutter/pull/33) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add MASTER/SLAVE mode](https://github.com/gyroflow/flowshutter/pull/32) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Use the full function CRSF RC packet generator to replace hardcoding CRSF packet](https://github.com/gyroflow/flowshutter/pull/31) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Add document for LANC](https://github.com/gyroflow/flowshutter/pull/30) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
@@ -44,7 +45,6 @@
 - [Fix display version number issue by updating ssd1306 lib](https://github.com/gyroflow/flowshutter/pull/24) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Readme update](https://github.com/gyroflow/flowshutter/pull/23) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Add OpenFX info in readme](https://github.com/gyroflow/gyroflow/pull/185) on [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) (1 week ago)
-- [Add settings version detect](https://github.com/gyroflow/flowshutter/pull/22) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 
 #### ⭐ Recent Stars
 
