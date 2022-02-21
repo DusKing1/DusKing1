@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor UI](https://github.com/gyroflow/flowshutter/pull/35) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Refactor menu to ui](https://github.com/gyroflow/flowshutter/pull/34) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add link for FC sized design](https://github.com/gyroflow/flowshutter/pull/33) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add MASTER/SLAVE mode](https://github.com/gyroflow/flowshutter/pull/32) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
@@ -44,7 +45,6 @@
 - [Add AP mode](https://github.com/gyroflow/flowshutter/pull/28) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (5 days ago)
 - [Refactor settings write method, avoid hard-coded writing](https://github.com/gyroflow/flowshutter/pull/25) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Fix display version number issue by updating ssd1306 lib](https://github.com/gyroflow/flowshutter/pull/24) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
-- [Readme update](https://github.com/gyroflow/flowshutter/pull/23) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 
 #### ⭐ Recent Stars
 
