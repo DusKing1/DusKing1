@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Bump micropython from 1.17 to 1.18](https://github.com/gyroflow/flowshutter/pull/37) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add presets for different camera protocol](https://github.com/gyroflow/flowshutter/pull/36) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Refactor UI](https://github.com/gyroflow/flowshutter/pull/35) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Refactor menu to ui](https://github.com/gyroflow/flowshutter/pull/34) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
@@ -44,7 +45,6 @@
 - [Add document for LANC](https://github.com/gyroflow/flowshutter/pull/30) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
 - [Add GC and fix lockup cause by mistype](https://github.com/gyroflow/flowshutter/pull/29) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (5 days ago)
 - [Add AP mode](https://github.com/gyroflow/flowshutter/pull/28) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (5 days ago)
-- [Refactor settings write method, avoid hard-coded writing](https://github.com/gyroflow/flowshutter/pull/25) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 
 #### ⭐ Recent Stars
 
