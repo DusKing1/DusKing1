@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models. (today)
 - [g3gg0/CRSF_RevEng](https://github.com/g3gg0/CRSF_RevEng) -  (1 day ago)
 - [schoolpost/BlueMagic32](https://github.com/schoolpost/BlueMagic32) - Arduino ESP32 Library for connecting to Blackmagic Cameras using Bluetooth Low Energy.  (3 days ago)
 - [bruvv/flowshutter](https://github.com/bruvv/flowshutter) -  (6 days ago)
@@ -57,7 +58,6 @@
 - [RobotLocomotion/drake](https://github.com/RobotLocomotion/drake) - Model-based design and verification for robotics. (3 weeks ago)
 - [rotorflight/rotorflight](https://github.com/rotorflight/rotorflight) - A repository for storing Rotorflight wiki, media files, changelogs, example files, etc. (1 month ago)
 - [bolderflight/sbus](https://github.com/bolderflight/sbus) - Arduino and CMake library for communicating with SBUS receivers and servos. (1 month ago)
-- [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (1 month ago)
 
 #### 💬 Feedback
 
