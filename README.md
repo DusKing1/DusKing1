@@ -26,8 +26,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.0.0-rc4](https://github.com/gyroflow/gyroflow/releases/tag/v1.0.0-rc4), today) - Video stabilization using gyroscope data
 - [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.85](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.85), 1 week ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
-- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.0.0-rc3](https://github.com/gyroflow/gyroflow/releases/tag/v1.0.0-rc3), 1 week ago) - Video stabilization using gyroscope data
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0-RC3](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0-RC3), 3 weeks ago) - Cross platform configuration tool for the Betaflight firmware
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0-RC3](https://github.com/betaflight/betaflight/releases/tag/4.3.0-RC3), 3 weeks ago) - Open Source Flight Controller Firmware
 - [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.22.0](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.22.0), 3 weeks ago) - A Web-App to flash your BLHeli_S and AM32 based ESCs from the browser using the Web-Serial API.
