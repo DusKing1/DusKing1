@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [frank26080115/OpenMV-Astrophotography-Gear](https://github.com/frank26080115/OpenMV-Astrophotography-Gear) - using OpenMV to assist in astrophotography (today)
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models. (1 day ago)
 - [g3gg0/CRSF_RevEng](https://github.com/g3gg0/CRSF_RevEng) -  (2 days ago)
 - [schoolpost/BlueMagic32](https://github.com/schoolpost/BlueMagic32) - Arduino ESP32 Library for connecting to Blackmagic Cameras using Bluetooth Low Energy.  (4 days ago)
@@ -57,7 +58,6 @@
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (2 weeks ago)
 - [RobotLocomotion/drake](https://github.com/RobotLocomotion/drake) - Model-based design and verification for robotics. (3 weeks ago)
 - [rotorflight/rotorflight](https://github.com/rotorflight/rotorflight) - A repository for storing Rotorflight wiki, media files, changelogs, example files, etc. (1 month ago)
-- [bolderflight/sbus](https://github.com/bolderflight/sbus) - Arduino and CMake library for communicating with SBUS receivers and servos. (1 month ago)
 
 #### 💬 Feedback
 
