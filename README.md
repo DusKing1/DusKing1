@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add gyroflow logo to welcome display](https://github.com/gyroflow/flowshutter/pull/46) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add welcome state at powerup](https://github.com/gyroflow/flowshutter/pull/45) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Complete comments in settings.py](https://github.com/gyroflow/flowshutter/pull/44) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Fix enter button triggering](https://github.com/gyroflow/flowshutter/pull/43) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
@@ -44,7 +45,6 @@
 - [Add development guide](https://github.com/gyroflow/flowshutter/pull/39) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Add two TODO marks in ui.py](https://github.com/gyroflow/flowshutter/pull/38) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Bump micropython from 1.17 to 1.18](https://github.com/gyroflow/flowshutter/pull/37) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
-- [Add presets for different camera protocol](https://github.com/gyroflow/flowshutter/pull/36) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 
 #### ⭐ Recent Stars
 
