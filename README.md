@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (1 day ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) -  (today)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (1 week ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (3 weeks ago)
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware (3 weeks ago)
@@ -35,16 +35,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Complete comments in settings.py](https://github.com/gyroflow/flowshutter/pull/44) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
+- [Fix enter button triggering](https://github.com/gyroflow/flowshutter/pull/43) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
+- [Add settings corrupt warning](https://github.com/gyroflow/flowshutter/pull/42) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
+- [Cleanup following SRP](https://github.com/gyroflow/flowshutter/pull/41) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Fix block issue on SONY MTP case](https://github.com/gyroflow/flowshutter/pull/40) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Add development guide](https://github.com/gyroflow/flowshutter/pull/39) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Add two TODO marks in ui.py](https://github.com/gyroflow/flowshutter/pull/38) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Bump micropython from 1.17 to 1.18](https://github.com/gyroflow/flowshutter/pull/37) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [Add presets for different camera protocol](https://github.com/gyroflow/flowshutter/pull/36) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [Refactor UI](https://github.com/gyroflow/flowshutter/pull/35) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
-- [Refactor menu to ui](https://github.com/gyroflow/flowshutter/pull/34) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
-- [Add link for FC sized design](https://github.com/gyroflow/flowshutter/pull/33) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
-- [Add MASTER/SLAVE mode](https://github.com/gyroflow/flowshutter/pull/32) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
-- [Use the full function CRSF RC packet generator to replace hardcoding CRSF packet](https://github.com/gyroflow/flowshutter/pull/31) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (5 days ago)
 
 #### ⭐ Recent Stars
 
