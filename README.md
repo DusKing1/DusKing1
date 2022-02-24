@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Increase the welcome time to 3s](https://github.com/gyroflow/flowshutter/pull/50) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Migrate ui timer task to timer0](https://github.com/gyroflow/flowshutter/pull/49) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Cleanup OLED texts](https://github.com/gyroflow/flowshutter/pull/48) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Improve gyroflow logo](https://github.com/gyroflow/flowshutter/pull/47) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
@@ -44,7 +45,6 @@
 - [Fix enter button triggering](https://github.com/gyroflow/flowshutter/pull/43) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Add settings corrupt warning](https://github.com/gyroflow/flowshutter/pull/42) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Cleanup following SRP](https://github.com/gyroflow/flowshutter/pull/41) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
-- [Fix block issue on SONY MTP case](https://github.com/gyroflow/flowshutter/pull/40) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 
 #### ⭐ Recent Stars
 
