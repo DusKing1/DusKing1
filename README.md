@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - FC based gyro logger hardware device (today)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - FC based gyro logger hardware device (1 day ago)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (1 week ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (3 weeks ago)
-- [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware (3 weeks ago)
+- [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware (4 weeks ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (1 month ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (1 month ago)
 - [DusKing1/logger-presets](https://github.com/DusKing1/logger-presets) -  (1 month ago)
@@ -26,32 +26,32 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.0.0-rc4](https://github.com/gyroflow/gyroflow/releases/tag/v1.0.0-rc4), 1 day ago) - Video stabilization using gyroscope data
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.0.0-rc4](https://github.com/gyroflow/gyroflow/releases/tag/v1.0.0-rc4), 2 days ago) - Video stabilization using gyroscope data
 - [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.85](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.85), 1 week ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0-RC3](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0-RC3), 3 weeks ago) - Cross platform configuration tool for the Betaflight firmware
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0-RC3](https://github.com/betaflight/betaflight/releases/tag/4.3.0-RC3), 3 weeks ago) - Open Source Flight Controller Firmware
-- [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.22.0](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.22.0), 3 weeks ago) - A Web-App to flash your BLHeli_S and AM32 based ESCs from the browser using the Web-Serial API.
+- [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.22.0](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.22.0), 4 weeks ago) - A Web-App to flash your BLHeli_S and AM32 based ESCs from the browser using the Web-Serial API.
 - [AlkaMotors/F051_Bootloader_Updater](https://github.com/AlkaMotors/F051_Bootloader_Updater) ([V10](https://github.com/AlkaMotors/F051_Bootloader_Updater/releases/tag/V10), 6 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Add gyroflow logo to welcome display](https://github.com/gyroflow/flowshutter/pull/46) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
-- [Add welcome state at powerup](https://github.com/gyroflow/flowshutter/pull/45) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
-- [Complete comments in settings.py](https://github.com/gyroflow/flowshutter/pull/44) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
-- [Fix enter button triggering](https://github.com/gyroflow/flowshutter/pull/43) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
-- [Add settings corrupt warning](https://github.com/gyroflow/flowshutter/pull/42) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
-- [Cleanup following SRP](https://github.com/gyroflow/flowshutter/pull/41) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
-- [Fix block issue on SONY MTP case](https://github.com/gyroflow/flowshutter/pull/40) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
-- [Add development guide](https://github.com/gyroflow/flowshutter/pull/39) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
-- [Add two TODO marks in ui.py](https://github.com/gyroflow/flowshutter/pull/38) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
-- [Bump micropython from 1.17 to 1.18](https://github.com/gyroflow/flowshutter/pull/37) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
+- [Add gyroflow logo to welcome display](https://github.com/gyroflow/flowshutter/pull/46) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
+- [Add welcome state at powerup](https://github.com/gyroflow/flowshutter/pull/45) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
+- [Complete comments in settings.py](https://github.com/gyroflow/flowshutter/pull/44) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
+- [Fix enter button triggering](https://github.com/gyroflow/flowshutter/pull/43) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
+- [Add settings corrupt warning](https://github.com/gyroflow/flowshutter/pull/42) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
+- [Cleanup following SRP](https://github.com/gyroflow/flowshutter/pull/41) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
+- [Fix block issue on SONY MTP case](https://github.com/gyroflow/flowshutter/pull/40) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
+- [Add development guide](https://github.com/gyroflow/flowshutter/pull/39) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
+- [Add two TODO marks in ui.py](https://github.com/gyroflow/flowshutter/pull/38) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
+- [Bump micropython from 1.17 to 1.18](https://github.com/gyroflow/flowshutter/pull/37) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 
 #### ⭐ Recent Stars
 
-- [frank26080115/OpenMV-Astrophotography-Gear](https://github.com/frank26080115/OpenMV-Astrophotography-Gear) - using OpenMV to assist in astrophotography (today)
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models. (1 day ago)
-- [g3gg0/CRSF_RevEng](https://github.com/g3gg0/CRSF_RevEng) -  (2 days ago)
-- [schoolpost/BlueMagic32](https://github.com/schoolpost/BlueMagic32) - Arduino ESP32 Library for connecting to Blackmagic Cameras using Bluetooth Low Energy.  (4 days ago)
+- [frank26080115/OpenMV-Astrophotography-Gear](https://github.com/frank26080115/OpenMV-Astrophotography-Gear) - using OpenMV to assist in astrophotography (1 day ago)
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models. (2 days ago)
+- [g3gg0/CRSF_RevEng](https://github.com/g3gg0/CRSF_RevEng) -  (3 days ago)
+- [schoolpost/BlueMagic32](https://github.com/schoolpost/BlueMagic32) - Arduino ESP32 Library for connecting to Blackmagic Cameras using Bluetooth Low Energy.  (5 days ago)
 - [bruvv/flowshutter](https://github.com/bruvv/flowshutter) -  (1 week ago)
 - [RangerDigital/senko](https://github.com/RangerDigital/senko) - 🦊 Simplest OTA update solution for your Micropython projects. (1 week ago)
 - [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism&#43;&#43; Multi-language Support &amp; BUG Report (2 weeks ago)
