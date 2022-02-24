@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - FC based gyro logger hardware device (1 day ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - FC based gyro logger hardware device (today)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (1 week ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (3 weeks ago)
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware (4 weeks ago)
@@ -35,6 +35,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Migrate ui timer task to timer0](https://github.com/gyroflow/flowshutter/pull/49) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
+- [Cleanup OLED texts](https://github.com/gyroflow/flowshutter/pull/48) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
+- [Improve gyroflow logo](https://github.com/gyroflow/flowshutter/pull/47) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add gyroflow logo to welcome display](https://github.com/gyroflow/flowshutter/pull/46) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Add welcome state at powerup](https://github.com/gyroflow/flowshutter/pull/45) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Complete comments in settings.py](https://github.com/gyroflow/flowshutter/pull/44) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
@@ -42,9 +45,6 @@
 - [Add settings corrupt warning](https://github.com/gyroflow/flowshutter/pull/42) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Cleanup following SRP](https://github.com/gyroflow/flowshutter/pull/41) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Fix block issue on SONY MTP case](https://github.com/gyroflow/flowshutter/pull/40) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
-- [Add development guide](https://github.com/gyroflow/flowshutter/pull/39) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
-- [Add two TODO marks in ui.py](https://github.com/gyroflow/flowshutter/pull/38) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
-- [Bump micropython from 1.17 to 1.18](https://github.com/gyroflow/flowshutter/pull/37) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 
 #### ⭐ Recent Stars
 
