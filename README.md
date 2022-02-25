@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (1 day ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (today)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (1 week ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (3 weeks ago)
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware (4 weeks ago)
