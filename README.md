@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (1 day ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (today)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (1 week ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (3 weeks ago)
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware (1 month ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add linear battery usage mask](https://github.com/gyroflow/flowshutter/pull/53) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Fix MASTER/SLAVE behaviour in Sony MTP](https://github.com/gyroflow/flowshutter/pull/51) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Increase the welcome time to 3s](https://github.com/gyroflow/flowshutter/pull/50) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [Migrate ui timer task to timer0](https://github.com/gyroflow/flowshutter/pull/49) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
@@ -44,7 +45,6 @@
 - [Add welcome state at powerup](https://github.com/gyroflow/flowshutter/pull/45) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Complete comments in settings.py](https://github.com/gyroflow/flowshutter/pull/44) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Fix enter button triggering](https://github.com/gyroflow/flowshutter/pull/43) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
-- [Add settings corrupt warning](https://github.com/gyroflow/flowshutter/pull/42) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 
 #### ⭐ Recent Stars
 
