@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix FC triggering in no camera case](https://github.com/gyroflow/flowshutter/pull/54) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add linear battery usage mask](https://github.com/gyroflow/flowshutter/pull/53) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Fix MASTER/SLAVE behaviour in Sony MTP](https://github.com/gyroflow/flowshutter/pull/51) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Increase the welcome time to 3s](https://github.com/gyroflow/flowshutter/pull/50) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
@@ -44,7 +45,6 @@
 - [Add gyroflow logo to welcome display](https://github.com/gyroflow/flowshutter/pull/46) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Add welcome state at powerup](https://github.com/gyroflow/flowshutter/pull/45) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Complete comments in settings.py](https://github.com/gyroflow/flowshutter/pull/44) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
-- [Fix enter button triggering](https://github.com/gyroflow/flowshutter/pull/43) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 
 #### ⭐ Recent Stars
 
