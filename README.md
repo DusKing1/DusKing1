@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add basic audio injection](https://github.com/gyroflow/flowshutter/pull/57) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Update Wuxi warning](https://github.com/gyroflow/flowshutter/pull/56) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Typofix and author update](https://github.com/gyroflow/logger-presets/pull/3) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (today)
 - [Update runaway takeoff prevention to OFF](https://github.com/gyroflow/logger-presets/pull/2) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (today)
@@ -43,7 +44,6 @@
 - [Fix MASTER/SLAVE behaviour in Sony MTP](https://github.com/gyroflow/flowshutter/pull/51) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [Increase the welcome time to 3s](https://github.com/gyroflow/flowshutter/pull/50) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Migrate ui timer task to timer0](https://github.com/gyroflow/flowshutter/pull/49) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
-- [Cleanup OLED texts](https://github.com/gyroflow/flowshutter/pull/48) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 
 #### ⭐ Recent Stars
 
