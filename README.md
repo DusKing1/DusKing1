@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update Wuxi warning](https://github.com/gyroflow/flowshutter/pull/56) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Typofix and author update](https://github.com/gyroflow/logger-presets/pull/3) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (today)
 - [Update runaway takeoff prevention to OFF](https://github.com/gyroflow/logger-presets/pull/2) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (today)
 - [Allow to check battery during recording](https://github.com/gyroflow/flowshutter/pull/55) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
@@ -43,7 +44,6 @@
 - [Increase the welcome time to 3s](https://github.com/gyroflow/flowshutter/pull/50) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Migrate ui timer task to timer0](https://github.com/gyroflow/flowshutter/pull/49) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Cleanup OLED texts](https://github.com/gyroflow/flowshutter/pull/48) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
-- [Improve gyroflow logo](https://github.com/gyroflow/flowshutter/pull/47) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 
 #### ⭐ Recent Stars
 
