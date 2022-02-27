@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (1 day ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (today)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (1 week ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (4 weeks ago)
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware (1 month ago)
@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Allow to check battery during recording](https://github.com/gyroflow/flowshutter/pull/55) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Fix FC triggering in no camera case](https://github.com/gyroflow/flowshutter/pull/54) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Add linear battery usage mask](https://github.com/gyroflow/flowshutter/pull/53) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Fix MASTER/SLAVE behaviour in Sony MTP](https://github.com/gyroflow/flowshutter/pull/51) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
@@ -43,7 +44,6 @@
 - [Improve gyroflow logo](https://github.com/gyroflow/flowshutter/pull/47) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Add gyroflow logo to welcome display](https://github.com/gyroflow/flowshutter/pull/46) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
 - [Add welcome state at powerup](https://github.com/gyroflow/flowshutter/pull/45) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
-- [Complete comments in settings.py](https://github.com/gyroflow/flowshutter/pull/44) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
 
 #### ⭐ Recent Stars
 
