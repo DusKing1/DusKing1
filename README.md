@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (1 day ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (today)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (1 day ago)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (2 weeks ago)
+- [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (2 weeks ago)
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware (1 month ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (1 month ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (1 month ago)
 - [DusKing1/logger-presets](https://github.com/DusKing1/logger-presets) -  (1 month ago)
 - [pitronicteam/BlackBox-Mate-wiki](https://github.com/pitronicteam/BlackBox-Mate-wiki) -  (2 months ago)
-- [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (2 months ago)
 - [DusKing1/sim-key](https://github.com/DusKing1/sim-key) - simulated keyboard on esp8266 nodemcu v3 (3 months ago)
 
 #### 🌱 My latest projects
@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Imporve audio injection](https://github.com/gyroflow/flowshutter/pull/58) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add basic audio injection](https://github.com/gyroflow/flowshutter/pull/57) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Update Wuxi warning](https://github.com/gyroflow/flowshutter/pull/56) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Typofix and author update](https://github.com/gyroflow/logger-presets/pull/3) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (1 day ago)
@@ -43,7 +44,6 @@
 - [Add linear battery usage mask](https://github.com/gyroflow/flowshutter/pull/53) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [Fix MASTER/SLAVE behaviour in Sony MTP](https://github.com/gyroflow/flowshutter/pull/51) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Increase the welcome time to 3s](https://github.com/gyroflow/flowshutter/pull/50) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
-- [Migrate ui timer task to timer0](https://github.com/gyroflow/flowshutter/pull/49) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
 
 #### ⭐ Recent Stars
 
