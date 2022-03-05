@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update wlan content handler](https://github.com/gyroflow/flowshutter/pull/65) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Refactor and add icons](https://github.com/gyroflow/flowshutter/pull/64) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add basic battery reading feature](https://github.com/gyroflow/flowshutter/pull/63) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Add missing MIT license](https://github.com/gyroflow/flowshutter/pull/62) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
@@ -43,7 +44,6 @@
 - [Imporve audio injection](https://github.com/gyroflow/flowshutter/pull/58) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (5 days ago)
 - [Add basic audio injection](https://github.com/gyroflow/flowshutter/pull/57) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
 - [Update Wuxi warning](https://github.com/gyroflow/flowshutter/pull/56) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
-- [Typofix and author update](https://github.com/gyroflow/logger-presets/pull/3) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (6 days ago)
 
 #### ⭐ Recent Stars
 
