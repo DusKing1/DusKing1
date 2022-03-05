@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [pythonkurssi/WiFiManager](https://github.com/pythonkurssi/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - micropython  (today)
 - [rust-embedded/discovery](https://github.com/rust-embedded/discovery) - Discover the world of microcontrollers through Rust! (1 day ago)
 - [mkomon/uota](https://github.com/mkomon/uota) - Update firmware written in MicroPython over the air. (4 days ago)
 - [lvgl/lv_micropython](https://github.com/lvgl/lv_micropython) - Micropython bindings to LVGL for Embedded devices, Unix and JavaScript (6 days ago)
@@ -56,7 +57,6 @@
 - [schoolpost/BlueMagic32](https://github.com/schoolpost/BlueMagic32) - Arduino ESP32 Library for connecting to Blackmagic Cameras using Bluetooth Low Energy.  (2 weeks ago)
 - [bruvv/flowshutter](https://github.com/bruvv/flowshutter) -  (2 weeks ago)
 - [RangerDigital/senko](https://github.com/RangerDigital/senko) - 🦊 Simplest OTA update solution for your Micropython projects. (2 weeks ago)
-- [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism&#43;&#43; Multi-language Support &amp; BUG Report (3 weeks ago)
 
 #### 💬 Feedback
 
