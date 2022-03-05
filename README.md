@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (1 day ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (today)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (6 days ago)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (2 weeks ago)
 - [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (3 weeks ago)
@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor and add icons](https://github.com/gyroflow/flowshutter/pull/64) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add basic battery reading feature](https://github.com/gyroflow/flowshutter/pull/63) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Add missing MIT license](https://github.com/gyroflow/flowshutter/pull/62) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [Add some OTA options and settings](https://github.com/gyroflow/flowshutter/pull/61) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
@@ -43,7 +44,6 @@
 - [Add basic audio injection](https://github.com/gyroflow/flowshutter/pull/57) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
 - [Update Wuxi warning](https://github.com/gyroflow/flowshutter/pull/56) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
 - [Typofix and author update](https://github.com/gyroflow/logger-presets/pull/3) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (6 days ago)
-- [Update runaway takeoff prevention to OFF](https://github.com/gyroflow/logger-presets/pull/2) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (6 days ago)
 
 #### ⭐ Recent Stars
 
