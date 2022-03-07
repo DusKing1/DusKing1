@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (1 day ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (today)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (1 week ago)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (3 weeks ago)
 - [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (3 weeks ago)
@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization (today)
 - [pythonkurssi/WiFiManager](https://github.com/pythonkurssi/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - micropython  (2 days ago)
 - [rust-embedded/discovery](https://github.com/rust-embedded/discovery) - Discover the world of microcontrollers through Rust! (3 days ago)
 - [mkomon/uota](https://github.com/mkomon/uota) - Update firmware written in MicroPython over the air. (6 days ago)
@@ -56,7 +57,6 @@
 - [g3gg0/CRSF_RevEng](https://github.com/g3gg0/CRSF_RevEng) -  (2 weeks ago)
 - [schoolpost/BlueMagic32](https://github.com/schoolpost/BlueMagic32) - Arduino ESP32 Library for connecting to Blackmagic Cameras using Bluetooth Low Energy.  (2 weeks ago)
 - [bruvv/flowshutter](https://github.com/bruvv/flowshutter) -  (2 weeks ago)
-- [RangerDigital/senko](https://github.com/RangerDigital/senko) - 🦊 Simplest OTA update solution for your Micropython projects. (3 weeks ago)
 
 #### 💬 Feedback
 
