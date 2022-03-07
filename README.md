@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor UI system to handle tasks better](https://github.com/gyroflow/flowshutter/pull/67) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add support for battery reading](https://github.com/gyroflow/flowshutter/pull/66) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Update wlan content handler](https://github.com/gyroflow/flowshutter/pull/65) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [Refactor and add icons](https://github.com/gyroflow/flowshutter/pull/64) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
@@ -43,7 +44,6 @@
 - [Add basic wlan scanning](https://github.com/gyroflow/flowshutter/pull/60) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (5 days ago)
 - [Fix rec_battery causes lockup](https://github.com/gyroflow/flowshutter/pull/59) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
 - [Imporve audio injection](https://github.com/gyroflow/flowshutter/pull/58) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
-- [Add basic audio injection](https://github.com/gyroflow/flowshutter/pull/57) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 
 #### ⭐ Recent Stars
 
