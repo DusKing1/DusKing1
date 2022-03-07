@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [alwxkxk/soft-and-hard](https://github.com/alwxkxk/soft-and-hard) - 《软硬结合——从零打造物联网》 基于JS的物联网教程。 (today)
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization (today)
 - [pythonkurssi/WiFiManager](https://github.com/pythonkurssi/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - micropython  (2 days ago)
 - [rust-embedded/discovery](https://github.com/rust-embedded/discovery) - Discover the world of microcontrollers through Rust! (3 days ago)
@@ -56,7 +57,6 @@
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models. (1 week ago)
 - [g3gg0/CRSF_RevEng](https://github.com/g3gg0/CRSF_RevEng) -  (2 weeks ago)
 - [schoolpost/BlueMagic32](https://github.com/schoolpost/BlueMagic32) - Arduino ESP32 Library for connecting to Blackmagic Cameras using Bluetooth Low Energy.  (2 weeks ago)
-- [bruvv/flowshutter](https://github.com/bruvv/flowshutter) -  (2 weeks ago)
 
 #### 💬 Feedback
 
