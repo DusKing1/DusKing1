@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Make battery reading compatible with different ADC pins](https://github.com/gyroflow/flowshutter/pull/70) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add translation for zh_CN](https://github.com/KissUltra/gui/pull/1) on [KissUltra/gui](https://github.com/KissUltra/gui) (today)
 - [Add code of conduct](https://github.com/gyroflow/flowshutter/pull/69) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Add issue templates](https://github.com/gyroflow/flowshutter/pull/68) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
@@ -43,7 +44,6 @@
 - [Refactor and add icons](https://github.com/gyroflow/flowshutter/pull/64) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Add basic battery reading feature](https://github.com/gyroflow/flowshutter/pull/63) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
 - [Add missing MIT license](https://github.com/gyroflow/flowshutter/pull/62) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (5 days ago)
-- [Add some OTA options and settings](https://github.com/gyroflow/flowshutter/pull/61) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (5 days ago)
 
 #### ⭐ Recent Stars
 
