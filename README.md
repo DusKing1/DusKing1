@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update some flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/3) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (today)
 - [Add settings icon](https://github.com/gyroflow/flowshutter/pull/71) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Update docs](https://github.com/gyroflow/gyroflow-docs/pull/2) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (1 day ago)
 - [Update many things](https://github.com/gyroflow/logger-presets/pull/4) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (1 day ago)
@@ -43,7 +44,6 @@
 - [Add issue templates](https://github.com/gyroflow/flowshutter/pull/68) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Refactor UI system to handle tasks better](https://github.com/gyroflow/flowshutter/pull/67) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Add support for battery reading](https://github.com/gyroflow/flowshutter/pull/66) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
-- [Update wlan content handler](https://github.com/gyroflow/flowshutter/pull/65) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (5 days ago)
 
 #### ⭐ Recent Stars
 
