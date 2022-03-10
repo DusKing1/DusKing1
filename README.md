@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [rdehuyss/micropython-ota-updater](https://github.com/rdehuyss/micropython-ota-updater) - OTA Updater for MicroPython (today)
 - [alwxkxk/soft-and-hard](https://github.com/alwxkxk/soft-and-hard) - 《软硬结合——从零打造物联网》 基于JS的物联网教程。 (3 days ago)
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization (3 days ago)
 - [pythonkurssi/WiFiManager](https://github.com/pythonkurssi/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - micropython  (5 days ago)
@@ -56,7 +57,6 @@
 - [frank26080115/OpenMV-Astrophotography-Gear](https://github.com/frank26080115/OpenMV-Astrophotography-Gear) - using OpenMV to assist in astrophotography (2 weeks ago)
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models. (2 weeks ago)
 - [g3gg0/CRSF_RevEng](https://github.com/g3gg0/CRSF_RevEng) -  (2 weeks ago)
-- [schoolpost/BlueMagic32](https://github.com/schoolpost/BlueMagic32) - Arduino ESP32 Library for connecting to Blackmagic Cameras using Bluetooth Low Energy.  (2 weeks ago)
 
 #### 💬 Feedback
 
