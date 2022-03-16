@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [fpv-wtf/margerine](https://github.com/fpv-wtf/margerine) - It&#39;s not butter, but it&#39;s root. (today)
 - [rdehuyss/micropython-ota-updater](https://github.com/rdehuyss/micropython-ota-updater) - OTA Updater for MicroPython (6 days ago)
 - [alwxkxk/soft-and-hard](https://github.com/alwxkxk/soft-and-hard) - 《软硬结合——从零打造物联网》 基于JS的物联网教程。 (1 week ago)
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization (1 week ago)
@@ -56,7 +57,6 @@
 - [lvgl/lv_micropython](https://github.com/lvgl/lv_micropython) - Micropython bindings to LVGL for Embedded devices, Unix and JavaScript (2 weeks ago)
 - [frank26080115/OpenMV-Astrophotography-Gear](https://github.com/frank26080115/OpenMV-Astrophotography-Gear) - using OpenMV to assist in astrophotography (3 weeks ago)
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models. (3 weeks ago)
-- [g3gg0/CRSF_RevEng](https://github.com/g3gg0/CRSF_RevEng) -  (3 weeks ago)
 
 #### 💬 Feedback
 
