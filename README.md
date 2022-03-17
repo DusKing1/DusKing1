@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NeutronRC/betaflight-presets](https://github.com/NeutronRC/betaflight-presets) -  (5 days ago)
-- [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (5 days ago)
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (6 days ago)
+- [NeutronRC/betaflight-presets](https://github.com/NeutronRC/betaflight-presets) -  (6 days ago)
+- [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (6 days ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (1 week ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (1 week ago)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (1 month ago)
 - [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (1 month ago)
@@ -27,16 +27,16 @@
 #### 🔭 Latest releases I've contributed to
 
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.0.0-rc5](https://github.com/gyroflow/gyroflow/releases/tag/v1.0.0-rc5), 1 week ago) - Video stabilization using gyroscope data
-- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.85](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.85), 4 weeks ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
+- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.85](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.85), 1 month ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0-RC3](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0-RC3), 1 month ago) - Cross platform configuration tool for the Betaflight firmware
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0-RC3](https://github.com/betaflight/betaflight/releases/tag/4.3.0-RC3), 1 month ago) - Open Source Flight Controller Firmware
 - [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.22.0](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.22.0), 1 month ago) - A Web-App to flash your BLHeli_S and AM32 based ESCs from the browser using the Web-Serial API.
 
 #### 🔨 My recent Pull Requests
 
-- [Add flowshutter settings doc](https://github.com/gyroflow/gyroflow-docs/pull/4) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (5 days ago)
-- [Update some flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/3) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (6 days ago)
-- [Add settings icon](https://github.com/gyroflow/flowshutter/pull/71) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
+- [Add flowshutter settings doc](https://github.com/gyroflow/gyroflow-docs/pull/4) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (6 days ago)
+- [Update some flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/3) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (1 week ago)
+- [Add settings icon](https://github.com/gyroflow/flowshutter/pull/71) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Update docs](https://github.com/gyroflow/gyroflow-docs/pull/2) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (1 week ago)
 - [Update many things](https://github.com/gyroflow/logger-presets/pull/4) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (1 week ago)
 - [Make battery reading compatible with different ADC pins](https://github.com/gyroflow/flowshutter/pull/70) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
@@ -47,8 +47,8 @@
 
 #### ⭐ Recent Stars
 
-- [fpv-wtf/margerine](https://github.com/fpv-wtf/margerine) - It&#39;s not butter, but it&#39;s root. (today)
-- [rdehuyss/micropython-ota-updater](https://github.com/rdehuyss/micropython-ota-updater) - OTA Updater for MicroPython (6 days ago)
+- [fpv-wtf/margerine](https://github.com/fpv-wtf/margerine) - It&#39;s not butter, but it&#39;s root. (1 day ago)
+- [rdehuyss/micropython-ota-updater](https://github.com/rdehuyss/micropython-ota-updater) - OTA Updater for MicroPython (1 week ago)
 - [alwxkxk/soft-and-hard](https://github.com/alwxkxk/soft-and-hard) - 《软硬结合——从零打造物联网》 基于JS的物联网教程。 (1 week ago)
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization (1 week ago)
 - [pythonkurssi/WiFiManager](https://github.com/pythonkurssi/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - micropython  (1 week ago)
