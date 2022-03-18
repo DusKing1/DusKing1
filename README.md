@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NeutronRC/betaflight-presets](https://github.com/NeutronRC/betaflight-presets) -  (6 days ago)
-- [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (6 days ago)
+- [NeutronRC/betaflight-presets](https://github.com/NeutronRC/betaflight-presets) -  (1 week ago)
+- [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (1 week ago)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (1 week ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (1 week ago)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (1 month ago)
@@ -34,7 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add flowshutter settings doc](https://github.com/gyroflow/gyroflow-docs/pull/4) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (6 days ago)
+- [Add flowshutter settings doc](https://github.com/gyroflow/gyroflow-docs/pull/4) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (1 week ago)
 - [Update some flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/3) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (1 week ago)
 - [Add settings icon](https://github.com/gyroflow/flowshutter/pull/71) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Update docs](https://github.com/gyroflow/gyroflow-docs/pull/2) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (1 week ago)
@@ -47,12 +47,12 @@
 
 #### ⭐ Recent Stars
 
-- [fpv-wtf/margerine](https://github.com/fpv-wtf/margerine) - It&#39;s not butter, but it&#39;s root. (1 day ago)
+- [fpv-wtf/margerine](https://github.com/fpv-wtf/margerine) - It&#39;s not butter, but it&#39;s root. (2 days ago)
 - [rdehuyss/micropython-ota-updater](https://github.com/rdehuyss/micropython-ota-updater) - OTA Updater for MicroPython (1 week ago)
 - [alwxkxk/soft-and-hard](https://github.com/alwxkxk/soft-and-hard) - 《软硬结合——从零打造物联网》 基于JS的物联网教程。 (1 week ago)
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization (1 week ago)
 - [pythonkurssi/WiFiManager](https://github.com/pythonkurssi/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - micropython  (1 week ago)
-- [rust-embedded/discovery](https://github.com/rust-embedded/discovery) - Discover the world of microcontrollers through Rust! (1 week ago)
+- [rust-embedded/discovery](https://github.com/rust-embedded/discovery) - Discover the world of microcontrollers through Rust! (2 weeks ago)
 - [mkomon/uota](https://github.com/mkomon/uota) - Update firmware written in MicroPython over the air. (2 weeks ago)
 - [lvgl/lv_micropython](https://github.com/lvgl/lv_micropython) - Micropython bindings to LVGL for Embedded devices, Unix and JavaScript (2 weeks ago)
 - [frank26080115/OpenMV-Astrophotography-Gear](https://github.com/frank26080115/OpenMV-Astrophotography-Gear) - using OpenMV to assist in astrophotography (3 weeks ago)
