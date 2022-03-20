@@ -26,7 +26,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.88](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.88), today) - Firmware for stm32f051 based speed controllers for use with mutirotors
+- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.88](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.88), 1 day ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.0.0-rc5](https://github.com/gyroflow/gyroflow/releases/tag/v1.0.0-rc5), 1 week ago) - Video stabilization using gyroscope data
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0-RC3](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0-RC3), 1 month ago) - Cross platform configuration tool for the Betaflight firmware
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0-RC3](https://github.com/betaflight/betaflight/releases/tag/4.3.0-RC3), 1 month ago) - Open Source Flight Controller Firmware
@@ -47,14 +47,14 @@
 
 #### ⭐ Recent Stars
 
-- [fpv-wtf/margerine](https://github.com/fpv-wtf/margerine) - It&#39;s not butter, but it&#39;s root. (3 days ago)
+- [fpv-wtf/margerine](https://github.com/fpv-wtf/margerine) - It&#39;s not butter, but it&#39;s root. (4 days ago)
 - [rdehuyss/micropython-ota-updater](https://github.com/rdehuyss/micropython-ota-updater) - OTA Updater for MicroPython (1 week ago)
 - [alwxkxk/soft-and-hard](https://github.com/alwxkxk/soft-and-hard) - 《软硬结合——从零打造物联网》 基于JS的物联网教程。 (1 week ago)
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization (1 week ago)
 - [pythonkurssi/WiFiManager](https://github.com/pythonkurssi/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - micropython  (2 weeks ago)
 - [rust-embedded/discovery](https://github.com/rust-embedded/discovery) - Discover the world of microcontrollers through Rust! (2 weeks ago)
 - [mkomon/uota](https://github.com/mkomon/uota) - Update firmware written in MicroPython over the air. (2 weeks ago)
-- [lvgl/lv_micropython](https://github.com/lvgl/lv_micropython) - Micropython bindings to LVGL for Embedded devices, Unix and JavaScript (2 weeks ago)
+- [lvgl/lv_micropython](https://github.com/lvgl/lv_micropython) - Micropython bindings to LVGL for Embedded devices, Unix and JavaScript (3 weeks ago)
 - [frank26080115/OpenMV-Astrophotography-Gear](https://github.com/frank26080115/OpenMV-Astrophotography-Gear) - using OpenMV to assist in astrophotography (3 weeks ago)
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models. (3 weeks ago)
 
