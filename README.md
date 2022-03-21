@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (today)
-- [DusKing1/github-slideshow](https://github.com/DusKing1/github-slideshow) - A robot powered training repository :robot: (today)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (1 day ago)
+- [DusKing1/github-slideshow](https://github.com/DusKing1/github-slideshow) - A robot powered training repository :robot: (1 day ago)
 - [NeutronRC/betaflight-presets](https://github.com/NeutronRC/betaflight-presets) -  (1 week ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (1 week ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (1 week ago)
@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.88](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.88), 1 day ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
+- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.88](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.88), 2 days ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.0.0-rc5](https://github.com/gyroflow/gyroflow/releases/tag/v1.0.0-rc5), 1 week ago) - Video stabilization using gyroscope data
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0-RC3](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0-RC3), 1 month ago) - Cross platform configuration tool for the Betaflight firmware
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0-RC3](https://github.com/betaflight/betaflight/releases/tag/4.3.0-RC3), 1 month ago) - Open Source Flight Controller Firmware
@@ -35,9 +35,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add DusKing1&#39;s file](https://github.com/DusKing1/github-slideshow/pull/3) on [DusKing1/github-slideshow](https://github.com/DusKing1/github-slideshow) (today)
-- [Lower mtp registration duration](https://github.com/gyroflow/flowshutter/pull/74) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
-- [Add OLED hint info for sony mtp remote registration](https://github.com/gyroflow/flowshutter/pull/73) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
+- [Add DusKing1&#39;s file](https://github.com/DusKing1/github-slideshow/pull/3) on [DusKing1/github-slideshow](https://github.com/DusKing1/github-slideshow) (1 day ago)
+- [Lower mtp registration duration](https://github.com/gyroflow/flowshutter/pull/74) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
+- [Add OLED hint info for sony mtp remote registration](https://github.com/gyroflow/flowshutter/pull/73) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Add flowshutter settings doc](https://github.com/gyroflow/gyroflow-docs/pull/4) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (1 week ago)
 - [Update some flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/3) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (1 week ago)
 - [Add settings icon](https://github.com/gyroflow/flowshutter/pull/71) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
@@ -48,10 +48,10 @@
 
 #### ⭐ Recent Stars
 
-- [fpv-wtf/margerine](https://github.com/fpv-wtf/margerine) - It&#39;s not butter, but it&#39;s root. (4 days ago)
+- [fpv-wtf/margerine](https://github.com/fpv-wtf/margerine) - It&#39;s not butter, but it&#39;s root. (5 days ago)
 - [rdehuyss/micropython-ota-updater](https://github.com/rdehuyss/micropython-ota-updater) - OTA Updater for MicroPython (1 week ago)
-- [alwxkxk/soft-and-hard](https://github.com/alwxkxk/soft-and-hard) - 《软硬结合——从零打造物联网》 基于JS的物联网教程。 (1 week ago)
-- [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization (1 week ago)
+- [alwxkxk/soft-and-hard](https://github.com/alwxkxk/soft-and-hard) - 《软硬结合——从零打造物联网》 基于JS的物联网教程。 (2 weeks ago)
+- [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization (2 weeks ago)
 - [pythonkurssi/WiFiManager](https://github.com/pythonkurssi/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - micropython  (2 weeks ago)
 - [rust-embedded/discovery](https://github.com/rust-embedded/discovery) - Discover the world of microcontrollers through Rust! (2 weeks ago)
 - [mkomon/uota](https://github.com/mkomon/uota) - Update firmware written in MicroPython over the air. (2 weeks ago)
