@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (today)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (2 days ago)
 - [DusKing1/github-slideshow](https://github.com/DusKing1/github-slideshow) - A robot powered training repository :robot: (2 days ago)
 - [NeutronRC/betaflight-presets](https://github.com/NeutronRC/betaflight-presets) -  (1 week ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (1 week ago)
-- [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (1 week ago)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (1 month ago)
 - [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (1 month ago)
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware (1 month ago)
@@ -35,6 +35,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Rename &#34;BNF&#34; catagory to &#34;KIT&#34;](https://github.com/gyroflow/logger-presets/pull/7) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (today)
+- [Update the list and description of each preset in the readme](https://github.com/gyroflow/logger-presets/pull/6) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (today)
+- [Add  Secondary FC logger preset](https://github.com/gyroflow/logger-presets/pull/5) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (today)
 - [Add DusKing1&#39;s file](https://github.com/DusKing1/github-slideshow/pull/3) on [DusKing1/github-slideshow](https://github.com/DusKing1/github-slideshow) (2 days ago)
 - [Lower mtp registration duration](https://github.com/gyroflow/flowshutter/pull/74) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [Add OLED hint info for sony mtp remote registration](https://github.com/gyroflow/flowshutter/pull/73) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
@@ -42,9 +45,6 @@
 - [Update some flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/3) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (1 week ago)
 - [Add settings icon](https://github.com/gyroflow/flowshutter/pull/71) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Update docs](https://github.com/gyroflow/gyroflow-docs/pull/2) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (1 week ago)
-- [Update many things](https://github.com/gyroflow/logger-presets/pull/4) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (1 week ago)
-- [Make battery reading compatible with different ADC pins](https://github.com/gyroflow/flowshutter/pull/70) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 weeks ago)
-- [Add translation for zh_CN](https://github.com/KissUltra/gui/pull/1) on [KissUltra/gui](https://github.com/KissUltra/gui) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
