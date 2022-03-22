@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (today)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (today)
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (2 days ago)
 - [DusKing1/github-slideshow](https://github.com/DusKing1/github-slideshow) - A robot powered training repository :robot: (2 days ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (2 days ago)
 - [NeutronRC/betaflight-presets](https://github.com/NeutronRC/betaflight-presets) -  (1 week ago)
-- [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (1 week ago)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (1 month ago)
 - [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (1 month ago)
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware (1 month ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update betaflight preset](https://github.com/gyroflow/gyroflow-docs/pull/5) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (today)
 - [Rename &#34;BNF&#34; catagory to &#34;KIT&#34;](https://github.com/gyroflow/logger-presets/pull/7) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (today)
 - [Update the list and description of each preset in the readme](https://github.com/gyroflow/logger-presets/pull/6) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (today)
 - [Add  Secondary FC logger preset](https://github.com/gyroflow/logger-presets/pull/5) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (today)
@@ -44,7 +45,6 @@
 - [Add flowshutter settings doc](https://github.com/gyroflow/gyroflow-docs/pull/4) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (1 week ago)
 - [Update some flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/3) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (1 week ago)
 - [Add settings icon](https://github.com/gyroflow/flowshutter/pull/71) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
-- [Update docs](https://github.com/gyroflow/gyroflow-docs/pull/2) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (1 week ago)
 
 #### ⭐ Recent Stars
 
