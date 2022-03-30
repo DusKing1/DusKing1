@@ -49,7 +49,7 @@
 #### ⭐ Recent Stars
 
 - [SzymonSlupik/CEC-Tiny-Pro](https://github.com/SzymonSlupik/CEC-Tiny-Pro) - HDMI CEC sniffer / processor with zero additional hardware - connect the HDMI CEC line (13) directly to an Arduino board. (1 week ago)
-- [fpv-wtf/margerine](https://github.com/fpv-wtf/margerine) - It&#39;s not butter, but it&#39;s root. (1 week ago)
+- [fpv-wtf/margerine](https://github.com/fpv-wtf/margerine) - It&#39;s not butter, but it&#39;s root. (2 weeks ago)
 - [rdehuyss/micropython-ota-updater](https://github.com/rdehuyss/micropython-ota-updater) - OTA Updater for MicroPython (2 weeks ago)
 - [alwxkxk/soft-and-hard](https://github.com/alwxkxk/soft-and-hard) - 《软硬结合——从零打造物联网》 基于JS的物联网教程。 (3 weeks ago)
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization (3 weeks ago)
