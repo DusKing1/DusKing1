@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) - Kernel code of the Blackbox Mate Online (today)
 - [ic319/gyrologger](https://github.com/ic319/gyrologger) - You know... logging hand trembling 😅 (1 day ago)
 - [SzymonSlupik/CEC-Tiny-Pro](https://github.com/SzymonSlupik/CEC-Tiny-Pro) - HDMI CEC sniffer / processor with zero additional hardware - connect the HDMI CEC line (13) directly to an Arduino board. (1 week ago)
 - [fpv-wtf/margerine](https://github.com/fpv-wtf/margerine) - It&#39;s not butter, but it&#39;s root. (2 weeks ago)
@@ -57,7 +58,6 @@
 - [pythonkurssi/WiFiManager](https://github.com/pythonkurssi/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - micropython  (3 weeks ago)
 - [rust-embedded/discovery](https://github.com/rust-embedded/discovery) - Discover the world of microcontrollers through Rust! (3 weeks ago)
 - [mkomon/uota](https://github.com/mkomon/uota) - Update firmware written in MicroPython over the air. (1 month ago)
-- [lvgl/lv_micropython](https://github.com/lvgl/lv_micropython) - Micropython bindings to LVGL for Embedded devices, Unix and JavaScript (1 month ago)
 
 #### 💬 Feedback
 
