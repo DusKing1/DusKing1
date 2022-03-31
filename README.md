@@ -43,20 +43,20 @@
 - [Lower mtp registration duration](https://github.com/gyroflow/flowshutter/pull/74) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Add OLED hint info for sony mtp remote registration](https://github.com/gyroflow/flowshutter/pull/73) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Add flowshutter settings doc](https://github.com/gyroflow/gyroflow-docs/pull/4) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (2 weeks ago)
-- [Update some flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/3) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (2 weeks ago)
-- [Add settings icon](https://github.com/gyroflow/flowshutter/pull/71) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 weeks ago)
+- [Update some flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/3) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (3 weeks ago)
+- [Add settings icon](https://github.com/gyroflow/flowshutter/pull/71) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [ic319/gyrologger](https://github.com/ic319/gyrologger) - You know... logging hand trembling 😅 (today)
+- [ic319/gyrologger](https://github.com/ic319/gyrologger) - You know... logging hand trembling 😅 (1 day ago)
 - [SzymonSlupik/CEC-Tiny-Pro](https://github.com/SzymonSlupik/CEC-Tiny-Pro) - HDMI CEC sniffer / processor with zero additional hardware - connect the HDMI CEC line (13) directly to an Arduino board. (1 week ago)
 - [fpv-wtf/margerine](https://github.com/fpv-wtf/margerine) - It&#39;s not butter, but it&#39;s root. (2 weeks ago)
-- [rdehuyss/micropython-ota-updater](https://github.com/rdehuyss/micropython-ota-updater) - OTA Updater for MicroPython (2 weeks ago)
+- [rdehuyss/micropython-ota-updater](https://github.com/rdehuyss/micropython-ota-updater) - OTA Updater for MicroPython (3 weeks ago)
 - [alwxkxk/soft-and-hard](https://github.com/alwxkxk/soft-and-hard) - 《软硬结合——从零打造物联网》 基于JS的物联网教程。 (3 weeks ago)
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization (3 weeks ago)
 - [pythonkurssi/WiFiManager](https://github.com/pythonkurssi/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - micropython  (3 weeks ago)
 - [rust-embedded/discovery](https://github.com/rust-embedded/discovery) - Discover the world of microcontrollers through Rust! (3 weeks ago)
-- [mkomon/uota](https://github.com/mkomon/uota) - Update firmware written in MicroPython over the air. (4 weeks ago)
+- [mkomon/uota](https://github.com/mkomon/uota) - Update firmware written in MicroPython over the air. (1 month ago)
 - [lvgl/lv_micropython](https://github.com/lvgl/lv_micropython) - Micropython bindings to LVGL for Embedded devices, Unix and JavaScript (1 month ago)
 
 #### 💬 Feedback
