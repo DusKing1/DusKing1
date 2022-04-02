@@ -27,10 +27,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.88](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.88), 1 week ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
+- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.88](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.88), 2 weeks ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.0.0-rc5](https://github.com/gyroflow/gyroflow/releases/tag/v1.0.0-rc5), 3 weeks ago) - Video stabilization using gyroscope data
-- [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0-RC3](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0-RC3), 1 month ago) - Cross platform configuration tool for the Betaflight firmware
-- [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0-RC3](https://github.com/betaflight/betaflight/releases/tag/4.3.0-RC3), 1 month ago) - Open Source Flight Controller Firmware
+- [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0-RC3](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0-RC3), 2 months ago) - Cross platform configuration tool for the Betaflight firmware
+- [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0-RC3](https://github.com/betaflight/betaflight/releases/tag/4.3.0-RC3), 2 months ago) - Open Source Flight Controller Firmware
 - [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.22.0](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.22.0), 2 months ago) - A Web-App to flash your BLHeli_S and AM32 based ESCs from the browser using the Web-Serial API.
 
 #### 🔨 My recent Pull Requests
@@ -48,14 +48,14 @@
 
 #### ⭐ Recent Stars
 
-- [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) - Kernel code of the Blackbox Mate Online (1 day ago)
-- [ic319/gyrologger](https://github.com/ic319/gyrologger) - You know... logging hand trembling 😅 (2 days ago)
+- [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) - Kernel code of the Blackbox Mate Online (2 days ago)
+- [ic319/gyrologger](https://github.com/ic319/gyrologger) - You know... logging hand trembling 😅 (3 days ago)
 - [SzymonSlupik/CEC-Tiny-Pro](https://github.com/SzymonSlupik/CEC-Tiny-Pro) - HDMI CEC sniffer / processor with zero additional hardware - connect the HDMI CEC line (13) directly to an Arduino board. (1 week ago)
 - [fpv-wtf/margerine](https://github.com/fpv-wtf/margerine) - It&#39;s not butter, but it&#39;s root. (2 weeks ago)
 - [rdehuyss/micropython-ota-updater](https://github.com/rdehuyss/micropython-ota-updater) - OTA Updater for MicroPython (3 weeks ago)
 - [alwxkxk/soft-and-hard](https://github.com/alwxkxk/soft-and-hard) - 《软硬结合——从零打造物联网》 基于JS的物联网教程。 (3 weeks ago)
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization (3 weeks ago)
-- [pythonkurssi/WiFiManager](https://github.com/pythonkurssi/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - micropython  (3 weeks ago)
+- [pythonkurssi/WiFiManager](https://github.com/pythonkurssi/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - micropython  (4 weeks ago)
 - [rust-embedded/discovery](https://github.com/rust-embedded/discovery) - Discover the world of microcontrollers through Rust! (4 weeks ago)
 - [mkomon/uota](https://github.com/mkomon/uota) - Update firmware written in MicroPython over the air. (1 month ago)
 
