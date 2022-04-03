@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (1 week ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (today)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (1 week ago)
+- [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (1 week ago)
 - [DusKing1/github-slideshow](https://github.com/DusKing1/github-slideshow) - A robot powered training repository :robot: (2 weeks ago)
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (2 weeks ago)
 - [NeutronRC/betaflight-presets](https://github.com/NeutronRC/betaflight-presets) -  (3 weeks ago)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (1 month ago)
 - [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (1 month ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update README.md](https://github.com/gyroflow/flowshutter/pull/77) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Update betaflight preset](https://github.com/gyroflow/gyroflow-docs/pull/5) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (1 week ago)
 - [Rename &#34;BNF&#34; catagory to &#34;KIT&#34;](https://github.com/gyroflow/logger-presets/pull/7) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (1 week ago)
 - [Update the list and description of each preset in the readme](https://github.com/gyroflow/logger-presets/pull/6) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (1 week ago)
@@ -44,7 +45,6 @@
 - [Add OLED hint info for sony mtp remote registration](https://github.com/gyroflow/flowshutter/pull/73) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 weeks ago)
 - [Add flowshutter settings doc](https://github.com/gyroflow/gyroflow-docs/pull/4) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (3 weeks ago)
 - [Update some flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/3) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (3 weeks ago)
-- [Add settings icon](https://github.com/gyroflow/flowshutter/pull/71) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
