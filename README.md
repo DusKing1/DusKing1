@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add starting timeout](https://github.com/gyroflow/flowshutter/pull/79) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
+- [Sony MULTI Terminal USB/Protocol name cleanup](https://github.com/gyroflow/flowshutter/pull/78) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Update README.md](https://github.com/gyroflow/flowshutter/pull/77) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Update betaflight preset](https://github.com/gyroflow/gyroflow-docs/pull/5) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (1 week ago)
 - [Rename &#34;BNF&#34; catagory to &#34;KIT&#34;](https://github.com/gyroflow/logger-presets/pull/7) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (1 week ago)
@@ -43,8 +45,6 @@
 - [Add DusKing1&#39;s file](https://github.com/DusKing1/github-slideshow/pull/3) on [DusKing1/github-slideshow](https://github.com/DusKing1/github-slideshow) (2 weeks ago)
 - [Lower mtp registration duration](https://github.com/gyroflow/flowshutter/pull/74) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 weeks ago)
 - [Add OLED hint info for sony mtp remote registration](https://github.com/gyroflow/flowshutter/pull/73) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 weeks ago)
-- [Add flowshutter settings doc](https://github.com/gyroflow/gyroflow-docs/pull/4) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (3 weeks ago)
-- [Update some flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/3) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
