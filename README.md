@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add internel switch triggering and voltage level triggering](https://github.com/gyroflow/flowshutter/pull/80) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add starting timeout](https://github.com/gyroflow/flowshutter/pull/79) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Sony MULTI Terminal USB/Protocol name cleanup](https://github.com/gyroflow/flowshutter/pull/78) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Update README.md](https://github.com/gyroflow/flowshutter/pull/77) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
@@ -44,7 +45,6 @@
 - [Add  Secondary FC logger preset](https://github.com/gyroflow/logger-presets/pull/5) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (1 week ago)
 - [Add DusKing1&#39;s file](https://github.com/DusKing1/github-slideshow/pull/3) on [DusKing1/github-slideshow](https://github.com/DusKing1/github-slideshow) (2 weeks ago)
 - [Lower mtp registration duration](https://github.com/gyroflow/flowshutter/pull/74) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 weeks ago)
-- [Add OLED hint info for sony mtp remote registration](https://github.com/gyroflow/flowshutter/pull/73) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
