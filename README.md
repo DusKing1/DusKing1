@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor simple cam](https://github.com/gyroflow/flowshutter/pull/83) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
+- [Update flowshutter doc](https://github.com/gyroflow/gyroflow-docs/pull/7) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (today)
 - [Cleanup around two simple triggering protocol](https://github.com/gyroflow/flowshutter/pull/81) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add internel switch triggering and voltage level triggering](https://github.com/gyroflow/flowshutter/pull/80) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Add starting timeout](https://github.com/gyroflow/flowshutter/pull/79) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
@@ -43,15 +45,13 @@
 - [Update betaflight preset](https://github.com/gyroflow/gyroflow-docs/pull/5) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (1 week ago)
 - [Rename &#34;BNF&#34; catagory to &#34;KIT&#34;](https://github.com/gyroflow/logger-presets/pull/7) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (1 week ago)
 - [Update the list and description of each preset in the readme](https://github.com/gyroflow/logger-presets/pull/6) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (1 week ago)
-- [Add  Secondary FC logger preset](https://github.com/gyroflow/logger-presets/pull/5) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (1 week ago)
-- [Add DusKing1&#39;s file](https://github.com/DusKing1/github-slideshow/pull/3) on [DusKing1/github-slideshow](https://github.com/DusKing1/github-slideshow) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
+- [fpv-wtf/margerine](https://github.com/fpv-wtf/margerine) - It&#39;s not butter, but it&#39;s root. (today)
 - [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) - Kernel code of the Blackbox Mate Online (4 days ago)
 - [ic319/gyrologger](https://github.com/ic319/gyrologger) - You know... logging hand trembling 😅 (5 days ago)
 - [SzymonSlupik/CEC-Tiny-Pro](https://github.com/SzymonSlupik/CEC-Tiny-Pro) - HDMI CEC sniffer / processor with zero additional hardware - connect the HDMI CEC line (13) directly to an Arduino board. (1 week ago)
-- [fpv-wtf/margerine](https://github.com/fpv-wtf/margerine) - It&#39;s not butter, but it&#39;s root. (2 weeks ago)
 - [rdehuyss/micropython-ota-updater](https://github.com/rdehuyss/micropython-ota-updater) - OTA Updater for MicroPython (3 weeks ago)
 - [alwxkxk/soft-and-hard](https://github.com/alwxkxk/soft-and-hard) - 《软硬结合——从零打造物联网》 基于JS的物联网教程。 (4 weeks ago)
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization (4 weeks ago)
