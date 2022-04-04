@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [bri3d/msp-osd](https://github.com/bri3d/msp-osd) - MSP DisplayPort OSD (today)
 - [fpv-wtf/margerine](https://github.com/fpv-wtf/margerine) - It&#39;s not butter, but it&#39;s root. (today)
 - [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) - Kernel code of the Blackbox Mate Online (4 days ago)
 - [ic319/gyrologger](https://github.com/ic319/gyrologger) - You know... logging hand trembling 😅 (5 days ago)
@@ -57,7 +58,6 @@
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization (4 weeks ago)
 - [pythonkurssi/WiFiManager](https://github.com/pythonkurssi/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - micropython  (1 month ago)
 - [rust-embedded/discovery](https://github.com/rust-embedded/discovery) - Discover the world of microcontrollers through Rust! (1 month ago)
-- [mkomon/uota](https://github.com/mkomon/uota) - Update firmware written in MicroPython over the air. (1 month ago)
 
 #### 💬 Feedback
 
