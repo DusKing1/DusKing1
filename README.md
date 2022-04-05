@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update windows dev env setup guide](https://github.com/gyroflow/flowshutter/pull/84) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Refactor simple cam](https://github.com/gyroflow/flowshutter/pull/83) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Update flowshutter doc](https://github.com/gyroflow/gyroflow-docs/pull/7) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (1 day ago)
 - [Cleanup around two simple triggering protocol](https://github.com/gyroflow/flowshutter/pull/81) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
@@ -44,7 +45,6 @@
 - [Update README.md](https://github.com/gyroflow/flowshutter/pull/77) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [Update betaflight preset](https://github.com/gyroflow/gyroflow-docs/pull/5) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (2 weeks ago)
 - [Rename &#34;BNF&#34; catagory to &#34;KIT&#34;](https://github.com/gyroflow/logger-presets/pull/7) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (2 weeks ago)
-- [Update the list and description of each preset in the readme](https://github.com/gyroflow/logger-presets/pull/6) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
