@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [lvgl/lv_port_esp32](https://github.com/lvgl/lv_port_esp32) - LVGL ported to ESP32 including various display and touchpad drivers (today)
 - [xubaifuCode/CN.Remote.Jobs](https://github.com/xubaifuCode/CN.Remote.Jobs) - 汇集在中国地区支持全远程/混合远程办公的公司。 (1 day ago)
 - [bri3d/msp-osd](https://github.com/bri3d/msp-osd) - MSP DisplayPort OSD (2 days ago)
 - [fpv-wtf/margerine](https://github.com/fpv-wtf/margerine) - It&#39;s not butter, but it&#39;s root. (2 days ago)
@@ -57,7 +58,6 @@
 - [rdehuyss/micropython-ota-updater](https://github.com/rdehuyss/micropython-ota-updater) - OTA Updater for MicroPython (3 weeks ago)
 - [alwxkxk/soft-and-hard](https://github.com/alwxkxk/soft-and-hard) - 《软硬结合——从零打造物联网》 基于JS的物联网教程。 (1 month ago)
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization (1 month ago)
-- [pythonkurssi/WiFiManager](https://github.com/pythonkurssi/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - micropython  (1 month ago)
 
 #### 💬 Feedback
 
