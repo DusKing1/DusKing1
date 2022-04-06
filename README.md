@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update bmi270 with the latest release](https://github.com/betaflight/firmware-presets/pull/232) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (today)
 - [Fix momentary ground behaviour](https://github.com/gyroflow/flowshutter/pull/85) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Update windows dev env setup guide](https://github.com/gyroflow/flowshutter/pull/84) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Refactor simple cam](https://github.com/gyroflow/flowshutter/pull/83) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
@@ -44,7 +45,6 @@
 - [Add starting timeout](https://github.com/gyroflow/flowshutter/pull/79) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Sony MULTI Terminal USB/Protocol name cleanup](https://github.com/gyroflow/flowshutter/pull/78) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Update README.md](https://github.com/gyroflow/flowshutter/pull/77) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
-- [Update betaflight preset](https://github.com/gyroflow/gyroflow-docs/pull/5) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
