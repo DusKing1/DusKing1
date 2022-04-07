@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (today)
-- [NeutronRC/betaflight-presets](https://github.com/NeutronRC/betaflight-presets) -  (today)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (today)
+- [NeutronRC/betaflight-presets](https://github.com/NeutronRC/betaflight-presets) -  (today)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (3 days ago)
 - [DusKing1/github-slideshow](https://github.com/DusKing1/github-slideshow) - A robot powered training repository :robot: (2 weeks ago)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (1 month ago)
@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Text fix](https://github.com/gyroflow/logger-presets/pull/12) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (today)
+- [Cosmetic for secondary fc preset](https://github.com/gyroflow/logger-presets/pull/11) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (today)
 - [Disable arm angle limit for secondary fc and flowbox](https://github.com/gyroflow/logger-presets/pull/10) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (today)
 - [Update NuetronRCF407 target config](https://github.com/betaflight/unified-targets/pull/584) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (today)
 - [UI cleanup](https://github.com/gyroflow/flowshutter/pull/87) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
@@ -43,8 +45,6 @@
 - [Update bmi270 settings](https://github.com/gyroflow/logger-presets/pull/8) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (1 day ago)
 - [Update bmi270 with the latest release](https://github.com/betaflight/firmware-presets/pull/232) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (1 day ago)
 - [Fix momentary ground behaviour](https://github.com/gyroflow/flowshutter/pull/85) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
-- [Update windows dev env setup guide](https://github.com/gyroflow/flowshutter/pull/84) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
-- [Refactor simple cam](https://github.com/gyroflow/flowshutter/pull/83) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 
 #### ⭐ Recent Stars
 
