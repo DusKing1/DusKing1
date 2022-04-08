@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/8) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (today)
+- [Fix misleading info/vars/functions/names around Schmitt Trigger](https://github.com/gyroflow/flowshutter/pull/89) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add reboot hint for changing camera protocol](https://github.com/gyroflow/flowshutter/pull/88) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Text fix](https://github.com/gyroflow/logger-presets/pull/12) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (1 day ago)
 - [Cosmetic for secondary fc preset](https://github.com/gyroflow/logger-presets/pull/11) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (1 day ago)
@@ -43,8 +45,6 @@
 - [UI cleanup](https://github.com/gyroflow/flowshutter/pull/87) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Fix RX loss issue inctroduced by 4.3 RC4](https://github.com/gyroflow/flowshutter/pull/86) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [update flowbox](https://github.com/gyroflow/logger-presets/pull/9) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (2 days ago)
-- [Update bmi270 settings](https://github.com/gyroflow/logger-presets/pull/8) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (2 days ago)
-- [Update bmi270 with the latest release](https://github.com/betaflight/firmware-presets/pull/232) on [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) (2 days ago)
 
 #### ⭐ Recent Stars
 
