@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (today)
 - [FASTSHIFT/X-TRACK](https://github.com/FASTSHIFT/X-TRACK) - A GPS bicycle speedometer that supports offline maps and track recording  (2 days ago)
 - [ZhamaoDra/kinodynamic_frontend](https://github.com/ZhamaoDra/kinodynamic_frontend) - kinodynamic RRT* &amp; A* (2 days ago)
 - [lvgl/lv_port_esp32](https://github.com/lvgl/lv_port_esp32) - LVGL ported to ESP32 including various display and touchpad drivers (2 days ago)
@@ -57,7 +58,6 @@
 - [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) - Kernel code of the Blackbox Mate Online (1 week ago)
 - [ic319/gyrologger](https://github.com/ic319/gyrologger) - You know... logging hand trembling 😅 (1 week ago)
 - [SzymonSlupik/CEC-Tiny-Pro](https://github.com/SzymonSlupik/CEC-Tiny-Pro) - HDMI CEC sniffer / processor with zero additional hardware - connect the HDMI CEC line (13) directly to an Arduino board. (2 weeks ago)
-- [rdehuyss/micropython-ota-updater](https://github.com/rdehuyss/micropython-ota-updater) - OTA Updater for MicroPython (4 weeks ago)
 
 #### 💬 Feedback
 
