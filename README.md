@@ -4,9 +4,9 @@
 
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (2 days ago)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (2 days ago)
+- [NeutronRC/betaflight-presets](https://github.com/NeutronRC/betaflight-presets) -  (3 days ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (3 days ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (3 days ago)
-- [NeutronRC/betaflight-presets](https://github.com/NeutronRC/betaflight-presets) -  (3 days ago)
 - [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (4 days ago)
 - [DusKing1/github-slideshow](https://github.com/DusKing1/github-slideshow) - A robot powered training repository :robot: (3 weeks ago)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (1 month ago)
