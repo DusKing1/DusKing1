@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (today)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (4 days ago)
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (4 days ago)
 - [NeutronRC/betaflight-presets](https://github.com/NeutronRC/betaflight-presets) -  (5 days ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (5 days ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (5 days ago)
@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add CI for CLA](https://github.com/gyroflow/flowshutter/pull/91) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
+- [House keeping](https://github.com/gyroflow/flowshutter/pull/90) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Update flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/8) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (4 days ago)
 - [Fix misleading info/vars/functions/names around Schmitt Trigger](https://github.com/gyroflow/flowshutter/pull/89) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
 - [Add reboot hint for changing camera protocol](https://github.com/gyroflow/flowshutter/pull/88) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
@@ -43,8 +45,6 @@
 - [Disable arm angle limit for secondary fc and flowbox](https://github.com/gyroflow/logger-presets/pull/10) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (5 days ago)
 - [Update Neutron RCF407 target config](https://github.com/betaflight/unified-targets/pull/584) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (5 days ago)
 - [UI cleanup](https://github.com/gyroflow/flowshutter/pull/87) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (5 days ago)
-- [Fix RX loss issue inctroduced by 4.3 RC4](https://github.com/gyroflow/flowshutter/pull/86) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
-- [update flowbox](https://github.com/gyroflow/logger-presets/pull/9) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (6 days ago)
 
 #### ⭐ Recent Stars
 
