@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (today)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (5 days ago)
 - [FASTSHIFT/X-TRACK](https://github.com/FASTSHIFT/X-TRACK) - A GPS bicycle speedometer that supports offline maps and track recording  (1 week ago)
 - [ZhamaoDra/kinodynamic_frontend](https://github.com/ZhamaoDra/kinodynamic_frontend) - kinodynamic RRT* &amp; A* (1 week ago)
@@ -57,7 +58,6 @@
 - [fpv-wtf/margerine](https://github.com/fpv-wtf/margerine) - It&#39;s not butter, but it&#39;s root. (1 week ago)
 - [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) - Kernel code of the Blackbox Mate Online (1 week ago)
 - [ic319/gyrologger](https://github.com/ic319/gyrologger) - You know... logging hand trembling 😅 (2 weeks ago)
-- [SzymonSlupik/CEC-Tiny-Pro](https://github.com/SzymonSlupik/CEC-Tiny-Pro) - HDMI CEC sniffer / processor with zero additional hardware - connect the HDMI CEC line (13) directly to an Arduino board. (3 weeks ago)
 
 #### 💬 Feedback
 
