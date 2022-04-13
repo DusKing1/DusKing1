@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add sha1 script (PC side)](https://github.com/gyroflow/flowshutter/pull/95) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add CI for CLA](https://github.com/gyroflow/flowshutter/pull/91) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [House keeping](https://github.com/gyroflow/flowshutter/pull/90) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Update flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/8) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (5 days ago)
@@ -44,7 +45,6 @@
 - [Cosmetic for secondary fc preset](https://github.com/gyroflow/logger-presets/pull/11) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (6 days ago)
 - [Disable arm angle limit for secondary fc and flowbox](https://github.com/gyroflow/logger-presets/pull/10) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (6 days ago)
 - [Update Neutron RCF407 target config](https://github.com/betaflight/unified-targets/pull/584) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (6 days ago)
-- [UI cleanup](https://github.com/gyroflow/flowshutter/pull/87) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
 
 #### ⭐ Recent Stars
 
