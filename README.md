@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents (today)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (1 day ago)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (6 days ago)
 - [FASTSHIFT/X-TRACK](https://github.com/FASTSHIFT/X-TRACK) - A GPS bicycle speedometer that supports offline maps and track recording  (1 week ago)
@@ -57,7 +58,6 @@
 - [bri3d/msp-osd](https://github.com/bri3d/msp-osd) - MSP DisplayPort OSD (1 week ago)
 - [fpv-wtf/margerine](https://github.com/fpv-wtf/margerine) - It&#39;s not butter, but it&#39;s root. (1 week ago)
 - [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) - Kernel code of the Blackbox Mate Online (2 weeks ago)
-- [ic319/gyrologger](https://github.com/ic319/gyrologger) - You know... logging hand trembling 😅 (2 weeks ago)
 
 #### 💬 Feedback
 
