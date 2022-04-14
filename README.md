@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (1 day ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (today)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (6 days ago)
 - [NeutronRC/betaflight-presets](https://github.com/NeutronRC/betaflight-presets) -  (1 week ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (1 week ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix SHA issue by using LF](https://github.com/gyroflow/flowshutter/pull/99) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add ci for check sha](https://github.com/gyroflow/flowshutter/pull/98) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Fix wrong sha](https://github.com/gyroflow/flowshutter/pull/97) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Add check option (for CI)](https://github.com/gyroflow/flowshutter/pull/96) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
@@ -44,7 +45,6 @@
 - [Update flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/8) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (6 days ago)
 - [Fix misleading info/vars/functions/names around Schmitt Trigger](https://github.com/gyroflow/flowshutter/pull/89) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
 - [Add reboot hint for changing camera protocol](https://github.com/gyroflow/flowshutter/pull/88) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
-- [Text fix](https://github.com/gyroflow/logger-presets/pull/12) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (1 week ago)
 
 #### ⭐ Recent Stars
 
