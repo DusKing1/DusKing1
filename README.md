@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add ci for check sha](https://github.com/gyroflow/flowshutter/pull/98) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Fix wrong sha](https://github.com/gyroflow/flowshutter/pull/97) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Add check option (for CI)](https://github.com/gyroflow/flowshutter/pull/96) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Add sha1 script (PC side)](https://github.com/gyroflow/flowshutter/pull/95) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
@@ -44,7 +45,6 @@
 - [Fix misleading info/vars/functions/names around Schmitt Trigger](https://github.com/gyroflow/flowshutter/pull/89) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
 - [Add reboot hint for changing camera protocol](https://github.com/gyroflow/flowshutter/pull/88) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
 - [Text fix](https://github.com/gyroflow/logger-presets/pull/12) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (1 week ago)
-- [Cosmetic for secondary fc preset](https://github.com/gyroflow/logger-presets/pull/11) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (1 week ago)
 
 #### ⭐ Recent Stars
 
