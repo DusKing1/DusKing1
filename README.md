@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add some comments for gen_sha.py](https://github.com/gyroflow/flowshutter/pull/100) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Fix SHA issue by using LF](https://github.com/gyroflow/flowshutter/pull/99) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Add ci for check sha](https://github.com/gyroflow/flowshutter/pull/98) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Fix wrong sha](https://github.com/gyroflow/flowshutter/pull/97) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
@@ -44,7 +45,6 @@
 - [House keeping](https://github.com/gyroflow/flowshutter/pull/90) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (5 days ago)
 - [Update flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/8) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (1 week ago)
 - [Fix misleading info/vars/functions/names around Schmitt Trigger](https://github.com/gyroflow/flowshutter/pull/89) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
-- [Add reboot hint for changing camera protocol](https://github.com/gyroflow/flowshutter/pull/88) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 
 #### ⭐ Recent Stars
 
