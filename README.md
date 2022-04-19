@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer&#39;s guide to live longer (today)
 - [AdrianEddy/telemetry-parser](https://github.com/AdrianEddy/telemetry-parser) - A tool to parse real-time metadata embedded in video files or telemetry from other sources like Betaflight blackbox. Supported formats: Sony, GoPro GPMF, Insta360, Betaflight blackbox (csv and binary) (2 days ago)
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents (5 days ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (6 days ago)
@@ -57,7 +58,6 @@
 - [lvgl/lv_port_esp32](https://github.com/lvgl/lv_port_esp32) - LVGL ported to ESP32 including various display and touchpad drivers (1 week ago)
 - [xubaifuCode/CN.Remote.Jobs](https://github.com/xubaifuCode/CN.Remote.Jobs) - 汇集在中国地区支持全远程/混合远程办公的公司。 (2 weeks ago)
 - [bri3d/msp-osd](https://github.com/bri3d/msp-osd) - MSP DisplayPort OSD (2 weeks ago)
-- [fpv-wtf/margerine](https://github.com/fpv-wtf/margerine) - It&#39;s not butter, but it&#39;s root. (2 weeks ago)
 
 #### 💬 Feedback
 
