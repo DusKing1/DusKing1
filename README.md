@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (1 day ago)
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (2 days ago)
+- [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (2 days ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (3 days ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (2 weeks ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (2 weeks ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (2 weeks ago)
@@ -35,9 +35,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add more gyros for NeutronRCF411SX1280 target](https://github.com/betaflight/betaflight/pull/11545) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 day ago)
-- [Add basic OTA](https://github.com/gyroflow/flowshutter/pull/101) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
-- [Add some comments for gen_sha.py](https://github.com/gyroflow/flowshutter/pull/100) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (5 days ago)
+- [Add more gyros for NeutronRCF411SX1280 target](https://github.com/betaflight/betaflight/pull/11545) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (2 days ago)
+- [Add basic OTA](https://github.com/gyroflow/flowshutter/pull/101) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
+- [Add some comments for gen_sha.py](https://github.com/gyroflow/flowshutter/pull/100) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
 - [Fix SHA issue by using LF](https://github.com/gyroflow/flowshutter/pull/99) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Add ci for check sha](https://github.com/gyroflow/flowshutter/pull/98) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Fix wrong sha](https://github.com/gyroflow/flowshutter/pull/97) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
@@ -48,9 +48,9 @@
 
 #### ⭐ Recent Stars
 
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie (2 days ago)
-- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer&#39;s guide to live longer (3 days ago)
-- [AdrianEddy/telemetry-parser](https://github.com/AdrianEddy/telemetry-parser) - A tool to parse real-time metadata embedded in video files or telemetry from other sources like Betaflight blackbox. Supported formats: Sony, GoPro GPMF, Insta360, Betaflight blackbox (csv and binary) (5 days ago)
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie (3 days ago)
+- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer&#39;s guide to live longer (4 days ago)
+- [AdrianEddy/telemetry-parser](https://github.com/AdrianEddy/telemetry-parser) - A tool to parse real-time metadata embedded in video files or telemetry from other sources like Betaflight blackbox. Supported formats: Sony, GoPro GPMF, Insta360, Betaflight blackbox (csv and binary) (6 days ago)
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents (1 week ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (1 week ago)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (2 weeks ago)
