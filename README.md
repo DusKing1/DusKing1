@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [yunswj/STM32-HDMI-CEC](https://github.com/yunswj/STM32-HDMI-CEC) - (｡･∀･)ﾉﾞ嗨，需要一个廉价的CEC方案不 (today)
 - [STMicroelectronics/lsm6ds3](https://github.com/STMicroelectronics/lsm6ds3) - lsm6ds3 platform independent driver based on Standard C language and compliant with MISRA standard (6 days ago)
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie (1 week ago)
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer&#39;s guide to live longer (1 week ago)
@@ -57,7 +58,6 @@
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (3 weeks ago)
 - [FASTSHIFT/X-TRACK](https://github.com/FASTSHIFT/X-TRACK) - A GPS bicycle speedometer that supports offline maps and track recording  (3 weeks ago)
 - [ZhamaoDra/kinodynamic_frontend](https://github.com/ZhamaoDra/kinodynamic_frontend) - kinodynamic RRT* &amp; A* (3 weeks ago)
-- [lvgl/lv_port_esp32](https://github.com/lvgl/lv_port_esp32) - LVGL ported to ESP32 including various display and touchpad drivers (3 weeks ago)
 
 #### 💬 Feedback
 
