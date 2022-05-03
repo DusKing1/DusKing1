@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [peterhinch/micropython-async](https://github.com/peterhinch/micropython-async) - Application of uasyncio to hardware interfaces. Tutorial and code. (today)
 - [yunswj/STM32-HDMI-CEC](https://github.com/yunswj/STM32-HDMI-CEC) - (｡･∀･)ﾉﾞ嗨，需要一个廉价的CEC方案不 (2 days ago)
 - [STMicroelectronics/lsm6ds3](https://github.com/STMicroelectronics/lsm6ds3) - lsm6ds3 platform independent driver based on Standard C language and compliant with MISRA standard (1 week ago)
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie (1 week ago)
@@ -57,7 +58,6 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (2 weeks ago)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (3 weeks ago)
 - [FASTSHIFT/X-TRACK](https://github.com/FASTSHIFT/X-TRACK) - A GPS bicycle speedometer that supports offline maps and track recording  (3 weeks ago)
-- [ZhamaoDra/kinodynamic_frontend](https://github.com/ZhamaoDra/kinodynamic_frontend) - kinodynamic RRT* &amp; A* (3 weeks ago)
 
 #### 💬 Feedback
 
