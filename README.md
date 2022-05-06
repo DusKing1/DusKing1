@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [tvvocold/How-To-Ask-Questions-The-Smart-Way](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way) - How To Ask Questions The Smart Way 《提问的智慧》中文版 (today)
 - [peterhinch/micropython-async](https://github.com/peterhinch/micropython-async) - Application of uasyncio to hardware interfaces. Tutorial and code. (3 days ago)
 - [yunswj/STM32-HDMI-CEC](https://github.com/yunswj/STM32-HDMI-CEC) - (｡･∀･)ﾉﾞ嗨，需要一个廉价的CEC方案不 (5 days ago)
 - [STMicroelectronics/lsm6ds3](https://github.com/STMicroelectronics/lsm6ds3) - lsm6ds3 platform independent driver based on Standard C language and compliant with MISRA standard (1 week ago)
@@ -57,7 +58,6 @@
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents (3 weeks ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (3 weeks ago)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (4 weeks ago)
-- [FASTSHIFT/X-TRACK](https://github.com/FASTSHIFT/X-TRACK) - A GPS bicycle speedometer that supports offline maps and track recording  (1 month ago)
 
 #### 💬 Feedback
 
