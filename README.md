@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (today)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (1 week ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (2 weeks ago)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (2 weeks ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (4 weeks ago)
 - [NeutronRC/betaflight-presets](https://github.com/NeutronRC/betaflight-presets) -  (1 month ago)
-- [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (1 month ago)
 - [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (1 month ago)
 - [DusKing1/github-slideshow](https://github.com/DusKing1/github-slideshow) - A robot powered training repository :robot: (1 month ago)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (2 months ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add preset for NeutronRC SDB](https://github.com/gyroflow/logger-presets/pull/14) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (today)
 - [Add SKYSTARSH7HD target](https://github.com/betaflight/unified-targets/pull/594) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 week ago)
 - [Add more gyros for NeutronRCF411SX1280 target](https://github.com/betaflight/betaflight/pull/11545) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (2 weeks ago)
 - [Add basic OTA](https://github.com/gyroflow/flowshutter/pull/101) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 weeks ago)
@@ -44,7 +45,6 @@
 - [Fix wrong sha](https://github.com/gyroflow/flowshutter/pull/97) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
 - [Add check option (for CI)](https://github.com/gyroflow/flowshutter/pull/96) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
 - [Add sha1 script (PC side)](https://github.com/gyroflow/flowshutter/pull/95) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
-- [Add CI for CLA](https://github.com/gyroflow/flowshutter/pull/91) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
