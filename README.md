@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update title](https://github.com/gyroflow/flowshutter/pull/104) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Update readme](https://github.com/gyroflow/flowshutter/pull/103) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add preset for NeutronRC SDB](https://github.com/gyroflow/logger-presets/pull/14) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (1 day ago)
 - [Add SKYSTARSH7HD target](https://github.com/betaflight/unified-targets/pull/594) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 week ago)
@@ -44,7 +45,6 @@
 - [Fix SHA issue by using LF](https://github.com/gyroflow/flowshutter/pull/99) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
 - [Add ci for check sha](https://github.com/gyroflow/flowshutter/pull/98) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
 - [Fix wrong sha](https://github.com/gyroflow/flowshutter/pull/97) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
-- [Add check option (for CI)](https://github.com/gyroflow/flowshutter/pull/96) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
