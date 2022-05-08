@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add OTA compare](https://github.com/gyroflow/flowshutter/pull/105) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Update title](https://github.com/gyroflow/flowshutter/pull/104) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Update readme](https://github.com/gyroflow/flowshutter/pull/103) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add preset for NeutronRC SDB](https://github.com/gyroflow/logger-presets/pull/14) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (1 day ago)
@@ -44,7 +45,6 @@
 - [Add some comments for gen_sha.py](https://github.com/gyroflow/flowshutter/pull/100) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
 - [Fix SHA issue by using LF](https://github.com/gyroflow/flowshutter/pull/99) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
 - [Add ci for check sha](https://github.com/gyroflow/flowshutter/pull/98) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
-- [Fix wrong sha](https://github.com/gyroflow/flowshutter/pull/97) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
