@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix Sony locking issue](https://github.com/gyroflow/flowshutter/pull/106) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add OTA compare](https://github.com/gyroflow/flowshutter/pull/105) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Update title](https://github.com/gyroflow/flowshutter/pull/104) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Update readme](https://github.com/gyroflow/flowshutter/pull/103) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
@@ -44,7 +45,6 @@
 - [Add basic OTA](https://github.com/gyroflow/flowshutter/pull/101) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 weeks ago)
 - [Add some comments for gen_sha.py](https://github.com/gyroflow/flowshutter/pull/100) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
 - [Fix SHA issue by using LF](https://github.com/gyroflow/flowshutter/pull/99) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
-- [Add ci for check sha](https://github.com/gyroflow/flowshutter/pull/98) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
