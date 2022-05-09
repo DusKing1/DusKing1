@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (today)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (1 day ago)
-- [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (2 days ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (1 week ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (2 weeks ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (1 month ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update filter settings for flowbox(s)](https://github.com/gyroflow/logger-presets/pull/15) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (today)
 - [Add ota fetch function](https://github.com/gyroflow/flowshutter/pull/107) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Fix Sony locking issue](https://github.com/gyroflow/flowshutter/pull/106) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Add OTA compare](https://github.com/gyroflow/flowshutter/pull/105) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
@@ -44,7 +45,6 @@
 - [Add SKYSTARSH7HD target](https://github.com/betaflight/unified-targets/pull/594) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 week ago)
 - [Add more gyros for NeutronRCF411SX1280 target](https://github.com/betaflight/betaflight/pull/11545) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (2 weeks ago)
 - [Add basic OTA](https://github.com/gyroflow/flowshutter/pull/101) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 weeks ago)
-- [Add some comments for gen_sha.py](https://github.com/gyroflow/flowshutter/pull/100) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
