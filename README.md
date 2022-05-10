@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix boot issue](https://github.com/gyroflow/flowshutter/pull/109) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add update in boot](https://github.com/gyroflow/flowshutter/pull/108) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Update filter settings for flowbox(s)](https://github.com/gyroflow/logger-presets/pull/15) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (1 day ago)
 - [Add ota fetch function](https://github.com/gyroflow/flowshutter/pull/107) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
@@ -44,7 +45,6 @@
 - [Update readme](https://github.com/gyroflow/flowshutter/pull/103) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [Add preset for NeutronRC SDB](https://github.com/gyroflow/logger-presets/pull/14) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (3 days ago)
 - [Add SKYSTARSH7HD target](https://github.com/betaflight/unified-targets/pull/594) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 week ago)
-- [Add more gyros for NeutronRCF411SX1280 target](https://github.com/betaflight/betaflight/pull/11545) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
