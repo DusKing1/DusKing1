@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix soft reset issue](https://github.com/gyroflow/flowshutter/pull/110) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Fix boot issue](https://github.com/gyroflow/flowshutter/pull/109) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add update in boot](https://github.com/gyroflow/flowshutter/pull/108) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Update filter settings for flowbox(s)](https://github.com/gyroflow/logger-presets/pull/15) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (1 day ago)
@@ -44,7 +45,6 @@
 - [Update title](https://github.com/gyroflow/flowshutter/pull/104) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [Update readme](https://github.com/gyroflow/flowshutter/pull/103) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [Add preset for NeutronRC SDB](https://github.com/gyroflow/logger-presets/pull/14) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (3 days ago)
-- [Add SKYSTARSH7HD target](https://github.com/betaflight/unified-targets/pull/594) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 week ago)
 
 #### ⭐ Recent Stars
 
