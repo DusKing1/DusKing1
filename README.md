@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (1 day ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (today)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (2 days ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (1 week ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (2 weeks ago)
@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add missing rotate() in OLED driver](https://github.com/gyroflow/flowshutter/pull/113) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
+- [Optimize OLED driver](https://github.com/gyroflow/flowshutter/pull/112) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add CI badges for master beta and stable](https://github.com/gyroflow/flowshutter/pull/111) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Fix soft reset issue](https://github.com/gyroflow/flowshutter/pull/110) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Fix boot issue](https://github.com/gyroflow/flowshutter/pull/109) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
@@ -43,8 +45,6 @@
 - [Add ota fetch function](https://github.com/gyroflow/flowshutter/pull/107) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Fix Sony locking issue](https://github.com/gyroflow/flowshutter/pull/106) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Add OTA compare](https://github.com/gyroflow/flowshutter/pull/105) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
-- [Update title](https://github.com/gyroflow/flowshutter/pull/104) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
-- [Update readme](https://github.com/gyroflow/flowshutter/pull/103) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 
 #### ⭐ Recent Stars
 
