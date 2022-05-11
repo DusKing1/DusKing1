@@ -35,8 +35,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add missing rotate() in OLED driver](https://github.com/gyroflow/flowshutter/pull/113) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
-- [Optimize OLED driver](https://github.com/gyroflow/flowshutter/pull/112) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
+- [[OLED Driver] Split framebuffer by pages](https://github.com/gyroflow/flowshutter/pull/114) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
+- [[OLED Driver] Add missing rotate()](https://github.com/gyroflow/flowshutter/pull/113) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
+- [[OLED Driver] Optimize OLED driver](https://github.com/gyroflow/flowshutter/pull/112) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add CI badges for master beta and stable](https://github.com/gyroflow/flowshutter/pull/111) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Fix soft reset issue](https://github.com/gyroflow/flowshutter/pull/110) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Fix boot issue](https://github.com/gyroflow/flowshutter/pull/109) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
@@ -44,7 +45,6 @@
 - [Update filter settings for flowbox(s)](https://github.com/gyroflow/logger-presets/pull/15) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (2 days ago)
 - [Add ota fetch function](https://github.com/gyroflow/flowshutter/pull/107) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Fix Sony locking issue](https://github.com/gyroflow/flowshutter/pull/106) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
-- [Add OTA compare](https://github.com/gyroflow/flowshutter/pull/105) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 
 #### ⭐ Recent Stars
 
