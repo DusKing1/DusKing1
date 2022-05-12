@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (1 day ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (today)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (3 days ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (2 weeks ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (3 weeks ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor sony multi protocol](https://github.com/gyroflow/flowshutter/pull/115) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [[OLED Driver] Split framebuffer by pages](https://github.com/gyroflow/flowshutter/pull/114) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [[OLED Driver] Add missing rotate()](https://github.com/gyroflow/flowshutter/pull/113) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [[OLED Driver] Optimize OLED driver](https://github.com/gyroflow/flowshutter/pull/112) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
@@ -44,7 +45,6 @@
 - [Add update in boot](https://github.com/gyroflow/flowshutter/pull/108) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [Update filter settings for flowbox(s)](https://github.com/gyroflow/logger-presets/pull/15) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (3 days ago)
 - [Add ota fetch function](https://github.com/gyroflow/flowshutter/pull/107) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
-- [Fix Sony locking issue](https://github.com/gyroflow/flowshutter/pull/106) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
 
 #### ⭐ Recent Stars
 
