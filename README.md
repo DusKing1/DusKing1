@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor camera protocol](https://github.com/gyroflow/flowshutter/pull/117) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Refactor CRSF](https://github.com/gyroflow/flowshutter/pull/116) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Refactor sony multi protocol](https://github.com/gyroflow/flowshutter/pull/115) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [[OLED Driver] Split framebuffer by pages](https://github.com/gyroflow/flowshutter/pull/114) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
@@ -44,7 +45,6 @@
 - [Fix soft reset issue](https://github.com/gyroflow/flowshutter/pull/110) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [Fix boot issue](https://github.com/gyroflow/flowshutter/pull/109) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [Add update in boot](https://github.com/gyroflow/flowshutter/pull/108) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
-- [Update filter settings for flowbox(s)](https://github.com/gyroflow/logger-presets/pull/15) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (3 days ago)
 
 #### ⭐ Recent Stars
 
