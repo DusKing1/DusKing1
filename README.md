@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor CRSF](https://github.com/gyroflow/flowshutter/pull/116) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Refactor sony multi protocol](https://github.com/gyroflow/flowshutter/pull/115) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [[OLED Driver] Split framebuffer by pages](https://github.com/gyroflow/flowshutter/pull/114) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [[OLED Driver] Add missing rotate()](https://github.com/gyroflow/flowshutter/pull/113) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
@@ -44,7 +45,6 @@
 - [Fix boot issue](https://github.com/gyroflow/flowshutter/pull/109) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [Add update in boot](https://github.com/gyroflow/flowshutter/pull/108) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [Update filter settings for flowbox(s)](https://github.com/gyroflow/logger-presets/pull/15) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (3 days ago)
-- [Add ota fetch function](https://github.com/gyroflow/flowshutter/pull/107) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
 
 #### ⭐ Recent Stars
 
