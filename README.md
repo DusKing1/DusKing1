@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor battery and buttons](https://github.com/gyroflow/flowshutter/pull/119) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add a simple schedular on timer1](https://github.com/gyroflow/flowshutter/pull/118) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Refactor camera protocol](https://github.com/gyroflow/flowshutter/pull/117) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Refactor CRSF](https://github.com/gyroflow/flowshutter/pull/116) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
@@ -44,7 +45,6 @@
 - [[OLED Driver] Optimize OLED driver](https://github.com/gyroflow/flowshutter/pull/112) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Add CI badges for master beta and stable](https://github.com/gyroflow/flowshutter/pull/111) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [Fix soft reset issue](https://github.com/gyroflow/flowshutter/pull/110) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
-- [Fix boot issue](https://github.com/gyroflow/flowshutter/pull/109) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 
 #### ⭐ Recent Stars
 
