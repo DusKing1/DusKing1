@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add garbage collection task to schedular](https://github.com/gyroflow/flowshutter/pull/125) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
+- [Refactor UI logic and imporve schedular](https://github.com/gyroflow/flowshutter/pull/125) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Refactor wlan](https://github.com/gyroflow/flowshutter/pull/124) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Refactor canvas](https://github.com/gyroflow/flowshutter/pull/123) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [[OLED Driver] Split OLED show_sub task](https://github.com/gyroflow/flowshutter/pull/122) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
