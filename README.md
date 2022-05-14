@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add garbage collection task to schedular](https://github.com/gyroflow/flowshutter/pull/125) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
+- [Refactor wlan](https://github.com/gyroflow/flowshutter/pull/124) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Refactor canvas](https://github.com/gyroflow/flowshutter/pull/123) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [[OLED Driver] Split OLED show_sub task](https://github.com/gyroflow/flowshutter/pull/122) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Refactor CRSF gen](https://github.com/gyroflow/flowshutter/pull/121) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
@@ -43,8 +45,6 @@
 - [Add a simple schedular on timer1](https://github.com/gyroflow/flowshutter/pull/118) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [Refactor camera protocol](https://github.com/gyroflow/flowshutter/pull/117) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [Refactor CRSF](https://github.com/gyroflow/flowshutter/pull/116) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
-- [Refactor sony multi protocol](https://github.com/gyroflow/flowshutter/pull/115) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
-- [[OLED Driver] Split framebuffer by pages](https://github.com/gyroflow/flowshutter/pull/114) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 
 #### ⭐ Recent Stars
 
