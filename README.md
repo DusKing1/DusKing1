@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (1 day ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (today)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (6 days ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (2 weeks ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (3 weeks ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [revert wlan changes](https://github.com/gyroflow/flowshutter/pull/126) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Refactor UI logic and imporve schedular](https://github.com/gyroflow/flowshutter/pull/125) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Refactor wlan](https://github.com/gyroflow/flowshutter/pull/124) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Refactor canvas](https://github.com/gyroflow/flowshutter/pull/123) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
@@ -44,7 +45,6 @@
 - [Refactor battery and buttons](https://github.com/gyroflow/flowshutter/pull/119) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Add a simple schedular on timer1](https://github.com/gyroflow/flowshutter/pull/118) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Refactor camera protocol](https://github.com/gyroflow/flowshutter/pull/117) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
-- [Refactor CRSF](https://github.com/gyroflow/flowshutter/pull/116) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 
 #### ⭐ Recent Stars
 
