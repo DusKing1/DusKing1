@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (1 day ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (today)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (1 week ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (2 weeks ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (3 weeks ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Strip camera control behavior from UI logic layer](https://github.com/gyroflow/flowshutter/pull/128) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Refactor wifi manager](https://github.com/gyroflow/flowshutter/pull/127) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [revert wlan changes](https://github.com/gyroflow/flowshutter/pull/126) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Refactor UI logic and imporve schedular](https://github.com/gyroflow/flowshutter/pull/125) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
@@ -44,10 +45,10 @@
 - [Refactor CRSF gen](https://github.com/gyroflow/flowshutter/pull/121) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
 - [Refactor OTA and task](https://github.com/gyroflow/flowshutter/pull/120) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
 - [Refactor battery and buttons](https://github.com/gyroflow/flowshutter/pull/119) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
-- [Add a simple schedular on timer1](https://github.com/gyroflow/flowshutter/pull/118) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
 
 #### ⭐ Recent Stars
 
+- [alduxvm/pyMultiWii](https://github.com/alduxvm/pyMultiWii) - MultiWii Serial Protocol (MSP) API to send and receive data from firmware using MSP (today)
 - [graham768/MicroWiFiManager](https://github.com/graham768/MicroWiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - micropython  (1 day ago)
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. (1 week ago)
 - [tvvocold/How-To-Ask-Questions-The-Smart-Way](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way) - How To Ask Questions The Smart Way 《提问的智慧》中文版 (1 week ago)
@@ -57,7 +58,6 @@
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie (3 weeks ago)
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer&#39;s guide to live longer (3 weeks ago)
 - [AdrianEddy/telemetry-parser](https://github.com/AdrianEddy/telemetry-parser) - A tool to parse real-time metadata embedded in video files or telemetry from other sources like Betaflight blackbox. Supported formats: Sony, GoPro GPMF, Insta360, Betaflight blackbox (csv and binary) (4 weeks ago)
-- [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents (1 month ago)
 
 #### 💬 Feedback
 
