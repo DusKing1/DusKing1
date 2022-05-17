@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (1 day ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (today)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (1 week ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (2 weeks ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (3 weeks ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update readme](https://github.com/gyroflow/flowshutter/pull/129) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Strip camera control behavior from UI logic layer](https://github.com/gyroflow/flowshutter/pull/128) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Refactor wifi manager](https://github.com/gyroflow/flowshutter/pull/127) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
 - [revert wlan changes](https://github.com/gyroflow/flowshutter/pull/126) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
@@ -44,7 +45,6 @@
 - [[OLED Driver] Split OLED show_sub task](https://github.com/gyroflow/flowshutter/pull/122) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
 - [Refactor CRSF gen](https://github.com/gyroflow/flowshutter/pull/121) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (5 days ago)
 - [Refactor OTA and task](https://github.com/gyroflow/flowshutter/pull/120) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (5 days ago)
-- [Refactor battery and buttons](https://github.com/gyroflow/flowshutter/pull/119) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (5 days ago)
 
 #### ⭐ Recent Stars
 
