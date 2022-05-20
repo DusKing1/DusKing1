@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (3 days ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (today)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (1 week ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (3 weeks ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (4 weeks ago)
@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[OLED Driver] Cleanup](https://github.com/gyroflow/flowshutter/pull/131) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
+- [improve ssd1306 driver](https://github.com/gyroflow/flowshutter/pull/130) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Update readme](https://github.com/gyroflow/flowshutter/pull/129) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [Strip camera control behavior from UI logic layer](https://github.com/gyroflow/flowshutter/pull/128) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
 - [Refactor wifi manager](https://github.com/gyroflow/flowshutter/pull/127) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (5 days ago)
@@ -43,8 +45,6 @@
 - [Refactor wlan](https://github.com/gyroflow/flowshutter/pull/124) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
 - [Refactor canvas](https://github.com/gyroflow/flowshutter/pull/123) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [[OLED Driver] Split OLED show_sub task](https://github.com/gyroflow/flowshutter/pull/122) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
-- [Refactor CRSF gen](https://github.com/gyroflow/flowshutter/pull/121) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
-- [Refactor OTA and task](https://github.com/gyroflow/flowshutter/pull/120) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 
 #### ⭐ Recent Stars
 
