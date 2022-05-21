@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [russhughes/st7789py_mpy](https://github.com/russhughes/st7789py_mpy) - Driver for 320x240, 240x240 and 135x240 ST7789 displays written in MicroPython (today)
 - [alduxvm/pyMultiWii](https://github.com/alduxvm/pyMultiWii) - MultiWii Serial Protocol (MSP) API to send and receive data from firmware using MSP (5 days ago)
 - [graham768/MicroWiFiManager](https://github.com/graham768/MicroWiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - micropython  (6 days ago)
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. (1 week ago)
@@ -57,7 +58,6 @@
 - [STMicroelectronics/lsm6ds3](https://github.com/STMicroelectronics/lsm6ds3) - lsm6ds3 platform independent driver based on Standard C language and compliant with MISRA standard (3 weeks ago)
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie (1 month ago)
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer&#39;s guide to live longer (1 month ago)
-- [AdrianEddy/telemetry-parser](https://github.com/AdrianEddy/telemetry-parser) - A tool to parse real-time metadata embedded in video files or telemetry from other sources like Betaflight blackbox. Supported formats: Sony, GoPro GPMF, Insta360, Betaflight blackbox (csv and binary) (1 month ago)
 
 #### 💬 Feedback
 
