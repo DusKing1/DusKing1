@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [nrobertus/Blackmagic-LANC](https://github.com/nrobertus/Blackmagic-LANC) - A project to control the Black Magic line of cameras through the LANC port, probably with an arduino or ESP 8266 (today)
 - [imaginevision/Z-Camera-Doc](https://github.com/imaginevision/Z-Camera-Doc) - Document for Z Camera (today)
 - [russhughes/st7789_mpy](https://github.com/russhughes/st7789_mpy) - Fast MicroPython driver for  ST7789 display module written in C (2 days ago)
 - [russhughes/st7789py_mpy](https://github.com/russhughes/st7789py_mpy) - Driver for 320x240, 240x240 and 135x240 ST7789 displays written in MicroPython (2 days ago)
@@ -57,7 +58,6 @@
 - [tvvocold/How-To-Ask-Questions-The-Smart-Way](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way) - How To Ask Questions The Smart Way 《提问的智慧》中文版 (2 weeks ago)
 - [peterhinch/micropython-async](https://github.com/peterhinch/micropython-async) - Application of uasyncio to hardware interfaces. Tutorial and code. (2 weeks ago)
 - [yunswj/STM32-HDMI-CEC](https://github.com/yunswj/STM32-HDMI-CEC) - (｡･∀･)ﾉﾞ嗨，需要一个廉价的CEC方案不 (3 weeks ago)
-- [STMicroelectronics/lsm6ds3](https://github.com/STMicroelectronics/lsm6ds3) - lsm6ds3 platform independent driver based on Standard C language and compliant with MISRA standard (4 weeks ago)
 
 #### 💬 Feedback
 
