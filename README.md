@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (today)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (today)
-- [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (2 weeks ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (4 weeks ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (1 month ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (1 month ago)
@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update sampling rate setting](https://github.com/gyroflow/logger-presets/pull/16) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (today)
 - [Bump version number to 0.61](https://github.com/gyroflow/flowshutter/pull/132) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [[OLED Driver] Cleanup](https://github.com/gyroflow/flowshutter/pull/131) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [improve ssd1306 driver](https://github.com/gyroflow/flowshutter/pull/130) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
@@ -45,7 +46,6 @@
 - [revert wlan changes](https://github.com/gyroflow/flowshutter/pull/126) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Refactor UI logic and imporve schedular](https://github.com/gyroflow/flowshutter/pull/125) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Refactor wlan](https://github.com/gyroflow/flowshutter/pull/124) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
-- [Refactor canvas](https://github.com/gyroflow/flowshutter/pull/123) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
