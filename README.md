@@ -49,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works (today)
 - [nrobertus/Blackmagic-LANC](https://github.com/nrobertus/Blackmagic-LANC) - A project to control the Black Magic line of cameras through the LANC port, probably with an arduino or ESP 8266 (5 days ago)
 - [imaginevision/Z-Camera-Doc](https://github.com/imaginevision/Z-Camera-Doc) - Document for Z Camera (5 days ago)
 - [russhughes/st7789_mpy](https://github.com/russhughes/st7789_mpy) - Fast MicroPython driver for  ST7789 display module written in C (1 week ago)
@@ -58,7 +59,6 @@
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. (2 weeks ago)
 - [tvvocold/How-To-Ask-Questions-The-Smart-Way](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way) - How To Ask Questions The Smart Way 《提问的智慧》中文版 (3 weeks ago)
 - [peterhinch/micropython-async](https://github.com/peterhinch/micropython-async) - Application of uasyncio to hardware interfaces. Tutorial and code. (3 weeks ago)
-- [yunswj/STM32-HDMI-CEC](https://github.com/yunswj/STM32-HDMI-CEC) - (｡･∀･)ﾉﾞ嗨，需要一个廉价的CEC方案不 (3 weeks ago)
 
 #### 💬 Feedback
 
