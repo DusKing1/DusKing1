@@ -49,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [DHDAXCW/NanoPi-R2S-rk3328](https://github.com/DHDAXCW/NanoPi-R2S-rk3328) -  (today)
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works (1 day ago)
 - [nrobertus/Blackmagic-LANC](https://github.com/nrobertus/Blackmagic-LANC) - A project to control the Black Magic line of cameras through the LANC port, probably with an arduino or ESP 8266 (6 days ago)
 - [imaginevision/Z-Camera-Doc](https://github.com/imaginevision/Z-Camera-Doc) - Document for Z Camera (6 days ago)
@@ -58,7 +59,6 @@
 - [graham768/MicroWiFiManager](https://github.com/graham768/MicroWiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - micropython  (2 weeks ago)
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. (2 weeks ago)
 - [tvvocold/How-To-Ask-Questions-The-Smart-Way](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way) - How To Ask Questions The Smart Way 《提问的智慧》中文版 (3 weeks ago)
-- [peterhinch/micropython-async](https://github.com/peterhinch/micropython-async) - Application of uasyncio to hardware interfaces. Tutorial and code. (3 weeks ago)
 
 #### 💬 Feedback
 
