@@ -27,10 +27,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0-RC7](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0-RC7), today) - Cross platform configuration tool for the Betaflight firmware
+- [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0-RC7](https://github.com/betaflight/betaflight/releases/tag/4.3.0-RC7), today) - Open Source Flight Controller Firmware
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.61](https://github.com/gyroflow/flowshutter/releases/tag/v0.61), 5 days ago) - Firmware for FC based gyro logger device
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.0.1](https://github.com/gyroflow/gyroflow/releases/tag/v1.0.1), 3 weeks ago) - Video stabilization using gyroscope data
-- [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0-RC6](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0-RC6), 1 month ago) - Cross platform configuration tool for the Betaflight firmware
-- [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0-RC6](https://github.com/betaflight/betaflight/releases/tag/4.3.0-RC6), 1 month ago) - Open Source Flight Controller Firmware
 - [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.23.0](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.23.0), 1 month ago) - A Web-App to flash your BLHeli_S and AM32 based ESCs from the browser using the Web-Serial API.
 - [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.88](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.88), 2 months ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
 
