@@ -49,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [troydhanson/uthash](https://github.com/troydhanson/uthash) - C macros for hash tables and more (today)
 - [DHDAXCW/NanoPi-R2S-rk3328](https://github.com/DHDAXCW/NanoPi-R2S-rk3328) -  (5 days ago)
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works (6 days ago)
 - [nrobertus/Blackmagic-LANC](https://github.com/nrobertus/Blackmagic-LANC) - A project to control the Black Magic line of cameras through the LANC port, probably with an arduino or ESP 8266 (1 week ago)
@@ -58,7 +59,6 @@
 - [alduxvm/pyMultiWii](https://github.com/alduxvm/pyMultiWii) - MultiWii Serial Protocol (MSP) API to send and receive data from firmware using MSP (2 weeks ago)
 - [graham768/MicroWiFiManager](https://github.com/graham768/MicroWiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - micropython  (2 weeks ago)
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. (3 weeks ago)
-- [tvvocold/How-To-Ask-Questions-The-Smart-Way](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way) - How To Ask Questions The Smart Way 《提问的智慧》中文版 (4 weeks ago)
 
 #### 💬 Feedback
 
