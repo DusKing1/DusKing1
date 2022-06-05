@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add master mode support for ZCAM uart protocol](https://github.com/gyroflow/flowshutter/pull/134) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add basic bitbang LANC](https://github.com/gyroflow/flowshutter/pull/133) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
 - [Improve navigation bar](https://github.com/gyroflow/gyroflow-docs/pull/10) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (6 days ago)
 - [Update doc structure](https://github.com/gyroflow/gyroflow-docs/pull/9) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (1 week ago)
@@ -45,7 +46,6 @@
 - [improve ssd1306 driver](https://github.com/gyroflow/flowshutter/pull/130) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 weeks ago)
 - [Update readme](https://github.com/gyroflow/flowshutter/pull/129) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 weeks ago)
 - [Strip camera control behavior from UI logic layer](https://github.com/gyroflow/flowshutter/pull/128) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 weeks ago)
-- [Refactor wifi manager](https://github.com/gyroflow/flowshutter/pull/127) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
