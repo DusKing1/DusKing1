@@ -49,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [thecognifly/YAMSPy](https://github.com/thecognifly/YAMSPy) - Yet Another Multiwii Serial Protocol Python Interface... for Betaflight, iNAV, etc... (today)
 - [ke4ukz/PyMSP](https://github.com/ke4ukz/PyMSP) - Python MultiWii Serial Protocol communication library (1 day ago)
 - [troydhanson/uthash](https://github.com/troydhanson/uthash) - C macros for hash tables and more (3 days ago)
 - [DHDAXCW/NanoPi-R2S-rk3328](https://github.com/DHDAXCW/NanoPi-R2S-rk3328) -  (1 week ago)
@@ -58,7 +59,6 @@
 - [russhughes/st7789_mpy](https://github.com/russhughes/st7789_mpy) - Fast MicroPython driver for  ST7789 display module written in C (2 weeks ago)
 - [russhughes/st7789py_mpy](https://github.com/russhughes/st7789py_mpy) - Driver for 320x240, 240x240 and 135x240 ST7789 displays written in MicroPython (2 weeks ago)
 - [alduxvm/pyMultiWii](https://github.com/alduxvm/pyMultiWii) - MultiWii Serial Protocol (MSP) API to send and receive data from firmware using MSP (3 weeks ago)
-- [graham768/MicroWiFiManager](https://github.com/graham768/MicroWiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - micropython  (3 weeks ago)
 
 #### 💬 Feedback
 
