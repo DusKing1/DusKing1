@@ -49,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [sensslen/LibLanc](https://github.com/sensslen/LibLanc) - Arduino Library to communicate to Lanc enabled Cameras (today)
 - [thecognifly/YAMSPy](https://github.com/thecognifly/YAMSPy) - Yet Another Multiwii Serial Protocol Python Interface... for Betaflight, iNAV, etc... (1 day ago)
 - [ke4ukz/PyMSP](https://github.com/ke4ukz/PyMSP) - Python MultiWii Serial Protocol communication library (2 days ago)
 - [troydhanson/uthash](https://github.com/troydhanson/uthash) - C macros for hash tables and more (4 days ago)
@@ -58,7 +59,6 @@
 - [imaginevision/Z-Camera-Doc](https://github.com/imaginevision/Z-Camera-Doc) - Document for Z Camera (2 weeks ago)
 - [russhughes/st7789_mpy](https://github.com/russhughes/st7789_mpy) - Fast MicroPython driver for  ST7789 display module written in C (2 weeks ago)
 - [russhughes/st7789py_mpy](https://github.com/russhughes/st7789py_mpy) - Driver for 320x240, 240x240 and 135x240 ST7789 displays written in MicroPython (2 weeks ago)
-- [alduxvm/pyMultiWii](https://github.com/alduxvm/pyMultiWii) - MultiWii Serial Protocol (MSP) API to send and receive data from firmware using MSP (3 weeks ago)
 
 #### 💬 Feedback
 
