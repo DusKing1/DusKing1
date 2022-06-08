@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (1 day ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (2 days ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (1 week ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (1 week ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (1 month ago)
@@ -27,8 +27,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0-RC7](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0-RC7), 6 days ago) - Cross platform configuration tool for the Betaflight firmware
-- [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0-RC7](https://github.com/betaflight/betaflight/releases/tag/4.3.0-RC7), 6 days ago) - Open Source Flight Controller Firmware
+- [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0-RC7](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0-RC7), 1 week ago) - Cross platform configuration tool for the Betaflight firmware
+- [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0-RC7](https://github.com/betaflight/betaflight/releases/tag/4.3.0-RC7), 1 week ago) - Open Source Flight Controller Firmware
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.61](https://github.com/gyroflow/flowshutter/releases/tag/v0.61), 1 week ago) - Firmware for FC based gyro logger device
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.0.1](https://github.com/gyroflow/gyroflow/releases/tag/v1.0.1), 1 month ago) - Video stabilization using gyroscope data
 - [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.23.0](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.23.0), 2 months ago) - A Web-App to flash your BLHeli_S and AM32 based ESCs from the browser using the Web-Serial API.
@@ -36,8 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add master mode support for ZCAM uart protocol](https://github.com/gyroflow/flowshutter/pull/134) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
-- [Add basic bitbang LANC](https://github.com/gyroflow/flowshutter/pull/133) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
+- [Add master mode support for ZCAM uart protocol](https://github.com/gyroflow/flowshutter/pull/134) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
+- [Add basic bitbang LANC](https://github.com/gyroflow/flowshutter/pull/133) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Improve navigation bar](https://github.com/gyroflow/gyroflow-docs/pull/10) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (1 week ago)
 - [Update doc structure](https://github.com/gyroflow/gyroflow-docs/pull/9) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (1 week ago)
 - [Update sampling rate setting](https://github.com/gyroflow/logger-presets/pull/16) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (1 week ago)
@@ -49,16 +49,16 @@
 
 #### ⭐ Recent Stars
 
-- [sensslen/LibLanc](https://github.com/sensslen/LibLanc) - Arduino Library to communicate to Lanc enabled Cameras (today)
-- [thecognifly/YAMSPy](https://github.com/thecognifly/YAMSPy) - Yet Another Multiwii Serial Protocol Python Interface... for Betaflight, iNAV, etc... (1 day ago)
-- [ke4ukz/PyMSP](https://github.com/ke4ukz/PyMSP) - Python MultiWii Serial Protocol communication library (2 days ago)
-- [troydhanson/uthash](https://github.com/troydhanson/uthash) - C macros for hash tables and more (4 days ago)
+- [cmakcay/CRSFv2](https://github.com/cmakcay/CRSFv2) - Python implementation of CRSFv2 (today)
+- [sensslen/LibLanc](https://github.com/sensslen/LibLanc) - Arduino Library to communicate to Lanc enabled Cameras (1 day ago)
+- [thecognifly/YAMSPy](https://github.com/thecognifly/YAMSPy) - Yet Another Multiwii Serial Protocol Python Interface... for Betaflight, iNAV, etc... (2 days ago)
+- [ke4ukz/PyMSP](https://github.com/ke4ukz/PyMSP) - Python MultiWii Serial Protocol communication library (3 days ago)
+- [troydhanson/uthash](https://github.com/troydhanson/uthash) - C macros for hash tables and more (5 days ago)
 - [DHDAXCW/NanoPi-R2S-rk3328](https://github.com/DHDAXCW/NanoPi-R2S-rk3328) -  (1 week ago)
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works (1 week ago)
 - [nrobertus/Blackmagic-LANC](https://github.com/nrobertus/Blackmagic-LANC) - A project to control the Black Magic line of cameras through the LANC port, probably with an arduino or ESP 8266 (2 weeks ago)
 - [imaginevision/Z-Camera-Doc](https://github.com/imaginevision/Z-Camera-Doc) - Document for Z Camera (2 weeks ago)
 - [russhughes/st7789_mpy](https://github.com/russhughes/st7789_mpy) - Fast MicroPython driver for  ST7789 display module written in C (2 weeks ago)
-- [russhughes/st7789py_mpy](https://github.com/russhughes/st7789py_mpy) - Driver for 320x240, 240x240 and 135x240 ST7789 displays written in MicroPython (2 weeks ago)
 
 #### 💬 Feedback
 
