@@ -49,6 +49,8 @@
 
 #### ⭐ Recent Stars
 
+- [brainelectronics/Micropython-ESP-WiFi-Manager](https://github.com/brainelectronics/Micropython-ESP-WiFi-Manager) - Micropython based ESP WiFi Manager (today)
+- [Thekegman/Nikon-Trigger-for-MicroPython](https://github.com/Thekegman/Nikon-Trigger-for-MicroPython) - Remote trigger for a Nikon camera using an IR LED. For PyBoard v1.1 (today)
 - [mcauser/awesome-micropython](https://github.com/mcauser/awesome-micropython) - A curated list of awesome MicroPython libraries, frameworks, software and resources. (today)
 - [AlessioMorale/crsf_parser](https://github.com/AlessioMorale/crsf_parser) - A package to parse and create CRSF (Crossfire) frames, developed primarily to interoperate with ExpressLRS (2 days ago)
 - [cmakcay/CRSFv2](https://github.com/cmakcay/CRSFv2) - Python implementation of CRSFv2 (2 days ago)
@@ -57,8 +59,6 @@
 - [ke4ukz/PyMSP](https://github.com/ke4ukz/PyMSP) - Python MultiWii Serial Protocol communication library (5 days ago)
 - [troydhanson/uthash](https://github.com/troydhanson/uthash) - C macros for hash tables and more (1 week ago)
 - [DHDAXCW/NanoPi-R2S-rk3328](https://github.com/DHDAXCW/NanoPi-R2S-rk3328) -  (1 week ago)
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works (1 week ago)
-- [nrobertus/Blackmagic-LANC](https://github.com/nrobertus/Blackmagic-LANC) - A project to control the Black Magic line of cameras through the LANC port, probably with an arduino or ESP 8266 (2 weeks ago)
 
 #### 💬 Feedback
 
