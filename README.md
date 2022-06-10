@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (4 days ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (today)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (1 week ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (2 weeks ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (1 month ago)
@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix device settings](https://github.com/gyroflow/flowshutter/pull/135) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add master mode support for ZCAM uart protocol](https://github.com/gyroflow/flowshutter/pull/134) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (5 days ago)
 - [Add basic bitbang LANC](https://github.com/gyroflow/flowshutter/pull/133) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Improve navigation bar](https://github.com/gyroflow/gyroflow-docs/pull/10) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (1 week ago)
@@ -45,7 +46,6 @@
 - [[OLED Driver] Cleanup](https://github.com/gyroflow/flowshutter/pull/131) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
 - [improve ssd1306 driver](https://github.com/gyroflow/flowshutter/pull/130) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
 - [Update readme](https://github.com/gyroflow/flowshutter/pull/129) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
-- [Strip camera control behavior from UI logic layer](https://github.com/gyroflow/flowshutter/pull/128) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
