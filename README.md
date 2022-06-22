@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.1.0](https://github.com/gyroflow/gyroflow/releases/tag/v1.1.0), 6 days ago) - Video stabilization using gyroscope data
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.1.0](https://github.com/gyroflow/gyroflow/releases/tag/v1.1.0), 1 week ago) - Video stabilization using gyroscope data
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0](https://github.com/betaflight/betaflight/releases/tag/4.3.0), 1 week ago) - Open Source Flight Controller Firmware
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0), 1 week ago) - Cross platform configuration tool for the Betaflight firmware
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.61](https://github.com/gyroflow/flowshutter/releases/tag/v0.61), 3 weeks ago) - Firmware for FC based gyro logger device
@@ -38,7 +38,7 @@
 
 - [Fix device settings](https://github.com/gyroflow/flowshutter/pull/135) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Add master mode support for ZCAM uart protocol](https://github.com/gyroflow/flowshutter/pull/134) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 weeks ago)
-- [Add basic bitbang LANC](https://github.com/gyroflow/flowshutter/pull/133) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 weeks ago)
+- [Add basic bitbang LANC](https://github.com/gyroflow/flowshutter/pull/133) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
 - [Improve navigation bar](https://github.com/gyroflow/gyroflow-docs/pull/10) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (3 weeks ago)
 - [Update doc structure](https://github.com/gyroflow/gyroflow-docs/pull/9) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (3 weeks ago)
 - [Update sampling rate setting](https://github.com/gyroflow/logger-presets/pull/16) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (3 weeks ago)
@@ -49,14 +49,14 @@
 
 #### ⭐ Recent Stars
 
-- [betaflight/wiki](https://github.com/betaflight/wiki) -  (1 day ago)
-- [peterhinch/micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui) - A lightweight MicroPython GUI library for display drivers based on framebuf class (3 days ago)
-- [Ft-Available/RX5808-Div](https://github.com/Ft-Available/RX5808-Div) - 自制的RX5808接收机 (3 days ago)
+- [betaflight/wiki](https://github.com/betaflight/wiki) -  (2 days ago)
+- [peterhinch/micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui) - A lightweight MicroPython GUI library for display drivers based on framebuf class (4 days ago)
+- [Ft-Available/RX5808-Div](https://github.com/Ft-Available/RX5808-Div) - 自制的RX5808接收机 (4 days ago)
 - [brainelectronics/Micropython-ESP-WiFi-Manager](https://github.com/brainelectronics/Micropython-ESP-WiFi-Manager) - Micropython based ESP WiFi Manager (1 week ago)
 - [Thekegman/Nikon-Trigger-for-MicroPython](https://github.com/Thekegman/Nikon-Trigger-for-MicroPython) - Remote trigger for a Nikon camera using an IR LED. For PyBoard v1.1 (1 week ago)
 - [mcauser/awesome-micropython](https://github.com/mcauser/awesome-micropython) - A curated list of awesome MicroPython libraries, frameworks, software and resources. (1 week ago)
-- [AlessioMorale/crsf_parser](https://github.com/AlessioMorale/crsf_parser) - A package to parse and create CRSF (Crossfire) frames, developed primarily to interoperate with ExpressLRS (1 week ago)
-- [cmakcay/CRSFv2](https://github.com/cmakcay/CRSFv2) - Python implementation of CRSFv2 (1 week ago)
+- [AlessioMorale/crsf_parser](https://github.com/AlessioMorale/crsf_parser) - A package to parse and create CRSF (Crossfire) frames, developed primarily to interoperate with ExpressLRS (2 weeks ago)
+- [cmakcay/CRSFv2](https://github.com/cmakcay/CRSFv2) - Python implementation of CRSFv2 (2 weeks ago)
 - [sensslen/LibLanc](https://github.com/sensslen/LibLanc) - Arduino Library to communicate to Lanc enabled Cameras (2 weeks ago)
 - [thecognifly/YAMSPy](https://github.com/thecognifly/YAMSPy) - Yet Another Multiwii Serial Protocol Python Interface... for Betaflight, iNAV, etc... (2 weeks ago)
 
