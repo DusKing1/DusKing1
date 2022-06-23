@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add build ci](https://github.com/gyroflow/flowshutter/pull/137) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [bump version to 0.63](https://github.com/gyroflow/flowshutter/pull/136) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Fix device settings](https://github.com/gyroflow/flowshutter/pull/135) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Add master mode support for ZCAM uart protocol](https://github.com/gyroflow/flowshutter/pull/134) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 weeks ago)
@@ -45,7 +46,6 @@
 - [Update sampling rate setting](https://github.com/gyroflow/logger-presets/pull/16) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (3 weeks ago)
 - [Bump version number to 0.61](https://github.com/gyroflow/flowshutter/pull/132) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
 - [[OLED Driver] Cleanup](https://github.com/gyroflow/flowshutter/pull/131) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 month ago)
-- [improve ssd1306 driver](https://github.com/gyroflow/flowshutter/pull/130) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 month ago)
 
 #### ⭐ Recent Stars
 
