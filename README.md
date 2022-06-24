@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/11) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (today)
 - [Improve build script and build ci](https://github.com/gyroflow/flowshutter/pull/138) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Add build ci](https://github.com/gyroflow/flowshutter/pull/137) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [bump version to 0.63](https://github.com/gyroflow/flowshutter/pull/136) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
@@ -45,7 +46,6 @@
 - [Improve navigation bar](https://github.com/gyroflow/gyroflow-docs/pull/10) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (3 weeks ago)
 - [Update doc structure](https://github.com/gyroflow/gyroflow-docs/pull/9) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (4 weeks ago)
 - [Update sampling rate setting](https://github.com/gyroflow/logger-presets/pull/16) on [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) (4 weeks ago)
-- [Bump version number to 0.61](https://github.com/gyroflow/flowshutter/pull/132) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
