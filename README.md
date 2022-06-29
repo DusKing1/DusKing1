@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (today)
-- [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (4 days ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (1 day ago)
+- [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (5 days ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (1 month ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (2 months ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (2 months ago)
@@ -27,8 +27,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.63](https://github.com/gyroflow/flowshutter/releases/tag/v0.63), 5 days ago) - Firmware for FC based gyro logger device
-- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.1.0](https://github.com/gyroflow/gyroflow/releases/tag/v1.1.0), 1 week ago) - Video stabilization using gyroscope data
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.63](https://github.com/gyroflow/flowshutter/releases/tag/v0.63), 6 days ago) - Firmware for FC based gyro logger device
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.1.0](https://github.com/gyroflow/gyroflow/releases/tag/v1.1.0), 2 weeks ago) - Video stabilization using gyroscope data
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0](https://github.com/betaflight/betaflight/releases/tag/4.3.0), 2 weeks ago) - Open Source Flight Controller Firmware
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0), 2 weeks ago) - Cross platform configuration tool for the Betaflight firmware
 - [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.23.0](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.23.0), 2 months ago) - A Web-App to flash your BLHeli_S and AM32 based ESCs from the browser using the Web-Serial API.
@@ -36,16 +36,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Async peripherals](https://github.com/gyroflow/flowshutter/pull/140) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
-- [Add Arduino based lanc controller](https://github.com/gyroflow/flowshutter/pull/139) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
-- [Update flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/11) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (4 days ago)
-- [Improve build script and build ci](https://github.com/gyroflow/flowshutter/pull/138) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (5 days ago)
-- [Add build ci](https://github.com/gyroflow/flowshutter/pull/137) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (5 days ago)
-- [bump version to 0.63](https://github.com/gyroflow/flowshutter/pull/136) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
+- [Async peripherals](https://github.com/gyroflow/flowshutter/pull/140) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
+- [Add Arduino based lanc controller](https://github.com/gyroflow/flowshutter/pull/139) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
+- [Update flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/11) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (5 days ago)
+- [Improve build script and build ci](https://github.com/gyroflow/flowshutter/pull/138) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
+- [Add build ci](https://github.com/gyroflow/flowshutter/pull/137) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
+- [bump version to 0.63](https://github.com/gyroflow/flowshutter/pull/136) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Fix device settings](https://github.com/gyroflow/flowshutter/pull/135) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 weeks ago)
 - [Add master mode support for ZCAM uart protocol](https://github.com/gyroflow/flowshutter/pull/134) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
-- [Add basic bitbang LANC](https://github.com/gyroflow/flowshutter/pull/133) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
-- [Improve navigation bar](https://github.com/gyroflow/gyroflow-docs/pull/10) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (4 weeks ago)
+- [Add basic bitbang LANC](https://github.com/gyroflow/flowshutter/pull/133) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 weeks ago)
+- [Improve navigation bar](https://github.com/gyroflow/gyroflow-docs/pull/10) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (1 month ago)
 
 #### ⭐ Recent Stars
 
@@ -55,8 +55,8 @@
 - [brainelectronics/Micropython-ESP-WiFi-Manager](https://github.com/brainelectronics/Micropython-ESP-WiFi-Manager) - Micropython based ESP WiFi Manager (2 weeks ago)
 - [Thekegman/Nikon-Trigger-for-MicroPython](https://github.com/Thekegman/Nikon-Trigger-for-MicroPython) - Remote trigger for a Nikon camera using an IR LED. For PyBoard v1.1 (2 weeks ago)
 - [mcauser/awesome-micropython](https://github.com/mcauser/awesome-micropython) - A curated list of awesome MicroPython libraries, frameworks, software and resources. (2 weeks ago)
-- [AlessioMorale/crsf_parser](https://github.com/AlessioMorale/crsf_parser) - A package to parse and create CRSF (Crossfire) frames, developed primarily to interoperate with ExpressLRS (2 weeks ago)
-- [cmakcay/CRSFv2](https://github.com/cmakcay/CRSFv2) - Python implementation of CRSFv2 (2 weeks ago)
+- [AlessioMorale/crsf_parser](https://github.com/AlessioMorale/crsf_parser) - A package to parse and create CRSF (Crossfire) frames, developed primarily to interoperate with ExpressLRS (3 weeks ago)
+- [cmakcay/CRSFv2](https://github.com/cmakcay/CRSFv2) - Python implementation of CRSFv2 (3 weeks ago)
 - [sensslen/LibLanc](https://github.com/sensslen/LibLanc) - Arduino Library to communicate to Lanc enabled Cameras (3 weeks ago)
 - [thecognifly/YAMSPy](https://github.com/thecognifly/YAMSPy) - Yet Another Multiwii Serial Protocol Python Interface... for Betaflight, iNAV, etc... (3 weeks ago)
 
