@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (3 days ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (4 days ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (1 week ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (1 month ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (2 months ago)
@@ -31,13 +31,13 @@
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.1.0](https://github.com/gyroflow/gyroflow/releases/tag/v1.1.0), 2 weeks ago) - Video stabilization using gyroscope data
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.0](https://github.com/betaflight/betaflight/releases/tag/4.3.0), 2 weeks ago) - Open Source Flight Controller Firmware
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0), 2 weeks ago) - Cross platform configuration tool for the Betaflight firmware
-- [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.23.0](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.23.0), 2 months ago) - A Web-App to flash your BLHeli_S and AM32 based ESCs from the browser using the Web-Serial API.
+- [stylesuxx/esc-configurator](https://github.com/stylesuxx/esc-configurator) ([v0.23.0](https://github.com/stylesuxx/esc-configurator/releases/tag/v0.23.0), 3 months ago) - A Web-App to flash your BLHeli_S and AM32 based ESCs from the browser using the Web-Serial API.
 - [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.88](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.88), 3 months ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
 
 #### 🔨 My recent Pull Requests
 
-- [Async peripherals](https://github.com/gyroflow/flowshutter/pull/140) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
-- [Add Arduino based lanc controller](https://github.com/gyroflow/flowshutter/pull/139) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
+- [Async peripherals](https://github.com/gyroflow/flowshutter/pull/140) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
+- [Add Arduino based lanc controller](https://github.com/gyroflow/flowshutter/pull/139) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Update flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/11) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (1 week ago)
 - [Improve build script and build ci](https://github.com/gyroflow/flowshutter/pull/138) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Add build ci](https://github.com/gyroflow/flowshutter/pull/137) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
@@ -50,8 +50,8 @@
 #### ⭐ Recent Stars
 
 - [betaflight/wiki](https://github.com/betaflight/wiki) -  (1 week ago)
-- [peterhinch/micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui) - A lightweight MicroPython GUI library for display drivers based on framebuf class (1 week ago)
-- [Ft-Available/RX5808-Div](https://github.com/Ft-Available/RX5808-Div) - 自制的RX5808接收机 (1 week ago)
+- [peterhinch/micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui) - A lightweight MicroPython GUI library for display drivers based on framebuf class (2 weeks ago)
+- [Ft-Available/RX5808-Div](https://github.com/Ft-Available/RX5808-Div) - 自制的RX5808接收机 (2 weeks ago)
 - [brainelectronics/Micropython-ESP-WiFi-Manager](https://github.com/brainelectronics/Micropython-ESP-WiFi-Manager) - Micropython based ESP WiFi Manager (3 weeks ago)
 - [Thekegman/Nikon-Trigger-for-MicroPython](https://github.com/Thekegman/Nikon-Trigger-for-MicroPython) - Remote trigger for a Nikon camera using an IR LED. For PyBoard v1.1 (3 weeks ago)
 - [mcauser/awesome-micropython](https://github.com/mcauser/awesome-micropython) - A curated list of awesome MicroPython libraries, frameworks, software and resources. (3 weeks ago)
