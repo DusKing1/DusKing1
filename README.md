@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (4 days ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (5 days ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (1 week ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (1 month ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (2 months ago)
@@ -43,7 +43,7 @@
 - [Add build ci](https://github.com/gyroflow/flowshutter/pull/137) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [bump version to 0.63](https://github.com/gyroflow/flowshutter/pull/136) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Fix device settings](https://github.com/gyroflow/flowshutter/pull/135) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
-- [Add master mode support for ZCAM uart protocol](https://github.com/gyroflow/flowshutter/pull/134) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
+- [Add master mode support for ZCAM uart protocol](https://github.com/gyroflow/flowshutter/pull/134) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 weeks ago)
 - [Add basic bitbang LANC](https://github.com/gyroflow/flowshutter/pull/133) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 month ago)
 - [Improve navigation bar](https://github.com/gyroflow/gyroflow-docs/pull/10) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (1 month ago)
 
