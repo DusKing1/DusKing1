@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add more canvas elements](https://github.com/gyroflow/flowshutter/pull/145) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [UI cleanup](https://github.com/gyroflow/flowshutter/pull/144) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add blackbox erase](https://github.com/gyroflow/flowshutter/pull/143) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Fix voltage](https://github.com/gyroflow/flowshutter/pull/142) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
@@ -45,7 +46,6 @@
 - [Improve build script and build ci](https://github.com/gyroflow/flowshutter/pull/138) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Add build ci](https://github.com/gyroflow/flowshutter/pull/137) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [bump version to 0.63](https://github.com/gyroflow/flowshutter/pull/136) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
-- [Fix device settings](https://github.com/gyroflow/flowshutter/pull/135) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
