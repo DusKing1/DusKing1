@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [lifedebug/m5stack](https://github.com/lifedebug/m5stack) - gui for m5stack by micropython (today)
 - [peterhinch/micropython-micro-gui](https://github.com/peterhinch/micropython-micro-gui) - A lightweight MicroPython GUI library for display drivers based on framebuf, allows input via pushbuttons. (today)
 - [betaflight/wiki](https://github.com/betaflight/wiki) -  (2 weeks ago)
 - [peterhinch/micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui) - A lightweight MicroPython GUI library for display drivers based on framebuf class (2 weeks ago)
@@ -57,7 +58,6 @@
 - [mcauser/awesome-micropython](https://github.com/mcauser/awesome-micropython) - A curated list of awesome MicroPython libraries, frameworks, software and resources. (3 weeks ago)
 - [AlessioMorale/crsf_parser](https://github.com/AlessioMorale/crsf_parser) - A package to parse and create CRSF (Crossfire) frames, developed primarily to interoperate with ExpressLRS (4 weeks ago)
 - [cmakcay/CRSFv2](https://github.com/cmakcay/CRSFv2) - Python implementation of CRSFv2 (4 weeks ago)
-- [sensslen/LibLanc](https://github.com/sensslen/LibLanc) - Arduino Library to communicate to Lanc enabled Cameras (1 month ago)
 
 #### 💬 Feedback
 
