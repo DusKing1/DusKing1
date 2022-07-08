@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [improve file structure and build system](https://github.com/DusKing1/flowshutter-1/pull/1) on [DusKing1/flowshutter-1](https://github.com/DusKing1/flowshutter-1) (today)
+- [improve file structure and build system](https://github.com/gyroflow/flowshutter/pull/146) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Fix ssd1306 driver](https://github.com/peterhinch/micropython-micro-gui/pull/16) on [peterhinch/micropython-micro-gui](https://github.com/peterhinch/micropython-micro-gui) (1 day ago)
 - [Add more canvas elements](https://github.com/gyroflow/flowshutter/pull/145) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
 - [UI cleanup](https://github.com/gyroflow/flowshutter/pull/144) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
@@ -43,8 +45,6 @@
 - [Async peripherals](https://github.com/gyroflow/flowshutter/pull/140) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Add Arduino based lanc controller](https://github.com/gyroflow/flowshutter/pull/139) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Update flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/11) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (2 weeks ago)
-- [Improve build script and build ci](https://github.com/gyroflow/flowshutter/pull/138) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 weeks ago)
-- [Add build ci](https://github.com/gyroflow/flowshutter/pull/137) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
