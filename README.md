@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (today)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (2 days ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (1 week ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (2 weeks ago)
-- [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (2 months ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (2 months ago)
 - [NeutronRC/betaflight-presets](https://github.com/NeutronRC/betaflight-presets) -  (3 months ago)
 - [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (3 months ago)
