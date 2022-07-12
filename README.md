@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (1 day ago)
-- [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (6 days ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (2 days ago)
+- [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (1 week ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (2 weeks ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (2 months ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (2 months ago)
@@ -27,19 +27,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.1](https://github.com/betaflight/betaflight/releases/tag/4.3.1), today) - Open Source Flight Controller Firmware
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.64](https://github.com/gyroflow/flowshutter/releases/tag/v0.64), 5 days ago) - Firmware for FC based gyro logger device
+- [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.1](https://github.com/betaflight/betaflight/releases/tag/4.3.1), 1 day ago) - Open Source Flight Controller Firmware
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.64](https://github.com/gyroflow/flowshutter/releases/tag/v0.64), 6 days ago) - Firmware for FC based gyro logger device
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.1.0](https://github.com/gyroflow/gyroflow/releases/tag/v1.1.0), 3 weeks ago) - Video stabilization using gyroscope data
-- [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0), 3 weeks ago) - Cross platform configuration tool for the Betaflight firmware
+- [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0), 4 weeks ago) - Cross platform configuration tool for the Betaflight firmware
 - [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.88](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.88), 3 months ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
 
 #### 🔨 My recent Pull Requests
 
-- [improve file structure and build system](https://github.com/DusKing1/flowshutter-1/pull/1) on [DusKing1/flowshutter-1](https://github.com/DusKing1/flowshutter-1) (3 days ago)
-- [improve file structure and build system](https://github.com/gyroflow/flowshutter/pull/146) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
-- [Fix ssd1306 driver](https://github.com/peterhinch/micropython-micro-gui/pull/16) on [peterhinch/micropython-micro-gui](https://github.com/peterhinch/micropython-micro-gui) (4 days ago)
-- [Add more canvas elements](https://github.com/gyroflow/flowshutter/pull/145) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
-- [UI cleanup](https://github.com/gyroflow/flowshutter/pull/144) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
+- [improve file structure and build system](https://github.com/DusKing1/flowshutter-1/pull/1) on [DusKing1/flowshutter-1](https://github.com/DusKing1/flowshutter-1) (4 days ago)
+- [improve file structure and build system](https://github.com/gyroflow/flowshutter/pull/146) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
+- [Fix ssd1306 driver](https://github.com/peterhinch/micropython-micro-gui/pull/16) on [peterhinch/micropython-micro-gui](https://github.com/peterhinch/micropython-micro-gui) (5 days ago)
+- [Add more canvas elements](https://github.com/gyroflow/flowshutter/pull/145) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
+- [UI cleanup](https://github.com/gyroflow/flowshutter/pull/144) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Add blackbox erase](https://github.com/gyroflow/flowshutter/pull/143) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Fix voltage](https://github.com/gyroflow/flowshutter/pull/142) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Async peripherals](https://github.com/gyroflow/flowshutter/pull/140) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 weeks ago)
@@ -48,9 +48,9 @@
 
 #### ⭐ Recent Stars
 
-- [bri3d/dji-fan-control](https://github.com/bri3d/dji-fan-control) - A simple fan controller for DJI FPV goggles, for use with WTFOS from https://github.com/fpv-wtf/ (2 days ago)
-- [lifedebug/m5stack](https://github.com/lifedebug/m5stack) - gui for m5stack by micropython (4 days ago)
-- [peterhinch/micropython-micro-gui](https://github.com/peterhinch/micropython-micro-gui) - A lightweight MicroPython GUI library for display drivers based on framebuf, allows input via pushbuttons. (4 days ago)
+- [bri3d/dji-fan-control](https://github.com/bri3d/dji-fan-control) - A simple fan controller for DJI FPV goggles, for use with WTFOS from https://github.com/fpv-wtf/ (3 days ago)
+- [lifedebug/m5stack](https://github.com/lifedebug/m5stack) - gui for m5stack by micropython (5 days ago)
+- [peterhinch/micropython-micro-gui](https://github.com/peterhinch/micropython-micro-gui) - A lightweight MicroPython GUI library for display drivers based on framebuf, allows input via pushbuttons. (5 days ago)
 - [betaflight/wiki](https://github.com/betaflight/wiki) -  (3 weeks ago)
 - [peterhinch/micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui) - A lightweight MicroPython GUI library for display drivers based on framebuf class (3 weeks ago)
 - [Ft-Available/RX5808-Div](https://github.com/Ft-Available/RX5808-Div) - 自制的RX5808接收机 (3 weeks ago)
