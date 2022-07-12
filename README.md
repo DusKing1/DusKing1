@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add NERC-FLOWBOXV2](https://github.com/betaflight/unified-targets/pull/645) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (today)
+- [Redesign menus](https://github.com/DusKing1/flowshutter-1/pull/3) on [DusKing1/flowshutter-1](https://github.com/DusKing1/flowshutter-1) (today)
 - [Add GEPRCF411SX1280](https://github.com/betaflight/unified-targets/pull/644) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (today)
 - [Add NEUTRONRCF411SX1280](https://github.com/betaflight/unified-targets/pull/643) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (today)
 - [improve file structure and build system](https://github.com/DusKing1/flowshutter-1/pull/1) on [DusKing1/flowshutter-1](https://github.com/DusKing1/flowshutter-1) (4 days ago)
@@ -43,8 +45,6 @@
 - [Add more canvas elements](https://github.com/gyroflow/flowshutter/pull/145) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [UI cleanup](https://github.com/gyroflow/flowshutter/pull/144) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Add blackbox erase](https://github.com/gyroflow/flowshutter/pull/143) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
-- [Fix voltage](https://github.com/gyroflow/flowshutter/pull/142) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
-- [Async peripherals](https://github.com/gyroflow/flowshutter/pull/140) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
