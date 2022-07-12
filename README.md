@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add GEPRCF411SX1280](https://github.com/betaflight/unified-targets/pull/644) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (today)
+- [Add NEUTRONRCF411SX1280](https://github.com/betaflight/unified-targets/pull/643) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (today)
 - [improve file structure and build system](https://github.com/DusKing1/flowshutter-1/pull/1) on [DusKing1/flowshutter-1](https://github.com/DusKing1/flowshutter-1) (4 days ago)
 - [improve file structure and build system](https://github.com/gyroflow/flowshutter/pull/146) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
 - [Fix ssd1306 driver](https://github.com/peterhinch/micropython-micro-gui/pull/16) on [peterhinch/micropython-micro-gui](https://github.com/peterhinch/micropython-micro-gui) (5 days ago)
@@ -43,11 +45,10 @@
 - [Add blackbox erase](https://github.com/gyroflow/flowshutter/pull/143) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Fix voltage](https://github.com/gyroflow/flowshutter/pull/142) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Async peripherals](https://github.com/gyroflow/flowshutter/pull/140) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 weeks ago)
-- [Add Arduino based lanc controller](https://github.com/gyroflow/flowshutter/pull/139) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 weeks ago)
-- [Update flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/11) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
+- [peterhinch/micropython-font-to-py](https://github.com/peterhinch/micropython-font-to-py) - A Python 3 utility to convert fonts to Python source capable of being frozen as bytecode (today)
 - [bri3d/dji-fan-control](https://github.com/bri3d/dji-fan-control) - A simple fan controller for DJI FPV goggles, for use with WTFOS from https://github.com/fpv-wtf/ (3 days ago)
 - [lifedebug/m5stack](https://github.com/lifedebug/m5stack) - gui for m5stack by micropython (5 days ago)
 - [peterhinch/micropython-micro-gui](https://github.com/peterhinch/micropython-micro-gui) - A lightweight MicroPython GUI library for display drivers based on framebuf, allows input via pushbuttons. (5 days ago)
@@ -57,7 +58,6 @@
 - [brainelectronics/Micropython-ESP-WiFi-Manager](https://github.com/brainelectronics/Micropython-ESP-WiFi-Manager) - Micropython based ESP WiFi Manager (1 month ago)
 - [Thekegman/Nikon-Trigger-for-MicroPython](https://github.com/Thekegman/Nikon-Trigger-for-MicroPython) - Remote trigger for a Nikon camera using an IR LED. For PyBoard v1.1 (1 month ago)
 - [mcauser/awesome-micropython](https://github.com/mcauser/awesome-micropython) - A curated list of awesome MicroPython libraries, frameworks, software and resources. (1 month ago)
-- [AlessioMorale/crsf_parser](https://github.com/AlessioMorale/crsf_parser) - A package to parse and create CRSF (Crossfire) frames, developed primarily to interoperate with ExpressLRS (1 month ago)
 
 #### 💬 Feedback
 
