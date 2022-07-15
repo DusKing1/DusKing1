@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (today)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (3 days ago)
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (5 days ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (1 week ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (3 weeks ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (2 months ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Redesign menu and improve file structure](https://github.com/gyroflow/flowshutter/pull/147) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add NERC-FLOWBOXV2](https://github.com/betaflight/unified-targets/pull/645) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (3 days ago)
 - [Redesign menus](https://github.com/DusKing1/flowshutter-1/pull/3) on [DusKing1/flowshutter-1](https://github.com/DusKing1/flowshutter-1) (3 days ago)
 - [Add GEPRCF411SX1280](https://github.com/betaflight/unified-targets/pull/644) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (3 days ago)
@@ -44,7 +45,6 @@
 - [Fix ssd1306 driver](https://github.com/peterhinch/micropython-micro-gui/pull/16) on [peterhinch/micropython-micro-gui](https://github.com/peterhinch/micropython-micro-gui) (1 week ago)
 - [Add more canvas elements](https://github.com/gyroflow/flowshutter/pull/145) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [UI cleanup](https://github.com/gyroflow/flowshutter/pull/144) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
-- [Add blackbox erase](https://github.com/gyroflow/flowshutter/pull/143) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 
 #### ⭐ Recent Stars
 
