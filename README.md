@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix camera](https://github.com/gyroflow/flowshutter/pull/148) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Redesign menu and improve file structure](https://github.com/gyroflow/flowshutter/pull/147) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Add NERC-FLOWBOXV2](https://github.com/betaflight/unified-targets/pull/645) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (3 days ago)
 - [Redesign menus](https://github.com/DusKing1/flowshutter-1/pull/3) on [DusKing1/flowshutter-1](https://github.com/DusKing1/flowshutter-1) (3 days ago)
@@ -44,7 +45,6 @@
 - [improve file structure and build system](https://github.com/gyroflow/flowshutter/pull/146) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Fix ssd1306 driver](https://github.com/peterhinch/micropython-micro-gui/pull/16) on [peterhinch/micropython-micro-gui](https://github.com/peterhinch/micropython-micro-gui) (1 week ago)
 - [Add more canvas elements](https://github.com/gyroflow/flowshutter/pull/145) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
-- [UI cleanup](https://github.com/gyroflow/flowshutter/pull/144) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 
 #### ⭐ Recent Stars
 
