@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add support for 128x64 SSD1306 OLED](https://github.com/gyroflow/flowshutter/pull/149) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Fix camera](https://github.com/gyroflow/flowshutter/pull/148) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (5 days ago)
 - [Redesign menu and improve file structure](https://github.com/gyroflow/flowshutter/pull/147) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (5 days ago)
 - [Add NERC-FLOWBOXV2](https://github.com/betaflight/unified-targets/pull/645) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 week ago)
@@ -44,7 +45,6 @@
 - [improve file structure and build system](https://github.com/DusKing1/flowshutter-1/pull/1) on [DusKing1/flowshutter-1](https://github.com/DusKing1/flowshutter-1) (1 week ago)
 - [improve file structure and build system](https://github.com/gyroflow/flowshutter/pull/146) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Fix ssd1306 driver](https://github.com/peterhinch/micropython-micro-gui/pull/16) on [peterhinch/micropython-micro-gui](https://github.com/peterhinch/micropython-micro-gui) (1 week ago)
-- [Add more canvas elements](https://github.com/gyroflow/flowshutter/pull/145) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
