@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.65](https://github.com/gyroflow/flowshutter/releases/tag/v0.65), 1 week ago) - Firmware for FC based gyro logger device
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), today) - Firmware for FC based gyro logger device
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.1](https://github.com/betaflight/betaflight/releases/tag/4.3.1), 1 week ago) - Open Source Flight Controller Firmware
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.1.0](https://github.com/gyroflow/gyroflow/releases/tag/v1.1.0), 1 month ago) - Video stabilization using gyroscope data
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0), 1 month ago) - Cross platform configuration tool for the Betaflight firmware
