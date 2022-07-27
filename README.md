@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (1 day ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (2 days ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (2 weeks ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (3 weeks ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (1 month ago)
@@ -27,16 +27,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 1 day ago) - Firmware for FC based gyro logger device
-- [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.1](https://github.com/betaflight/betaflight/releases/tag/4.3.1), 1 week ago) - Open Source Flight Controller Firmware
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 2 days ago) - Firmware for FC based gyro logger device
+- [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.1](https://github.com/betaflight/betaflight/releases/tag/4.3.1), 2 weeks ago) - Open Source Flight Controller Firmware
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.1.0](https://github.com/gyroflow/gyroflow/releases/tag/v1.1.0), 1 month ago) - Video stabilization using gyroscope data
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0), 1 month ago) - Cross platform configuration tool for the Betaflight firmware
 - [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.88](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.88), 4 months ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
 
 #### 🔨 My recent Pull Requests
 
-- [Improve canvas layer](https://github.com/gyroflow/flowshutter/pull/150) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 days ago)
-- [Add support for 128x64 SSD1306 OLED](https://github.com/gyroflow/flowshutter/pull/149) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (6 days ago)
+- [Improve canvas layer](https://github.com/gyroflow/flowshutter/pull/150) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
+- [Add support for 128x64 SSD1306 OLED](https://github.com/gyroflow/flowshutter/pull/149) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Fix camera](https://github.com/gyroflow/flowshutter/pull/148) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Redesign menu and improve file structure](https://github.com/gyroflow/flowshutter/pull/147) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Add NERC-FLOWBOXV2](https://github.com/betaflight/unified-targets/pull/645) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (2 weeks ago)
