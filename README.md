@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (today)
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (2 days ago)
+- [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (1 day ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (3 days ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (2 weeks ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (1 month ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (3 months ago)
@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 2 days ago) - Firmware for FC based gyro logger device
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 3 days ago) - Firmware for FC based gyro logger device
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.1](https://github.com/betaflight/betaflight/releases/tag/4.3.1), 2 weeks ago) - Open Source Flight Controller Firmware
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.1.0](https://github.com/gyroflow/gyroflow/releases/tag/v1.1.0), 1 month ago) - Video stabilization using gyroscope data
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0), 1 month ago) - Cross platform configuration tool for the Betaflight firmware
@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Improve canvas layer](https://github.com/gyroflow/flowshutter/pull/150) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 days ago)
+- [Improve canvas layer](https://github.com/gyroflow/flowshutter/pull/150) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 days ago)
 - [Add support for 128x64 SSD1306 OLED](https://github.com/gyroflow/flowshutter/pull/149) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Fix camera](https://github.com/gyroflow/flowshutter/pull/148) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
 - [Redesign menu and improve file structure](https://github.com/gyroflow/flowshutter/pull/147) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 week ago)
@@ -54,8 +54,8 @@
 - [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总 (1 week ago)
 - [peterhinch/micropython-font-to-py](https://github.com/peterhinch/micropython-font-to-py) - A Python 3 utility to convert fonts to Python source capable of being frozen as bytecode (2 weeks ago)
 - [bri3d/dji-fan-control](https://github.com/bri3d/dji-fan-control) - A simple fan controller for DJI FPV goggles, for use with WTFOS from https://github.com/fpv-wtf/ (2 weeks ago)
-- [lifedebug/m5stack](https://github.com/lifedebug/m5stack) - gui for m5stack by micropython (2 weeks ago)
-- [peterhinch/micropython-micro-gui](https://github.com/peterhinch/micropython-micro-gui) - A lightweight MicroPython GUI library for display drivers based on framebuf, allows input via pushbuttons. (2 weeks ago)
+- [lifedebug/m5stack](https://github.com/lifedebug/m5stack) - gui for m5stack by micropython (3 weeks ago)
+- [peterhinch/micropython-micro-gui](https://github.com/peterhinch/micropython-micro-gui) - A lightweight MicroPython GUI library for display drivers based on framebuf, allows input via pushbuttons. (3 weeks ago)
 - [betaflight/wiki](https://github.com/betaflight/wiki) -  (1 month ago)
 - [peterhinch/micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui) - A lightweight MicroPython GUI library for display drivers based on framebuf class (1 month ago)
 
