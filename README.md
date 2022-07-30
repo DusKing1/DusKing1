@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [01studio-lab/pyDrone](https://github.com/01studio-lab/pyDrone) - MicroPython Drone (today)
 - [hd-zero/hdzero-vtx](https://github.com/hd-zero/hdzero-vtx) -  (1 week ago)
 - [v923z/micropython-ulab](https://github.com/v923z/micropython-ulab) - a numpy-like fast vector module for micropython, circuitpython, and their derivatives (1 week ago)
 - [coinight/Micropython-esp32-ssd1306-sprite](https://github.com/coinight/Micropython-esp32-ssd1306-sprite) - a light sprite module for oled1306 drive (1 week ago)
@@ -57,7 +58,6 @@
 - [lifedebug/m5stack](https://github.com/lifedebug/m5stack) - gui for m5stack by micropython (3 weeks ago)
 - [peterhinch/micropython-micro-gui](https://github.com/peterhinch/micropython-micro-gui) - A lightweight MicroPython GUI library for display drivers based on framebuf, allows input via pushbuttons. (3 weeks ago)
 - [betaflight/wiki](https://github.com/betaflight/wiki) -  (1 month ago)
-- [peterhinch/micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui) - A lightweight MicroPython GUI library for display drivers based on framebuf class (1 month ago)
 
 #### 💬 Feedback
 
