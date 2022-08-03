@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [wx-chevalier/Engineering-Series](https://github.com/wx-chevalier/Engineering-Series) - :books: 软件工程、算法与架构：数据结构与算法、设计模式、软件架构、协同开发、质量保障 QA (today)
 - [01studio-lab/pyDrone](https://github.com/01studio-lab/pyDrone) - MicroPython Drone (4 days ago)
 - [hd-zero/hdzero-vtx](https://github.com/hd-zero/hdzero-vtx) -  (2 weeks ago)
 - [v923z/micropython-ulab](https://github.com/v923z/micropython-ulab) - a numpy-like fast vector module for micropython, circuitpython, and their derivatives (2 weeks ago)
@@ -57,7 +58,6 @@
 - [bri3d/dji-fan-control](https://github.com/bri3d/dji-fan-control) - A simple fan controller for DJI FPV goggles, for use with WTFOS from https://github.com/fpv-wtf/ (3 weeks ago)
 - [lifedebug/m5stack](https://github.com/lifedebug/m5stack) - gui for m5stack by micropython (3 weeks ago)
 - [peterhinch/micropython-micro-gui](https://github.com/peterhinch/micropython-micro-gui) - A lightweight MicroPython GUI library for display drivers based on framebuf, allows input via pushbuttons. (3 weeks ago)
-- [betaflight/wiki](https://github.com/betaflight/wiki) -  (1 month ago)
 
 #### 💬 Feedback
 
