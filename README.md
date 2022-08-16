@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add MSP_ERRORS](https://github.com/betaflight/betaflight/pull/11798) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 day ago)
+- [Add PID_ERRORS debug mode and CRSF_FRAMETYPE](https://github.com/betaflight/betaflight/pull/11798) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 day ago)
 - [Update flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/12) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (4 days ago)
 - [Improve canvas layer](https://github.com/gyroflow/flowshutter/pull/150) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
 - [Add support for 128x64 SSD1306 OLED](https://github.com/gyroflow/flowshutter/pull/149) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
