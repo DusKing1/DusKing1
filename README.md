@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add new NeutronRC AIO targets](https://github.com/betaflight/unified-targets/pull/663) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (today)
 - [Add PID_ERRORS debug mode and CRSF_FRAMETYPE](https://github.com/betaflight/betaflight/pull/11798) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (2 days ago)
 - [Update flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/12) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (5 days ago)
 - [Improve canvas layer](https://github.com/gyroflow/flowshutter/pull/150) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
@@ -44,7 +45,6 @@
 - [Add NERC-FLOWBOXV2](https://github.com/betaflight/unified-targets/pull/645) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
 - [Redesign menus](https://github.com/DusKing1/flowshutter-1/pull/3) on [DusKing1/flowshutter-1](https://github.com/DusKing1/flowshutter-1) (1 month ago)
 - [Add GEPRCF411SX1280](https://github.com/betaflight/unified-targets/pull/644) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
-- [Add NEUTRONRCF411SX1280](https://github.com/betaflight/unified-targets/pull/643) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
 
 #### ⭐ Recent Stars
 
