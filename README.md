@@ -48,6 +48,8 @@
 
 #### ⭐ Recent Stars
 
+- [xg590/Learn_SX1276](https://github.com/xg590/Learn_SX1276) - Well-annotated micropython codes to operate SX1276 LoRa modem (today)
+- [xg590/SX1276](https://github.com/xg590/SX1276) - MicroPython Library for SX1276 (today)
 - [sakumisu/CherryUSB](https://github.com/sakumisu/CherryUSB) - Tiny and portable USB device/host stack for embedded system with USB IP (today)
 - [wx-chevalier/Engineering-Series](https://github.com/wx-chevalier/Engineering-Series) - :books: 软件工程、算法与架构：数据结构与算法、设计模式、软件架构、协同开发、质量保障 QA (2 weeks ago)
 - [01studio-lab/pyDrone](https://github.com/01studio-lab/pyDrone) - MicroPython Drone (2 weeks ago)
@@ -56,8 +58,6 @@
 - [coinight/Micropython-esp32-ssd1306-sprite](https://github.com/coinight/Micropython-esp32-ssd1306-sprite) - a light sprite module for oled1306 drive (1 month ago)
 - [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总 (1 month ago)
 - [peterhinch/micropython-font-to-py](https://github.com/peterhinch/micropython-font-to-py) - A Python 3 utility to convert fonts to Python source capable of being frozen as bytecode (1 month ago)
-- [bri3d/dji-fan-control](https://github.com/bri3d/dji-fan-control) - A simple fan controller for DJI FPV goggles, for use with WTFOS from https://github.com/fpv-wtf/ (1 month ago)
-- [lifedebug/m5stack](https://github.com/lifedebug/m5stack) - gui for m5stack by micropython (1 month ago)
 
 #### 💬 Feedback
 
