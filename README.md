@@ -35,10 +35,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add new NeutronRC AIO targets](https://github.com/betaflight/unified-targets/pull/663) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (3 days ago)
-- [Add PID_ERRORS debug mode and CRSF_FRAMETYPE](https://github.com/betaflight/betaflight/pull/11798) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (5 days ago)
+- [Add new NeutronRC AIO targets](https://github.com/betaflight/unified-targets/pull/663) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (4 days ago)
+- [Add PID_ERRORS debug mode and CRSF_FRAMETYPE](https://github.com/betaflight/betaflight/pull/11798) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (6 days ago)
 - [Update flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/12) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (1 week ago)
-- [Improve canvas layer](https://github.com/gyroflow/flowshutter/pull/150) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
+- [Improve canvas layer](https://github.com/gyroflow/flowshutter/pull/150) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 weeks ago)
 - [Add support for 128x64 SSD1306 OLED](https://github.com/gyroflow/flowshutter/pull/149) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 month ago)
 - [Fix camera](https://github.com/gyroflow/flowshutter/pull/148) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 month ago)
 - [Redesign menu and improve file structure](https://github.com/gyroflow/flowshutter/pull/147) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 month ago)
@@ -48,9 +48,9 @@
 
 #### ⭐ Recent Stars
 
-- [xg590/Learn_SX1276](https://github.com/xg590/Learn_SX1276) - Well-annotated micropython codes to operate SX1276 LoRa modem (2 days ago)
-- [xg590/SX1276](https://github.com/xg590/SX1276) - MicroPython Library for SX1276 (2 days ago)
-- [sakumisu/CherryUSB](https://github.com/sakumisu/CherryUSB) - Tiny and portable USB device/host stack for embedded system with USB IP (2 days ago)
+- [xg590/Learn_SX1276](https://github.com/xg590/Learn_SX1276) - Well-annotated micropython codes to operate SX1276 LoRa modem (3 days ago)
+- [xg590/SX1276](https://github.com/xg590/SX1276) - MicroPython Library for SX1276 (3 days ago)
+- [sakumisu/CherryUSB](https://github.com/sakumisu/CherryUSB) - Tiny and portable USB device/host stack for embedded system with USB IP (3 days ago)
 - [wx-chevalier/Engineering-Series](https://github.com/wx-chevalier/Engineering-Series) - :books: 软件工程、算法与架构：数据结构与算法、设计模式、软件架构、协同开发、质量保障 QA (2 weeks ago)
 - [01studio-lab/pyDrone](https://github.com/01studio-lab/pyDrone) - MicroPython Drone (3 weeks ago)
 - [hd-zero/hdzero-vtx](https://github.com/hd-zero/hdzero-vtx) -  (1 month ago)
