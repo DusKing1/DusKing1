@@ -27,16 +27,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.2.0](https://github.com/gyroflow/gyroflow/releases/tag/v1.2.0), 1 day ago) - Video stabilization using gyroscope data
-- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.89](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.89), 4 days ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.2.0](https://github.com/gyroflow/gyroflow/releases/tag/v1.2.0), 2 days ago) - Video stabilization using gyroscope data
+- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.89](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.89), 5 days ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 1 month ago) - Firmware for FC based gyro logger device
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.1](https://github.com/betaflight/betaflight/releases/tag/4.3.1), 1 month ago) - Open Source Flight Controller Firmware
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0), 2 months ago) - Cross platform configuration tool for the Betaflight firmware
 
 #### 🔨 My recent Pull Requests
 
-- [Cleanup some switch-case-s](https://github.com/betaflight/betaflight/pull/11810) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (2 days ago)
-- [Remove unused MSP_SET_PID_CONTROLLER code](https://github.com/betaflight/betaflight/pull/11808) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (2 days ago)
+- [Cleanup some switch-case-s](https://github.com/betaflight/betaflight/pull/11810) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (3 days ago)
+- [Remove unused MSP_SET_PID_CONTROLLER code](https://github.com/betaflight/betaflight/pull/11808) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (3 days ago)
 - [Add new NeutronRC AIO targets](https://github.com/betaflight/unified-targets/pull/663) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 week ago)
 - [Add PID_ERRORS debug mode and CRSF_FRAMETYPE](https://github.com/betaflight/betaflight/pull/11798) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 week ago)
 - [Update flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/12) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (2 weeks ago)
