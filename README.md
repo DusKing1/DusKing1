@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.2.0](https://github.com/gyroflow/gyroflow/releases/tag/v1.2.0), 5 days ago) - Video stabilization using gyroscope data
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.2.0](https://github.com/gyroflow/gyroflow/releases/tag/v1.2.0), 6 days ago) - Video stabilization using gyroscope data
 - [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.89](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.89), 1 week ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 1 month ago) - Firmware for FC based gyro logger device
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.1](https://github.com/betaflight/betaflight/releases/tag/4.3.1), 1 month ago) - Open Source Flight Controller Firmware
@@ -35,8 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Cleanup some switch-case-s](https://github.com/betaflight/betaflight/pull/11810) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (6 days ago)
-- [Remove unused MSP_SET_PID_CONTROLLER code](https://github.com/betaflight/betaflight/pull/11808) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (6 days ago)
+- [Cleanup some switch-case-s](https://github.com/betaflight/betaflight/pull/11810) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 week ago)
+- [Remove unused MSP_SET_PID_CONTROLLER code](https://github.com/betaflight/betaflight/pull/11808) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 week ago)
 - [Add new NeutronRC AIO targets](https://github.com/betaflight/unified-targets/pull/663) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (2 weeks ago)
 - [Add PID_ERRORS debug mode and CRSF_FRAMETYPE](https://github.com/betaflight/betaflight/pull/11798) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (2 weeks ago)
 - [Update flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/12) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (2 weeks ago)
@@ -48,9 +48,9 @@
 
 #### ⭐ Recent Stars
 
-- [xg590/Learn_SX1276](https://github.com/xg590/Learn_SX1276) - Well-annotated micropython codes to operate SX1276 LoRa modem (1 week ago)
-- [xg590/SX1276](https://github.com/xg590/SX1276) - MicroPython Library for SX1276 (1 week ago)
-- [sakumisu/CherryUSB](https://github.com/sakumisu/CherryUSB) - Tiny and portable USB device/host stack for embedded system with USB IP (1 week ago)
+- [xg590/Learn_SX1276](https://github.com/xg590/Learn_SX1276) - Well-annotated micropython codes to operate SX1276 LoRa modem (2 weeks ago)
+- [xg590/SX1276](https://github.com/xg590/SX1276) - MicroPython Library for SX1276 (2 weeks ago)
+- [sakumisu/CherryUSB](https://github.com/sakumisu/CherryUSB) - Tiny and portable USB device/host stack for embedded system with USB IP (2 weeks ago)
 - [wx-chevalier/Engineering-Series](https://github.com/wx-chevalier/Engineering-Series) - :books: 软件工程、算法与架构：数据结构与算法、设计模式、软件架构、协同开发、质量保障 QA (4 weeks ago)
 - [01studio-lab/pyDrone](https://github.com/01studio-lab/pyDrone) - MicroPython Drone (1 month ago)
 - [hd-zero/hdzero-vtx](https://github.com/hd-zero/hdzero-vtx) -  (1 month ago)
