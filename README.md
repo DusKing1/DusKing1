@@ -10,7 +10,7 @@
 - [NeutronRC/betaflight-presets](https://github.com/NeutronRC/betaflight-presets) -  (5 months ago)
 - [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (5 months ago)
 - [DusKing1/github-slideshow](https://github.com/DusKing1/github-slideshow) - A robot powered training repository :robot: (5 months ago)
-- [betaflight/wiki](https://github.com/betaflight/wiki) -  (5 months ago)
+- [betaflight/wiki](https://github.com/betaflight/wiki) -  (6 months ago)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (6 months ago)
 
 #### 🌱 My latest projects
@@ -37,7 +37,7 @@
 - [Cleanup some switch-case-s](https://github.com/betaflight/betaflight/pull/11810) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 week ago)
 - [Remove unused MSP_SET_PID_CONTROLLER code](https://github.com/betaflight/betaflight/pull/11808) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 week ago)
 - [Add new NeutronRC AIO targets](https://github.com/betaflight/unified-targets/pull/663) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (2 weeks ago)
-- [Add PID_ERRORS debug mode and CRSF_FRAMETYPE](https://github.com/betaflight/betaflight/pull/11798) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (2 weeks ago)
+- [Add PID_ERRORS debug mode and CRSF_FRAMETYPE](https://github.com/betaflight/betaflight/pull/11798) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (3 weeks ago)
 - [Update flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/12) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (3 weeks ago)
 - [Improve canvas layer](https://github.com/gyroflow/flowshutter/pull/150) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 month ago)
 - [Add support for 128x64 SSD1306 OLED](https://github.com/gyroflow/flowshutter/pull/149) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 month ago)
