@@ -43,7 +43,7 @@
 - [Add support for 128x64 SSD1306 OLED](https://github.com/gyroflow/flowshutter/pull/149) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 month ago)
 - [Fix camera](https://github.com/gyroflow/flowshutter/pull/148) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 month ago)
 - [Redesign menu and improve file structure](https://github.com/gyroflow/flowshutter/pull/147) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 month ago)
-- [Add NERC-FLOWBOXV2](https://github.com/betaflight/unified-targets/pull/645) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
+- [Add NERC-FLOWBOXV2](https://github.com/betaflight/unified-targets/pull/645) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (2 months ago)
 
 #### ⭐ Recent Stars
 
@@ -56,7 +56,7 @@
 - [v923z/micropython-ulab](https://github.com/v923z/micropython-ulab) - a numpy-like fast vector module for micropython, circuitpython, and their derivatives (1 month ago)
 - [coinight/Micropython-esp32-ssd1306-sprite](https://github.com/coinight/Micropython-esp32-ssd1306-sprite) - a light sprite module for oled1306 drive (1 month ago)
 - [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总 (1 month ago)
-- [peterhinch/micropython-font-to-py](https://github.com/peterhinch/micropython-font-to-py) - A Python 3 utility to convert fonts to Python source capable of being frozen as bytecode (1 month ago)
+- [peterhinch/micropython-font-to-py](https://github.com/peterhinch/micropython-font-to-py) - A Python 3 utility to convert fonts to Python source capable of being frozen as bytecode (2 months ago)
 
 #### 💬 Feedback
 
