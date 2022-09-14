@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (today)
 - [xg590/Learn_SX1276](https://github.com/xg590/Learn_SX1276) - Well-annotated micropython codes to operate SX1276 LoRa modem (3 weeks ago)
 - [xg590/SX1276](https://github.com/xg590/SX1276) - MicroPython Library for SX1276 (3 weeks ago)
 - [sakumisu/CherryUSB](https://github.com/sakumisu/CherryUSB) - Tiny and portable USB device/host stack for embedded system with USB IP (3 weeks ago)
@@ -56,7 +57,6 @@
 - [v923z/micropython-ulab](https://github.com/v923z/micropython-ulab) - a numpy-like fast vector module for micropython, circuitpython, and their derivatives (1 month ago)
 - [coinight/Micropython-esp32-ssd1306-sprite](https://github.com/coinight/Micropython-esp32-ssd1306-sprite) - a light sprite module for oled1306 drive (1 month ago)
 - [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总 (2 months ago)
-- [peterhinch/micropython-font-to-py](https://github.com/peterhinch/micropython-font-to-py) - A Python 3 utility to convert fonts to Python source capable of being frozen as bytecode (2 months ago)
 
 #### 💬 Feedback
 
