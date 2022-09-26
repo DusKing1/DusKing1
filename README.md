@@ -34,7 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add NeutronRC F0 and rename NeutronRC G0](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/pull/91) on [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) (1 day ago)
+- [Add NeutronRC F0 and rename NeutronRC G0](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/pull/91) on [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) (2 days ago)
 - [Fix adc missing problem on NeutronRCF722AIO](https://github.com/betaflight/unified-targets/pull/676) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 week ago)
 - [Cleanup some switch-case-s](https://github.com/betaflight/betaflight/pull/11810) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 month ago)
 - [Remove unused MSP_SET_PID_CONTROLLER code](https://github.com/betaflight/betaflight/pull/11808) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 month ago)
