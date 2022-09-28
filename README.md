@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fixed link for wiki in readme](https://github.com/bird-sanctuary/bluejay/pull/23) on [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) (today)
 - [Add NeutronRC F0 and rename NeutronRC G0](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/pull/91) on [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) (4 days ago)
 - [Fix adc missing problem on NeutronRCF722AIO](https://github.com/betaflight/unified-targets/pull/676) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 week ago)
 - [Cleanup some switch-case-s](https://github.com/betaflight/betaflight/pull/11810) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 month ago)
@@ -43,7 +44,6 @@
 - [Update flowshutter docs](https://github.com/gyroflow/gyroflow-docs/pull/12) on [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) (1 month ago)
 - [Improve canvas layer](https://github.com/gyroflow/flowshutter/pull/150) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 months ago)
 - [Add support for 128x64 SSD1306 OLED](https://github.com/gyroflow/flowshutter/pull/149) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 months ago)
-- [Fix camera](https://github.com/gyroflow/flowshutter/pull/148) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 months ago)
 
 #### ⭐ Recent Stars
 
