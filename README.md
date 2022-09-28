@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (today)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (1 week ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (1 month ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (1 month ago)
@@ -11,7 +12,6 @@
 - [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (5 months ago)
 - [DusKing1/github-slideshow](https://github.com/DusKing1/github-slideshow) - A robot powered training repository :robot: (6 months ago)
 - [betaflight/wiki](https://github.com/betaflight/wiki) -  (6 months ago)
-- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -27,6 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.16.2](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.16.2), today) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.2.0](https://github.com/gyroflow/gyroflow/releases/tag/v1.2.0), 1 month ago) - Video stabilization using gyroscope data
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 2 months ago) - Firmware for FC based gyro logger device
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.1](https://github.com/betaflight/betaflight/releases/tag/4.3.1), 2 months ago) - Open Source Flight Controller Firmware
