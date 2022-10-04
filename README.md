@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (5 days ago)
+- [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (6 days ago)
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (2 weeks ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (1 month ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (1 month ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (2 months ago)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (2 months ago)
-- [NeutronRC/betaflight-presets](https://github.com/NeutronRC/betaflight-presets) -  (5 months ago)
+- [NeutronRC/betaflight-presets](https://github.com/NeutronRC/betaflight-presets) -  (6 months ago)
 - [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (6 months ago)
 - [DusKing1/github-slideshow](https://github.com/DusKing1/github-slideshow) - A robot powered training repository :robot: (6 months ago)
 - [betaflight/wiki](https://github.com/betaflight/wiki) -  (6 months ago)
@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.16.3](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.16.3), 2 days ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
+- [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.16.3](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.16.3), 3 days ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.2.0](https://github.com/gyroflow/gyroflow/releases/tag/v1.2.0), 1 month ago) - Video stabilization using gyroscope data
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 2 months ago) - Firmware for FC based gyro logger device
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.1](https://github.com/betaflight/betaflight/releases/tag/4.3.1), 2 months ago) - Open Source Flight Controller Firmware
@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fixed link for wiki in readme](https://github.com/bird-sanctuary/bluejay/pull/23) on [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) (5 days ago)
+- [Fixed link for wiki in readme](https://github.com/bird-sanctuary/bluejay/pull/23) on [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) (6 days ago)
 - [Add NeutronRC F0 and rename NeutronRC G0](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/pull/91) on [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) (1 week ago)
 - [Fix adc missing problem on NeutronRCF722AIO](https://github.com/betaflight/unified-targets/pull/676) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (2 weeks ago)
 - [Cleanup some switch-case-s](https://github.com/betaflight/betaflight/pull/11810) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 month ago)
