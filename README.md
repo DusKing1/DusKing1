@@ -27,7 +27,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.3.0-beta](https://github.com/gyroflow/gyroflow/releases/tag/v1.3.0-beta), 1 day ago) - Video stabilization using gyroscope data
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.17.0](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.17.0), 2 days ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 2 months ago) - Firmware for FC based gyro logger device
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.1](https://github.com/betaflight/betaflight/releases/tag/4.3.1), 2 months ago) - Open Source Flight Controller Firmware
