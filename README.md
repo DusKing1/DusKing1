@@ -27,8 +27,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.3.0-beta](https://github.com/gyroflow/gyroflow/releases/tag/v1.3.0-beta), today) - Video stabilization using gyroscope data
-- [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.17.0](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.17.0), 1 day ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.3.0-beta](https://github.com/gyroflow/gyroflow/releases/tag/v1.3.0-beta), 1 day ago) - Video stabilization using gyroscope data
+- [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.17.0](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.17.0), 2 days ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 2 months ago) - Firmware for FC based gyro logger device
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.1](https://github.com/betaflight/betaflight/releases/tag/4.3.1), 2 months ago) - Open Source Flight Controller Firmware
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0), 3 months ago) - Cross platform configuration tool for the Betaflight firmware
@@ -36,7 +36,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Fixed link for wiki in readme](https://github.com/bird-sanctuary/bluejay/pull/23) on [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) (1 week ago)
-- [Add NeutronRC F0 and rename NeutronRC G0](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/pull/91) on [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) (1 week ago)
+- [Add NeutronRC F0 and rename NeutronRC G0](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/pull/91) on [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) (2 weeks ago)
 - [Fix adc missing problem on NeutronRCF722AIO](https://github.com/betaflight/unified-targets/pull/676) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (3 weeks ago)
 - [Cleanup some switch-case-s](https://github.com/betaflight/betaflight/pull/11810) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 month ago)
 - [Remove unused MSP_SET_PID_CONTROLLER code](https://github.com/betaflight/betaflight/pull/11808) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 month ago)
