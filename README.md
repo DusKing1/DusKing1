@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (today)
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (3 weeks ago)
 - [xg590/Learn_SX1276](https://github.com/xg590/Learn_SX1276) - Well-annotated micropython codes to operate SX1276 LoRa modem (1 month ago)
 - [xg590/SX1276](https://github.com/xg590/SX1276) - MicroPython Library for SX1276 (1 month ago)
@@ -57,7 +58,6 @@
 - [hd-zero/hdzero-vtx](https://github.com/hd-zero/hdzero-vtx) -  (2 months ago)
 - [v923z/micropython-ulab](https://github.com/v923z/micropython-ulab) - a numpy-like fast vector module for micropython, circuitpython, and their derivatives (2 months ago)
 - [coinight/Micropython-esp32-ssd1306-sprite](https://github.com/coinight/Micropython-esp32-ssd1306-sprite) - a light sprite module for oled1306 drive (2 months ago)
-- [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总 (2 months ago)
 
 #### 💬 Feedback
 
