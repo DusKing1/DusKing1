@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix typo in ci comment bot](https://github.com/gyroflow/flowshutter/pull/154) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (today)
 - [Update README.md](https://github.com/DusKing1/PID-Evaluator/pull/29) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (1 day ago)
 - [Add artifact links hiding bot](https://github.com/gyroflow/flowshutter/pull/153) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
 - [Add artifact links bot](https://github.com/gyroflow/flowshutter/pull/152) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 day ago)
@@ -44,7 +45,6 @@
 - [Cleanup some switch-case-s](https://github.com/betaflight/betaflight/pull/11810) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 month ago)
 - [Remove unused MSP_SET_PID_CONTROLLER code](https://github.com/betaflight/betaflight/pull/11808) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 month ago)
 - [Add new NeutronRC AIO targets](https://github.com/betaflight/unified-targets/pull/663) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
-- [Add PID_ERRORS debug mode and CRSF_FRAMETYPE](https://github.com/betaflight/betaflight/pull/11798) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (1 month ago)
 
 #### ⭐ Recent Stars
 
