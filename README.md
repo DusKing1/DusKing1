@@ -50,8 +50,8 @@
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (1 week ago)
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (1 month ago)
-- [xg590/Learn_SX1276](https://github.com/xg590/Learn_SX1276) - Well-annotated micropython codes to operate SX1276 LoRa modem (2 months ago)
-- [xg590/SX1276](https://github.com/xg590/SX1276) - MicroPython Library for SX1276 (2 months ago)
+- [xg590/Learn_SX1276](https://github.com/xg590/Learn_SX1276) - Well-annotated MicroPython codes to operate SX1276 LoRa modem (2 months ago)
+- [xg590/SX1276](https://github.com/xg590/SX1276) - MicroPython Library for SX1276 (Long Range Radio Chip from Semtech) (2 months ago)
 - [sakumisu/CherryUSB](https://github.com/sakumisu/CherryUSB) - Tiny and portable USB device/host stack for embedded system with USB IP (2 months ago)
 - [wx-chevalier/Engineering-Series](https://github.com/wx-chevalier/Engineering-Series) - :books: 软件工程、算法与架构：数据结构与算法、设计模式、软件架构、协同开发、质量保障 QA (2 months ago)
 - [01studio-lab/pyDrone](https://github.com/01studio-lab/pyDrone) - MicroPython Drone (2 months ago)
