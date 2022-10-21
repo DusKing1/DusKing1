@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [mspc-boot-camp/f407-adapter](https://github.com/mspc-boot-camp/f407-adapter) -  (today)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (1 week ago)
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (1 month ago)
 - [xg590/Learn_SX1276](https://github.com/xg590/Learn_SX1276) - Well-annotated MicroPython codes to operate SX1276 LoRa modem (2 months ago)
@@ -57,7 +58,6 @@
 - [01studio-lab/pyDrone](https://github.com/01studio-lab/pyDrone) - MicroPython Drone (2 months ago)
 - [hd-zero/hdzero-vtx](https://github.com/hd-zero/hdzero-vtx) -  (3 months ago)
 - [v923z/micropython-ulab](https://github.com/v923z/micropython-ulab) - a numpy-like fast vector module for micropython, circuitpython, and their derivatives (3 months ago)
-- [coinight/Micropython-esp32-ssd1306-sprite](https://github.com/coinight/Micropython-esp32-ssd1306-sprite) - a light sprite module for oled1306 drive (3 months ago)
 
 #### 💬 Feedback
 
