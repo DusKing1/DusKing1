@@ -7,7 +7,7 @@
 - [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (1 month ago)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (2 months ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (2 months ago)
-- [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (2 months ago)
+- [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (3 months ago)
 - [NeutronRC/betaflight-presets](https://github.com/NeutronRC/betaflight-presets) -  (6 months ago)
 - [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (6 months ago)
 - [DusKing1/github-slideshow](https://github.com/DusKing1/github-slideshow) - A robot powered training repository :robot: (7 months ago)
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [mspc-boot-camp/f407-adapter](https://github.com/mspc-boot-camp/f407-adapter) -  (3 days ago)
+- [mspc-boot-camp/f407-adapter](https://github.com/mspc-boot-camp/f407-adapter) -  (4 days ago)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (2 weeks ago)
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (1 month ago)
 - [xg590/Learn_SX1276](https://github.com/xg590/Learn_SX1276) - Well-annotated MicroPython codes to operate SX1276 LoRa modem (2 months ago)
