@@ -28,7 +28,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.3.0](https://github.com/gyroflow/gyroflow/releases/tag/v1.3.0), 1 week ago) - Video stabilization using gyroscope data
-- [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.17.0](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.17.0), 2 weeks ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
+- [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.17.0](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.17.0), 3 weeks ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 3 months ago) - Firmware for FC based gyro logger device
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.1](https://github.com/betaflight/betaflight/releases/tag/4.3.1), 3 months ago) - Open Source Flight Controller Firmware
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0), 4 months ago) - Cross platform configuration tool for the Betaflight firmware
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [mspc-boot-camp/f407-adapter](https://github.com/mspc-boot-camp/f407-adapter) -  (5 days ago)
+- [mspc-boot-camp/f407-adapter](https://github.com/mspc-boot-camp/f407-adapter) -  (6 days ago)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (2 weeks ago)
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (1 month ago)
 - [xg590/Learn_SX1276](https://github.com/xg590/Learn_SX1276) - Well-annotated MicroPython codes to operate SX1276 LoRa modem (2 months ago)
