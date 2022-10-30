@@ -4,14 +4,14 @@
 
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (2 weeks ago)
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (1 month ago)
-- [betaflight/unified-targets](https://github.com/betaflight/unified-targets) - Target configurations for Betaflight Unified Targets (1 month ago)
-- [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (2 months ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (2 months ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (3 months ago)
 - [NeutronRC/betaflight-presets](https://github.com/NeutronRC/betaflight-presets) -  (6 months ago)
-- [betaflight/firmware-presets](https://github.com/betaflight/firmware-presets) - Configuration Snippets for the Betaflight Flight Controller Firmware (6 months ago)
 - [DusKing1/github-slideshow](https://github.com/DusKing1/github-slideshow) - A robot powered training repository :robot: (7 months ago)
-- [betaflight/wiki](https://github.com/betaflight/wiki) -  (7 months ago)
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (8 months ago)
+- [DusKing1/logger-presets](https://github.com/DusKing1/logger-presets) -  (10 months ago)
+- [pitronicteam/BlackBox-Mate-wiki](https://github.com/pitronicteam/BlackBox-Mate-wiki) -  (10 months ago)
+- [DusKing1/sim-key](https://github.com/DusKing1/sim-key) - simulated keyboard on esp8266 nodemcu v3 (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -30,8 +30,6 @@
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.3.0](https://github.com/gyroflow/gyroflow/releases/tag/v1.3.0), 1 week ago) - Video stabilization using gyroscope data
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.17.0](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.17.0), 3 weeks ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 3 months ago) - Firmware for FC based gyro logger device
-- [betaflight/betaflight](https://github.com/betaflight/betaflight) ([4.3.1](https://github.com/betaflight/betaflight/releases/tag/4.3.1), 3 months ago) - Open Source Flight Controller Firmware
-- [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) ([10.8.0](https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0), 4 months ago) - Cross platform configuration tool for the Betaflight firmware
 
 #### 🔨 My recent Pull Requests
 
