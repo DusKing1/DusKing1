@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (2 weeks ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (3 weeks ago)
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (1 month ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (2 months ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (3 months ago)
@@ -27,13 +27,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.3.0](https://github.com/gyroflow/gyroflow/releases/tag/v1.3.0), 1 week ago) - Video stabilization using gyroscope data
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.3.0](https://github.com/gyroflow/gyroflow/releases/tag/v1.3.0), 2 weeks ago) - Video stabilization using gyroscope data
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.17.0](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.17.0), 3 weeks ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 3 months ago) - Firmware for FC based gyro logger device
 
 #### 🔨 My recent Pull Requests
 
-- [Fix typo in ci comment bot](https://github.com/gyroflow/flowshutter/pull/154) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (2 weeks ago)
+- [Fix typo in ci comment bot](https://github.com/gyroflow/flowshutter/pull/154) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
 - [Update README.md](https://github.com/DusKing1/PID-Evaluator/pull/29) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (3 weeks ago)
 - [Add artifact links hiding bot](https://github.com/gyroflow/flowshutter/pull/153) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
 - [Add artifact links bot](https://github.com/gyroflow/flowshutter/pull/152) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
