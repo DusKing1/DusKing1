@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [flightng/docs](https://github.com/flightng/docs) -  (today)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (3 weeks ago)
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (1 month ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (2 months ago)
@@ -11,7 +12,6 @@
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (8 months ago)
 - [DusKing1/logger-presets](https://github.com/DusKing1/logger-presets) -  (10 months ago)
 - [pitronicteam/BlackBox-Mate-wiki](https://github.com/pitronicteam/BlackBox-Mate-wiki) -  (10 months ago)
-- [DusKing1/sim-key](https://github.com/DusKing1/sim-key) - simulated keyboard on esp8266 nodemcu v3 (1 year ago)
 
 #### 🌱 My latest projects
 
