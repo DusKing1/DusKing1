@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/docs](https://github.com/flightng/docs) -  (1 day ago)
+- [flightng/docs](https://github.com/flightng/docs) -  (2 days ago)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (3 weeks ago)
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (1 month ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (2 months ago)
@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.18.0](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.18.0), 4 days ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
+- [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.18.0](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.18.0), 5 days ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.3.0](https://github.com/gyroflow/gyroflow/releases/tag/v1.3.0), 2 weeks ago) - Video stabilization using gyroscope data
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 3 months ago) - Firmware for FC based gyro logger device
 
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [flightng/docs](https://github.com/flightng/docs) -  (1 day ago)
+- [flightng/docs](https://github.com/flightng/docs) -  (2 days ago)
 - [mspc-boot-camp/f407-adapter](https://github.com/mspc-boot-camp/f407-adapter) -  (2 weeks ago)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (3 weeks ago)
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (1 month ago)
