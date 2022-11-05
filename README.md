@@ -46,7 +46,6 @@
 
 #### ⭐ Recent Stars
 
-- [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) - 基于betaflight 4.3  移植至Artery Tek AT32F435/7 (today)
 - [flightng/docs](https://github.com/flightng/docs) -  (2 days ago)
 - [mspc-boot-camp/f407-adapter](https://github.com/mspc-boot-camp/f407-adapter) -  (2 weeks ago)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (3 weeks ago)
@@ -56,6 +55,7 @@
 - [sakumisu/CherryUSB](https://github.com/sakumisu/CherryUSB) - Tiny and portable USB device/host stack for embedded system with USB IP (2 months ago)
 - [wx-chevalier/Engineering-Series](https://github.com/wx-chevalier/Engineering-Series) - :books: 软件工程、算法与架构：数据结构与算法、设计模式、软件架构、协同开发、质量保障 QA (3 months ago)
 - [01studio-lab/pyDrone](https://github.com/01studio-lab/pyDrone) - MicroPython Drone (3 months ago)
+- [hd-zero/hdzero-vtx](https://github.com/hd-zero/hdzero-vtx) -  (3 months ago)
 
 #### 💬 Feedback
 
