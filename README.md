@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/docs](https://github.com/flightng/docs) -  (3 days ago)
+- [flightng/docs](https://github.com/flightng/docs) -  (today)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (3 weeks ago)
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (1 month ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (2 months ago)
@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add sponsor info](https://github.com/flightng/docs/pull/1) on [flightng/docs](https://github.com/flightng/docs) (today)
 - [Fix typo in ci comment bot](https://github.com/gyroflow/flowshutter/pull/154) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
 - [Update README.md](https://github.com/DusKing1/PID-Evaluator/pull/29) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (4 weeks ago)
 - [Add artifact links hiding bot](https://github.com/gyroflow/flowshutter/pull/153) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 weeks ago)
@@ -42,7 +43,6 @@
 - [Fix adc missing problem on NeutronRCF722AIO](https://github.com/betaflight/unified-targets/pull/676) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
 - [Cleanup some switch-case-s](https://github.com/betaflight/betaflight/pull/11810) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (2 months ago)
 - [Remove unused MSP_SET_PID_CONTROLLER code](https://github.com/betaflight/betaflight/pull/11808) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (2 months ago)
-- [Add new NeutronRC AIO targets](https://github.com/betaflight/unified-targets/pull/663) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (2 months ago)
 
 #### ⭐ Recent Stars
 
