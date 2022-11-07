@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/docs](https://github.com/flightng/docs) -  (today)
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (3 weeks ago)
+- [flightng/docs](https://github.com/flightng/docs) -  (1 day ago)
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (4 weeks ago)
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (1 month ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (2 months ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (3 months ago)
@@ -27,14 +27,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.18.0](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.18.0), 6 days ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
-- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.3.0](https://github.com/gyroflow/gyroflow/releases/tag/v1.3.0), 2 weeks ago) - Video stabilization using gyroscope data
+- [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.18.0](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.18.0), 1 week ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.3.0](https://github.com/gyroflow/gyroflow/releases/tag/v1.3.0), 3 weeks ago) - Video stabilization using gyroscope data
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 3 months ago) - Firmware for FC based gyro logger device
 
 #### 🔨 My recent Pull Requests
 
-- [Add sponsor info](https://github.com/flightng/docs/pull/1) on [flightng/docs](https://github.com/flightng/docs) (today)
-- [Fix typo in ci comment bot](https://github.com/gyroflow/flowshutter/pull/154) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (3 weeks ago)
+- [Add sponsor info](https://github.com/flightng/docs/pull/1) on [flightng/docs](https://github.com/flightng/docs) (1 day ago)
+- [Fix typo in ci comment bot](https://github.com/gyroflow/flowshutter/pull/154) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 weeks ago)
 - [Update README.md](https://github.com/DusKing1/PID-Evaluator/pull/29) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (4 weeks ago)
 - [Add artifact links hiding bot](https://github.com/gyroflow/flowshutter/pull/153) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 weeks ago)
 - [Add artifact links bot](https://github.com/gyroflow/flowshutter/pull/152) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (4 weeks ago)
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [flightng/docs](https://github.com/flightng/docs) -  (3 days ago)
+- [flightng/docs](https://github.com/flightng/docs) -  (4 days ago)
 - [mspc-boot-camp/f407-adapter](https://github.com/mspc-boot-camp/f407-adapter) -  (2 weeks ago)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (4 weeks ago)
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (1 month ago)
