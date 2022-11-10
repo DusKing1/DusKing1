@@ -3,6 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [flightng/docs](https://github.com/flightng/docs) -  (4 days ago)
+- [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) - 基于betaflight 4.3  移植至Artery Tek AT32F435/7 (2 weeks ago)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (1 month ago)
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (1 month ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (3 months ago)
@@ -11,7 +12,6 @@
 - [DusKing1/github-slideshow](https://github.com/DusKing1/github-slideshow) - A robot powered training repository :robot: (7 months ago)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (8 months ago)
 - [DusKing1/logger-presets](https://github.com/DusKing1/logger-presets) -  (10 months ago)
-- [pitronicteam/BlackBox-Mate-wiki](https://github.com/pitronicteam/BlackBox-Mate-wiki) -  (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -33,16 +33,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add support for LSM6DSM IMU sensor](https://github.com/shanggl/ATBetaflight/pull/6) on [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) (today)
+- [Improve LSM6DSO drivers](https://github.com/shanggl/ATBetaflight/pull/5) on [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) (today)
 - [Add sponsor info](https://github.com/flightng/docs/pull/1) on [flightng/docs](https://github.com/flightng/docs) (4 days ago)
+- [4.3.1 bsp fix i2c](https://github.com/shanggl/ATBetaflight/pull/4) on [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) (4 days ago)
+- [Add ci for building at32 targets](https://github.com/shanggl/ATBetaflight/pull/2) on [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) (4 weeks ago)
 - [Fix typo in ci comment bot](https://github.com/gyroflow/flowshutter/pull/154) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 month ago)
 - [Update README.md](https://github.com/DusKing1/PID-Evaluator/pull/29) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (1 month ago)
 - [Add artifact links hiding bot](https://github.com/gyroflow/flowshutter/pull/153) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 month ago)
 - [Add artifact links bot](https://github.com/gyroflow/flowshutter/pull/152) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 month ago)
-- [Fixed link for wiki in readme](https://github.com/bird-sanctuary/bluejay/pull/23) on [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) (1 month ago)
-- [Add NeutronRC F0 and rename NeutronRC G0](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/pull/91) on [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) (1 month ago)
-- [Fix adc missing problem on NeutronRCF722AIO](https://github.com/betaflight/unified-targets/pull/676) on [betaflight/unified-targets](https://github.com/betaflight/unified-targets) (1 month ago)
-- [Cleanup some switch-case-s](https://github.com/betaflight/betaflight/pull/11810) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (2 months ago)
-- [Remove unused MSP_SET_PID_CONTROLLER code](https://github.com/betaflight/betaflight/pull/11808) on [betaflight/betaflight](https://github.com/betaflight/betaflight) (2 months ago)
+- [4.3 bsp rebase](https://github.com/shanggl/ATBetaflight/pull/1) on [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) (1 month ago)
 
 #### ⭐ Recent Stars
 
