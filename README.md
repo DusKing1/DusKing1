@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add CAS compensation for BMI270](https://github.com/flightng/atbetaflight/pull/4) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (today)
 - [Add support for LSM6DSM IMU](https://github.com/flightng/atbetaflight/pull/3) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 days ago)
 - [Improve LSM6DSO driver](https://github.com/flightng/atbetaflight/pull/2) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 days ago)
 - [Add support for BMG250 gyro](https://github.com/flightng/atbetaflight/pull/1) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 days ago)
@@ -42,7 +43,6 @@
 - [4.3.1 bsp fix i2c](https://github.com/shanggl/ATBetaflight/pull/4) on [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) (1 week ago)
 - [Add ci for building at32 targets](https://github.com/shanggl/ATBetaflight/pull/2) on [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) (1 month ago)
 - [Fix typo in ci comment bot](https://github.com/gyroflow/flowshutter/pull/154) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 month ago)
-- [Update README.md](https://github.com/DusKing1/PID-Evaluator/pull/29) on [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) (1 month ago)
 
 #### ⭐ Recent Stars
 
