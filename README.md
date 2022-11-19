@@ -46,6 +46,7 @@
 
 #### ⭐ Recent Stars
 
+- [stronnag/inav-follow-me](https://github.com/stronnag/inav-follow-me) - Follow me gadget based on Rpi Pico MCU (today)
 - [STMicroelectronics/STMems_Finite_State_Machine](https://github.com/STMicroelectronics/STMems_Finite_State_Machine) - Configuration files and examples for the Finite State Machine feature (FSM) available in STMicroelectronics MEMS sensors (4 days ago)
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (1 week ago)
 - [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) - 基于betaflight 4.3  移植至Artery Tek AT32F435/7 (1 week ago)
@@ -55,7 +56,6 @@
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (2 months ago)
 - [xg590/Learn_SX1276](https://github.com/xg590/Learn_SX1276) - Well-annotated MicroPython codes to operate SX1276 LoRa modem (3 months ago)
 - [xg590/SX1276](https://github.com/xg590/SX1276) - MicroPython Library for SX1276 (A Long Range Radio Chip from Semtech) (3 months ago)
-- [sakumisu/CherryUSB](https://github.com/sakumisu/CherryUSB) - Tiny and portable USB device/host stack for embedded system with USB IP (3 months ago)
 
 #### 💬 Feedback
 
