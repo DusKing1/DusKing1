@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (1 day ago)
-- [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (1 week ago)
+- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (2 days ago)
+- [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (2 weeks ago)
 - [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) - 基于betaflight 4.3  移植至Artery Tek AT32F435/7 (3 weeks ago)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (1 month ago)
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (1 month ago)
@@ -33,25 +33,25 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add CAS compensation for BMI270](https://github.com/flightng/atbetaflight/pull/4) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (5 days ago)
+- [Add CAS compensation for BMI270](https://github.com/flightng/atbetaflight/pull/4) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (6 days ago)
 - [Add support for LSM6DSM IMU](https://github.com/flightng/atbetaflight/pull/3) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 week ago)
 - [Improve LSM6DSO driver](https://github.com/flightng/atbetaflight/pull/2) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 week ago)
 - [Add support for BMG250 gyro](https://github.com/flightng/atbetaflight/pull/1) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 week ago)
 - [Add support for LSM6DSM IMU sensor](https://github.com/shanggl/ATBetaflight/pull/6) on [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) (1 week ago)
 - [Improve LSM6DSO drivers](https://github.com/shanggl/ATBetaflight/pull/5) on [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) (1 week ago)
-- [Add sponsor info](https://github.com/flightng/docs/pull/1) on [flightng/docs](https://github.com/flightng/docs) (1 week ago)
-- [4.3.1 bsp fix i2c](https://github.com/shanggl/ATBetaflight/pull/4) on [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) (1 week ago)
+- [Add sponsor info](https://github.com/flightng/docs/pull/1) on [flightng/docs](https://github.com/flightng/docs) (2 weeks ago)
+- [4.3.1 bsp fix i2c](https://github.com/shanggl/ATBetaflight/pull/4) on [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) (2 weeks ago)
 - [Add ci for building at32 targets](https://github.com/shanggl/ATBetaflight/pull/2) on [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) (1 month ago)
 - [Fix typo in ci comment bot](https://github.com/gyroflow/flowshutter/pull/154) on [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [stronnag/inav-follow-me](https://github.com/stronnag/inav-follow-me) - Follow me gadget based on Rpi Pico MCU (today)
-- [STMicroelectronics/STMems_Finite_State_Machine](https://github.com/STMicroelectronics/STMems_Finite_State_Machine) - Configuration files and examples for the Finite State Machine feature (FSM) available in STMicroelectronics MEMS sensors (4 days ago)
+- [stronnag/inav-follow-me](https://github.com/stronnag/inav-follow-me) - Follow me gadget based on Rpi Pico MCU (1 day ago)
+- [STMicroelectronics/STMems_Finite_State_Machine](https://github.com/STMicroelectronics/STMems_Finite_State_Machine) - Configuration files and examples for the Finite State Machine feature (FSM) available in STMicroelectronics MEMS sensors (5 days ago)
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (1 week ago)
 - [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) - 基于betaflight 4.3  移植至Artery Tek AT32F435/7 (1 week ago)
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (2 weeks ago)
-- [mspc-boot-camp/f407-adapter](https://github.com/mspc-boot-camp/f407-adapter) -  (4 weeks ago)
+- [mspc-boot-camp/f407-adapter](https://github.com/mspc-boot-camp/f407-adapter) -  (1 month ago)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (1 month ago)
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (2 months ago)
 - [xg590/Learn_SX1276](https://github.com/xg590/Learn_SX1276) - Well-annotated MicroPython codes to operate SX1276 LoRa modem (3 months ago)
