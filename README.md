@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update version and ci](https://github.com/flightng/atbetaflight/pull/13) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (today)
 - [[IMU driver]: improve bmi270 gyro data](https://github.com/flightng/atbetaflight/pull/11) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (6 days ago)
 - [[IMU driver]: stronger acc anti-aliasing filter](https://github.com/flightng/atbetaflight/pull/8) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (6 days ago)
 - [Add CAS compensation for BMI270](https://github.com/flightng/atbetaflight/pull/4) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 week ago)
@@ -43,7 +44,6 @@
 - [Add support for LSM6DSM IMU sensor](https://github.com/shanggl/ATBetaflight/pull/6) on [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) (2 weeks ago)
 - [Improve LSM6DSO drivers](https://github.com/shanggl/ATBetaflight/pull/5) on [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) (2 weeks ago)
 - [Add sponsor info](https://github.com/flightng/docs/pull/1) on [flightng/docs](https://github.com/flightng/docs) (3 weeks ago)
-- [4.3.1 bsp fix i2c](https://github.com/shanggl/ATBetaflight/pull/4) on [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
