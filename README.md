@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mspc-boot-camp/f407-adapter](https://github.com/mspc-boot-camp/f407-adapter) -  (today)
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (4 days ago)
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (3 weeks ago)
 - [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) - 基于betaflight 4.3  移植至Artery Tek AT32F435/7 (1 month ago)
@@ -11,7 +12,6 @@
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (4 months ago)
 - [NeutronRC/betaflight-presets](https://github.com/NeutronRC/betaflight-presets) -  (7 months ago)
 - [DusKing1/github-slideshow](https://github.com/DusKing1/github-slideshow) - A robot powered training repository :robot: (8 months ago)
-- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (9 months ago)
 
 #### 🌱 My latest projects
 
