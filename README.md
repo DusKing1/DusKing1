@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[IMU driver]: Switch BMI270 to normal driver](https://github.com/flightng/atbetaflight/pull/16) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (today)
 - [Fix read of DPS310 coef C11](https://github.com/flightng/atbetaflight/pull/14) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 days ago)
 - [Update version and ci](https://github.com/flightng/atbetaflight/pull/13) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (4 days ago)
 - [[IMU driver]: improve bmi270 gyro data](https://github.com/flightng/atbetaflight/pull/11) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 week ago)
@@ -43,7 +44,6 @@
 - [Improve LSM6DSO driver](https://github.com/flightng/atbetaflight/pull/2) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 weeks ago)
 - [Add support for BMG250 gyro](https://github.com/flightng/atbetaflight/pull/1) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 weeks ago)
 - [Add support for LSM6DSM IMU sensor](https://github.com/shanggl/ATBetaflight/pull/6) on [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) (3 weeks ago)
-- [Improve LSM6DSO drivers](https://github.com/shanggl/ATBetaflight/pull/5) on [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
