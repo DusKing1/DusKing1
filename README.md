@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT operating system. (today)
 - [NVIDIA-AI-IOT/cuPCL](https://github.com/NVIDIA-AI-IOT/cuPCL) - A project demonstrating how to use the libs of cuPCL. (3 days ago)
 - [shellixyz/hd_fpv_osd_font_tool](https://github.com/shellixyz/hd_fpv_osd_font_tool) - A tool for managing OSD fonts or tile collections for HD FPV systems (Walksnail Avatar, HDZero, DJI FPV system) (3 days ago)
 - [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！ (4 days ago)
@@ -56,7 +57,6 @@
 - [STMicroelectronics/STMems_Finite_State_Machine](https://github.com/STMicroelectronics/STMems_Finite_State_Machine) - Configuration files and examples for the Finite State Machine feature (FSM) available in STMicroelectronics MEMS sensors (3 weeks ago)
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (3 weeks ago)
 - [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) - 基于betaflight 4.3  移植至Artery Tek AT32F435/7 (4 weeks ago)
-- [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (1 month ago)
 
 #### 💬 Feedback
 
