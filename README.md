@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (1 day ago)
-- [mspc-boot-camp/f407-adapter](https://github.com/mspc-boot-camp/f407-adapter) -  (1 week ago)
+- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (2 days ago)
+- [mspc-boot-camp/f407-adapter](https://github.com/mspc-boot-camp/f407-adapter) -  (2 weeks ago)
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (1 month ago)
 - [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) - 基于betaflight 4.3  移植至Artery Tek AT32F435/7 (1 month ago)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (2 months ago)
@@ -34,20 +34,20 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[IMU driver]: Add support for LSM6DSL IMU](https://github.com/flightng/atbetaflight/pull/19) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 day ago)
-- [[IMU driver]: Add support for LSM6DS3 IMU](https://github.com/flightng/atbetaflight/pull/18) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (4 days ago)
+- [[IMU driver]: Add support for LSM6DSL IMU](https://github.com/flightng/atbetaflight/pull/19) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 days ago)
+- [[IMU driver]: Add support for LSM6DS3 IMU](https://github.com/flightng/atbetaflight/pull/18) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (5 days ago)
 - [[IMU driver]: Switch BMI270 to normal driver](https://github.com/flightng/atbetaflight/pull/16) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 week ago)
 - [Fix read of DPS310 coef C11](https://github.com/flightng/atbetaflight/pull/14) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 weeks ago)
 - [Update version and ci](https://github.com/flightng/atbetaflight/pull/13) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 weeks ago)
 - [[IMU driver]: improve bmi270 gyro data](https://github.com/flightng/atbetaflight/pull/11) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 weeks ago)
 - [[IMU driver]: stronger acc anti-aliasing filter](https://github.com/flightng/atbetaflight/pull/8) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 weeks ago)
-- [Add CAS compensation for BMI270](https://github.com/flightng/atbetaflight/pull/4) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (4 weeks ago)
+- [Add CAS compensation for BMI270](https://github.com/flightng/atbetaflight/pull/4) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
 - [Add support for LSM6DSM IMU](https://github.com/flightng/atbetaflight/pull/3) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
 - [Improve LSM6DSO driver](https://github.com/flightng/atbetaflight/pull/2) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT operating system. (5 days ago)
+- [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT operating system. (6 days ago)
 - [NVIDIA-AI-IOT/cuPCL](https://github.com/NVIDIA-AI-IOT/cuPCL) - A project demonstrating how to use the libs of cuPCL. (1 week ago)
 - [shellixyz/hd_fpv_osd_font_tool](https://github.com/shellixyz/hd_fpv_osd_font_tool) - A tool for managing OSD fonts or tile collections for HD FPV systems (Walksnail Avatar, HDZero, DJI FPV system) (1 week ago)
 - [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！ (1 week ago)
