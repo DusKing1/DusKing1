@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (3 days ago)
+- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (4 days ago)
 - [mspc-boot-camp/f407-adapter](https://github.com/mspc-boot-camp/f407-adapter) -  (2 weeks ago)
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (1 month ago)
 - [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) - 基于betaflight 4.3  移植至Artery Tek AT32F435/7 (1 month ago)
@@ -29,14 +29,14 @@
 
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc1](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc1), 2 weeks ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.18.1](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.18.1), 1 month ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
-- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.3.0](https://github.com/gyroflow/gyroflow/releases/tag/v1.3.0), 1 month ago) - Video stabilization using gyroscope data
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.3.0](https://github.com/gyroflow/gyroflow/releases/tag/v1.3.0), 2 months ago) - Video stabilization using gyroscope data
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 4 months ago) - Firmware for FC based gyro logger device
 
 #### 🔨 My recent Pull Requests
 
-- [[IMU driver]: Enable BMI270 IOC feature](https://github.com/flightng/atbetaflight/pull/20) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 day ago)
-- [[IMU driver]: Add support for LSM6DSL IMU](https://github.com/flightng/atbetaflight/pull/19) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 days ago)
-- [[IMU driver]: Add support for LSM6DS3 IMU](https://github.com/flightng/atbetaflight/pull/18) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (6 days ago)
+- [[IMU driver]: Enable BMI270 IOC feature](https://github.com/flightng/atbetaflight/pull/20) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 days ago)
+- [[IMU driver]: Add support for LSM6DSL IMU](https://github.com/flightng/atbetaflight/pull/19) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (4 days ago)
+- [[IMU driver]: Add support for LSM6DS3 IMU](https://github.com/flightng/atbetaflight/pull/18) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 week ago)
 - [[IMU driver]: Switch BMI270 to normal driver](https://github.com/flightng/atbetaflight/pull/16) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 weeks ago)
 - [Fix read of DPS310 coef C11](https://github.com/flightng/atbetaflight/pull/14) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 weeks ago)
 - [Update version and ci](https://github.com/flightng/atbetaflight/pull/13) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 weeks ago)
