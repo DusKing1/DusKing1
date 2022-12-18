@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add smith predictor from EmuFlight](https://github.com/flightng/atbetaflight/pull/21) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (today)
 - [[IMU driver]: Enable BMI270 IOC feature](https://github.com/flightng/atbetaflight/pull/20) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (4 days ago)
 - [[IMU driver]: Add support for LSM6DSL IMU](https://github.com/flightng/atbetaflight/pull/19) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (6 days ago)
 - [[IMU driver]: Add support for LSM6DS3 IMU](https://github.com/flightng/atbetaflight/pull/18) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 week ago)
@@ -43,7 +44,6 @@
 - [[IMU driver]: improve bmi270 gyro data](https://github.com/flightng/atbetaflight/pull/11) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 weeks ago)
 - [[IMU driver]: stronger acc anti-aliasing filter](https://github.com/flightng/atbetaflight/pull/8) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 weeks ago)
 - [Add CAS compensation for BMI270](https://github.com/flightng/atbetaflight/pull/4) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
-- [Add support for LSM6DSM IMU](https://github.com/flightng/atbetaflight/pull/3) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
 
 #### ⭐ Recent Stars
 
