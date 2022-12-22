@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[IMU driver]: Fix CAS reading timing of bmi270](https://github.com/flightng/atbetaflight/pull/22) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (today)
 - [Add smith predictor from EmuFlight](https://github.com/flightng/atbetaflight/pull/21) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (4 days ago)
 - [[IMU driver]: Enable BMI270 IOC feature](https://github.com/flightng/atbetaflight/pull/20) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 week ago)
 - [[IMU driver]: Add support for LSM6DSL IMU](https://github.com/flightng/atbetaflight/pull/19) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 week ago)
@@ -43,7 +44,6 @@
 - [Update version and ci](https://github.com/flightng/atbetaflight/pull/13) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 weeks ago)
 - [[IMU driver]: improve bmi270 gyro data](https://github.com/flightng/atbetaflight/pull/11) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
 - [[IMU driver]: stronger acc anti-aliasing filter](https://github.com/flightng/atbetaflight/pull/8) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
-- [Add CAS compensation for BMI270](https://github.com/flightng/atbetaflight/pull/4) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
 
 #### ⭐ Recent Stars
 
