@@ -7,7 +7,7 @@
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (1 month ago)
 - [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) - 基于betaflight 4.3  移植至Artery Tek AT32F435/7 (2 months ago)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (2 months ago)
-- [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (2 months ago)
+- [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (3 months ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (4 months ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (5 months ago)
 - [NeutronRC/betaflight-presets](https://github.com/NeutronRC/betaflight-presets) -  (8 months ago)
@@ -27,21 +27,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.4.2](https://github.com/gyroflow/gyroflow/releases/tag/v1.4.2), 3 days ago) - Video stabilization using gyroscope data
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.4.2](https://github.com/gyroflow/gyroflow/releases/tag/v1.4.2), 4 days ago) - Video stabilization using gyroscope data
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc1](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc1), 1 month ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.18.1](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.18.1), 1 month ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 5 months ago) - Firmware for FC based gyro logger device
 
 #### 🔨 My recent Pull Requests
 
-- [[IMU driver]: Fix CAS reading timing of bmi270](https://github.com/flightng/atbetaflight/pull/22) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (4 days ago)
+- [[IMU driver]: Fix CAS reading timing of bmi270](https://github.com/flightng/atbetaflight/pull/22) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (5 days ago)
 - [Add smith predictor from EmuFlight](https://github.com/flightng/atbetaflight/pull/21) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 week ago)
 - [[IMU driver]: Enable BMI270 IOC feature](https://github.com/flightng/atbetaflight/pull/20) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 week ago)
 - [[IMU driver]: Add support for LSM6DSL IMU](https://github.com/flightng/atbetaflight/pull/19) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 weeks ago)
 - [[IMU driver]: Add support for LSM6DS3 IMU](https://github.com/flightng/atbetaflight/pull/18) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 weeks ago)
 - [[IMU driver]: Switch BMI270 to normal driver](https://github.com/flightng/atbetaflight/pull/16) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 weeks ago)
-- [Fix read of DPS310 coef C11](https://github.com/flightng/atbetaflight/pull/14) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 weeks ago)
-- [Update version and ci](https://github.com/flightng/atbetaflight/pull/13) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (4 weeks ago)
+- [Fix read of DPS310 coef C11](https://github.com/flightng/atbetaflight/pull/14) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (4 weeks ago)
+- [Update version and ci](https://github.com/flightng/atbetaflight/pull/13) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
 - [[IMU driver]: improve bmi270 gyro data](https://github.com/flightng/atbetaflight/pull/11) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
 - [[IMU driver]: stronger acc anti-aliasing filter](https://github.com/flightng/atbetaflight/pull/8) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
 
