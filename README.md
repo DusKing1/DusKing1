@@ -55,7 +55,7 @@
 - [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！ (1 month ago)
 - [shellixyz/dji_fpv_video_tool](https://github.com/shellixyz/dji_fpv_video_tool) - A software tool to manipulate video files and OSD files recorded with the DJI FPV system (1 month ago)
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads &amp; trackers blocking DNS server (1 month ago)
-- [stronnag/inav-follow-me](https://github.com/stronnag/inav-follow-me) - Follow me gadget based on Rpi Pico MCU (1 month ago)
+- [stronnag/inav-follow-me](https://github.com/stronnag/inav-follow-me) - Follow me gadget based on Rpi Pico MCU (2 months ago)
 - [STMicroelectronics/STMems_Finite_State_Machine](https://github.com/STMicroelectronics/STMems_Finite_State_Machine) - Configuration files and examples for the Finite State Machine feature (FSM) available in STMicroelectronics MEMS sensors (2 months ago)
 
 #### 💬 Feedback
