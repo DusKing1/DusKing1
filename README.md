@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) - Flight Controller Firmware (today)
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (3 weeks ago)
 - [STMicroelectronics/STMems_Machine_Learning_Core](https://github.com/STMicroelectronics/STMems_Machine_Learning_Core) - Configuration files, examples and tools for the Machine Learning Core feature (MLC) available in STMicroelectronics MEMS sensors. Some examples of devices including MLC: LSM6DSOX, LSM6DSRX, ISM330DHCX, IIS2ICLX, LSM6DSO32X, ASM330LHHX, LSM6DSV16X (1 month ago)
 - [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT operating system. (1 month ago)
@@ -56,7 +57,6 @@
 - [shellixyz/dji_fpv_video_tool](https://github.com/shellixyz/dji_fpv_video_tool) - A software tool to manipulate video files and OSD files recorded with the DJI FPV system (1 month ago)
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads &amp; trackers blocking DNS server (2 months ago)
 - [stronnag/inav-follow-me](https://github.com/stronnag/inav-follow-me) - Follow me gadget based on Rpi Pico MCU (2 months ago)
-- [STMicroelectronics/STMems_Finite_State_Machine](https://github.com/STMicroelectronics/STMems_Finite_State_Machine) - Configuration files and examples for the Finite State Machine feature (FSM) available in STMicroelectronics MEMS sensors (2 months ago)
 
 #### 💬 Feedback
 
