@@ -9,7 +9,7 @@
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (3 months ago)
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (3 months ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (5 months ago)
-- [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (5 months ago)
+- [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (6 months ago)
 - [NeutronRC/betaflight-presets](https://github.com/NeutronRC/betaflight-presets) -  (9 months ago)
 - [DusKing1/github-slideshow](https://github.com/DusKing1/github-slideshow) - A robot powered training repository :robot: (10 months ago)
 
