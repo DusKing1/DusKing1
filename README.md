@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (3 weeks ago)
+- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (4 weeks ago)
 - [mspc-boot-camp/f407-adapter](https://github.com/mspc-boot-camp/f407-adapter) -  (1 month ago)
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (2 months ago)
 - [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) - 基于betaflight 4.3  移植至Artery Tek AT32F435/7 (3 months ago)
@@ -40,14 +40,14 @@
 - [[IMU driver]: Add support for LSM6DSL IMU](https://github.com/flightng/atbetaflight/pull/19) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
 - [[IMU driver]: Add support for LSM6DS3 IMU](https://github.com/flightng/atbetaflight/pull/18) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
 - [[IMU driver]: Switch BMI270 to normal driver](https://github.com/flightng/atbetaflight/pull/16) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
-- [Fix read of DPS310 coef C11](https://github.com/flightng/atbetaflight/pull/14) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
+- [Fix read of DPS310 coef C11](https://github.com/flightng/atbetaflight/pull/14) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 months ago)
 - [Update version and ci](https://github.com/flightng/atbetaflight/pull/13) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 months ago)
 - [[IMU driver]: improve bmi270 gyro data](https://github.com/flightng/atbetaflight/pull/11) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 months ago)
 - [[IMU driver]: stronger acc anti-aliasing filter](https://github.com/flightng/atbetaflight/pull/8) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) - Flight Controller Firmware (4 days ago)
+- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) - Flight Controller Firmware (5 days ago)
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (1 month ago)
 - [STMicroelectronics/STMems_Machine_Learning_Core](https://github.com/STMicroelectronics/STMems_Machine_Learning_Core) - Configuration files, examples and tools for the Machine Learning Core feature (MLC) available in STMicroelectronics MEMS sensors. Some examples of devices including MLC: LSM6DSOX, LSM6DSRX, ISM330DHCX, IIS2ICLX, LSM6DSO32X, ASM330LHHX, LSM6DSV16X (1 month ago)
 - [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT operating system. (1 month ago)
