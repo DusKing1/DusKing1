@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add support for AT32 chips](https://github.com/iNavFlight/inav/pull/8752) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (today)
 - [[Target Update]: Fix wrong definitions in AT32 targets](https://github.com/flightng/atbetaflight/pull/25) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 days ago)
 - [Dev](https://github.com/flightng/inav/pull/1) on [flightng/inav](https://github.com/flightng/inav) (3 days ago)
 - [[IMU driver]: Fix CAS reading timing of bmi270](https://github.com/flightng/atbetaflight/pull/22) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
@@ -43,7 +44,6 @@
 - [[IMU driver]: Add support for LSM6DS3 IMU](https://github.com/flightng/atbetaflight/pull/18) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
 - [[IMU driver]: Switch BMI270 to normal driver](https://github.com/flightng/atbetaflight/pull/16) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 months ago)
 - [Fix read of DPS310 coef C11](https://github.com/flightng/atbetaflight/pull/14) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 months ago)
-- [Update version and ci](https://github.com/flightng/atbetaflight/pull/13) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 months ago)
 
 #### ⭐ Recent Stars
 
