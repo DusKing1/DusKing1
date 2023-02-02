@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [BrainFPV/betaflight](https://github.com/BrainFPV/betaflight) - Betaflight Flight Controller Firmware (today)
 - [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) - Flight Controller Firmware (1 week ago)
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (1 month ago)
 - [STMicroelectronics/STMems_Machine_Learning_Core](https://github.com/STMicroelectronics/STMems_Machine_Learning_Core) - Configuration files, examples and tools for the Machine Learning Core feature (MLC) available in STMicroelectronics MEMS sensors. Some examples of devices including MLC: LSM6DSOX, LSM6DSRX, ISM330DHCX, IIS2ICLX, LSM6DSO32X, ASM330LHHX, LSM6DSV16X, LIS2DUX12, LIS2DUXS12 (1 month ago)
@@ -56,7 +57,6 @@
 - [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！ (2 months ago)
 - [shellixyz/hd_fpv_video_tool](https://github.com/shellixyz/hd_fpv_video_tool) - A software tool to manipulate video files and OSD files recoded with the DJI and Walksnail Avatar FPV systems (2 months ago)
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads &amp; trackers blocking DNS server (2 months ago)
-- [stronnag/inav-follow-me](https://github.com/stronnag/inav-follow-me) - Follow me gadget based on Rpi Pico MCU (2 months ago)
 
 #### 💬 Feedback
 
