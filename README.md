@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[Target Update]: Target name unification](https://github.com/flightng/atbetaflight/pull/27) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (today)
 - [Update docs](https://github.com/flightng/docs/pull/2) on [flightng/docs](https://github.com/flightng/docs) (1 day ago)
 - [Add support for AT32 chips](https://github.com/iNavFlight/inav/pull/8752) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (4 days ago)
 - [[Target Update]: Fix wrong definitions in AT32 targets](https://github.com/flightng/atbetaflight/pull/25) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 week ago)
@@ -43,7 +44,6 @@
 - [[IMU driver]: Enable BMI270 IOC feature](https://github.com/flightng/atbetaflight/pull/20) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
 - [[IMU driver]: Add support for LSM6DSL IMU](https://github.com/flightng/atbetaflight/pull/19) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
 - [[IMU driver]: Add support for LSM6DS3 IMU](https://github.com/flightng/atbetaflight/pull/18) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
-- [[IMU driver]: Switch BMI270 to normal driver](https://github.com/flightng/atbetaflight/pull/16) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 months ago)
 
 #### ⭐ Recent Stars
 
