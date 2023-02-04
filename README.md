@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (today)
-- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (6 days ago)
+- [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (1 day ago)
+- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (1 week ago)
 - [mspc-boot-camp/f407-adapter](https://github.com/mspc-boot-camp/f407-adapter) -  (2 months ago)
 - [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) - 基于betaflight 4.3  移植至Artery Tek AT32F435/7 (3 months ago)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (3 months ago)
@@ -34,10 +34,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update docs](https://github.com/flightng/docs/pull/2) on [flightng/docs](https://github.com/flightng/docs) (today)
-- [Add support for AT32 chips](https://github.com/iNavFlight/inav/pull/8752) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (3 days ago)
-- [[Target Update]: Fix wrong definitions in AT32 targets](https://github.com/flightng/atbetaflight/pull/25) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (6 days ago)
-- [Dev](https://github.com/flightng/inav/pull/1) on [flightng/inav](https://github.com/flightng/inav) (6 days ago)
+- [Update docs](https://github.com/flightng/docs/pull/2) on [flightng/docs](https://github.com/flightng/docs) (1 day ago)
+- [Add support for AT32 chips](https://github.com/iNavFlight/inav/pull/8752) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (4 days ago)
+- [[Target Update]: Fix wrong definitions in AT32 targets](https://github.com/flightng/atbetaflight/pull/25) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 week ago)
+- [Dev](https://github.com/flightng/inav/pull/1) on [flightng/inav](https://github.com/flightng/inav) (1 week ago)
 - [[IMU driver]: Fix CAS reading timing of bmi270](https://github.com/flightng/atbetaflight/pull/22) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
 - [Add smith predictor from EmuFlight](https://github.com/flightng/atbetaflight/pull/21) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
 - [[IMU driver]: Enable BMI270 IOC feature](https://github.com/flightng/atbetaflight/pull/20) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [BrainFPV/betaflight](https://github.com/BrainFPV/betaflight) - Betaflight Flight Controller Firmware (1 day ago)
+- [BrainFPV/betaflight](https://github.com/BrainFPV/betaflight) - Betaflight Flight Controller Firmware (2 days ago)
 - [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) - Flight Controller Firmware (1 week ago)
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (1 month ago)
 - [STMicroelectronics/STMems_Machine_Learning_Core](https://github.com/STMicroelectronics/STMems_Machine_Learning_Core) - Configuration files, examples and tools for the Machine Learning Core feature (MLC) available in STMicroelectronics MEMS sensors. Some examples of devices including MLC: LSM6DSOX, LSM6DSRX, ISM330DHCX, IIS2ICLX, LSM6DSO32X, ASM330LHHX, LSM6DSV16X, LIS2DUX12, LIS2DUXS12 (1 month ago)
