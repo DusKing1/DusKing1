@@ -28,7 +28,6 @@
 #### 🔭 Latest releases I've contributed to
 
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.1-rc2](https://github.com/flightng/atbetaflight/releases/tag/v4.3.1-rc2), 1 week ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
-- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) ([v1.4.2](https://github.com/gyroflow/gyroflow/releases/tag/v1.4.2), 1 month ago) - Video stabilization using gyroscope data
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.18.1](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.18.1), 3 months ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 6 months ago) - Firmware for FC based gyro logger device
 
