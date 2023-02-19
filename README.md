@@ -46,6 +46,7 @@
 
 #### ⭐ Recent Stars
 
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (today)
 - [xieshang/AutoSpy](https://github.com/xieshang/AutoSpy) -  (2 days ago)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (1 week ago)
 - [BrainFPV/betaflight](https://github.com/BrainFPV/betaflight) - Betaflight Flight Controller Firmware (2 weeks ago)
@@ -55,7 +56,6 @@
 - [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT operating system. (2 months ago)
 - [NVIDIA-AI-IOT/cuPCL](https://github.com/NVIDIA-AI-IOT/cuPCL) - A project demonstrating how to use the libs of cuPCL. (2 months ago)
 - [shellixyz/hd_fpv_osd_font_tool](https://github.com/shellixyz/hd_fpv_osd_font_tool) - A tool for managing OSD fonts or tile collections for HD FPV systems (Walksnail Avatar, HDZero, DJI FPV system) (2 months ago)
-- [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！ (2 months ago)
 
 #### 💬 Feedback
 
