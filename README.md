@@ -46,8 +46,8 @@
 
 #### ⭐ Recent Stars
 
-- [xieshang/AutoSpy](https://github.com/xieshang/AutoSpy) -  (1 day ago)
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (6 days ago)
+- [xieshang/AutoSpy](https://github.com/xieshang/AutoSpy) -  (2 days ago)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (1 week ago)
 - [BrainFPV/betaflight](https://github.com/BrainFPV/betaflight) - Betaflight Flight Controller Firmware (2 weeks ago)
 - [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) - Flight Controller Firmware (3 weeks ago)
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (1 month ago)
