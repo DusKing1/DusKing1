@@ -29,7 +29,7 @@
 
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.1-rc2](https://github.com/flightng/atbetaflight/releases/tag/v4.3.1-rc2), 2 weeks ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.18.1](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.18.1), 3 months ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 6 months ago) - Firmware for FC based gyro logger device
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 7 months ago) - Firmware for FC based gyro logger device
 
 #### 🔨 My recent Pull Requests
 
@@ -39,18 +39,18 @@
 - [Add support for AT32 chips](https://github.com/iNavFlight/inav/pull/8752) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (2 weeks ago)
 - [[Target Update]: Fix wrong definitions in AT32 targets](https://github.com/flightng/atbetaflight/pull/25) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 weeks ago)
 - [Dev](https://github.com/flightng/inav/pull/1) on [flightng/inav](https://github.com/flightng/inav) (3 weeks ago)
-- [[IMU driver]: Fix CAS reading timing of bmi270](https://github.com/flightng/atbetaflight/pull/22) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
+- [[IMU driver]: Fix CAS reading timing of bmi270](https://github.com/flightng/atbetaflight/pull/22) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 months ago)
 - [Add smith predictor from EmuFlight](https://github.com/flightng/atbetaflight/pull/21) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 months ago)
 - [[IMU driver]: Enable BMI270 IOC feature](https://github.com/flightng/atbetaflight/pull/20) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 months ago)
 - [[IMU driver]: Add support for LSM6DSL IMU](https://github.com/flightng/atbetaflight/pull/19) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (today)
-- [xieshang/AutoSpy](https://github.com/xieshang/AutoSpy) -  (2 days ago)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (1 day ago)
+- [xieshang/AutoSpy](https://github.com/xieshang/AutoSpy) -  (3 days ago)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (1 week ago)
 - [BrainFPV/betaflight](https://github.com/BrainFPV/betaflight) - Betaflight Flight Controller Firmware (2 weeks ago)
-- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) - Flight Controller Firmware (3 weeks ago)
+- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) - Flight Controller Firmware (4 weeks ago)
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (1 month ago)
 - [STMicroelectronics/STMems_Machine_Learning_Core](https://github.com/STMicroelectronics/STMems_Machine_Learning_Core) - Configuration files, examples and tools for the Machine Learning Core feature (MLC) available in STMicroelectronics MEMS sensors. Some examples of devices including MLC: LSM6DSOX, LSM6DSRX, ISM330DHCX, IIS2ICLX, LSM6DSO32X, ASM330LHHX, LSM6DSV16X, LIS2DUX12, LIS2DUXS12 (2 months ago)
 - [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT operating system. (2 months ago)
