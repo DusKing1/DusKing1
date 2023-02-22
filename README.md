@@ -33,6 +33,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[IMU Driver]: Add CRT to BMI270](https://github.com/flightng/atbetaflight/pull/31) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (today)
+- [[IMU Driver]: Add support for QMI8658 imu](https://github.com/flightng/atbetaflight/pull/30) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (today)
 - [Add support for SH3001 IMU](https://github.com/flightng/atbetaflight/pull/28) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 week ago)
 - [[Target Update]: Target name unification](https://github.com/flightng/atbetaflight/pull/27) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 weeks ago)
 - [Update docs](https://github.com/flightng/docs/pull/2) on [flightng/docs](https://github.com/flightng/docs) (2 weeks ago)
@@ -41,8 +43,6 @@
 - [Dev](https://github.com/flightng/inav/pull/1) on [flightng/inav](https://github.com/flightng/inav) (3 weeks ago)
 - [[IMU driver]: Fix CAS reading timing of bmi270](https://github.com/flightng/atbetaflight/pull/22) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 months ago)
 - [Add smith predictor from EmuFlight](https://github.com/flightng/atbetaflight/pull/21) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 months ago)
-- [[IMU driver]: Enable BMI270 IOC feature](https://github.com/flightng/atbetaflight/pull/20) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 months ago)
-- [[IMU driver]: Add support for LSM6DSL IMU](https://github.com/flightng/atbetaflight/pull/19) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 months ago)
 
 #### ⭐ Recent Stars
 
