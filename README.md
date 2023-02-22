@@ -9,7 +9,7 @@
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (4 months ago)
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (4 months ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (6 months ago)
-- [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (6 months ago)
+- [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (7 months ago)
 - [NeutronRC/betaflight-presets](https://github.com/NeutronRC/betaflight-presets) -  (10 months ago)
 - [DusKing1/github-slideshow](https://github.com/DusKing1/github-slideshow) - A robot powered training repository :robot: (11 months ago)
 
@@ -46,11 +46,11 @@
 
 #### ⭐ Recent Stars
 
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (2 days ago)
-- [xieshang/AutoSpy](https://github.com/xieshang/AutoSpy) -  (4 days ago)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (3 days ago)
+- [xieshang/AutoSpy](https://github.com/xieshang/AutoSpy) -  (5 days ago)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (1 week ago)
 - [BrainFPV/betaflight](https://github.com/BrainFPV/betaflight) - Betaflight Flight Controller Firmware (2 weeks ago)
-- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) - Flight Controller Firmware (4 weeks ago)
+- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) - Flight Controller Firmware (1 month ago)
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (1 month ago)
 - [STMicroelectronics/STMems_Machine_Learning_Core](https://github.com/STMicroelectronics/STMems_Machine_Learning_Core) - Configuration files, examples and tools for the Machine Learning Core feature (MLC) available in STMicroelectronics MEMS sensors. Some examples of devices including MLC: LSM6DSOX, LSM6DSRX, ISM330DHCX, IIS2ICLX, LSM6DSO32X, ASM330LHHX, LSM6DSV16X, LIS2DUX12, LIS2DUXS12 (2 months ago)
 - [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT operating system. (2 months ago)
