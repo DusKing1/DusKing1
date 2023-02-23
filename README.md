@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[IMU Driver]: Correct CAS compensation according to BMI270 official api](https://github.com/flightng/atbetaflight/pull/34) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (today)
 - [[Build System]: Remove cli.c from size-optimize](https://github.com/flightng/atbetaflight/pull/33) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (today)
 - [[IMU Driver]: Add CRT to BMI270](https://github.com/flightng/atbetaflight/pull/31) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 day ago)
 - [[IMU Driver]: Add support for QMI8658 imu](https://github.com/flightng/atbetaflight/pull/30) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 day ago)
@@ -42,7 +43,6 @@
 - [Add support for AT32 chips](https://github.com/iNavFlight/inav/pull/8752) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (3 weeks ago)
 - [[Target Update]: Fix wrong definitions in AT32 targets](https://github.com/flightng/atbetaflight/pull/25) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 weeks ago)
 - [Dev](https://github.com/flightng/inav/pull/1) on [flightng/inav](https://github.com/flightng/inav) (3 weeks ago)
-- [[IMU driver]: Fix CAS reading timing of bmi270](https://github.com/flightng/atbetaflight/pull/22) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 months ago)
 
 #### ⭐ Recent Stars
 
