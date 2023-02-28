@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (1 day ago)
+- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (2 days ago)
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (3 weeks ago)
-- [mspc-boot-camp/f407-adapter](https://github.com/mspc-boot-camp/f407-adapter) -  (2 months ago)
+- [mspc-boot-camp/f407-adapter](https://github.com/mspc-boot-camp/f407-adapter) -  (3 months ago)
 - [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) - 基于betaflight 4.3  移植至Artery Tek AT32F435/7 (4 months ago)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (4 months ago)
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (5 months ago)
@@ -27,27 +27,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.19.2](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.19.2), 1 day ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
+- [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.19.2](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.19.2), 2 days ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.1-rc2](https://github.com/flightng/atbetaflight/releases/tag/v4.3.1-rc2), 3 weeks ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 7 months ago) - Firmware for FC based gyro logger device
 
 #### 🔨 My recent Pull Requests
 
-- [Improve bmi270 driver](https://github.com/BossHobby/QUICKSILVER/pull/90) on [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) (today)
-- [[IMU Driver]: Correct CAS compensation according to BMI270 official api](https://github.com/flightng/atbetaflight/pull/34) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (4 days ago)
-- [[Build System]: Remove cli.c from size-optimize](https://github.com/flightng/atbetaflight/pull/33) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (4 days ago)
-- [[IMU Driver]: Add CRT to BMI270](https://github.com/flightng/atbetaflight/pull/31) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (5 days ago)
-- [[IMU Driver]: Add support for QMI8658 imu](https://github.com/flightng/atbetaflight/pull/30) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (5 days ago)
+- [Improve bmi270 driver](https://github.com/BossHobby/QUICKSILVER/pull/90) on [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) (1 day ago)
+- [[IMU Driver]: Correct CAS compensation according to BMI270 official api](https://github.com/flightng/atbetaflight/pull/34) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (5 days ago)
+- [[Build System]: Remove cli.c from size-optimize](https://github.com/flightng/atbetaflight/pull/33) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (5 days ago)
+- [[IMU Driver]: Add CRT to BMI270](https://github.com/flightng/atbetaflight/pull/31) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (6 days ago)
+- [[IMU Driver]: Add support for QMI8658 imu](https://github.com/flightng/atbetaflight/pull/30) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (6 days ago)
 - [Add support for SH3001 IMU](https://github.com/flightng/atbetaflight/pull/28) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 weeks ago)
 - [[Target Update]: Target name unification](https://github.com/flightng/atbetaflight/pull/27) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 weeks ago)
 - [Update docs](https://github.com/flightng/docs/pull/2) on [flightng/docs](https://github.com/flightng/docs) (3 weeks ago)
-- [Add support for AT32 chips](https://github.com/iNavFlight/inav/pull/8752) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (3 weeks ago)
+- [Add support for AT32 chips](https://github.com/iNavFlight/inav/pull/8752) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (4 weeks ago)
 - [[Target Update]: Fix wrong definitions in AT32 targets](https://github.com/flightng/atbetaflight/pull/25) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [titulebolide/PID-Analyzer](https://github.com/titulebolide/PID-Analyzer) -  (today)
-- [spracing/spracingpixelosd](https://github.com/spracing/spracingpixelosd) - SPRacing Pixel OSD schematics, documentation and code. (4 days ago)
+- [titulebolide/PID-Analyzer](https://github.com/titulebolide/PID-Analyzer) -  (1 day ago)
+- [spracing/spracingpixelosd](https://github.com/spracing/spracingpixelosd) - SPRacing Pixel OSD schematics, documentation and code. (5 days ago)
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (1 week ago)
 - [xieshang/AutoSpy](https://github.com/xieshang/AutoSpy) -  (1 week ago)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (2 weeks ago)
