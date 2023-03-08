@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (3 days ago)
+- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (4 days ago)
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (1 month ago)
 - [mspc-boot-camp/f407-adapter](https://github.com/mspc-boot-camp/f407-adapter) -  (3 months ago)
 - [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) - 基于betaflight 4.3  移植至Artery Tek AT32F435/7 (4 months ago)
@@ -37,8 +37,8 @@
 - [Improve bmi270 driver](https://github.com/BossHobby/QUICKSILVER/pull/90) on [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) (1 week ago)
 - [[IMU Driver]: Correct CAS compensation according to BMI270 official api](https://github.com/flightng/atbetaflight/pull/34) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 week ago)
 - [[Build System]: Remove cli.c from size-optimize](https://github.com/flightng/atbetaflight/pull/33) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 week ago)
-- [[IMU Driver]: Add CRT to BMI270](https://github.com/flightng/atbetaflight/pull/31) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 week ago)
-- [[IMU Driver]: Add support for QMI8658 imu](https://github.com/flightng/atbetaflight/pull/30) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 week ago)
+- [[IMU Driver]: Add CRT to BMI270](https://github.com/flightng/atbetaflight/pull/31) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 weeks ago)
+- [[IMU Driver]: Add support for QMI8658 imu](https://github.com/flightng/atbetaflight/pull/30) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 weeks ago)
 - [Add support for SH3001 IMU](https://github.com/flightng/atbetaflight/pull/28) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 weeks ago)
 - [[Target Update]: Target name unification](https://github.com/flightng/atbetaflight/pull/27) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
 - [Update docs](https://github.com/flightng/docs/pull/2) on [flightng/docs](https://github.com/flightng/docs) (1 month ago)
@@ -46,6 +46,7 @@
 
 #### ⭐ Recent Stars
 
+- [firemakergk/aquar-home](https://github.com/firemakergk/aquar-home) - 高度可定制的个人Home页，同时是强大的NAS服务控制台。 (today)
 - [titulebolide/PID-Analyzer](https://github.com/titulebolide/PID-Analyzer) -  (1 week ago)
 - [spracing/spracingpixelosd](https://github.com/spracing/spracingpixelosd) - SPRacing Pixel OSD schematics, documentation and code. (1 week ago)
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (2 weeks ago)
@@ -55,7 +56,6 @@
 - [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) - Flight Controller Firmware (1 month ago)
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (2 months ago)
 - [STMicroelectronics/STMems_Machine_Learning_Core](https://github.com/STMicroelectronics/STMems_Machine_Learning_Core) - Configuration files, examples and tools for the Machine Learning Core feature (MLC) available in STMicroelectronics MEMS sensors. Some examples of devices including MLC: LSM6DSOX, LSM6DSRX, ISM330DHCX, IIS2ICLX, LSM6DSO32X, ASM330LHHX, LSM6DSV16X, LIS2DUX12, LIS2DUXS12 (2 months ago)
-- [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT operating system. (2 months ago)
 
 #### 💬 Feedback
 
