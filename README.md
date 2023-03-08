@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[IMU Driver]: Improve the BMI270 driver optimization level](https://github.com/flightng/atbetaflight/pull/37) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (today)
 - [[IMU Driver]: Add support for ASM330LHH IMU](https://github.com/flightng/atbetaflight/pull/35) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 week ago)
 - [Improve bmi270 driver](https://github.com/BossHobby/QUICKSILVER/pull/90) on [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) (1 week ago)
 - [[IMU Driver]: Correct CAS compensation according to BMI270 official api](https://github.com/flightng/atbetaflight/pull/34) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 week ago)
@@ -42,7 +43,6 @@
 - [Add support for SH3001 IMU](https://github.com/flightng/atbetaflight/pull/28) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 weeks ago)
 - [[Target Update]: Target name unification](https://github.com/flightng/atbetaflight/pull/27) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
 - [Update docs](https://github.com/flightng/docs/pull/2) on [flightng/docs](https://github.com/flightng/docs) (1 month ago)
-- [Add support for AT32 chips](https://github.com/iNavFlight/inav/pull/8752) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (1 month ago)
 
 #### ⭐ Recent Stars
 
