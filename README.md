@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (5 days ago)
+- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (today)
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (1 month ago)
 - [mspc-boot-camp/f407-adapter](https://github.com/mspc-boot-camp/f407-adapter) -  (3 months ago)
 - [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) - 基于betaflight 4.3  移植至Artery Tek AT32F435/7 (4 months ago)
@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[IMU Driver]: Disable HPM on all LSM6Dxx IMU](https://github.com/flightng/atbetaflight/pull/40) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (today)
 - [[Chore]: Change default USBD product string](https://github.com/flightng/atbetaflight/pull/39) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (today)
 - [[IMU Driver]: Improve the BMI270 driver optimization level](https://github.com/flightng/atbetaflight/pull/37) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 day ago)
 - [[IMU Driver]: Add support for ASM330LHH IMU](https://github.com/flightng/atbetaflight/pull/35) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 week ago)
@@ -42,7 +43,6 @@
 - [[IMU Driver]: Add CRT to BMI270](https://github.com/flightng/atbetaflight/pull/31) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 weeks ago)
 - [[IMU Driver]: Add support for QMI8658 imu](https://github.com/flightng/atbetaflight/pull/30) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 weeks ago)
 - [Add support for SH3001 IMU](https://github.com/flightng/atbetaflight/pull/28) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 weeks ago)
-- [[Target Update]: Target name unification](https://github.com/flightng/atbetaflight/pull/27) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
 
 #### ⭐ Recent Stars
 
