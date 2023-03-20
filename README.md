@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[CI Update]: Add EMSRPROTO4 to build CI](https://github.com/flightng/atbetaflight/pull/44) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (today)
 - [[IMU Driver]: Disable HPM on all LSM6Dxx IMU](https://github.com/flightng/atbetaflight/pull/40) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 week ago)
 - [[Chore]: Change default USBD product string](https://github.com/flightng/atbetaflight/pull/39) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 week ago)
 - [[IMU Driver]: Improve the BMI270 driver optimization level](https://github.com/flightng/atbetaflight/pull/37) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 week ago)
@@ -42,7 +43,6 @@
 - [[Build System]: Remove cli.c from size-optimize](https://github.com/flightng/atbetaflight/pull/33) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 weeks ago)
 - [[IMU Driver]: Add CRT to BMI270](https://github.com/flightng/atbetaflight/pull/31) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 weeks ago)
 - [[IMU Driver]: Add support for QMI8658 imu](https://github.com/flightng/atbetaflight/pull/30) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 weeks ago)
-- [Add support for SH3001 IMU](https://github.com/flightng/atbetaflight/pull/28) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
 
 #### ⭐ Recent Stars
 
