@@ -27,13 +27,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.19.2](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.19.2), 3 weeks ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
+- [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.19.2](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.19.2), 4 weeks ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.1-rc2](https://github.com/flightng/atbetaflight/releases/tag/v4.3.1-rc2), 1 month ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 8 months ago) - Firmware for FC based gyro logger device
 
 #### 🔨 My recent Pull Requests
 
-- [[CI Update]: Add EMSRPROTO4 to build CI](https://github.com/flightng/atbetaflight/pull/44) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (5 days ago)
+- [[CI Update]: Add EMSRPROTO4 to build CI](https://github.com/flightng/atbetaflight/pull/44) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (6 days ago)
 - [[IMU Driver]: Disable HPM on all LSM6Dxx IMU](https://github.com/flightng/atbetaflight/pull/40) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 weeks ago)
 - [[Chore]: Change default USBD product string](https://github.com/flightng/atbetaflight/pull/39) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 weeks ago)
 - [[IMU Driver]: Improve the BMI270 driver optimization level](https://github.com/flightng/atbetaflight/pull/37) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 weeks ago)
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [869413421/chatgpt-web](https://github.com/869413421/chatgpt-web) - 基于ChatGPT3.5 API实现的私有化web程序 (5 days ago)
+- [869413421/chatgpt-web](https://github.com/869413421/chatgpt-web) - 基于ChatGPT3.5 API实现的私有化web程序 (6 days ago)
 - [firemakergk/aquar-home](https://github.com/firemakergk/aquar-home) - 高度可定制的个人Home页，同时是强大的NAS服务控制台。 (2 weeks ago)
 - [titulebolide/PID-Analyzer](https://github.com/titulebolide/PID-Analyzer) -  (3 weeks ago)
 - [spracing/spracingpixelosd](https://github.com/spracing/spracingpixelosd) - SPRacing Pixel OSD schematics, documentation and code. (1 month ago)
