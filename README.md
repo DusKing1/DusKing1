@@ -10,7 +10,7 @@
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (6 months ago)
 - [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (7 months ago)
 - [gyroflow/logger-presets](https://github.com/gyroflow/logger-presets) -  (8 months ago)
-- [NeutronRC/betaflight-presets](https://github.com/NeutronRC/betaflight-presets) -  (11 months ago)
+- [NeutronRC/betaflight-presets](https://github.com/NeutronRC/betaflight-presets) -  (1 year ago)
 
 #### 🌱 My latest projects
 
