@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [HarbourJ/HarbourToulu](https://github.com/HarbourJ/HarbourToulu) - 仅供学习。TG: https://t.me/HarbourToulu (today)
 - [leafTheFish/DeathNote](https://github.com/leafTheFish/DeathNote) -  (3 days ago)
 - [xushier/HD-Icons](https://github.com/xushier/HD-Icons) - 高清仪表盘图标（1024x1024 分辨率） (4 days ago)
 - [XgzK/QL_variable](https://github.com/XgzK/QL_variable) - 添加青龙活动参数 (5 days ago)
@@ -56,7 +57,6 @@
 - [titulebolide/PID-Analyzer](https://github.com/titulebolide/PID-Analyzer) -  (1 month ago)
 - [spracing/spracingpixelosd](https://github.com/spracing/spracingpixelosd) - SPRacing Pixel OSD schematics, documentation and code. (1 month ago)
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (1 month ago)
-- [xieshang/AutoSpy](https://github.com/xieshang/AutoSpy) -  (1 month ago)
 
 #### 💬 Feedback
 
