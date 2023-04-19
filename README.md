@@ -54,7 +54,7 @@
 - [leafTheFish/DeathNote](https://github.com/leafTheFish/DeathNote) -  (1 week ago)
 - [xushier/HD-Icons](https://github.com/xushier/HD-Icons) - 高清仪表盘图标（1024x1024 分辨率） (1 week ago)
 - [XgzK/QL_variable](https://github.com/XgzK/QL_variable) - 添加青龙活动参数 (1 week ago)
-- [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT/GLM拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持自定义函数插件，支持markdown代码块表格显示，Tex公式双显示，新增Python/C&#43;&#43;项目剖析/自译解功能，PDF/LaTex论文翻译/总结功能 (1 week ago)
+- [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT/GLM拓展，特别优化学术Paper润色体验，模块化设计支持自定义快捷按钮&amp;函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C&#43;&#43;项目剖析&amp;自译解功能，PDF/LaTex论文翻译&amp;总结功能，支持并行问询多种LLM模型，支持gpt-3.5/gpt-4/chatglm (1 week ago)
 - [869413421/chatgpt-web](https://github.com/869413421/chatgpt-web) - 基于ChatGPT3.5 API实现的私有化web程序 (1 month ago)
 - [firemakergk/aquar-home](https://github.com/firemakergk/aquar-home) - 高度可定制的个人Home页，同时是强大的NAS服务控制台。 (1 month ago)
 - [titulebolide/PID-Analyzer](https://github.com/titulebolide/PID-Analyzer) -  (1 month ago)
