@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (6 days ago)
+- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (1 week ago)
 - [pitronicteam/pyPIDtoolbox](https://github.com/pitronicteam/pyPIDtoolbox) - Clone &amp; Python porting of https://github.com/bw1129/PIDtoolbox created by Brian White. (1 week ago)
 - [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) - Flight Controller Firmware (1 month ago)
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (2 months ago)
@@ -27,11 +27,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc3](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc3), 3 days ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
-- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.9.6](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.9.6), 4 days ago) - Flight Controller Firmware
+- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc3](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc3), 4 days ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
+- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.9.6](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.9.6), 5 days ago) - Flight Controller Firmware
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([6.0.0](https://github.com/iNavFlight/inav/releases/tag/6.0.0), 3 weeks ago) - INAV: Navigation-enabled flight control software
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.19.2](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.19.2), 1 month ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 8 months ago) - Firmware for FC based gyro logger device
+- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 9 months ago) - Firmware for FC based gyro logger device
 
 #### 🔨 My recent Pull Requests
 
@@ -48,14 +48,14 @@
 
 #### ⭐ Recent Stars
 
-- [6dylan6/jdm](https://github.com/6dylan6/jdm) - 线报监控合集 (today)
-- [firemakergk/aquar-build-helper](https://github.com/firemakergk/aquar-build-helper) - Aquar系统搭建指南 (5 days ago)
+- [6dylan6/jdm](https://github.com/6dylan6/jdm) - 线报监控合集 (1 day ago)
+- [firemakergk/aquar-build-helper](https://github.com/firemakergk/aquar-build-helper) - Aquar系统搭建指南 (6 days ago)
 - [SuperStudio/SuperCom](https://github.com/SuperStudio/SuperCom) - SuperCom 是一款串口调试工具 (1 week ago)
 - [HarbourJ/HarbourToulu](https://github.com/HarbourJ/HarbourToulu) - 仅供学习。TG: https://t.me/HarbourToulu (1 week ago)
 - [leafTheFish/DeathNote](https://github.com/leafTheFish/DeathNote) -  (1 week ago)
 - [xushier/HD-Icons](https://github.com/xushier/HD-Icons) - 高清仪表盘图标（1024x1024 分辨率） (1 week ago)
 - [XgzK/QL_variable](https://github.com/XgzK/QL_variable) - 添加青龙活动参数 (1 week ago)
-- [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT/GLM拓展，特别优化学术Paper润色体验，模块化设计支持自定义快捷按钮&amp;函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C&#43;&#43;项目剖析&amp;自译解功能，PDF/LaTex论文翻译&amp;总结功能，支持并行问询多种LLM模型，支持gpt-3.5/gpt-4/chatglm (1 week ago)
+- [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT/GLM拓展，特别优化学术Paper润色体验，模块化设计支持自定义快捷按钮&amp;函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C&#43;&#43;项目剖析&amp;自译解功能，PDF/LaTex论文翻译&amp;总结功能，支持并行问询多种LLM模型，支持gpt-3.5/gpt-4/chatglm (2 weeks ago)
 - [869413421/chatgpt-web](https://github.com/869413421/chatgpt-web) - 基于ChatGPT3.5 API实现的私有化web程序 (1 month ago)
 - [firemakergk/aquar-home](https://github.com/firemakergk/aquar-home) - 高度可定制的个人Home页，同时是强大的NAS服务控制台。 (1 month ago)
 
