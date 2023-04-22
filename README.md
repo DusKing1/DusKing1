@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [ccwav/QLScript2](https://github.com/ccwav/QLScript2) - 新QLScript (today)
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (today)
 - [qitoqito/kedaya](https://github.com/qitoqito/kedaya) -  (1 day ago)
 - [6dylan6/jdm](https://github.com/6dylan6/jdm) - 线报监控合集 (2 days ago)
@@ -57,7 +58,6 @@
 - [leafTheFish/DeathNote](https://github.com/leafTheFish/DeathNote) -  (1 week ago)
 - [xushier/HD-Icons](https://github.com/xushier/HD-Icons) - 高清仪表盘图标（1024x1024 分辨率） (1 week ago)
 - [XgzK/QL_variable](https://github.com/XgzK/QL_variable) - 添加青龙活动参数 (2 weeks ago)
-- [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT/GLM拓展，特别优化学术Paper润色体验，模块化设计支持自定义快捷按钮&amp;函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C&#43;&#43;项目剖析&amp;自译解功能，PDF/LaTex论文翻译&amp;总结功能，支持并行问询多种LLM模型，支持gpt-3.5/gpt-4/chatglm (2 weeks ago)
 
 #### 💬 Feedback
 
