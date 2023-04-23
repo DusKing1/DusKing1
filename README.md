@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [Zy143L/wskey](https://github.com/Zy143L/wskey) - wskey (today)
 - [ccwav/QLScript2](https://github.com/ccwav/QLScript2) - 新QLScript (1 day ago)
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (1 day ago)
 - [qitoqito/kedaya](https://github.com/qitoqito/kedaya) -  (2 days ago)
@@ -57,7 +58,6 @@
 - [HarbourJ/HarbourToulu](https://github.com/HarbourJ/HarbourToulu) - 仅供学习。TG: https://t.me/HarbourToulu (1 week ago)
 - [leafTheFish/DeathNote](https://github.com/leafTheFish/DeathNote) -  (1 week ago)
 - [xushier/HD-Icons](https://github.com/xushier/HD-Icons) - 高清仪表盘图标（1024x1024 分辨率） (2 weeks ago)
-- [XgzK/QL_variable](https://github.com/XgzK/QL_variable) - 添加青龙活动参数 (2 weeks ago)
 
 #### 💬 Feedback
 
