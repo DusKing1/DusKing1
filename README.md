@@ -27,10 +27,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([6.1.0-RC1](https://github.com/iNavFlight/inav/releases/tag/6.1.0-RC1), 4 days ago) - INAV: Navigation-enabled flight control software
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([6.1.0-RC1](https://github.com/iNavFlight/inav/releases/tag/6.1.0-RC1), 5 days ago) - INAV: Navigation-enabled flight control software
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc3](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc3), 1 week ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 - [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.9.6](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.9.6), 1 week ago) - Flight Controller Firmware
-- [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.19.2](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.19.2), 1 month ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
+- [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.19.2](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.19.2), 2 months ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 9 months ago) - Firmware for FC based gyro logger device
 
 #### 🔨 My recent Pull Requests
@@ -48,14 +48,14 @@
 
 #### ⭐ Recent Stars
 
-- [Zy143L/wskey](https://github.com/Zy143L/wskey) - wskey (3 days ago)
-- [ccwav/QLScript2](https://github.com/ccwav/QLScript2) - 新QLScript (4 days ago)
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (4 days ago)
-- [qitoqito/kedaya](https://github.com/qitoqito/kedaya) -  (5 days ago)
-- [6dylan6/jdm](https://github.com/6dylan6/jdm) - 线报监控合集 (6 days ago)
+- [Zy143L/wskey](https://github.com/Zy143L/wskey) - wskey (4 days ago)
+- [ccwav/QLScript2](https://github.com/ccwav/QLScript2) - 新QLScript (5 days ago)
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (5 days ago)
+- [qitoqito/kedaya](https://github.com/qitoqito/kedaya) -  (6 days ago)
+- [6dylan6/jdm](https://github.com/6dylan6/jdm) - 线报监控合集 (1 week ago)
 - [firemakergk/aquar-build-helper](https://github.com/firemakergk/aquar-build-helper) - Aquar系统搭建指南 (1 week ago)
-- [SuperStudio/SuperCom](https://github.com/SuperStudio/SuperCom) - SuperCom 是一款串口调试工具 (1 week ago)
-- [HarbourJ/HarbourToulu](https://github.com/HarbourJ/HarbourToulu) - 仅供学习。TG: https://t.me/HarbourToulu (1 week ago)
+- [SuperStudio/SuperCom](https://github.com/SuperStudio/SuperCom) - SuperCom 是一款串口调试工具 (2 weeks ago)
+- [HarbourJ/HarbourToulu](https://github.com/HarbourJ/HarbourToulu) - 仅供学习。TG: https://t.me/HarbourToulu (2 weeks ago)
 - [leafTheFish/DeathNote](https://github.com/leafTheFish/DeathNote) -  (2 weeks ago)
 - [xushier/HD-Icons](https://github.com/xushier/HD-Icons) - 高清仪表盘图标（1024x1024 分辨率） (2 weeks ago)
 
