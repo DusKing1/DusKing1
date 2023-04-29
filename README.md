@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [RedLightsDistrict/Bncr_plugins](https://github.com/RedLightsDistrict/Bncr_plugins) - 一些自用无界bot插件 (today)
 - [Zy143L/wskey](https://github.com/Zy143L/wskey) - wskey (6 days ago)
 - [ccwav/QLScript2](https://github.com/ccwav/QLScript2) - 新QLScript (1 week ago)
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (1 week ago)
@@ -57,7 +58,6 @@
 - [SuperStudio/SuperCom](https://github.com/SuperStudio/SuperCom) - SuperCom 是一款串口调试工具 (2 weeks ago)
 - [HarbourJ/HarbourToulu](https://github.com/HarbourJ/HarbourToulu) - 仅供学习。TG: https://t.me/HarbourToulu (2 weeks ago)
 - [leafTheFish/DeathNote](https://github.com/leafTheFish/DeathNote) -  (2 weeks ago)
-- [xushier/HD-Icons](https://github.com/xushier/HD-Icons) - 高清仪表盘图标（1024x1024 分辨率） (2 weeks ago)
 
 #### 💬 Feedback
 
