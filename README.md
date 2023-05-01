@@ -28,7 +28,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([6.1.0-RC1](https://github.com/iNavFlight/inav/releases/tag/6.1.0-RC1), 1 week ago) - INAV: Navigation-enabled flight control software
-- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc3](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc3), 1 week ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
+- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc3](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc3), 2 weeks ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 - [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.9.6](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.9.6), 2 weeks ago) - Flight Controller Firmware
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.19.2](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.19.2), 2 months ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 9 months ago) - Firmware for FC based gyro logger device
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [RedLightsDistrict/Bncr_plugins](https://github.com/RedLightsDistrict/Bncr_plugins) - 一些自用无界bot插件 (1 day ago)
+- [RedLightsDistrict/Bncr_plugins](https://github.com/RedLightsDistrict/Bncr_plugins) - 一些自用无界bot插件 (2 days ago)
 - [Zy143L/wskey](https://github.com/Zy143L/wskey) - wskey (1 week ago)
 - [ccwav/QLScript2](https://github.com/ccwav/QLScript2) - 新QLScript (1 week ago)
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (1 week ago)
@@ -57,7 +57,7 @@
 - [firemakergk/aquar-build-helper](https://github.com/firemakergk/aquar-build-helper) - Aquar系统搭建指南 (2 weeks ago)
 - [SuperStudio/SuperCom](https://github.com/SuperStudio/SuperCom) - SuperCom 是一款串口调试工具 (2 weeks ago)
 - [HarbourJ/HarbourToulu](https://github.com/HarbourJ/HarbourToulu) - 仅供学习。TG: https://t.me/HarbourToulu (2 weeks ago)
-- [leafTheFish/DeathNote](https://github.com/leafTheFish/DeathNote) -  (2 weeks ago)
+- [leafTheFish/DeathNote](https://github.com/leafTheFish/DeathNote) -  (3 weeks ago)
 
 #### 💬 Feedback
 
