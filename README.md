@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Bug Fix]: Fix dshot beacon issue](https://github.com/flightng/atbetaflight/pull/46) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 weeks ago)
+- [[Bug Fix]: Fix dshot beacon issue](https://github.com/flightng/atbetaflight/pull/46) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 weeks ago)
 - [[CI Update]: Add EMSRPROTO4 to build CI](https://github.com/flightng/atbetaflight/pull/44) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
 - [[IMU Driver]: Disable HPM on all LSM6Dxx IMU](https://github.com/flightng/atbetaflight/pull/40) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
 - [[Chore]: Change default USBD product string](https://github.com/flightng/atbetaflight/pull/39) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [RedLightsDistrict/Bncr_plugins](https://github.com/RedLightsDistrict/Bncr_plugins) - 一些自用无界bot插件 (3 days ago)
+- [RedLightsDistrict/Bncr_plugins](https://github.com/RedLightsDistrict/Bncr_plugins) - 一些自用无界bot插件 (4 days ago)
 - [Zy143L/wskey](https://github.com/Zy143L/wskey) - wskey (1 week ago)
 - [ccwav/QLScript2](https://github.com/ccwav/QLScript2) - 新QLScript (1 week ago)
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (1 week ago)
