@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[Enhancement]: Add support for HD OSD (canvas mode)](https://github.com/flightng/atbetaflight/pull/54) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (today)
 - [[Bug Fix]: Fix dshot beacon issue](https://github.com/flightng/atbetaflight/pull/46) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 weeks ago)
 - [[CI Update]: Add EMSRPROTO4 to build CI](https://github.com/flightng/atbetaflight/pull/44) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
 - [[IMU Driver]: Disable HPM on all LSM6Dxx IMU](https://github.com/flightng/atbetaflight/pull/40) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
@@ -44,7 +45,6 @@
 - [Improve bmi270 driver](https://github.com/BossHobby/QUICKSILVER/pull/90) on [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) (2 months ago)
 - [[IMU Driver]: Correct CAS compensation according to BMI270 official api](https://github.com/flightng/atbetaflight/pull/34) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 months ago)
 - [[Build System]: Remove cli.c from size-optimize](https://github.com/flightng/atbetaflight/pull/33) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 months ago)
-- [[IMU Driver]: Add CRT to BMI270](https://github.com/flightng/atbetaflight/pull/31) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 months ago)
 
 #### ⭐ Recent Stars
 
