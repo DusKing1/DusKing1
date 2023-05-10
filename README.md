@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [fjwpsyb/Bncr_plugin](https://github.com/fjwpsyb/Bncr_plugin) - 一些自用无界bot插件 (today)
 - [RedLightsDistrict/Bncr_plugins](https://github.com/RedLightsDistrict/Bncr_plugins) - 一些自用无界bot插件 (1 week ago)
 - [Zy143L/wskey](https://github.com/Zy143L/wskey) - wskey (2 weeks ago)
 - [ccwav/QLScript2](https://github.com/ccwav/QLScript2) - 新QLScript (2 weeks ago)
@@ -57,7 +58,6 @@
 - [firemakergk/aquar-build-helper](https://github.com/firemakergk/aquar-build-helper) - Aquar系统搭建指南 (3 weeks ago)
 - [SuperStudio/SuperCom](https://github.com/SuperStudio/SuperCom) - SuperCom 是一款串口调试工具 (3 weeks ago)
 - [HarbourJ/HarbourToulu](https://github.com/HarbourJ/HarbourToulu) - 仅供学习。TG: https://t.me/HarbourToulu (3 weeks ago)
-- [leafTheFish/DeathNote](https://github.com/leafTheFish/DeathNote) -  (1 month ago)
 
 #### 💬 Feedback
 
