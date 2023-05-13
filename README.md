@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([6.1.0](https://github.com/iNavFlight/inav/releases/tag/6.1.0), today) - INAV: Navigation-enabled flight control software
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([6.1.0](https://github.com/iNavFlight/inav/releases/tag/6.1.0), 1 day ago) - INAV: Navigation-enabled flight control software
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc3](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc3), 3 weeks ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 - [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.9.6](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.9.6), 3 weeks ago) - Flight Controller Firmware
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.19.2](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.19.2), 2 months ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
@@ -48,16 +48,16 @@
 
 #### ⭐ Recent Stars
 
-- [dandanainiyo/bncr_plugins](https://github.com/dandanainiyo/bncr_plugins) - 一些自用无界bot插件 (today)
-- [fjwpsyb/Bncr_plugin](https://github.com/fjwpsyb/Bncr_plugin) - 一些自用无界bot插件 (2 days ago)
-- [RedLightsDistrict/Bncr_plugins](https://github.com/RedLightsDistrict/Bncr_plugins) - 一些自用无界bot插件 (1 week ago)
+- [dandanainiyo/bncr_plugins](https://github.com/dandanainiyo/bncr_plugins) - 一些自用无界bot插件 (1 day ago)
+- [fjwpsyb/Bncr_plugin](https://github.com/fjwpsyb/Bncr_plugin) - 一些自用无界bot插件 (3 days ago)
+- [RedLightsDistrict/Bncr_plugins](https://github.com/RedLightsDistrict/Bncr_plugins) - 一些自用无界bot插件 (2 weeks ago)
 - [Zy143L/wskey](https://github.com/Zy143L/wskey) - wskey (2 weeks ago)
-- [ccwav/QLScript2](https://github.com/ccwav/QLScript2) - 新QLScript (2 weeks ago)
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (2 weeks ago)
+- [ccwav/QLScript2](https://github.com/ccwav/QLScript2) - 新QLScript (3 weeks ago)
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (3 weeks ago)
 - [qitoqito/kedaya](https://github.com/qitoqito/kedaya) -  (3 weeks ago)
 - [6dylan6/jdm](https://github.com/6dylan6/jdm) - 线报监控合集 (3 weeks ago)
-- [firemakergk/aquar-build-helper](https://github.com/firemakergk/aquar-build-helper) - Aquar系统搭建指南 (3 weeks ago)
-- [SuperStudio/SuperCom](https://github.com/SuperStudio/SuperCom) - SuperCom 是一款串口调试工具 (4 weeks ago)
+- [firemakergk/aquar-build-helper](https://github.com/firemakergk/aquar-build-helper) - Aquar系统搭建指南 (4 weeks ago)
+- [SuperStudio/SuperCom](https://github.com/SuperStudio/SuperCom) - SuperCom 是一款串口调试工具 (1 month ago)
 
 #### 💬 Feedback
 
