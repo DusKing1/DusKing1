@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [BigPlanes/Bncr_plugins](https://github.com/BigPlanes/Bncr_plugins) - 一些自用无界bot插件 (today)
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (3 days ago)
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (1 month ago)
 - [pitronicteam/pyPIDtoolbox](https://github.com/pitronicteam/pyPIDtoolbox) - Clone &amp; Python porting of https://github.com/bw1129/PIDtoolbox created by Brian White. (1 month ago)
@@ -11,7 +12,6 @@
 - [shanggl/ATBetaflightV1](https://github.com/shanggl/ATBetaflightV1) - 基于betaflight 4.3  移植至Artery Tek AT32F435/7 (6 months ago)
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (7 months ago)
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) - :bird: Digital ESC firmware for controlling brushless motors in multirotors (7 months ago)
-- [gyroflow/gyroflow-docs](https://github.com/gyroflow/gyroflow-docs) - Documentation for Gyroflow and Related Projects (9 months ago)
 
 #### 🌱 My latest projects
 
