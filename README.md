@@ -48,7 +48,6 @@
 
 #### ⭐ Recent Stars
 
-- [LYC-axiba/JD-Monitoring-library](https://github.com/LYC-axiba/JD-Monitoring-library) -  (3 days ago)
 - [dandanainiyo/bncr_plugins](https://github.com/dandanainiyo/bncr_plugins) - 一些自用无界bot插件 (1 week ago)
 - [fjwpsyb/Bncr_plugin](https://github.com/fjwpsyb/Bncr_plugin) - 一些自用无界bot插件 (1 week ago)
 - [RedLightsDistrict/Bncr_plugins](https://github.com/RedLightsDistrict/Bncr_plugins) - 一些自用无界bot插件 (3 weeks ago)
@@ -58,6 +57,7 @@
 - [qitoqito/kedaya](https://github.com/qitoqito/kedaya) -  (1 month ago)
 - [6dylan6/jdm](https://github.com/6dylan6/jdm) - 线报监控合集 (1 month ago)
 - [firemakergk/aquar-build-helper](https://github.com/firemakergk/aquar-build-helper) - Aquar系统搭建指南 (1 month ago)
+- [SuperStudio/SuperCom](https://github.com/SuperStudio/SuperCom) - SuperCom 是一款串口调试工具 (1 month ago)
 
 #### 💬 Feedback
 
