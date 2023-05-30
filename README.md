@@ -49,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [gys619/Thread](https://github.com/gys619/Thread) - default (today)
 - [DusKing1/Bncr_plugin](https://github.com/DusKing1/Bncr_plugin) - 自己用的无界bot插件 (5 days ago)
 - [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot) - Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成 (1 week ago)
 - [dandanainiyo/bncr_plugins](https://github.com/dandanainiyo/bncr_plugins) - 一些自用无界bot插件 (2 weeks ago)
@@ -58,7 +59,6 @@
 - [ccwav/QLScript2](https://github.com/ccwav/QLScript2) - 新QLScript (1 month ago)
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (1 month ago)
 - [qitoqito/kedaya](https://github.com/qitoqito/kedaya) -  (1 month ago)
-- [6dylan6/jdm](https://github.com/6dylan6/jdm) - 线报监控合集 (1 month ago)
 
 #### 💬 Feedback
 
