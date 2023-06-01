@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[Target Update]: Remove ICM42688p drivers from at32 targets](https://github.com/flightng/atbetaflight/pull/57) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (today)
 - [新增RouterOS重拨](https://github.com/BigPlanes/Bncr_plugins/pull/6) on [BigPlanes/Bncr_plugins](https://github.com/BigPlanes/Bncr_plugins) (2 weeks ago)
 - [[Enhancement]: Add support for HD OSD (canvas mode)](https://github.com/flightng/atbetaflight/pull/54) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (4 weeks ago)
 - [[Bug Fix]: Fix dshot beacon issue](https://github.com/flightng/atbetaflight/pull/46) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
@@ -45,10 +46,10 @@
 - [[IMU Driver]: Improve the BMI270 driver optimization level](https://github.com/flightng/atbetaflight/pull/37) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 months ago)
 - [[IMU Driver]: Add support for ASM330LHH IMU](https://github.com/flightng/atbetaflight/pull/35) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 months ago)
 - [Improve bmi270 driver](https://github.com/BossHobby/QUICKSILVER/pull/90) on [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) (3 months ago)
-- [[IMU Driver]: Correct CAS compensation according to BMI270 official api](https://github.com/flightng/atbetaflight/pull/34) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 months ago)
 
 #### ⭐ Recent Stars
 
+- [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 (today)
 - [gys619/Thread](https://github.com/gys619/Thread) - default (2 days ago)
 - [DusKing1/Bncr_plugin](https://github.com/DusKing1/Bncr_plugin) - 自己用的无界bot插件 (1 week ago)
 - [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot) - Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成 (1 week ago)
@@ -58,7 +59,6 @@
 - [Zy143L/wskey](https://github.com/Zy143L/wskey) - wskey (1 month ago)
 - [ccwav/QLScript2](https://github.com/ccwav/QLScript2) - 新QLScript (1 month ago)
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (1 month ago)
-- [qitoqito/kedaya](https://github.com/qitoqito/kedaya) -  (1 month ago)
 
 #### 💬 Feedback
 
