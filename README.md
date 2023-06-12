@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DusKing1/Bncr_plugin](https://github.com/DusKing1/Bncr_plugin) - 自己用的无界bot插件 (3 days ago)
+- [DusKing1/Bncr_plugin](https://github.com/DusKing1/Bncr_plugin) - 自己用的无界bot插件 (4 days ago)
 - [BigPlanes/Bncr_plugins](https://github.com/BigPlanes/Bncr_plugins) - 一些自用无界bot插件 (3 weeks ago)
-- [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (3 weeks ago)
+- [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (4 weeks ago)
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (1 month ago)
 - [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) - 基于betaflight 4.3  移植至Artery Tek AT32F435/7 (1 month ago)
 - [pitronicteam/pyPIDtoolbox](https://github.com/pitronicteam/pyPIDtoolbox) - Clone &amp; Python porting of https://github.com/bw1129/PIDtoolbox created by Brian White. (2 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc4](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc4), 1 day ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
+- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc4](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc4), 2 days ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([6.1.0](https://github.com/iNavFlight/inav/releases/tag/6.1.0), 1 month ago) - INAV: Navigation-enabled flight control software
 - [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.9.6](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.9.6), 1 month ago) - Flight Controller Firmware
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.19.2](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.19.2), 3 months ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
