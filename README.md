@@ -49,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (today)
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 (3 weeks ago)
 - [gys619/Thread](https://github.com/gys619/Thread) - default (3 weeks ago)
 - [DusKing1/Bncr_plugin](https://github.com/DusKing1/Bncr_plugin) - 自己用的无界bot插件 (1 month ago)
@@ -58,7 +59,6 @@
 - [RedLightsDistrict/Bncr_plugins](https://github.com/RedLightsDistrict/Bncr_plugins) - 一些自用无界bot插件 (1 month ago)
 - [Zy143L/wskey](https://github.com/Zy143L/wskey) - wskey (2 months ago)
 - [ccwav/QLScript2](https://github.com/ccwav/QLScript2) - 新QLScript (2 months ago)
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (2 months ago)
 
 #### 💬 Feedback
 
