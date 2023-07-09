@@ -55,7 +55,7 @@
 - [DusKing1/Bncr_plugin](https://github.com/DusKing1/Bncr_plugin) - 自己用的无界bot插件 (1 month ago)
 - [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot) - Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成 (1 month ago)
 - [dandanainiyo/bncr_plugins](https://github.com/dandanainiyo/bncr_plugins) - 一些自用无界bot插件 (1 month ago)
-- [fjwpsyb/Bncr_plugin](https://github.com/fjwpsyb/Bncr_plugin) - 一些自用无界bot插件 (1 month ago)
+- [fjwpsyb/Bncr_plugin](https://github.com/fjwpsyb/Bncr_plugin) - 一些自用无界bot插件 (2 months ago)
 - [RedLightsDistrict/Bncr_plugins](https://github.com/RedLightsDistrict/Bncr_plugins) - 一些自用无界bot插件 (2 months ago)
 - [Zy143L/wskey](https://github.com/Zy143L/wskey) - wskey (2 months ago)
 - [ccwav/QLScript2](https://github.com/ccwav/QLScript2) - 新QLScript (2 months ago)
