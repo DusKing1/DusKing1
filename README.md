@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.20.0](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.20.0), 5 days ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
+- [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.20.0](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.20.0), 6 days ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([6.1.1](https://github.com/iNavFlight/inav/releases/tag/6.1.1), 1 month ago) - INAV: Navigation-enabled flight control software
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc4](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc4), 1 month ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 - [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.9.6](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.9.6), 3 months ago) - Flight Controller Firmware
@@ -49,7 +49,7 @@
 
 #### ⭐ Recent Stars
 
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (3 weeks ago)
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (4 weeks ago)
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 (1 month ago)
 - [gys619/Thread](https://github.com/gys619/Thread) - default (1 month ago)
 - [DusKing1/Bncr_plugin](https://github.com/DusKing1/Bncr_plugin) - 自己用的无界bot插件 (1 month ago)
@@ -57,7 +57,7 @@
 - [dandanainiyo/bncr_plugins](https://github.com/dandanainiyo/bncr_plugins) - 一些自用无界bot插件 (2 months ago)
 - [fjwpsyb/Bncr_plugin](https://github.com/fjwpsyb/Bncr_plugin) - 一些自用无界bot插件 (2 months ago)
 - [RedLightsDistrict/Bncr_plugins](https://github.com/RedLightsDistrict/Bncr_plugins) - 一些自用无界bot插件 (2 months ago)
-- [Zy143L/wskey](https://github.com/Zy143L/wskey) - wskey (2 months ago)
+- [Zy143L/wskey](https://github.com/Zy143L/wskey) - wskey (3 months ago)
 - [ccwav/QLScript2](https://github.com/ccwav/QLScript2) - 新QLScript (3 months ago)
 
 #### 💬 Feedback
