@@ -49,7 +49,6 @@
 
 #### ⭐ Recent Stars
 
-- [KingRan/Auto-JD](https://github.com/KingRan/Auto-JD) -  (1 day ago)
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (1 month ago)
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 (1 month ago)
 - [gys619/Thread](https://github.com/gys619/Thread) - default (1 month ago)
@@ -59,6 +58,7 @@
 - [fjwpsyb/Bncr_plugin](https://github.com/fjwpsyb/Bncr_plugin) - 一些自用无界bot插件 (2 months ago)
 - [RedLightsDistrict/Bncr_plugins](https://github.com/RedLightsDistrict/Bncr_plugins) - 一些自用无界bot插件 (2 months ago)
 - [Zy143L/wskey](https://github.com/Zy143L/wskey) - wskey (3 months ago)
+- [ccwav/QLScript2](https://github.com/ccwav/QLScript2) - 新QLScript (3 months ago)
 
 #### 💬 Feedback
 
