@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [DusKing1/glados-qinglong](https://github.com/DusKing1/glados-qinglong) - 自己用的glados签到本 (today)
 - [DusKing1/Bncr_plugin](https://github.com/DusKing1/Bncr_plugin) - 自己用的无界bot插件 (1 month ago)
 - [BigPlanes/Bncr_plugins](https://github.com/BigPlanes/Bncr_plugins) - 一些自用无界bot插件 (2 months ago)
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (2 months ago)
@@ -11,10 +12,10 @@
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (4 months ago)
 - [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) - Flight Controller Firmware (5 months ago)
 - [mspc-boot-camp/f407-adapter](https://github.com/mspc-boot-camp/f407-adapter) -  (8 months ago)
-- [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) - Firmware for FC based gyro logger device (9 months ago)
 
 #### 🌱 My latest projects
 
+- [DusKing1/glados-qinglong](https://github.com/DusKing1/glados-qinglong) - 自己用的glados签到本
 - [DusKing1/Bncr_plugin](https://github.com/DusKing1/Bncr_plugin) - 自己用的无界bot插件
 - [DusKing1/github-slideshow](https://github.com/DusKing1/github-slideshow) - A robot powered training repository :robot:
 - [DusKing1/logger-presets](https://github.com/DusKing1/logger-presets) - 
@@ -24,7 +25,6 @@
 - [DusKing1/bf-src-main-check](https://github.com/DusKing1/bf-src-main-check) - 
 - [DusKing1/KISS-GUI-CN](https://github.com/DusKing1/KISS-GUI-CN) - Chinese (Both Simplified and Traditional ) Translation for KISS configurator
 - [DusKing1/dsp-guide](https://github.com/DusKing1/dsp-guide) - 
-- [DusKing1/PID-Evaluator](https://github.com/DusKing1/PID-Evaluator) - Kernel code of the Blackbox Mate Online
 
 #### 🔭 Latest releases I've contributed to
 
