@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DusKing1/glados-qinglong](https://github.com/DusKing1/glados-qinglong) - 自己用的glados签到本 (1 day ago)
+- [DusKing1/glados-qinglong](https://github.com/DusKing1/glados-qinglong) - 自己用的glados签到本 (2 days ago)
 - [DusKing1/Bncr_plugin](https://github.com/DusKing1/Bncr_plugin) - 自己用的无界bot插件 (1 month ago)
 - [BigPlanes/Bncr_plugins](https://github.com/BigPlanes/Bncr_plugins) - 一些自用无界bot插件 (2 months ago)
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (2 months ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.10.0-dev](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.10.0-dev), 1 day ago) - Flight Controller Firmware
-- [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.20.0](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.20.0), 1 week ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
+- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.10.0-dev](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.10.0-dev), 2 days ago) - Flight Controller Firmware
+- [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.20.0](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.20.0), 2 weeks ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([6.1.1](https://github.com/iNavFlight/inav/releases/tag/6.1.1), 1 month ago) - INAV: Navigation-enabled flight control software
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc4](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc4), 1 month ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 1 year ago) - Firmware for FC based gyro logger device
@@ -49,7 +49,7 @@
 
 #### ⭐ Recent Stars
 
-- [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files (2 days ago)
+- [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files (3 days ago)
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (1 month ago)
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 (1 month ago)
 - [gys619/Thread](https://github.com/gys619/Thread) - default (2 months ago)
