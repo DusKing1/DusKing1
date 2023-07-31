@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DusKing1/glados-qinglong](https://github.com/DusKing1/glados-qinglong) - 自己用的glados签到本 (2 days ago)
+- [DusKing1/glados-qinglong](https://github.com/DusKing1/glados-qinglong) - 自己用的glados签到本 (3 days ago)
 - [DusKing1/Bncr_plugin](https://github.com/DusKing1/Bncr_plugin) - 自己用的无界bot插件 (1 month ago)
 - [BigPlanes/Bncr_plugins](https://github.com/BigPlanes/Bncr_plugins) - 一些自用无界bot插件 (2 months ago)
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (2 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.10.0-dev](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.10.0-dev), 2 days ago) - Flight Controller Firmware
+- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.10.0-dev](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.10.0-dev), 3 days ago) - Flight Controller Firmware
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.20.0](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.20.0), 2 weeks ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([6.1.1](https://github.com/iNavFlight/inav/releases/tag/6.1.1), 1 month ago) - INAV: Navigation-enabled flight control software
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc4](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc4), 1 month ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
@@ -36,7 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Target Update]: Remove ICM42688p drivers from at32 targets](https://github.com/flightng/atbetaflight/pull/57) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
+- [[Target Update]: Remove ICM42688p drivers from at32 targets](https://github.com/flightng/atbetaflight/pull/57) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 months ago)
 - [新增RouterOS重拨](https://github.com/BigPlanes/Bncr_plugins/pull/6) on [BigPlanes/Bncr_plugins](https://github.com/BigPlanes/Bncr_plugins) (2 months ago)
 - [[Enhancement]: Add support for HD OSD (canvas mode)](https://github.com/flightng/atbetaflight/pull/54) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 months ago)
 - [[Bug Fix]: Fix dshot beacon issue](https://github.com/flightng/atbetaflight/pull/46) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 months ago)
@@ -49,10 +49,10 @@
 
 #### ⭐ Recent Stars
 
-- [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。 (today)
-- [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files (3 days ago)
+- [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。 (1 day ago)
+- [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files (4 days ago)
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (1 month ago)
-- [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 (1 month ago)
+- [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 (2 months ago)
 - [gys619/Thread](https://github.com/gys619/Thread) - default (2 months ago)
 - [DusKing1/Bncr_plugin](https://github.com/DusKing1/Bncr_plugin) - 自己用的无界bot插件 (2 months ago)
 - [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot) - Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成 (2 months ago)
