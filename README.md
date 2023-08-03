@@ -49,6 +49,8 @@
 
 #### ⭐ Recent Stars
 
+- [Aeorq/bncrspy](https://github.com/Aeorq/bncrspy) - BncrSpy (today)
+- [KingRan/KR](https://github.com/KingRan/KR) - 自用，自用，自用 (today)
 - [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。 (4 days ago)
 - [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files (1 week ago)
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (1 month ago)
@@ -57,8 +59,6 @@
 - [DusKing1/Bncr_plugin](https://github.com/DusKing1/Bncr_plugin) - 自己用的无界bot插件 (2 months ago)
 - [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot) - Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成 (2 months ago)
 - [dandanainiyo/bncr_plugins](https://github.com/dandanainiyo/bncr_plugins) - 一些自用无界bot插件 (2 months ago)
-- [fjwpsyb/Bncr_plugin](https://github.com/fjwpsyb/Bncr_plugin) - 一些自用无界bot插件 (2 months ago)
-- [RedLightsDistrict/Bncr_plugins](https://github.com/RedLightsDistrict/Bncr_plugins) - 一些自用无界bot插件 (3 months ago)
 
 #### 💬 Feedback
 
