@@ -31,7 +31,7 @@
 - [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.10.0-dev](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.10.0-dev), 1 week ago) - Flight Controller Firmware
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.20.0](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.20.0), 3 weeks ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([6.1.1](https://github.com/iNavFlight/inav/releases/tag/6.1.1), 1 month ago) - INAV: Navigation-enabled flight control software
-- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc4](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc4), 1 month ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
+- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc4](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc4), 2 months ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 1 year ago) - Firmware for FC based gyro logger device
 
 #### 🔨 My recent Pull Requests
@@ -49,8 +49,8 @@
 
 #### ⭐ Recent Stars
 
-- [Aeorq/bncrspy](https://github.com/Aeorq/bncrspy) - BncrSpy (5 days ago)
-- [KingRan/KR](https://github.com/KingRan/KR) - 自用，自用，自用 (5 days ago)
+- [Aeorq/bncrspy](https://github.com/Aeorq/bncrspy) - BncrSpy (6 days ago)
+- [KingRan/KR](https://github.com/KingRan/KR) - 自用，自用，自用 (6 days ago)
 - [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。 (1 week ago)
 - [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files (1 week ago)
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (1 month ago)
