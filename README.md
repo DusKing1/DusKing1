@@ -39,7 +39,7 @@
 - [[Target Update]: Remove ICM42688p drivers from at32 targets](https://github.com/flightng/atbetaflight/pull/57) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 months ago)
 - [新增RouterOS重拨](https://github.com/BigPlanes/Bncr_plugins/pull/6) on [BigPlanes/Bncr_plugins](https://github.com/BigPlanes/Bncr_plugins) (2 months ago)
 - [[Enhancement]: Add support for HD OSD (canvas mode)](https://github.com/flightng/atbetaflight/pull/54) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 months ago)
-- [[Bug Fix]: Fix dshot beacon issue](https://github.com/flightng/atbetaflight/pull/46) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 months ago)
+- [[Bug Fix]: Fix dshot beacon issue](https://github.com/flightng/atbetaflight/pull/46) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (4 months ago)
 - [[CI Update]: Add EMSRPROTO4 to build CI](https://github.com/flightng/atbetaflight/pull/44) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (4 months ago)
 - [[IMU Driver]: Disable HPM on all LSM6Dxx IMU](https://github.com/flightng/atbetaflight/pull/40) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (5 months ago)
 - [[Chore]: Change default USBD product string](https://github.com/flightng/atbetaflight/pull/39) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (5 months ago)
@@ -49,16 +49,16 @@
 
 #### ⭐ Recent Stars
 
-- [Aeorq/bncrspy](https://github.com/Aeorq/bncrspy) - BncrSpy (6 days ago)
-- [KingRan/KR](https://github.com/KingRan/KR) - 自用，自用，自用 (6 days ago)
+- [Aeorq/bncrspy](https://github.com/Aeorq/bncrspy) - BncrSpy (1 week ago)
+- [KingRan/KR](https://github.com/KingRan/KR) - 自用，自用，自用 (1 week ago)
 - [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。 (1 week ago)
-- [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files (1 week ago)
+- [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files (2 weeks ago)
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (1 month ago)
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 (2 months ago)
 - [gys619/Thread](https://github.com/gys619/Thread) - default (2 months ago)
 - [DusKing1/Bncr_plugin](https://github.com/DusKing1/Bncr_plugin) - 自己用的无界bot插件 (2 months ago)
 - [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot) - Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成 (2 months ago)
-- [dandanainiyo/bncr_plugins](https://github.com/dandanainiyo/bncr_plugins) - 一些自用无界bot插件 (2 months ago)
+- [dandanainiyo/bncr_plugins](https://github.com/dandanainiyo/bncr_plugins) - 一些自用无界bot插件 (3 months ago)
 
 #### 💬 Feedback
 
