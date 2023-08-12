@@ -50,7 +50,7 @@
 #### ⭐ Recent Stars
 
 - [Aeorq/bncrspy](https://github.com/Aeorq/bncrspy) - BncrSpy (1 week ago)
-- [KingRan/KR](https://github.com/KingRan/KR) - 自用，自用，自用 (1 week ago)
+- [KingRan/KR](https://github.com/KingRan/KR) - 完整库，内部助力 (1 week ago)
 - [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。 (1 week ago)
 - [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files (2 weeks ago)
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (1 month ago)
