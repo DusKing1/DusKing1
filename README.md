@@ -9,7 +9,7 @@
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (4 months ago)
 - [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) - 基于betaflight 4.3  移植至Artery Tek AT32F435/7 (4 months ago)
 - [pitronicteam/pyPIDtoolbox](https://github.com/pitronicteam/pyPIDtoolbox) - Clone &amp; Python porting of https://github.com/bw1129/PIDtoolbox created by Brian White. (4 months ago)
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (4 months ago)
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (5 months ago)
 - [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) - Flight Controller Firmware (5 months ago)
 - [mspc-boot-camp/f407-adapter](https://github.com/mspc-boot-camp/f407-adapter) -  (8 months ago)
 
@@ -57,7 +57,7 @@
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 (2 months ago)
 - [gys619/Thread](https://github.com/gys619/Thread) - default (2 months ago)
 - [DusKing1/Bncr_plugin](https://github.com/DusKing1/Bncr_plugin) - 自己用的无界bot插件 (2 months ago)
-- [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot) - Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成 (2 months ago)
+- [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot) - Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成 (3 months ago)
 - [dandanainiyo/bncr_plugins](https://github.com/dandanainiyo/bncr_plugins) - 一些自用无界bot插件 (3 months ago)
 
 #### 💬 Feedback
