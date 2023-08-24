@@ -49,10 +49,10 @@
 
 #### ⭐ Recent Stars
 
-- [Aeorq/bncrspy](https://github.com/Aeorq/bncrspy) - BncrSpy (2 weeks ago)
-- [KingRan/KR](https://github.com/KingRan/KR) - 完整库，内部助力 (2 weeks ago)
+- [Aeorq/bncrspy](https://github.com/Aeorq/bncrspy) - BncrSpy (3 weeks ago)
+- [KingRan/KR](https://github.com/KingRan/KR) - 完整库，内部助力 (3 weeks ago)
 - [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。 (3 weeks ago)
-- [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files (3 weeks ago)
+- [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files (4 weeks ago)
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (2 months ago)
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 (2 months ago)
 - [gys619/Thread](https://github.com/gys619/Thread) - default (2 months ago)
