@@ -10,7 +10,7 @@
 - [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) - 基于betaflight 4.3  移植至Artery Tek AT32F435/7 (4 months ago)
 - [pitronicteam/pyPIDtoolbox](https://github.com/pitronicteam/pyPIDtoolbox) - Clone &amp; Python porting of https://github.com/bw1129/PIDtoolbox created by Brian White. (4 months ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (5 months ago)
-- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) - Flight Controller Firmware (5 months ago)
+- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) - Flight Controller Firmware (6 months ago)
 - [mspc-boot-camp/f407-adapter](https://github.com/mspc-boot-camp/f407-adapter) -  (8 months ago)
 
 #### 🌱 My latest projects
@@ -45,14 +45,14 @@
 - [[Chore]: Change default USBD product string](https://github.com/flightng/atbetaflight/pull/39) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (5 months ago)
 - [[IMU Driver]: Improve the BMI270 driver optimization level](https://github.com/flightng/atbetaflight/pull/37) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (5 months ago)
 - [[IMU Driver]: Add support for ASM330LHH IMU](https://github.com/flightng/atbetaflight/pull/35) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (5 months ago)
-- [Improve bmi270 driver](https://github.com/BossHobby/QUICKSILVER/pull/90) on [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) (5 months ago)
+- [Improve bmi270 driver](https://github.com/BossHobby/QUICKSILVER/pull/90) on [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) (6 months ago)
 
 #### ⭐ Recent Stars
 
 - [Aeorq/bncrspy](https://github.com/Aeorq/bncrspy) - BncrSpy (3 weeks ago)
 - [KingRan/KR](https://github.com/KingRan/KR) - 完整库，内部助力 (3 weeks ago)
 - [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。 (3 weeks ago)
-- [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files (4 weeks ago)
+- [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files (1 month ago)
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (2 months ago)
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 (2 months ago)
 - [gys619/Thread](https://github.com/gys619/Thread) - default (2 months ago)
