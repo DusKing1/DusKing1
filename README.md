@@ -38,7 +38,7 @@
 
 - [[Target Update]: Remove ICM42688p drivers from at32 targets](https://github.com/flightng/atbetaflight/pull/57) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 months ago)
 - [新增RouterOS重拨](https://github.com/BigPlanes/Bncr_plugins/pull/6) on [BigPlanes/Bncr_plugins](https://github.com/BigPlanes/Bncr_plugins) (3 months ago)
-- [[Enhancement]: Add support for HD OSD (canvas mode)](https://github.com/flightng/atbetaflight/pull/54) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 months ago)
+- [[Enhancement]: Add support for HD OSD (canvas mode)](https://github.com/flightng/atbetaflight/pull/54) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (4 months ago)
 - [[Bug Fix]: Fix dshot beacon issue](https://github.com/flightng/atbetaflight/pull/46) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (4 months ago)
 - [[CI Update]: Add EMSRPROTO4 to build CI](https://github.com/flightng/atbetaflight/pull/44) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (5 months ago)
 - [[IMU Driver]: Disable HPM on all LSM6Dxx IMU](https://github.com/flightng/atbetaflight/pull/40) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (5 months ago)
@@ -49,8 +49,8 @@
 
 #### ⭐ Recent Stars
 
-- [Aeorq/bncrspy](https://github.com/Aeorq/bncrspy) - BncrSpy (3 weeks ago)
-- [KingRan/KR](https://github.com/KingRan/KR) - 完整库，内部助力 (3 weeks ago)
+- [Aeorq/bncrspy](https://github.com/Aeorq/bncrspy) - BncrSpy (4 weeks ago)
+- [KingRan/KR](https://github.com/KingRan/KR) - 完整库，内部助力 (4 weeks ago)
 - [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。 (1 month ago)
 - [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files (1 month ago)
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (2 months ago)
