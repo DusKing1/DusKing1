@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.10.0-rc2](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.10.0-rc2), 6 days ago) - Flight Controller Firmware
+- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.10.0-rc2](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.10.0-rc2), 1 week ago) - Flight Controller Firmware
 - [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) ([v0.20.0](https://github.com/bird-sanctuary/bluejay/releases/tag/v0.20.0), 1 month ago) - :bird: Digital ESC firmware for controlling brushless motors in multirotors
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([6.1.1](https://github.com/iNavFlight/inav/releases/tag/6.1.1), 3 months ago) - INAV: Navigation-enabled flight control software
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc4](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc4), 3 months ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
