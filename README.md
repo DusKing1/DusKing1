@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Target Update]: Remove ICM42688p drivers from at32 targets](https://github.com/flightng/atbetaflight/pull/57) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 months ago)
+- [[Target Update]: Remove ICM42688p drivers from at32 targets](https://github.com/flightng/atbetaflight/pull/57) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (4 months ago)
 - [新增RouterOS重拨](https://github.com/BigPlanes/Bncr_plugins/pull/6) on [BigPlanes/Bncr_plugins](https://github.com/BigPlanes/Bncr_plugins) (4 months ago)
 - [[Enhancement]: Add support for HD OSD (canvas mode)](https://github.com/flightng/atbetaflight/pull/54) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (4 months ago)
 - [[Bug Fix]: Fix dshot beacon issue](https://github.com/flightng/atbetaflight/pull/46) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (5 months ago)
@@ -48,14 +48,14 @@
 
 #### ⭐ Recent Stars
 
-- [blackbox-log/blackbox-log](https://github.com/blackbox-log/blackbox-log) - Rust parser for Betaflight &amp; INAV blackbox logs (6 days ago)
+- [blackbox-log/blackbox-log](https://github.com/blackbox-log/blackbox-log) - Rust parser for Betaflight &amp; INAV blackbox logs (1 week ago)
 - [Frogrey/MIMXRT1170EVKB-VGLite-RTThreadNano](https://github.com/Frogrey/MIMXRT1170EVKB-VGLite-RTThreadNano) - VGLite examples from RT1170 EVKB SDK, in which FreeRTOS is replaced with RT-Thread Nano. (1 week ago)
 - [Aeorq/bncrspy](https://github.com/Aeorq/bncrspy) - BncrSpy (1 month ago)
 - [KingRan/KR](https://github.com/KingRan/KR) - 完整库，内部助力 (1 month ago)
 - [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。 (2 months ago)
 - [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files (2 months ago)
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (3 months ago)
-- [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 (3 months ago)
+- [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 (4 months ago)
 - [gys619/Thread](https://github.com/gys619/Thread) - default (4 months ago)
 - [DusKing1/Bncr_plugin](https://github.com/DusKing1/Bncr_plugin) - 自己用的无界bot插件 (4 months ago)
 
