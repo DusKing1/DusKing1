@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [lydasia/openltc](https://github.com/lydasia/openltc) - An Open Source SMPTE Linear Timecode Generator Based on ATmega328P(Arduino UNO). (today)
 - [blackbox-log/blackbox-log](https://github.com/blackbox-log/blackbox-log) - Rust parser for Betaflight &amp; INAV blackbox logs (1 week ago)
 - [Frogrey/MIMXRT1170EVKB-VGLite-RTThreadNano](https://github.com/Frogrey/MIMXRT1170EVKB-VGLite-RTThreadNano) - VGLite examples from RT1170 EVKB SDK, in which FreeRTOS is replaced with RT-Thread Nano. (1 week ago)
 - [Aeorq/bncrspy](https://github.com/Aeorq/bncrspy) - BncrSpy (1 month ago)
@@ -57,7 +58,6 @@
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (3 months ago)
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 (4 months ago)
 - [gys619/Thread](https://github.com/gys619/Thread) - default (4 months ago)
-- [DusKing1/Bncr_plugin](https://github.com/DusKing1/Bncr_plugin) - 自己用的无界bot插件 (4 months ago)
 
 #### 💬 Feedback
 
