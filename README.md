@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [lydasia/openltc](https://github.com/lydasia/openltc) - An Open Source SMPTE Linear Timecode Generator Based on ATmega328P(Arduino UNO). (today)
+- [lydasia/openltc](https://github.com/lydasia/openltc) - An Open Source SMPTE Linear Timecode Generator Based on ATmega328P(Arduino UNO). (1 day ago)
 - [blackbox-log/blackbox-log](https://github.com/blackbox-log/blackbox-log) - Rust parser for Betaflight &amp; INAV blackbox logs (1 week ago)
 - [Frogrey/MIMXRT1170EVKB-VGLite-RTThreadNano](https://github.com/Frogrey/MIMXRT1170EVKB-VGLite-RTThreadNano) - VGLite examples from RT1170 EVKB SDK, in which FreeRTOS is replaced with RT-Thread Nano. (1 week ago)
 - [Aeorq/bncrspy](https://github.com/Aeorq/bncrspy) - BncrSpy (1 month ago)
