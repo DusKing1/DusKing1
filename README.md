@@ -48,9 +48,9 @@
 
 #### ⭐ Recent Stars
 
-- [tsowell/avr-hdmi-cec-volume](https://github.com/tsowell/avr-hdmi-cec-volume) - AVR code to operate a motorized potentiometer in response to HDMI CEC volume messages from a TV (1 day ago)
-- [evanmsanders/arduino_nikon](https://github.com/evanmsanders/arduino_nikon) - A library for remotely triggering the shutter on nikon cameras using IR. (1 day ago)
-- [lydasia/openltc](https://github.com/lydasia/openltc) - An Open Source SMPTE Linear Timecode Generator Based on ATmega328P(Arduino UNO). (2 days ago)
+- [tsowell/avr-hdmi-cec-volume](https://github.com/tsowell/avr-hdmi-cec-volume) - AVR code to operate a motorized potentiometer in response to HDMI CEC volume messages from a TV (2 days ago)
+- [evanmsanders/arduino_nikon](https://github.com/evanmsanders/arduino_nikon) - A library for remotely triggering the shutter on nikon cameras using IR. (2 days ago)
+- [lydasia/openltc](https://github.com/lydasia/openltc) - An Open Source SMPTE Linear Timecode Generator Based on ATmega328P(Arduino UNO). (3 days ago)
 - [blackbox-log/blackbox-log](https://github.com/blackbox-log/blackbox-log) - Rust parser for Betaflight &amp; INAV blackbox logs (1 week ago)
 - [Frogrey/MIMXRT1170EVKB-VGLite-RTThreadNano](https://github.com/Frogrey/MIMXRT1170EVKB-VGLite-RTThreadNano) - VGLite examples from RT1170 EVKB SDK, in which FreeRTOS is replaced with RT-Thread Nano. (1 week ago)
 - [Aeorq/bncrspy](https://github.com/Aeorq/bncrspy) - BncrSpy (2 months ago)
