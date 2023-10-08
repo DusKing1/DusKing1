@@ -30,7 +30,7 @@
 
 - [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.10.0-rc2](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.10.0-rc2), 1 month ago) - Flight Controller Firmware
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([6.1.1](https://github.com/iNavFlight/inav/releases/tag/6.1.1), 3 months ago) - INAV: Navigation-enabled flight control software
-- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc4](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc4), 3 months ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
+- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc4](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc4), 4 months ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 - [gyroflow/flowshutter](https://github.com/gyroflow/flowshutter) ([v0.66](https://github.com/gyroflow/flowshutter/releases/tag/v0.66), 1 year ago) - Firmware for FC based gyro logger device
 
 #### 🔨 My recent Pull Requests
@@ -48,10 +48,10 @@
 
 #### ⭐ Recent Stars
 
-- [outofjungle/NikonRemote](https://github.com/outofjungle/NikonRemote) - Arduino library to remotely trigger Nikon camera using an IR LED (4 days ago)
-- [fresh2nd/IR-BARRIER](https://github.com/fresh2nd/IR-BARRIER) - Camera trigger when an IR beam is crossed, for EOS 450 D. || Spanish version: Disparador automático para Canon EOS 450 D a través de una sensor infrarrojo. (4 days ago)
-- [tsowell/avr-hdmi-cec-volume](https://github.com/tsowell/avr-hdmi-cec-volume) - AVR code to operate a motorized potentiometer in response to HDMI CEC volume messages from a TV (6 days ago)
-- [evanmsanders/arduino_nikon](https://github.com/evanmsanders/arduino_nikon) - A library for remotely triggering the shutter on nikon cameras using IR. (6 days ago)
+- [outofjungle/NikonRemote](https://github.com/outofjungle/NikonRemote) - Arduino library to remotely trigger Nikon camera using an IR LED (5 days ago)
+- [fresh2nd/IR-BARRIER](https://github.com/fresh2nd/IR-BARRIER) - Camera trigger when an IR beam is crossed, for EOS 450 D. || Spanish version: Disparador automático para Canon EOS 450 D a través de una sensor infrarrojo. (5 days ago)
+- [tsowell/avr-hdmi-cec-volume](https://github.com/tsowell/avr-hdmi-cec-volume) - AVR code to operate a motorized potentiometer in response to HDMI CEC volume messages from a TV (1 week ago)
+- [evanmsanders/arduino_nikon](https://github.com/evanmsanders/arduino_nikon) - A library for remotely triggering the shutter on nikon cameras using IR. (1 week ago)
 - [lydasia/openltc](https://github.com/lydasia/openltc) - An Open Source SMPTE Linear Timecode Generator Based on ATmega328P(Arduino UNO). (1 week ago)
 - [blackbox-log/blackbox-log](https://github.com/blackbox-log/blackbox-log) - Rust parser for Betaflight &amp; INAV blackbox logs (2 weeks ago)
 - [Frogrey/MIMXRT1170EVKB-VGLite-RTThreadNano](https://github.com/Frogrey/MIMXRT1170EVKB-VGLite-RTThreadNano) - VGLite examples from RT1170 EVKB SDK, in which FreeRTOS is replaced with RT-Thread Nano. (2 weeks ago)
