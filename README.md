@@ -48,8 +48,8 @@
 
 #### ⭐ Recent Stars
 
-- [outofjungle/NikonRemote](https://github.com/outofjungle/NikonRemote) - Arduino library to remotely trigger Nikon camera using an IR LED (6 days ago)
-- [fresh2nd/IR-BARRIER](https://github.com/fresh2nd/IR-BARRIER) - Camera trigger when an IR beam is crossed, for EOS 450 D. || Spanish version: Disparador automático para Canon EOS 450 D a través de una sensor infrarrojo. (6 days ago)
+- [outofjungle/NikonRemote](https://github.com/outofjungle/NikonRemote) - Arduino library to remotely trigger Nikon camera using an IR LED (1 week ago)
+- [fresh2nd/IR-BARRIER](https://github.com/fresh2nd/IR-BARRIER) - Camera trigger when an IR beam is crossed, for EOS 450 D. || Spanish version: Disparador automático para Canon EOS 450 D a través de una sensor infrarrojo. (1 week ago)
 - [tsowell/avr-hdmi-cec-volume](https://github.com/tsowell/avr-hdmi-cec-volume) - AVR code to operate a motorized potentiometer in response to HDMI CEC volume messages from a TV (1 week ago)
 - [evanmsanders/arduino_nikon](https://github.com/evanmsanders/arduino_nikon) - A library for remotely triggering the shutter on nikon cameras using IR. (1 week ago)
 - [lydasia/openltc](https://github.com/lydasia/openltc) - An Open Source SMPTE Linear Timecode Generator Based on ATmega328P(Arduino UNO). (1 week ago)
