@@ -32,7 +32,9 @@ Say Hello, I don't bite!
 #### 📫 How to reach me
 
 - Telegram: https://t.me/DusKing
-- E-Mail: 1483569698@qq.com
+- E-Mail:
+  - Open-source related: hugo@gyroflow.xyz
+  - Work: hugochiang@foxmail.com
 - WeChat Official Accounts: pitronic
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
