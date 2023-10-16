@@ -67,7 +67,7 @@ Say Hello, I don't bite!
 - Telegram: https://t.me/DusKing
 - E-Mail:
   - Open-source related: hugo@gyroflow.xyz
-  - Work: hugochiang@foxmail.com
+  - Work: hugochiang1@foxmail.com
 - WeChat Official Accounts: pitronic
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
