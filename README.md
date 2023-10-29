@@ -36,7 +36,7 @@
 
 - [Add ICM42605 driver for SKYSTARSF405HD](https://github.com/iNavFlight/inav/pull/9370) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (2 weeks ago)
 - [add icm42605 driver for SKYSTARSF405HD](https://github.com/DusKing1/inav/pull/83) on [DusKing1/inav](https://github.com/DusKing1/inav) (2 weeks ago)
-- [[Target Update]: Remove ICM42688p drivers from at32 targets](https://github.com/flightng/atbetaflight/pull/57) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (4 months ago)
+- [[Target Update]: Remove ICM42688p drivers from at32 targets](https://github.com/flightng/atbetaflight/pull/57) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (5 months ago)
 - [新增RouterOS重拨](https://github.com/BigPlanes/Bncr_plugins/pull/6) on [BigPlanes/Bncr_plugins](https://github.com/BigPlanes/Bncr_plugins) (5 months ago)
 - [[Enhancement]: Add support for HD OSD (canvas mode)](https://github.com/flightng/atbetaflight/pull/54) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (5 months ago)
 - [[Bug Fix]: Fix dshot beacon issue](https://github.com/flightng/atbetaflight/pull/46) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (6 months ago)
@@ -49,8 +49,8 @@
 
 - [outofjungle/NikonRemote](https://github.com/outofjungle/NikonRemote) - Arduino library to remotely trigger Nikon camera using an IR LED (3 weeks ago)
 - [fresh2nd/IR-BARRIER](https://github.com/fresh2nd/IR-BARRIER) - Camera trigger when an IR beam is crossed, for EOS 450 D. || Spanish version: Disparador automático para Canon EOS 450 D a través de una sensor infrarrojo. (3 weeks ago)
-- [tsowell/avr-hdmi-cec-volume](https://github.com/tsowell/avr-hdmi-cec-volume) - AVR code to operate a motorized potentiometer in response to HDMI CEC volume messages from a TV (3 weeks ago)
-- [evanmsanders/arduino_nikon](https://github.com/evanmsanders/arduino_nikon) - A library for remotely triggering the shutter on nikon cameras using IR. (3 weeks ago)
+- [tsowell/avr-hdmi-cec-volume](https://github.com/tsowell/avr-hdmi-cec-volume) - AVR code to operate a motorized potentiometer in response to HDMI CEC volume messages from a TV (4 weeks ago)
+- [evanmsanders/arduino_nikon](https://github.com/evanmsanders/arduino_nikon) - A library for remotely triggering the shutter on nikon cameras using IR. (4 weeks ago)
 - [lydasia/openltc](https://github.com/lydasia/openltc) - An Open Source SMPTE Linear Timecode Generator Based on ATmega328P(Arduino UNO). (4 weeks ago)
 - [blackbox-log/blackbox-log](https://github.com/blackbox-log/blackbox-log) - Rust parser for Betaflight &amp; INAV blackbox logs (1 month ago)
 - [Frogrey/MIMXRT1170EVKB-VGLite-RTThreadNano](https://github.com/Frogrey/MIMXRT1170EVKB-VGLite-RTThreadNano) - VGLite examples from RT1170 EVKB SDK, in which FreeRTOS is replaced with RT-Thread Nano. (1 month ago)
