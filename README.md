@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.10.2](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.10.2), 1 day ago) - Flight Controller Firmware
+- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.10.2](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.10.2), 2 days ago) - Flight Controller Firmware
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([7.0.0](https://github.com/iNavFlight/inav/releases/tag/7.0.0), 1 week ago) - INAV: Navigation-enabled flight control software
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc4](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc4), 6 months ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 
@@ -39,15 +39,15 @@
 - [新增RouterOS重拨](https://github.com/BigPlanes/Bncr_plugins/pull/6) on [BigPlanes/Bncr_plugins](https://github.com/BigPlanes/Bncr_plugins) (7 months ago)
 - [[Enhancement]: Add support for HD OSD (canvas mode)](https://github.com/flightng/atbetaflight/pull/54) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (7 months ago)
 - [[Bug Fix]: Fix dshot beacon issue](https://github.com/flightng/atbetaflight/pull/46) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (8 months ago)
-- [[CI Update]: Add EMSRPROTO4 to build CI](https://github.com/flightng/atbetaflight/pull/44) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (8 months ago)
+- [[CI Update]: Add EMSRPROTO4 to build CI](https://github.com/flightng/atbetaflight/pull/44) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (9 months ago)
 - [[IMU Driver]: Disable HPM on all LSM6Dxx IMU](https://github.com/flightng/atbetaflight/pull/40) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (9 months ago)
 - [[Chore]: Change default USBD product string](https://github.com/flightng/atbetaflight/pull/39) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (9 months ago)
 - [[IMU Driver]: Improve the BMI270 driver optimization level](https://github.com/flightng/atbetaflight/pull/37) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (9 months ago)
 
 #### ⭐ Recent Stars
 
-- [Quick-Flash/QuickDrehm](https://github.com/Quick-Flash/QuickDrehm) - Teensy DIY flight controller and stabilization (3 days ago)
-- [gyroflow/gyroflow-adobe](https://github.com/gyroflow/gyroflow-adobe) - Gyroflow plugin for Adobe Premiere and After Effects (6 days ago)
+- [Quick-Flash/QuickDrehm](https://github.com/Quick-Flash/QuickDrehm) - Teensy DIY flight controller and stabilization (4 days ago)
+- [gyroflow/gyroflow-adobe](https://github.com/gyroflow/gyroflow-adobe) - Gyroflow plugin for Adobe Premiere and After Effects (1 week ago)
 - [blackbox-log/blackbox-log](https://github.com/blackbox-log/blackbox-log) - Rust parser for Betaflight &amp; INAV blackbox logs (2 weeks ago)
 - [outofjungle/NikonRemote](https://github.com/outofjungle/NikonRemote) - Arduino library to remotely trigger Nikon camera using an IR LED (2 months ago)
 - [fresh2nd/IR-BARRIER](https://github.com/fresh2nd/IR-BARRIER) - Camera trigger when an IR beam is crossed, for EOS 450 D. || Spanish version: Disparador automático para Canon EOS 450 D a través de una sensor infrarrojo. (2 months ago)
