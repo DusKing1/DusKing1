@@ -42,7 +42,7 @@
 - [[CI Update]: Add EMSRPROTO4 to build CI](https://github.com/flightng/atbetaflight/pull/44) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (9 months ago)
 - [[IMU Driver]: Disable HPM on all LSM6Dxx IMU](https://github.com/flightng/atbetaflight/pull/40) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (9 months ago)
 - [[Chore]: Change default USBD product string](https://github.com/flightng/atbetaflight/pull/39) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (9 months ago)
-- [[IMU Driver]: Improve the BMI270 driver optimization level](https://github.com/flightng/atbetaflight/pull/37) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (9 months ago)
+- [[IMU Driver]: Improve the BMI270 driver optimization level](https://github.com/flightng/atbetaflight/pull/37) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (10 months ago)
 
 #### ⭐ Recent Stars
 
