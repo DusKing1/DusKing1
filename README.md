@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [Quick-Flash/QuickDrehm](https://github.com/Quick-Flash/QuickDrehm) - Teensy DIY flight controller and stabilization (3 weeks ago)
+- [Quick-Flash/QuickDrehm](https://github.com/Quick-Flash/QuickDrehm) - Teensy DIY flight controller and stabilization (4 weeks ago)
 - [gyroflow/gyroflow-adobe](https://github.com/gyroflow/gyroflow-adobe) - Gyroflow plugin for Adobe Premiere and After Effects (1 month ago)
 - [blackbox-log/blackbox-log](https://github.com/blackbox-log/blackbox-log) - Rust parser for Betaflight &amp; INAV blackbox logs (1 month ago)
 - [outofjungle/NikonRemote](https://github.com/outofjungle/NikonRemote) - Arduino library to remotely trigger Nikon camera using an IR LED (3 months ago)
