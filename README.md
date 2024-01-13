@@ -5,7 +5,7 @@
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (3 months ago)
 - [DusKing1/glados-qinglong](https://github.com/DusKing1/glados-qinglong) - 自己用的glados签到本 (5 months ago)
 - [DusKing1/Bncr_plugin](https://github.com/DusKing1/Bncr_plugin) - 自己用的无界bot插件 (7 months ago)
-- [BigPlanes/Bncr_plugins](https://github.com/BigPlanes/Bncr_plugins) - 一些自用无界bot插件 (7 months ago)
+- [BigPlanes/Bncr_plugins](https://github.com/BigPlanes/Bncr_plugins) - 一些自用无界bot插件 (8 months ago)
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (8 months ago)
 - [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) - 基于betaflight 4.3  移植至Artery Tek AT32F435/7 (9 months ago)
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (9 months ago)
@@ -33,11 +33,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add support for SKYSTARSF722HDPRO](https://github.com/iNavFlight/inav/pull/9630) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (today)
+- [Add support for SKYSTARSF722HDPRO](https://github.com/iNavFlight/inav/pull/9630) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (1 day ago)
 - [Add ICM42605 driver for SKYSTARSF405HD](https://github.com/iNavFlight/inav/pull/9370) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (3 months ago)
 - [add icm42605 driver for SKYSTARSF405HD](https://github.com/DusKing1/inav/pull/83) on [DusKing1/inav](https://github.com/DusKing1/inav) (3 months ago)
 - [[Target Update]: Remove ICM42688p drivers from at32 targets](https://github.com/flightng/atbetaflight/pull/57) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (7 months ago)
-- [新增RouterOS重拨](https://github.com/BigPlanes/Bncr_plugins/pull/6) on [BigPlanes/Bncr_plugins](https://github.com/BigPlanes/Bncr_plugins) (7 months ago)
+- [新增RouterOS重拨](https://github.com/BigPlanes/Bncr_plugins/pull/6) on [BigPlanes/Bncr_plugins](https://github.com/BigPlanes/Bncr_plugins) (8 months ago)
 - [[Enhancement]: Add support for HD OSD (canvas mode)](https://github.com/flightng/atbetaflight/pull/54) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (8 months ago)
 - [[Bug Fix]: Fix dshot beacon issue](https://github.com/flightng/atbetaflight/pull/46) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (9 months ago)
 - [[CI Update]: Add EMSRPROTO4 to build CI](https://github.com/flightng/atbetaflight/pull/44) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (9 months ago)
@@ -46,8 +46,8 @@
 
 #### ⭐ Recent Stars
 
-- [am32-firmware/AM32](https://github.com/am32-firmware/AM32) -  (today)
-- [am32-firmware/am32-configurator](https://github.com/am32-firmware/am32-configurator) -  (today)
+- [am32-firmware/AM32](https://github.com/am32-firmware/AM32) -  (1 day ago)
+- [am32-firmware/am32-configurator](https://github.com/am32-firmware/am32-configurator) -  (1 day ago)
 - [Quick-Flash/QuickDrehm](https://github.com/Quick-Flash/QuickDrehm) - Teensy DIY flight controller and stabilization (1 month ago)
 - [gyroflow/gyroflow-adobe](https://github.com/gyroflow/gyroflow-adobe) - Gyroflow plugin for Adobe Premiere and After Effects (1 month ago)
 - [blackbox-log/blackbox-log](https://github.com/blackbox-log/blackbox-log) - Rust parser for Betaflight &amp; INAV blackbox logs (1 month ago)
