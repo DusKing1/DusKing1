@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (1 week ago)
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (2 weeks ago)
 - [DusKing1/glados-qinglong](https://github.com/DusKing1/glados-qinglong) - 自己用的glados签到本 (6 months ago)
 - [DusKing1/Bncr_plugin](https://github.com/DusKing1/Bncr_plugin) - 自己用的无界bot插件 (7 months ago)
 - [BigPlanes/Bncr_plugins](https://github.com/BigPlanes/Bncr_plugins) - 一些自用无界bot插件 (8 months ago)
@@ -33,7 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add support for SKYSTARSF722HDPRO](https://github.com/iNavFlight/inav/pull/9630) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (1 week ago)
+- [Add support for SKYSTARSF722HDPRO](https://github.com/iNavFlight/inav/pull/9630) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (2 weeks ago)
 - [Add ICM42605 driver for SKYSTARSF405HD](https://github.com/iNavFlight/inav/pull/9370) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (3 months ago)
 - [add icm42605 driver for SKYSTARSF405HD](https://github.com/DusKing1/inav/pull/83) on [DusKing1/inav](https://github.com/DusKing1/inav) (3 months ago)
 - [[Target Update]: Remove ICM42688p drivers from at32 targets](https://github.com/flightng/atbetaflight/pull/57) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (7 months ago)
@@ -46,12 +46,12 @@
 
 #### ⭐ Recent Stars
 
-- [haotianlPM/rosrbgprouter](https://github.com/haotianlPM/rosrbgprouter) -  (1 day ago)
-- [am32-firmware/AM32](https://github.com/am32-firmware/AM32) -  (1 week ago)
-- [am32-firmware/am32-configurator](https://github.com/am32-firmware/am32-configurator) -  (1 week ago)
+- [haotianlPM/rosrbgprouter](https://github.com/haotianlPM/rosrbgprouter) -  (2 days ago)
+- [am32-firmware/AM32](https://github.com/am32-firmware/AM32) -  (2 weeks ago)
+- [am32-firmware/am32-configurator](https://github.com/am32-firmware/am32-configurator) -  (2 weeks ago)
 - [Quick-Flash/QuickDrehm](https://github.com/Quick-Flash/QuickDrehm) - Teensy DIY flight controller and stabilization (1 month ago)
 - [gyroflow/gyroflow-adobe](https://github.com/gyroflow/gyroflow-adobe) - Gyroflow plugin for Adobe Premiere and After Effects (1 month ago)
-- [blackbox-log/blackbox-log](https://github.com/blackbox-log/blackbox-log) - Rust parser for Betaflight &amp; INAV blackbox logs (1 month ago)
+- [blackbox-log/blackbox-log](https://github.com/blackbox-log/blackbox-log) - Rust parser for Betaflight &amp; INAV blackbox logs (2 months ago)
 - [outofjungle/NikonRemote](https://github.com/outofjungle/NikonRemote) - Arduino library to remotely trigger Nikon camera using an IR LED (3 months ago)
 - [fresh2nd/IR-BARRIER](https://github.com/fresh2nd/IR-BARRIER) - Camera trigger when an IR beam is crossed, for EOS 450 D. || Spanish version: Disparador automático para Canon EOS 450 D a través de una sensor infrarrojo. (3 months ago)
 - [tsowell/avr-hdmi-cec-volume](https://github.com/tsowell/avr-hdmi-cec-volume) - AVR code to operate a motorized potentiometer in response to HDMI CEC volume messages from a TV (3 months ago)
