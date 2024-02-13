@@ -40,7 +40,7 @@
 - [新增RouterOS重拨](https://github.com/BigPlanes/Bncr_plugins/pull/6) on [BigPlanes/Bncr_plugins](https://github.com/BigPlanes/Bncr_plugins) (9 months ago)
 - [[Enhancement]: Add support for HD OSD (canvas mode)](https://github.com/flightng/atbetaflight/pull/54) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (9 months ago)
 - [[Bug Fix]: Fix dshot beacon issue](https://github.com/flightng/atbetaflight/pull/46) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (10 months ago)
-- [[CI Update]: Add EMSRPROTO4 to build CI](https://github.com/flightng/atbetaflight/pull/44) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (10 months ago)
+- [[CI Update]: Add EMSRPROTO4 to build CI](https://github.com/flightng/atbetaflight/pull/44) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (11 months ago)
 - [[IMU Driver]: Disable HPM on all LSM6Dxx IMU](https://github.com/flightng/atbetaflight/pull/40) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (11 months ago)
 - [[Chore]: Change default USBD product string](https://github.com/flightng/atbetaflight/pull/39) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (11 months ago)
 
