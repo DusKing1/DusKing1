@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [jpwolfe9912/G431-ESC-4in1-V1](https://github.com/jpwolfe9912/G431-ESC-4in1-V1) -  (today)
+- [jpwolfe9912/G431-ESC-4in1-V1](https://github.com/jpwolfe9912/G431-ESC-4in1-V1) -  (1 day ago)
 - [haotianlPM/rosrbgprouter](https://github.com/haotianlPM/rosrbgprouter) -  (1 month ago)
 - [am32-firmware/AM32](https://github.com/am32-firmware/AM32) -  (1 month ago)
 - [am32-firmware/am32-configurator](https://github.com/am32-firmware/am32-configurator) -  (1 month ago)
