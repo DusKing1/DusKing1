@@ -38,13 +38,13 @@
 - [新增RouterOS重拨](https://github.com/BigPlanes/Bncr_plugins/pull/6) on [BigPlanes/Bncr_plugins](https://github.com/BigPlanes/Bncr_plugins) (10 months ago)
 - [[Enhancement]: Add support for HD OSD (canvas mode)](https://github.com/flightng/atbetaflight/pull/54) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (10 months ago)
 - [[Bug Fix]: Fix dshot beacon issue](https://github.com/flightng/atbetaflight/pull/46) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (11 months ago)
-- [[CI Update]: Add EMSRPROTO4 to build CI](https://github.com/flightng/atbetaflight/pull/44) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (11 months ago)
+- [[CI Update]: Add EMSRPROTO4 to build CI](https://github.com/flightng/atbetaflight/pull/44) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 year ago)
 - [[IMU Driver]: Disable HPM on all LSM6Dxx IMU](https://github.com/flightng/atbetaflight/pull/40) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 year ago)
 - [[Chore]: Change default USBD product string](https://github.com/flightng/atbetaflight/pull/39) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [jpwolfe9912/G431-ESC-4in1-V1](https://github.com/jpwolfe9912/G431-ESC-4in1-V1) -  (3 days ago)
+- [jpwolfe9912/G431-ESC-4in1-V1](https://github.com/jpwolfe9912/G431-ESC-4in1-V1) -  (4 days ago)
 - [haotianlPM/rosrbgprouter](https://github.com/haotianlPM/rosrbgprouter) -  (1 month ago)
 - [am32-firmware/AM32](https://github.com/am32-firmware/AM32) -  (2 months ago)
 - [am32-firmware/am32-configurator](https://github.com/am32-firmware/am32-configurator) -  (2 months ago)
