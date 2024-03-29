@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [WongKinYiu/yolov9mit](https://github.com/WongKinYiu/yolov9mit) - An MIT rewrite of YOLOv9 (today)
-- [ARM-software/CMSIS-Stream](https://github.com/ARM-software/CMSIS-Stream) - CMSIS-Stream software component (today)
+- [WongKinYiu/yolov9mit](https://github.com/WongKinYiu/yolov9mit) - An MIT rewrite of YOLOv9 (1 day ago)
+- [ARM-software/CMSIS-Stream](https://github.com/ARM-software/CMSIS-Stream) - CMSIS-Stream software component (1 day ago)
 - [jpwolfe9912/G431-ESC-4in1-V1](https://github.com/jpwolfe9912/G431-ESC-4in1-V1) -  (2 weeks ago)
 - [haotianlPM/rosrbgprouter](https://github.com/haotianlPM/rosrbgprouter) -  (2 months ago)
 - [am32-firmware/AM32](https://github.com/am32-firmware/AM32) -  (2 months ago)
