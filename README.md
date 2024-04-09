@@ -6,7 +6,7 @@
 - [DusKing1/glados-qinglong](https://github.com/DusKing1/glados-qinglong) - 自己用的glados签到本 (8 months ago)
 - [DusKing1/Bncr_plugin](https://github.com/DusKing1/Bncr_plugin) - 自己用的无界bot插件 (10 months ago)
 - [BigPlanes/Bncr_plugins](https://github.com/BigPlanes/Bncr_plugins) - 一些自用无界bot插件 (10 months ago)
-- [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (10 months ago)
+- [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (11 months ago)
 - [shanggl/ATBetaflight](https://github.com/shanggl/ATBetaflight) - 基于betaflight 4.3  移植至Artery Tek AT32F435/7 (1 year ago)
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (1 year ago)
 - [pitronicteam/pyPIDtoolbox](https://github.com/pitronicteam/pyPIDtoolbox) - Clone &amp; Python porting of https://github.com/bw1129/PIDtoolbox created by Brian White. (1 year ago)
@@ -31,7 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix (?) i-term error rotation](https://github.com/BossHobby/QUICKSILVER/pull/115) on [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) (6 days ago)
+- [Fix (?) i-term error rotation](https://github.com/BossHobby/QUICKSILVER/pull/115) on [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) (1 week ago)
 - [修复：修复了SD卡demo中未关闭设备的错误](https://github.com/RT-Thread-packages/peripheral-sample/pull/32) on [RT-Thread-packages/peripheral-sample](https://github.com/RT-Thread-packages/peripheral-sample) (2 weeks ago)
 - [Add support for SKYSTARSF722HDPRO](https://github.com/iNavFlight/inav/pull/9630) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (2 months ago)
 - [Add ICM42605 driver for SKYSTARSF405HD](https://github.com/iNavFlight/inav/pull/9370) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (5 months ago)
@@ -44,16 +44,16 @@
 
 #### ⭐ Recent Stars
 
+- [daniel-om-weber/riann](https://github.com/daniel-om-weber/riann) -  (today)
 - [WongKinYiu/yolov9mit](https://github.com/WongKinYiu/yolov9mit) - An MIT rewrite of YOLOv9 (1 week ago)
 - [ARM-software/CMSIS-Stream](https://github.com/ARM-software/CMSIS-Stream) - CMSIS-Stream software component (1 week ago)
-- [jpwolfe9912/G431-ESC-4in1-V1](https://github.com/jpwolfe9912/G431-ESC-4in1-V1) -  (4 weeks ago)
+- [jpwolfe9912/G431-ESC-4in1-V1](https://github.com/jpwolfe9912/G431-ESC-4in1-V1) -  (1 month ago)
 - [haotianlPM/rosrbgprouter](https://github.com/haotianlPM/rosrbgprouter) -  (2 months ago)
 - [am32-firmware/AM32](https://github.com/am32-firmware/AM32) -  (2 months ago)
 - [am32-firmware/am32-configurator](https://github.com/am32-firmware/am32-configurator) -  (2 months ago)
-- [Quick-Flash/QuickDrehm](https://github.com/Quick-Flash/QuickDrehm) - Teensy DIY flight controller and stabilization (3 months ago)
+- [Quick-Flash/QuickDrehm](https://github.com/Quick-Flash/QuickDrehm) - Teensy DIY flight controller and stabilization (4 months ago)
 - [blackbox-log/blackbox-log](https://github.com/blackbox-log/blackbox-log) - Rust parser for Betaflight &amp; INAV blackbox logs (4 months ago)
 - [outofjungle/NikonRemote](https://github.com/outofjungle/NikonRemote) - Arduino library to remotely trigger Nikon camera using an IR LED (6 months ago)
-- [fresh2nd/IR-BARRIER](https://github.com/fresh2nd/IR-BARRIER) - Camera trigger when an IR beam is crossed, for EOS 450 D. || Spanish version: Disparador automático para Canon EOS 450 D a través de una sensor infrarrojo. (6 months ago)
 
 #### 💬 Feedback
 
