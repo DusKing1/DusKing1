@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [daniel-om-weber/riann](https://github.com/daniel-om-weber/riann) -  (today)
+- [daniel-om-weber/riann](https://github.com/daniel-om-weber/riann) -  (1 day ago)
 - [WongKinYiu/yolov9mit](https://github.com/WongKinYiu/yolov9mit) - An MIT rewrite of YOLOv9 (1 week ago)
 - [ARM-software/CMSIS-Stream](https://github.com/ARM-software/CMSIS-Stream) - CMSIS-Stream software component (1 week ago)
 - [jpwolfe9912/G431-ESC-4in1-V1](https://github.com/jpwolfe9912/G431-ESC-4in1-V1) -  (1 month ago)
