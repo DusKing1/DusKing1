@@ -26,7 +26,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([7.1.0](https://github.com/iNavFlight/inav/releases/tag/7.1.0), 1 week ago) - INAV: Navigation-enabled flight control software
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([7.1.0](https://github.com/iNavFlight/inav/releases/tag/7.1.0), 2 weeks ago) - INAV: Navigation-enabled flight control software
 
 #### 🔨 My recent Pull Requests
 
@@ -43,7 +43,7 @@
 
 #### ⭐ Recent Stars
 
-- [daniel-om-weber/riann](https://github.com/daniel-om-weber/riann) -  (5 days ago)
+- [daniel-om-weber/riann](https://github.com/daniel-om-weber/riann) -  (6 days ago)
 - [WongKinYiu/yolov9mit](https://github.com/WongKinYiu/yolov9mit) - An MIT rewrite of YOLOv9 (2 weeks ago)
 - [ARM-software/CMSIS-Stream](https://github.com/ARM-software/CMSIS-Stream) - CMSIS-Stream software component (2 weeks ago)
 - [jpwolfe9912/G431-ESC-4in1-V1](https://github.com/jpwolfe9912/G431-ESC-4in1-V1) -  (1 month ago)
