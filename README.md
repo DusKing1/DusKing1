@@ -27,9 +27,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fixed scale factor for ST&#39;s IMUs](https://github.com/flightng/atbetaflight/pull/63) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 days ago)
+- [Fixed scale factor for ST&#39;s IMUs](https://github.com/flightng/atbetaflight/pull/63) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 days ago)
 - [Fix (?) i-term error rotation](https://github.com/BossHobby/QUICKSILVER/pull/115) on [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) (2 weeks ago)
-- [修复：修复了SD卡demo中未关闭设备的错误](https://github.com/RT-Thread-packages/peripheral-sample/pull/32) on [RT-Thread-packages/peripheral-sample](https://github.com/RT-Thread-packages/peripheral-sample) (4 weeks ago)
+- [修复：修复了SD卡demo中未关闭设备的错误](https://github.com/RT-Thread-packages/peripheral-sample/pull/32) on [RT-Thread-packages/peripheral-sample](https://github.com/RT-Thread-packages/peripheral-sample) (1 month ago)
 - [Add support for SKYSTARSF722HDPRO](https://github.com/iNavFlight/inav/pull/9630) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (3 months ago)
 - [Add ICM42605 driver for SKYSTARSF405HD](https://github.com/iNavFlight/inav/pull/9370) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (6 months ago)
 - [add icm42605 driver for SKYSTARSF405HD](https://github.com/DusKing1/inav/pull/83) on [DusKing1/inav](https://github.com/DusKing1/inav) (6 months ago)
