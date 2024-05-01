@@ -40,6 +40,7 @@
 
 #### ⭐ Recent Stars
 
+- [kkkgo/PaoPaoGateWay](https://github.com/kkkgo/PaoPaoGateWay) - PaoPao GateWay是一个体积小巧、稳定强大的FakeIP网关 (today)
 - [daniel-om-weber/riann](https://github.com/daniel-om-weber/riann) -  (3 weeks ago)
 - [WongKinYiu/yolov9mit](https://github.com/WongKinYiu/yolov9mit) - An MIT rewrite of YOLOv9 (1 month ago)
 - [ARM-software/CMSIS-Stream](https://github.com/ARM-software/CMSIS-Stream) - CMSIS-Stream software component (1 month ago)
@@ -49,7 +50,6 @@
 - [am32-firmware/am32-configurator](https://github.com/am32-firmware/am32-configurator) -  (3 months ago)
 - [Quick-Flash/QuickDrehm](https://github.com/Quick-Flash/QuickDrehm) - Teensy DIY flight controller and stabilization (4 months ago)
 - [blackbox-log/blackbox-log](https://github.com/blackbox-log/blackbox-log) - Rust parser for Betaflight &amp; INAV blackbox logs (5 months ago)
-- [outofjungle/NikonRemote](https://github.com/outofjungle/NikonRemote) - Arduino library to remotely trigger Nikon camera using an IR LED (7 months ago)
 
 #### 💬 Feedback
 
