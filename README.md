@@ -23,7 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([7.1.0](https://github.com/iNavFlight/inav/releases/tag/7.1.0), 1 month ago) - INAV: Navigation-enabled flight control software
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([7.1.1](https://github.com/iNavFlight/inav/releases/tag/7.1.1), today) - INAV: Navigation-enabled flight control software
 
 #### 🔨 My recent Pull Requests
 
