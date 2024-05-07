@@ -23,7 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([7.1.1](https://github.com/iNavFlight/inav/releases/tag/7.1.1), today) - INAV: Navigation-enabled flight control software
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([7.1.1](https://github.com/iNavFlight/inav/releases/tag/7.1.1), 1 day ago) - INAV: Navigation-enabled flight control software
 
 #### 🔨 My recent Pull Requests
 
@@ -40,9 +40,9 @@
 
 #### ⭐ Recent Stars
 
-- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 (1 day ago)
-- [kkkgo/PaoPaoGateWay](https://github.com/kkkgo/PaoPaoGateWay) - PaoPao GateWay是一个体积小巧、稳定强大的FakeIP网关 (5 days ago)
-- [daniel-om-weber/riann](https://github.com/daniel-om-weber/riann) -  (3 weeks ago)
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 (2 days ago)
+- [kkkgo/PaoPaoGateWay](https://github.com/kkkgo/PaoPaoGateWay) - PaoPao GateWay是一个体积小巧、稳定强大的FakeIP网关 (6 days ago)
+- [daniel-om-weber/riann](https://github.com/daniel-om-weber/riann) -  (4 weeks ago)
 - [WongKinYiu/yolov9mit](https://github.com/WongKinYiu/yolov9mit) - An MIT rewrite of YOLOv9 (1 month ago)
 - [ARM-software/CMSIS-Stream](https://github.com/ARM-software/CMSIS-Stream) - CMSIS-Stream software component (1 month ago)
 - [jpwolfe9912/G431-ESC-4in1-V1](https://github.com/jpwolfe9912/G431-ESC-4in1-V1) -  (1 month ago)
