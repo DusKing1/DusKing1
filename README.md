@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (today)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (3 months ago)
 - [DusKing1/glados-qinglong](https://github.com/DusKing1/glados-qinglong) - 自己用的glados签到本 (9 months ago)
 - [DusKing1/Bncr_plugin](https://github.com/DusKing1/Bncr_plugin) - 自己用的无界bot插件 (11 months ago)
@@ -10,6 +11,7 @@
 
 #### 🌱 My latest projects
 
+- [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation
 - [DusKing1/glados-qinglong](https://github.com/DusKing1/glados-qinglong) - 自己用的glados签到本
 - [DusKing1/Bncr_plugin](https://github.com/DusKing1/Bncr_plugin) - 自己用的无界bot插件
 - [DusKing1/github-slideshow](https://github.com/DusKing1/github-slideshow) - A robot powered training repository :robot:
@@ -19,7 +21,6 @@
 - [DusKing1/helloworld-rust](https://github.com/DusKing1/helloworld-rust) - Rustlang running on a custom F103 dev board
 - [DusKing1/bf-src-main-check](https://github.com/DusKing1/bf-src-main-check) - 
 - [DusKing1/KISS-GUI-CN](https://github.com/DusKing1/KISS-GUI-CN) - Chinese (Both Simplified and Traditional ) Translation for KISS configurator
-- [DusKing1/dsp-guide](https://github.com/DusKing1/dsp-guide) - 
 
 #### 🔭 Latest releases I've contributed to
 
