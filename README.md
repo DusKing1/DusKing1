@@ -41,6 +41,7 @@
 
 #### ⭐ Recent Stars
 
+- [crsf-wg/crsf](https://github.com/crsf-wg/crsf) -  (today)
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 (5 days ago)
 - [kkkgo/PaoPaoGateWay](https://github.com/kkkgo/PaoPaoGateWay) - PaoPao GateWay是一个体积小巧、稳定强大的FakeIP网关 (1 week ago)
 - [daniel-om-weber/riann](https://github.com/daniel-om-weber/riann) -  (1 month ago)
@@ -50,7 +51,6 @@
 - [haotianlPM/rosrbgprouter](https://github.com/haotianlPM/rosrbgprouter) -  (3 months ago)
 - [am32-firmware/AM32](https://github.com/am32-firmware/AM32) -  (3 months ago)
 - [am32-firmware/am32-configurator](https://github.com/am32-firmware/am32-configurator) -  (3 months ago)
-- [Quick-Flash/QuickDrehm](https://github.com/Quick-Flash/QuickDrehm) - Teensy DIY flight controller and stabilization (5 months ago)
 
 #### 💬 Feedback
 
