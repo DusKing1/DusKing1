@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fixed scale factor for ST&#39;s IMUs](https://github.com/flightng/atbetaflight/pull/63) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (4 weeks ago)
+- [Fixed scale factor for ST&#39;s IMUs](https://github.com/flightng/atbetaflight/pull/63) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 month ago)
 - [Fix (?) i-term error rotation](https://github.com/BossHobby/QUICKSILVER/pull/115) on [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) (1 month ago)
 - [修复：修复了SD卡demo中未关闭设备的错误](https://github.com/RT-Thread-packages/peripheral-sample/pull/32) on [RT-Thread-packages/peripheral-sample](https://github.com/RT-Thread-packages/peripheral-sample) (1 month ago)
 - [Add support for SKYSTARSF722HDPRO](https://github.com/iNavFlight/inav/pull/9630) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (4 months ago)
@@ -41,8 +41,8 @@
 
 #### ⭐ Recent Stars
 
-- [akpw/mktxp-stack](https://github.com/akpw/mktxp-stack) - MKTXP Exporter monitoring stack (5 days ago)
-- [crsf-wg/crsf](https://github.com/crsf-wg/crsf) -  (6 days ago)
+- [akpw/mktxp-stack](https://github.com/akpw/mktxp-stack) - MKTXP Exporter monitoring stack (6 days ago)
+- [crsf-wg/crsf](https://github.com/crsf-wg/crsf) -  (1 week ago)
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 (1 week ago)
 - [kkkgo/PaoPaoGateWay](https://github.com/kkkgo/PaoPaoGateWay) - PaoPao GateWay是一个体积小巧、稳定强大的FakeIP网关 (2 weeks ago)
 - [daniel-om-weber/riann](https://github.com/daniel-om-weber/riann) -  (1 month ago)
