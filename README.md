@@ -41,6 +41,7 @@
 
 #### ⭐ Recent Stars
 
+- [b4b857f6ee/opnsense_grafana_dashboard](https://github.com/b4b857f6ee/opnsense_grafana_dashboard) - Grafana Dashboard for OPNsense and the Plugin Sensei (today)
 - [akpw/mktxp-stack](https://github.com/akpw/mktxp-stack) - MKTXP Exporter monitoring stack (1 week ago)
 - [crsf-wg/crsf](https://github.com/crsf-wg/crsf) -  (1 week ago)
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 (1 week ago)
@@ -50,7 +51,6 @@
 - [ARM-software/CMSIS-Stream](https://github.com/ARM-software/CMSIS-Stream) - CMSIS-Stream software component (1 month ago)
 - [jpwolfe9912/G431-ESC-4in1-V1](https://github.com/jpwolfe9912/G431-ESC-4in1-V1) -  (2 months ago)
 - [haotianlPM/rosrbgprouter](https://github.com/haotianlPM/rosrbgprouter) -  (3 months ago)
-- [am32-firmware/AM32](https://github.com/am32-firmware/AM32) -  (4 months ago)
 
 #### 💬 Feedback
 
