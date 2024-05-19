@@ -41,6 +41,7 @@
 
 #### ⭐ Recent Stars
 
+- [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (today)
 - [b4b857f6ee/opnsense_grafana_dashboard](https://github.com/b4b857f6ee/opnsense_grafana_dashboard) - Grafana Dashboard for OPNsense and the Plugin Sensei (1 day ago)
 - [akpw/mktxp-stack](https://github.com/akpw/mktxp-stack) - MKTXP Exporter monitoring stack (1 week ago)
 - [crsf-wg/crsf](https://github.com/crsf-wg/crsf) -  (1 week ago)
@@ -50,7 +51,6 @@
 - [WongKinYiu/yolov9mit](https://github.com/WongKinYiu/yolov9mit) - An MIT rewrite of YOLOv9 (1 month ago)
 - [ARM-software/CMSIS-Stream](https://github.com/ARM-software/CMSIS-Stream) - CMSIS-Stream software component (1 month ago)
 - [jpwolfe9912/G431-ESC-4in1-V1](https://github.com/jpwolfe9912/G431-ESC-4in1-V1) -  (2 months ago)
-- [haotianlPM/rosrbgprouter](https://github.com/haotianlPM/rosrbgprouter) -  (3 months ago)
 
 #### 💬 Feedback
 
