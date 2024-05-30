@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (2 weeks ago)
+- [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (3 weeks ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (4 months ago)
 - [DusKing1/glados-qinglong](https://github.com/DusKing1/glados-qinglong) - 自己用的glados签到本 (10 months ago)
 - [DusKing1/Bncr_plugin](https://github.com/DusKing1/Bncr_plugin) - 自己用的无界bot插件 (11 months ago)
