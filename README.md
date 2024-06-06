@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (3 weeks ago)
+- [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (4 weeks ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (4 months ago)
 - [DusKing1/glados-qinglong](https://github.com/DusKing1/glados-qinglong) - 自己用的glados签到本 (10 months ago)
 - [DusKing1/Bncr_plugin](https://github.com/DusKing1/Bncr_plugin) - 自己用的无界bot插件 (1 year ago)
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([7.1.2](https://github.com/iNavFlight/inav/releases/tag/7.1.2), 4 days ago) - INAV: Navigation-enabled flight control software
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([7.1.2](https://github.com/iNavFlight/inav/releases/tag/7.1.2), 5 days ago) - INAV: Navigation-enabled flight control software
 
 #### 🔨 My recent Pull Requests
 
@@ -39,9 +39,9 @@
 
 #### ⭐ Recent Stars
 
-- [217heidai/OpenWrt-Builder](https://github.com/217heidai/OpenWrt-Builder) - OpenWrt 源码编译 (1 day ago)
-- [lizhist/ZJU-Rule](https://github.com/lizhist/ZJU-Rule) - ZJU Clash 分流规则 (5 days ago)
-- [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - ChatTTS is a generative speech model for daily dialogue. (6 days ago)
+- [217heidai/OpenWrt-Builder](https://github.com/217heidai/OpenWrt-Builder) - OpenWrt 源码编译 (2 days ago)
+- [lizhist/ZJU-Rule](https://github.com/lizhist/ZJU-Rule) - ZJU Clash 分流规则 (6 days ago)
+- [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - ChatTTS is a generative speech model for daily dialogue. (1 week ago)
 - [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (2 weeks ago)
 - [b4b857f6ee/opnsense_grafana_dashboard](https://github.com/b4b857f6ee/opnsense_grafana_dashboard) - Grafana Dashboard for OPNsense and the Plugin Sensei (2 weeks ago)
 - [akpw/mktxp-stack](https://github.com/akpw/mktxp-stack) - MKTXP Exporter monitoring stack (3 weeks ago)
