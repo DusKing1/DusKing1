@@ -39,13 +39,13 @@
 
 #### ⭐ Recent Stars
 
-- [217heidai/OpenWrt-Builder](https://github.com/217heidai/OpenWrt-Builder) - OpenWrt 源码编译 (4 days ago)
+- [217heidai/OpenWrt-Builder](https://github.com/217heidai/OpenWrt-Builder) - OpenWrt 源码编译 (5 days ago)
 - [lizhist/ZJU-Rule](https://github.com/lizhist/ZJU-Rule) - ZJU Clash 分流规则 (1 week ago)
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - ChatTTS is a generative speech model for daily dialogue. (1 week ago)
-- [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (2 weeks ago)
+- [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (3 weeks ago)
 - [b4b857f6ee/opnsense_grafana_dashboard](https://github.com/b4b857f6ee/opnsense_grafana_dashboard) - Grafana Dashboard for OPNsense and the Plugin Sensei (3 weeks ago)
 - [akpw/mktxp-stack](https://github.com/akpw/mktxp-stack) - MKTXP Exporter monitoring stack (4 weeks ago)
-- [crsf-wg/crsf](https://github.com/crsf-wg/crsf) -  (4 weeks ago)
+- [crsf-wg/crsf](https://github.com/crsf-wg/crsf) -  (1 month ago)
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 (1 month ago)
 - [kkkgo/PaoPaoGateWay](https://github.com/kkkgo/PaoPaoGateWay) - PaoPao GateWay是一个体积小巧、稳定强大的FakeIP网关 (1 month ago)
 - [daniel-om-weber/riann](https://github.com/daniel-om-weber/riann) -  (2 months ago)
