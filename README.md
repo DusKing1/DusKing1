@@ -38,10 +38,10 @@
 
 #### ⭐ Recent Stars
 
-- [elseif/MikroTikPatch](https://github.com/elseif/MikroTikPatch) -  (today)
+- [elseif/MikroTikPatch](https://github.com/elseif/MikroTikPatch) -  (1 day ago)
 - [217heidai/OpenWrt-Builder](https://github.com/217heidai/OpenWrt-Builder) - OpenWrt 源码编译 (2 weeks ago)
 - [lizhist/ZJU-Rule](https://github.com/lizhist/ZJU-Rule) - ZJU Clash 分流规则 (2 weeks ago)
-- [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue. (2 weeks ago)
+- [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue. (3 weeks ago)
 - [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (1 month ago)
 - [b4b857f6ee/opnsense_grafana_dashboard](https://github.com/b4b857f6ee/opnsense_grafana_dashboard) - Grafana Dashboard for OPNsense and the Plugin Sensei (1 month ago)
 - [akpw/mktxp-stack](https://github.com/akpw/mktxp-stack) - MKTXP Exporter monitoring stack (1 month ago)
