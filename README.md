@@ -40,7 +40,7 @@
 
 - [elseif/MikroTikPatch](https://github.com/elseif/MikroTikPatch) -  (1 week ago)
 - [217heidai/OpenWrt-Builder](https://github.com/217heidai/OpenWrt-Builder) - OpenWrt 源码编译 (3 weeks ago)
-- [lizhist/ZJU-Rule](https://github.com/lizhist/ZJU-Rule) - ZJU Clash 分流规则 (3 weeks ago)
+- [lizhist/ZJU-Rule](https://github.com/lizhist/ZJU-Rule) - ZJU Clash 分流规则 (4 weeks ago)
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue. (4 weeks ago)
 - [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (1 month ago)
 - [b4b857f6ee/opnsense_grafana_dashboard](https://github.com/b4b857f6ee/opnsense_grafana_dashboard) - Grafana Dashboard for OPNsense and the Plugin Sensei (1 month ago)
