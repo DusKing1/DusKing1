@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (1 week ago)
+- [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (2 weeks ago)
 - [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (2 months ago)
 - [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) - Flight Controller Firmware (3 months ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (6 months ago)
@@ -42,7 +42,7 @@
 
 #### ⭐ Recent Stars
 
-- [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03) -  (2 days ago)
+- [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03) -  (3 days ago)
 - [elseif/MikroTikPatch](https://github.com/elseif/MikroTikPatch) -  (3 weeks ago)
 - [217heidai/OpenWrt-Builder](https://github.com/217heidai/OpenWrt-Builder) - OpenWrt 源码编译 (1 month ago)
 - [lizhist/ZJU-Rule](https://github.com/lizhist/ZJU-Rule) - ZJU Clash 分流规则 (1 month ago)
