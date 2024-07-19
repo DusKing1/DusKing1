@@ -23,7 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.11.0-rc2](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.11.0-rc2), 2 days ago) - Flight Controller Firmware
+- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.11.0-rc2](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.11.0-rc2), 3 days ago) - Flight Controller Firmware
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([7.1.2](https://github.com/iNavFlight/inav/releases/tag/7.1.2), 1 month ago) - INAV: Navigation-enabled flight control software
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc4](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc4), 1 year ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 
@@ -31,7 +31,7 @@
 
 - [Fixed scale factor for ST&#39;s IMUs](https://github.com/flightng/atbetaflight/pull/63) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (3 months ago)
 - [Fix (?) i-term error rotation](https://github.com/BossHobby/QUICKSILVER/pull/115) on [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) (3 months ago)
-- [修复：修复了SD卡demo中未关闭设备的错误](https://github.com/RT-Thread-packages/peripheral-sample/pull/32) on [RT-Thread-packages/peripheral-sample](https://github.com/RT-Thread-packages/peripheral-sample) (3 months ago)
+- [修复：修复了SD卡demo中未关闭设备的错误](https://github.com/RT-Thread-packages/peripheral-sample/pull/32) on [RT-Thread-packages/peripheral-sample](https://github.com/RT-Thread-packages/peripheral-sample) (4 months ago)
 - [Add support for SKYSTARSF722HDPRO](https://github.com/iNavFlight/inav/pull/9630) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (6 months ago)
 - [Add ICM42605 driver for SKYSTARSF405HD](https://github.com/iNavFlight/inav/pull/9370) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (9 months ago)
 - [add icm42605 driver for SKYSTARSF405HD](https://github.com/DusKing1/inav/pull/83) on [DusKing1/inav](https://github.com/DusKing1/inav) (9 months ago)
@@ -42,9 +42,9 @@
 
 #### ⭐ Recent Stars
 
-- [dndx/nchnroutes](https://github.com/dndx/nchnroutes) - !chnroutes - chnroutes negated (4 days ago)
+- [dndx/nchnroutes](https://github.com/dndx/nchnroutes) - !chnroutes - chnroutes negated (5 days ago)
 - [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03) -  (1 week ago)
-- [elseif/MikroTikPatch](https://github.com/elseif/MikroTikPatch) -  (4 weeks ago)
+- [elseif/MikroTikPatch](https://github.com/elseif/MikroTikPatch) -  (1 month ago)
 - [217heidai/OpenWrt-Builder](https://github.com/217heidai/OpenWrt-Builder) - OpenWrt 源码编译 (1 month ago)
 - [lizhist/ZJU-Rule](https://github.com/lizhist/ZJU-Rule) - ZJU Clash 分流规则 (1 month ago)
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue. (1 month ago)
