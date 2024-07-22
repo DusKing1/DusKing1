@@ -23,7 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.11.0-rc2](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.11.0-rc2), 6 days ago) - Flight Controller Firmware
+- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.11.0-rc3](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.11.0-rc3), today) - Flight Controller Firmware
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([7.1.2](https://github.com/iNavFlight/inav/releases/tag/7.1.2), 1 month ago) - INAV: Navigation-enabled flight control software
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc4](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc4), 1 year ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 
