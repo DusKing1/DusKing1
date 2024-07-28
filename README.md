@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址 (today)
 - [unclemcz/ban-pcdn-ip](https://github.com/unclemcz/ban-pcdn-ip) - 收集 地区为山西、运营商为联通的PCDN恶意刷量IP段清单。 (4 days ago)
 - [dndx/nchnroutes](https://github.com/dndx/nchnroutes) - !chnroutes - chnroutes negated (2 weeks ago)
 - [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03) -  (2 weeks ago)
@@ -51,7 +52,6 @@
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue. (1 month ago)
 - [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (2 months ago)
 - [b4b857f6ee/opnsense_grafana_dashboard](https://github.com/b4b857f6ee/opnsense_grafana_dashboard) - Grafana Dashboard for OPNsense and the Plugin Sensei (2 months ago)
-- [akpw/mktxp-stack](https://github.com/akpw/mktxp-stack) - MKTXP Exporter monitoring stack (2 months ago)
 
 #### 💬 Feedback
 
