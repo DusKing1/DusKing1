@@ -41,9 +41,9 @@
 
 #### ⭐ Recent Stars
 
-- [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址 (6 days ago)
+- [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址 (1 week ago)
 - [unclemcz/ban-pcdn-ip](https://github.com/unclemcz/ban-pcdn-ip) - 收集 地区为山西、运营商为联通的PCDN恶意刷量IP段清单。 (1 week ago)
-- [dndx/nchnroutes](https://github.com/dndx/nchnroutes) - !chnroutes - chnroutes negated (2 weeks ago)
+- [dndx/nchnroutes](https://github.com/dndx/nchnroutes) - !chnroutes - chnroutes negated (3 weeks ago)
 - [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03) -  (3 weeks ago)
 - [elseif/MikroTikPatch](https://github.com/elseif/MikroTikPatch) - MikroTik RouterOS Patch Public Key and Generate License (1 month ago)
 - [217heidai/OpenWrt-Builder](https://github.com/217heidai/OpenWrt-Builder) - OpenWrt 源码编译 (2 months ago)
