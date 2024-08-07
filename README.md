@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (1 month ago)
-- [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (2 months ago)
+- [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (3 months ago)
 - [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) - Flight Controller Firmware (4 months ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (6 months ago)
 
@@ -42,7 +42,7 @@
 #### ⭐ Recent Stars
 
 - [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址 (1 week ago)
-- [unclemcz/ban-pcdn-ip](https://github.com/unclemcz/ban-pcdn-ip) - 收集恶意刷取网站CDN流量的PCDN IP段清单。 (1 week ago)
+- [unclemcz/ban-pcdn-ip](https://github.com/unclemcz/ban-pcdn-ip) - 收集恶意刷取网站CDN流量的PCDN IP段清单。 (2 weeks ago)
 - [dndx/nchnroutes](https://github.com/dndx/nchnroutes) - !chnroutes - chnroutes negated (3 weeks ago)
 - [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03) -  (3 weeks ago)
 - [elseif/MikroTikPatch](https://github.com/elseif/MikroTikPatch) - MikroTik RouterOS Patch Public Key and Generate License (1 month ago)
