@@ -41,7 +41,7 @@
 
 #### ⭐ Recent Stars
 
-- [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (today)
+- [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (1 day ago)
 - [CodingDocs/programmer-sideline](https://github.com/CodingDocs/programmer-sideline) - 程序员副业赚钱之路。 (1 week ago)
 - [loonggg/DevMoneySharing](https://github.com/loonggg/DevMoneySharing) - 独立开发者赚钱经验分享 (1 week ago)
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 (1 week ago)
