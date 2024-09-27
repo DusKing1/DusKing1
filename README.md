@@ -41,6 +41,7 @@
 
 #### ⭐ Recent Stars
 
+- [nextpilot/nextpilot-flight-control](https://github.com/nextpilot/nextpilot-flight-control) - NextPilot Flight Control System is a powerfull, scalable and advanced autopilot, which is designed to be easily used in education, research, and industry. (today)
 - [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (1 day ago)
 - [CodingDocs/programmer-sideline](https://github.com/CodingDocs/programmer-sideline) - 程序员副业赚钱之路。 (1 week ago)
 - [loonggg/DevMoneySharing](https://github.com/loonggg/DevMoneySharing) - 独立开发者赚钱经验分享 (1 week ago)
@@ -50,7 +51,6 @@
 - [unclemcz/ban-pcdn-ip](https://github.com/unclemcz/ban-pcdn-ip) - 收集恶意刷取网站CDN流量的PCDN IP段清单。 (2 months ago)
 - [dndx/nchnroutes](https://github.com/dndx/nchnroutes) - !chnroutes - chnroutes negated (2 months ago)
 - [elseif/MikroTikPatch](https://github.com/elseif/MikroTikPatch) - MikroTik RouterOS Patch Public Key and Generate License (3 months ago)
-- [217heidai/OpenWrt-Builder](https://github.com/217heidai/OpenWrt-Builder) - OpenWrt 源码编译 (3 months ago)
 
 #### 💬 Feedback
 
