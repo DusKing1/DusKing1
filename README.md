@@ -41,6 +41,7 @@
 
 #### ⭐ Recent Stars
 
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science! (today)
 - [nextpilot/nextpilot-flight-control](https://github.com/nextpilot/nextpilot-flight-control) - NextPilot Flight Control System is a powerfull, scalable and advanced autopilot, which is designed to be easily used in education, research, and industry. (1 day ago)
 - [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (2 days ago)
 - [CodingDocs/programmer-sideline](https://github.com/CodingDocs/programmer-sideline) - 程序员副业赚钱之路。 (1 week ago)
@@ -50,7 +51,6 @@
 - [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址 (2 months ago)
 - [unclemcz/ban-pcdn-ip](https://github.com/unclemcz/ban-pcdn-ip) - 收集恶意刷取网站CDN流量的PCDN IP段清单。 (2 months ago)
 - [dndx/nchnroutes](https://github.com/dndx/nchnroutes) - !chnroutes - chnroutes negated (2 months ago)
-- [elseif/MikroTikPatch](https://github.com/elseif/MikroTikPatch) - MikroTik RouterOS Patch Public Key and Generate License (3 months ago)
 
 #### 💬 Feedback
 
