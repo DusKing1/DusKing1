@@ -41,9 +41,9 @@
 
 #### ⭐ Recent Stars
 
-- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science! (1 day ago)
-- [nextpilot/nextpilot-flight-control](https://github.com/nextpilot/nextpilot-flight-control) - NextPilot Flight Control System is a powerfull, scalable and advanced autopilot, which is designed to be easily used in education, research, and industry. (2 days ago)
-- [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (3 days ago)
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science! (2 days ago)
+- [nextpilot/nextpilot-flight-control](https://github.com/nextpilot/nextpilot-flight-control) - NextPilot Flight Control System is a powerfull, scalable and advanced autopilot, which is designed to be easily used in education, research, and industry. (3 days ago)
+- [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (4 days ago)
 - [CodingDocs/programmer-sideline](https://github.com/CodingDocs/programmer-sideline) - 程序员副业赚钱之路。 (2 weeks ago)
 - [loonggg/DevMoneySharing](https://github.com/loonggg/DevMoneySharing) - 独立开发者赚钱经验分享 (2 weeks ago)
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 (2 weeks ago)
