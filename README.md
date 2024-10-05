@@ -41,7 +41,7 @@
 
 #### ⭐ Recent Stars
 
-- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science! (6 days ago)
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science! (1 week ago)
 - [nextpilot/nextpilot-flight-control](https://github.com/nextpilot/nextpilot-flight-control) - NextPilot Flight Control System is a powerfull, scalable and advanced autopilot, which is designed to be easily used in education, research, and industry. (1 week ago)
 - [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (1 week ago)
 - [CodingDocs/programmer-sideline](https://github.com/CodingDocs/programmer-sideline) - 程序员副业赚钱之路。 (2 weeks ago)
