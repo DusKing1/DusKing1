@@ -41,6 +41,7 @@
 
 #### ⭐ Recent Stars
 
+- [JamesCJ60/Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Unlock the full potential of your Intel/AMD based device. (today)
 - [ghilesmeddour/gorilla-time-series-compression](https://github.com/ghilesmeddour/gorilla-time-series-compression) - Python implementation of Gorilla time series compression (6 days ago)
 - [keisku/gorilla](https://github.com/keisku/gorilla) - An effective time-series data compression/decompression method based on Facebook&#39;s Gorilla. (6 days ago)
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science! (2 weeks ago)
@@ -50,7 +51,6 @@
 - [loonggg/DevMoneySharing](https://github.com/loonggg/DevMoneySharing) - 独立开发者赚钱经验分享 (4 weeks ago)
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 (4 weeks ago)
 - [summerjava/system-design-interview](https://github.com/summerjava/system-design-interview) - 系统设计面试必读（awesome system design） (1 month ago)
-- [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址 (2 months ago)
 
 #### 💬 Feedback
 
