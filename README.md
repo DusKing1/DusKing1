@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fixed scale factor for ST&#39;s IMUs](https://github.com/flightng/atbetaflight/pull/63) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (5 months ago)
+- [Fixed scale factor for ST&#39;s IMUs](https://github.com/flightng/atbetaflight/pull/63) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (6 months ago)
 - [Fix (?) i-term error rotation](https://github.com/BossHobby/QUICKSILVER/pull/115) on [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) (6 months ago)
 - [修复：修复了SD卡demo中未关闭设备的错误](https://github.com/RT-Thread-packages/peripheral-sample/pull/32) on [RT-Thread-packages/peripheral-sample](https://github.com/RT-Thread-packages/peripheral-sample) (6 months ago)
 - [Add support for SKYSTARSF722HDPRO](https://github.com/iNavFlight/inav/pull/9630) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (9 months ago)
@@ -41,9 +41,9 @@
 
 #### ⭐ Recent Stars
 
-- [JamesCJ60/Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Unlock the full potential of your Intel/AMD based device. (today)
-- [ghilesmeddour/gorilla-time-series-compression](https://github.com/ghilesmeddour/gorilla-time-series-compression) - Python implementation of Gorilla time series compression (6 days ago)
-- [keisku/gorilla](https://github.com/keisku/gorilla) - An effective time-series data compression/decompression method based on Facebook&#39;s Gorilla. (6 days ago)
+- [JamesCJ60/Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Unlock the full potential of your Intel/AMD based device. (1 day ago)
+- [ghilesmeddour/gorilla-time-series-compression](https://github.com/ghilesmeddour/gorilla-time-series-compression) - Python implementation of Gorilla time series compression (1 week ago)
+- [keisku/gorilla](https://github.com/keisku/gorilla) - An effective time-series data compression/decompression method based on Facebook&#39;s Gorilla. (1 week ago)
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science! (2 weeks ago)
 - [nextpilot/nextpilot-flight-control](https://github.com/nextpilot/nextpilot-flight-control) - NextPilot Flight Control System is a powerfull, scalable and advanced autopilot, which is designed to be easily used in education, research, and industry. (2 weeks ago)
 - [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (2 weeks ago)
