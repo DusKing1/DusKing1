@@ -41,7 +41,7 @@
 
 #### ⭐ Recent Stars
 
-- [JamesCJ60/Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Unlock the full potential of your Intel/AMD based device. (2 days ago)
+- [JamesCJ60/Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Unlock the full potential of your Intel/AMD based device. (3 days ago)
 - [ghilesmeddour/gorilla-time-series-compression](https://github.com/ghilesmeddour/gorilla-time-series-compression) - Python implementation of Gorilla time series compression (1 week ago)
 - [keisku/gorilla](https://github.com/keisku/gorilla) - An effective time-series data compression/decompression method based on Facebook&#39;s Gorilla. (1 week ago)
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science! (2 weeks ago)
