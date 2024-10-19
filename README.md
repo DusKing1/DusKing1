@@ -41,11 +41,11 @@
 
 #### ⭐ Recent Stars
 
-- [jiacai2050/sicp](https://github.com/jiacai2050/sicp) - 📖 SICP 读书笔记，习题解答 (today)
-- [JamesCJ60/Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Unlock the full potential of your Intel/AMD based device. (5 days ago)
+- [jiacai2050/sicp](https://github.com/jiacai2050/sicp) - 📖 SICP 读书笔记，习题解答 (1 day ago)
+- [JamesCJ60/Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Unlock the full potential of your Intel/AMD based device. (6 days ago)
 - [ghilesmeddour/gorilla-time-series-compression](https://github.com/ghilesmeddour/gorilla-time-series-compression) - Python implementation of Gorilla time series compression (1 week ago)
 - [keisku/gorilla](https://github.com/keisku/gorilla) - An effective time-series data compression/decompression method based on Facebook&#39;s Gorilla. (1 week ago)
-- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science! (2 weeks ago)
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science! (3 weeks ago)
 - [nextpilot/nextpilot-flight-control](https://github.com/nextpilot/nextpilot-flight-control) - NextPilot Flight Control System is a powerfull, scalable and advanced autopilot, which is designed to be easily used in education, research, and industry. (3 weeks ago)
 - [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (3 weeks ago)
 - [CodingDocs/programmer-sideline](https://github.com/CodingDocs/programmer-sideline) - 程序员副业赚钱之路。 (1 month ago)
