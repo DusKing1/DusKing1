@@ -41,8 +41,8 @@
 
 #### ⭐ Recent Stars
 
-- [nickrehm/dRehmFlight](https://github.com/nickrehm/dRehmFlight) - Teensy/Arduino flight controller and stabilization for small-scale VTOL vehicles (today)
-- [EchoChenC/MEMS_DRG](https://github.com/EchoChenC/MEMS_DRG) -  (1 day ago)
+- [nickrehm/dRehmFlight](https://github.com/nickrehm/dRehmFlight) - Teensy/Arduino flight controller and stabilization for small-scale VTOL vehicles (1 day ago)
+- [EchoChenC/MEMS_DRG](https://github.com/EchoChenC/MEMS_DRG) -  (2 days ago)
 - [jiacai2050/sicp](https://github.com/jiacai2050/sicp) - 📖 SICP 读书笔记，习题解答 (3 weeks ago)
 - [JamesCJ60/Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Unlock the full potential of your Intel/AMD based device. (4 weeks ago)
 - [ghilesmeddour/gorilla-time-series-compression](https://github.com/ghilesmeddour/gorilla-time-series-compression) - Python implementation of Gorilla time series compression (1 month ago)
