@@ -30,7 +30,7 @@
 
 - [Fixed scale factor for ST&#39;s IMUs](https://github.com/flightng/atbetaflight/pull/63) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (7 months ago)
 - [Fix (?) i-term error rotation](https://github.com/BossHobby/QUICKSILVER/pull/115) on [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) (7 months ago)
-- [修复：修复了SD卡demo中未关闭设备的错误](https://github.com/RT-Thread-packages/peripheral-sample/pull/32) on [RT-Thread-packages/peripheral-sample](https://github.com/RT-Thread-packages/peripheral-sample) (7 months ago)
+- [修复：修复了SD卡demo中未关闭设备的错误](https://github.com/RT-Thread-packages/peripheral-sample/pull/32) on [RT-Thread-packages/peripheral-sample](https://github.com/RT-Thread-packages/peripheral-sample) (8 months ago)
 - [Add support for SKYSTARSF722HDPRO](https://github.com/iNavFlight/inav/pull/9630) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (10 months ago)
 - [Add ICM42605 driver for SKYSTARSF405HD](https://github.com/iNavFlight/inav/pull/9370) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (1 year ago)
 - [add icm42605 driver for SKYSTARSF405HD](https://github.com/DusKing1/inav/pull/83) on [DusKing1/inav](https://github.com/DusKing1/inav) (1 year ago)
@@ -41,10 +41,10 @@
 
 #### ⭐ Recent Stars
 
-- [TinyMPC/tinympc-python](https://github.com/TinyMPC/tinympc-python) - Python interactive interface for TinyMPC (3 days ago)
-- [TinyMPC/TinyMPC](https://github.com/TinyMPC/TinyMPC) - Model-predictive control for microcontrollers (3 days ago)
-- [nickrehm/dRehmFlight](https://github.com/nickrehm/dRehmFlight) - Teensy/Arduino flight controller and stabilization for small-scale VTOL vehicles (5 days ago)
-- [EchoChenC/MEMS_DRG](https://github.com/EchoChenC/MEMS_DRG) -  (6 days ago)
+- [TinyMPC/tinympc-python](https://github.com/TinyMPC/tinympc-python) - Python interactive interface for TinyMPC (4 days ago)
+- [TinyMPC/TinyMPC](https://github.com/TinyMPC/TinyMPC) - Model-predictive control for microcontrollers (4 days ago)
+- [nickrehm/dRehmFlight](https://github.com/nickrehm/dRehmFlight) - Teensy/Arduino flight controller and stabilization for small-scale VTOL vehicles (6 days ago)
+- [EchoChenC/MEMS_DRG](https://github.com/EchoChenC/MEMS_DRG) -  (1 week ago)
 - [jiacai2050/sicp](https://github.com/jiacai2050/sicp) - 📖 SICP 读书笔记，习题解答 (4 weeks ago)
 - [JamesCJ60/Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Unlock the full potential of your Intel/AMD based device. (1 month ago)
 - [ghilesmeddour/gorilla-time-series-compression](https://github.com/ghilesmeddour/gorilla-time-series-compression) - Python implementation of Gorilla time series compression (1 month ago)
