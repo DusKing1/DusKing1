@@ -22,12 +22,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([8.0.0-RC1](https://github.com/iNavFlight/inav/releases/tag/8.0.0-RC1), today) - INAV: Navigation-enabled flight control software
 - [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.11.1-rc1](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.11.1-rc1), 3 weeks ago) - Flight Controller Firmware
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([7.1.2](https://github.com/iNavFlight/inav/releases/tag/7.1.2), 5 months ago) - INAV: Navigation-enabled flight control software
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc4](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc4), 1 year ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 
 #### 🔨 My recent Pull Requests
 
+- [Add support for SKYSTARSSF405AIO target](https://github.com/iNavFlight/inav/pull/10469) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (today)
 - [Fixed scale factor for ST&#39;s IMUs](https://github.com/flightng/atbetaflight/pull/63) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (7 months ago)
 - [Fix (?) i-term error rotation](https://github.com/BossHobby/QUICKSILVER/pull/115) on [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) (7 months ago)
 - [修复：修复了SD卡demo中未关闭设备的错误](https://github.com/RT-Thread-packages/peripheral-sample/pull/32) on [RT-Thread-packages/peripheral-sample](https://github.com/RT-Thread-packages/peripheral-sample) (8 months ago)
@@ -37,7 +38,6 @@
 - [[Target Update]: Remove ICM42688p drivers from at32 targets](https://github.com/flightng/atbetaflight/pull/57) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 year ago)
 - [新增RouterOS重拨](https://github.com/BigPlanes/Bncr_plugins/pull/6) on [BigPlanes/Bncr_plugins](https://github.com/BigPlanes/Bncr_plugins) (2 years ago)
 - [[Enhancement]: Add support for HD OSD (canvas mode)](https://github.com/flightng/atbetaflight/pull/54) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 years ago)
-- [[Bug Fix]: Fix dshot beacon issue](https://github.com/flightng/atbetaflight/pull/46) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 years ago)
 
 #### ⭐ Recent Stars
 
