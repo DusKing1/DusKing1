@@ -41,11 +41,11 @@
 
 #### ⭐ Recent Stars
 
-- [Kangnakamuyii/HeLang](https://github.com/Kangnakamuyii/HeLang) - 何语言，次世代赛博编程语言。 (3 days ago)
-- [imtsuki/helang-rs](https://github.com/imtsuki/helang-rs) -  (3 days ago)
+- [Kangnakamuyii/HeLang](https://github.com/Kangnakamuyii/HeLang) - 何语言，次世代赛博编程语言。 (4 days ago)
+- [imtsuki/helang-rs](https://github.com/imtsuki/helang-rs) -  (4 days ago)
 - [TinyMPC/tinympc-python](https://github.com/TinyMPC/tinympc-python) - Python interactive interface for TinyMPC (1 week ago)
 - [TinyMPC/TinyMPC](https://github.com/TinyMPC/TinyMPC) - Model-predictive control for microcontrollers (1 week ago)
-- [nickrehm/dRehmFlight](https://github.com/nickrehm/dRehmFlight) - Teensy/Arduino flight controller and stabilization for small-scale VTOL vehicles (1 week ago)
+- [nickrehm/dRehmFlight](https://github.com/nickrehm/dRehmFlight) - Teensy/Arduino flight controller and stabilization for small-scale VTOL vehicles (2 weeks ago)
 - [EchoChenC/MEMS_DRG](https://github.com/EchoChenC/MEMS_DRG) -  (2 weeks ago)
 - [jiacai2050/sicp](https://github.com/jiacai2050/sicp) - 📖 SICP 读书笔记，习题解答 (1 month ago)
 - [JamesCJ60/Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Unlock the full potential of your Intel/AMD based device. (1 month ago)
