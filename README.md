@@ -41,10 +41,10 @@
 
 #### ⭐ Recent Stars
 
-- [Scottapotamas/xsens-mti](https://github.com/Scottapotamas/xsens-mti) - C library for managing and reading xsens MTi IMU modules over serial. (today)
-- [MrBoriska/xsense_imu](https://github.com/MrBoriska/xsense_imu) - xsense imu driver for Isaac SDK (today)
-- [Kangnakamuyii/HeLang](https://github.com/Kangnakamuyii/HeLang) - 何语言，次世代赛博编程语言。 (4 days ago)
-- [imtsuki/helang-rs](https://github.com/imtsuki/helang-rs) -  (4 days ago)
+- [Scottapotamas/xsens-mti](https://github.com/Scottapotamas/xsens-mti) - C library for managing and reading xsens MTi IMU modules over serial. (1 day ago)
+- [MrBoriska/xsense_imu](https://github.com/MrBoriska/xsense_imu) - xsense imu driver for Isaac SDK (1 day ago)
+- [Kangnakamuyii/HeLang](https://github.com/Kangnakamuyii/HeLang) - 何语言，次世代赛博编程语言。 (5 days ago)
+- [imtsuki/helang-rs](https://github.com/imtsuki/helang-rs) -  (5 days ago)
 - [TinyMPC/tinympc-python](https://github.com/TinyMPC/tinympc-python) - Python interactive interface for TinyMPC (1 week ago)
 - [TinyMPC/TinyMPC](https://github.com/TinyMPC/TinyMPC) - Model-predictive control for microcontrollers (1 week ago)
 - [nickrehm/dRehmFlight](https://github.com/nickrehm/dRehmFlight) - Teensy/Arduino flight controller and stabilization for small-scale VTOL vehicles (2 weeks ago)
