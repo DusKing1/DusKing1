@@ -41,12 +41,12 @@
 
 #### ⭐ Recent Stars
 
-- [Scottapotamas/xsens-mti](https://github.com/Scottapotamas/xsens-mti) - C library for managing and reading xsens MTi IMU modules over serial. (1 day ago)
-- [MrBoriska/xsense_imu](https://github.com/MrBoriska/xsense_imu) - xsense imu driver for Isaac SDK (1 day ago)
-- [Kangnakamuyii/HeLang](https://github.com/Kangnakamuyii/HeLang) - 何语言，次世代赛博编程语言。 (5 days ago)
-- [imtsuki/helang-rs](https://github.com/imtsuki/helang-rs) -  (5 days ago)
-- [TinyMPC/tinympc-python](https://github.com/TinyMPC/tinympc-python) - Python interactive interface for TinyMPC (1 week ago)
-- [TinyMPC/TinyMPC](https://github.com/TinyMPC/TinyMPC) - Model-predictive control for microcontrollers (1 week ago)
+- [Scottapotamas/xsens-mti](https://github.com/Scottapotamas/xsens-mti) - C library for managing and reading xsens MTi IMU modules over serial. (2 days ago)
+- [MrBoriska/xsense_imu](https://github.com/MrBoriska/xsense_imu) - xsense imu driver for Isaac SDK (2 days ago)
+- [Kangnakamuyii/HeLang](https://github.com/Kangnakamuyii/HeLang) - 何语言，次世代赛博编程语言。 (6 days ago)
+- [imtsuki/helang-rs](https://github.com/imtsuki/helang-rs) -  (6 days ago)
+- [TinyMPC/tinympc-python](https://github.com/TinyMPC/tinympc-python) - Python interactive interface for TinyMPC (2 weeks ago)
+- [TinyMPC/TinyMPC](https://github.com/TinyMPC/TinyMPC) - Model-predictive control for microcontrollers (2 weeks ago)
 - [nickrehm/dRehmFlight](https://github.com/nickrehm/dRehmFlight) - Teensy/Arduino flight controller and stabilization for small-scale VTOL vehicles (2 weeks ago)
 - [EchoChenC/MEMS_DRG](https://github.com/EchoChenC/MEMS_DRG) -  (2 weeks ago)
 - [jiacai2050/sicp](https://github.com/jiacai2050/sicp) - 📖 SICP 读书笔记，习题解答 (1 month ago)
