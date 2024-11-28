@@ -5,7 +5,7 @@
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (1 week ago)
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (5 months ago)
 - [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (6 months ago)
-- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) - Flight Controller Firmware (7 months ago)
+- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) - Flight Controller Firmware (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@
 
 - [Add support for SKYSTARSSF405AIO target](https://github.com/iNavFlight/inav/pull/10469) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (1 week ago)
 - [Fixed scale factor for ST&#39;s IMUs](https://github.com/flightng/atbetaflight/pull/63) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (7 months ago)
-- [Fix (?) i-term error rotation](https://github.com/BossHobby/QUICKSILVER/pull/115) on [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) (7 months ago)
+- [Fix (?) i-term error rotation](https://github.com/BossHobby/QUICKSILVER/pull/115) on [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) (8 months ago)
 - [修复：修复了SD卡demo中未关闭设备的错误](https://github.com/RT-Thread-packages/peripheral-sample/pull/32) on [RT-Thread-packages/peripheral-sample](https://github.com/RT-Thread-packages/peripheral-sample) (8 months ago)
 - [Add support for SKYSTARSF722HDPRO](https://github.com/iNavFlight/inav/pull/9630) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (10 months ago)
 - [Add ICM42605 driver for SKYSTARSF405HD](https://github.com/iNavFlight/inav/pull/9370) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (1 year ago)
@@ -41,9 +41,9 @@
 
 #### ⭐ Recent Stars
 
-- [PegasusSimulator/PegasusSimulator](https://github.com/PegasusSimulator/PegasusSimulator) - A framework built on top of NVIDIA Isaac Sim for simulating drones with PX4 support and much more (1 day ago)
-- [Scottapotamas/xsens-mti](https://github.com/Scottapotamas/xsens-mti) - C library for managing and reading xsens MTi IMU modules over serial. (3 days ago)
-- [MrBoriska/xsense_imu](https://github.com/MrBoriska/xsense_imu) - xsense imu driver for Isaac SDK (3 days ago)
+- [PegasusSimulator/PegasusSimulator](https://github.com/PegasusSimulator/PegasusSimulator) - A framework built on top of NVIDIA Isaac Sim for simulating drones with PX4 support and much more (2 days ago)
+- [Scottapotamas/xsens-mti](https://github.com/Scottapotamas/xsens-mti) - C library for managing and reading xsens MTi IMU modules over serial. (4 days ago)
+- [MrBoriska/xsense_imu](https://github.com/MrBoriska/xsense_imu) - xsense imu driver for Isaac SDK (4 days ago)
 - [Kangnakamuyii/HeLang](https://github.com/Kangnakamuyii/HeLang) - 何语言，次世代赛博编程语言。 (1 week ago)
 - [imtsuki/helang-rs](https://github.com/imtsuki/helang-rs) -  (1 week ago)
 - [TinyMPC/tinympc-python](https://github.com/TinyMPC/tinympc-python) - Python interactive interface for TinyMPC (2 weeks ago)
