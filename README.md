@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (1 week ago)
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (2 weeks ago)
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (5 months ago)
 - [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (6 months ago)
 - [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) - Flight Controller Firmware (8 months ago)
@@ -22,13 +22,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([8.0.0-RC1](https://github.com/iNavFlight/inav/releases/tag/8.0.0-RC1), 1 week ago) - INAV: Navigation-enabled flight control software
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([8.0.0-RC1](https://github.com/iNavFlight/inav/releases/tag/8.0.0-RC1), 2 weeks ago) - INAV: Navigation-enabled flight control software
 - [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.11.1-rc1](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.11.1-rc1), 1 month ago) - Flight Controller Firmware
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc4](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc4), 1 year ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 
 #### 🔨 My recent Pull Requests
 
-- [Add support for SKYSTARSSF405AIO target](https://github.com/iNavFlight/inav/pull/10469) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (1 week ago)
+- [Add support for SKYSTARSSF405AIO target](https://github.com/iNavFlight/inav/pull/10469) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (2 weeks ago)
 - [Fixed scale factor for ST&#39;s IMUs](https://github.com/flightng/atbetaflight/pull/63) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (7 months ago)
 - [Fix (?) i-term error rotation](https://github.com/BossHobby/QUICKSILVER/pull/115) on [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) (8 months ago)
 - [修复：修复了SD卡demo中未关闭设备的错误](https://github.com/RT-Thread-packages/peripheral-sample/pull/32) on [RT-Thread-packages/peripheral-sample](https://github.com/RT-Thread-packages/peripheral-sample) (8 months ago)
@@ -41,15 +41,15 @@
 
 #### ⭐ Recent Stars
 
-- [PegasusSimulator/PegasusSimulator](https://github.com/PegasusSimulator/PegasusSimulator) - A framework built on top of NVIDIA Isaac Sim for simulating drones with PX4 support and much more (3 days ago)
-- [Scottapotamas/xsens-mti](https://github.com/Scottapotamas/xsens-mti) - C library for managing and reading xsens MTi IMU modules over serial. (5 days ago)
-- [MrBoriska/xsense_imu](https://github.com/MrBoriska/xsense_imu) - xsense imu driver for Isaac SDK (5 days ago)
+- [PegasusSimulator/PegasusSimulator](https://github.com/PegasusSimulator/PegasusSimulator) - A framework built on top of NVIDIA Isaac Sim for simulating drones with PX4 support and much more (4 days ago)
+- [Scottapotamas/xsens-mti](https://github.com/Scottapotamas/xsens-mti) - C library for managing and reading xsens MTi IMU modules over serial. (6 days ago)
+- [MrBoriska/xsense_imu](https://github.com/MrBoriska/xsense_imu) - xsense imu driver for Isaac SDK (6 days ago)
 - [Kangnakamuyii/HeLang](https://github.com/Kangnakamuyii/HeLang) - 何语言，次世代赛博编程语言。 (1 week ago)
 - [imtsuki/helang-rs](https://github.com/imtsuki/helang-rs) -  (1 week ago)
 - [TinyMPC/tinympc-python](https://github.com/TinyMPC/tinympc-python) - Python interactive interface for TinyMPC (2 weeks ago)
 - [TinyMPC/TinyMPC](https://github.com/TinyMPC/TinyMPC) - Model-predictive control for microcontrollers (2 weeks ago)
 - [nickrehm/dRehmFlight](https://github.com/nickrehm/dRehmFlight) - Teensy/Arduino flight controller and stabilization for small-scale VTOL vehicles (2 weeks ago)
-- [EchoChenC/MEMS_DRG](https://github.com/EchoChenC/MEMS_DRG) -  (2 weeks ago)
+- [EchoChenC/MEMS_DRG](https://github.com/EchoChenC/MEMS_DRG) -  (3 weeks ago)
 - [jiacai2050/sicp](https://github.com/jiacai2050/sicp) - 📖 SICP 读书笔记，习题解答 (1 month ago)
 
 #### 💬 Feedback
