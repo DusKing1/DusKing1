@@ -41,6 +41,7 @@
 
 #### ⭐ Recent Stars
 
+- [redjacketKR/PIDBench](https://github.com/redjacketKR/PIDBench) - PIDBench (today)
 - [PegasusSimulator/PegasusSimulator](https://github.com/PegasusSimulator/PegasusSimulator) - A framework built on top of NVIDIA Isaac Sim for simulating drones with PX4 support and much more (2 weeks ago)
 - [Scottapotamas/xsens-mti](https://github.com/Scottapotamas/xsens-mti) - C library for managing and reading xsens MTi IMU modules over serial. (2 weeks ago)
 - [MrBoriska/xsense_imu](https://github.com/MrBoriska/xsense_imu) - xsense imu driver for Isaac SDK (2 weeks ago)
@@ -50,7 +51,6 @@
 - [TinyMPC/TinyMPC](https://github.com/TinyMPC/TinyMPC) - Model-predictive control for microcontrollers (1 month ago)
 - [nickrehm/dRehmFlight](https://github.com/nickrehm/dRehmFlight) - Teensy/Arduino flight controller and stabilization for small-scale VTOL vehicles (1 month ago)
 - [EchoChenC/MEMS_DRG](https://github.com/EchoChenC/MEMS_DRG) -  (1 month ago)
-- [jiacai2050/sicp](https://github.com/jiacai2050/sicp) - 📖 SICP 读书笔记，习题解答 (1 month ago)
 
 #### 💬 Feedback
 
