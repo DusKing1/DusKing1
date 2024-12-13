@@ -29,7 +29,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Add support for SKYSTARSSF405AIO target](https://github.com/iNavFlight/inav/pull/10469) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (3 weeks ago)
-- [Fixed scale factor for ST&#39;s IMUs](https://github.com/flightng/atbetaflight/pull/63) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (7 months ago)
+- [Fixed scale factor for ST&#39;s IMUs](https://github.com/flightng/atbetaflight/pull/63) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (8 months ago)
 - [Fix (?) i-term error rotation](https://github.com/BossHobby/QUICKSILVER/pull/115) on [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) (8 months ago)
 - [修复：修复了SD卡demo中未关闭设备的错误](https://github.com/RT-Thread-packages/peripheral-sample/pull/32) on [RT-Thread-packages/peripheral-sample](https://github.com/RT-Thread-packages/peripheral-sample) (8 months ago)
 - [Add support for SKYSTARSF722HDPRO](https://github.com/iNavFlight/inav/pull/9630) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (11 months ago)
@@ -41,8 +41,8 @@
 
 #### ⭐ Recent Stars
 
-- [armink/EasyLogger](https://github.com/armink/EasyLogger) - An ultra-lightweight(ROM&lt;1.6K, RAM&lt;0.3k), high-performance C/C&#43;&#43; log library. | 一款超轻量级(ROM&lt;1.6K, RAM&lt;0.3k)、高性能的 C/C&#43;&#43; 日志库 (today)
-- [redjacketKR/PIDBench](https://github.com/redjacketKR/PIDBench) - PIDBench (today)
+- [armink/EasyLogger](https://github.com/armink/EasyLogger) - An ultra-lightweight(ROM&lt;1.6K, RAM&lt;0.3k), high-performance C/C&#43;&#43; log library. | 一款超轻量级(ROM&lt;1.6K, RAM&lt;0.3k)、高性能的 C/C&#43;&#43; 日志库 (1 day ago)
+- [redjacketKR/PIDBench](https://github.com/redjacketKR/PIDBench) - PIDBench (1 day ago)
 - [PegasusSimulator/PegasusSimulator](https://github.com/PegasusSimulator/PegasusSimulator) - A framework built on top of NVIDIA Isaac Sim for simulating drones with PX4 support and much more (2 weeks ago)
 - [Scottapotamas/xsens-mti](https://github.com/Scottapotamas/xsens-mti) - C library for managing and reading xsens MTi IMU modules over serial. (2 weeks ago)
 - [MrBoriska/xsense_imu](https://github.com/MrBoriska/xsense_imu) - xsense imu driver for Isaac SDK (2 weeks ago)
