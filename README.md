@@ -41,6 +41,7 @@
 
 #### ⭐ Recent Stars
 
+- [sercona/rc-elrs-live-channel-display](https://github.com/sercona/rc-elrs-live-channel-display) - Tool to show live remote control (RC) channels, as sniffed from a live RF stream (today)
 - [LLNL/sundials](https://github.com/LLNL/sundials) - Official development repository for SUNDIALS - a SUite of Nonlinear and DIfferential/ALgebraic equation Solvers. Pull requests are welcome for bug fixes and minor changes. (1 day ago)
 - [armink/EasyLogger](https://github.com/armink/EasyLogger) - An ultra-lightweight(ROM&lt;1.6K, RAM&lt;0.3k), high-performance C/C&#43;&#43; log library. | 一款超轻量级(ROM&lt;1.6K, RAM&lt;0.3k)、高性能的 C/C&#43;&#43; 日志库 (5 days ago)
 - [redjacketKR/PIDBench](https://github.com/redjacketKR/PIDBench) - PIDBench (5 days ago)
@@ -50,7 +51,6 @@
 - [Kangnakamuyii/HeLang](https://github.com/Kangnakamuyii/HeLang) - 何语言，次世代赛博编程语言。 (3 weeks ago)
 - [imtsuki/helang-rs](https://github.com/imtsuki/helang-rs) -  (3 weeks ago)
 - [TinyMPC/tinympc-python](https://github.com/TinyMPC/tinympc-python) - Python interactive interface for TinyMPC (1 month ago)
-- [TinyMPC/TinyMPC](https://github.com/TinyMPC/TinyMPC) - Model-predictive control for microcontrollers (1 month ago)
 
 #### 💬 Feedback
 
