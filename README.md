@@ -41,16 +41,16 @@
 
 #### ⭐ Recent Stars
 
+- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm (today)
+- [cwida/ALP](https://github.com/cwida/ALP) - ALP: Adaptive Lossless Floating-Point Compression (today)
+- [panagiotisl/chimp](https://github.com/panagiotisl/chimp) - Chimp: Efficient Lossless Floating Point Compression for Time Series Databases (today)
+- [MrBean818/gorilla-paper-encode](https://github.com/MrBean818/gorilla-paper-encode) - gorilla paper encode in C language  (today)
 - [sercona/rc-elrs-live-channel-display](https://github.com/sercona/rc-elrs-live-channel-display) - Tool to show live remote control (RC) channels, as sniffed from a live RF stream (today)
 - [LLNL/sundials](https://github.com/LLNL/sundials) - Official development repository for SUNDIALS - a SUite of Nonlinear and DIfferential/ALgebraic equation Solvers. Pull requests are welcome for bug fixes and minor changes. (1 day ago)
 - [armink/EasyLogger](https://github.com/armink/EasyLogger) - An ultra-lightweight(ROM&lt;1.6K, RAM&lt;0.3k), high-performance C/C&#43;&#43; log library. | 一款超轻量级(ROM&lt;1.6K, RAM&lt;0.3k)、高性能的 C/C&#43;&#43; 日志库 (5 days ago)
 - [redjacketKR/PIDBench](https://github.com/redjacketKR/PIDBench) - PIDBench (5 days ago)
 - [PegasusSimulator/PegasusSimulator](https://github.com/PegasusSimulator/PegasusSimulator) - A framework built on top of NVIDIA Isaac Sim for simulating drones with PX4 support and much more (3 weeks ago)
 - [Scottapotamas/xsens-mti](https://github.com/Scottapotamas/xsens-mti) - C library for managing and reading xsens MTi IMU modules over serial. (3 weeks ago)
-- [MrBoriska/xsense_imu](https://github.com/MrBoriska/xsense_imu) - xsense imu driver for Isaac SDK (3 weeks ago)
-- [Kangnakamuyii/HeLang](https://github.com/Kangnakamuyii/HeLang) - 何语言，次世代赛博编程语言。 (3 weeks ago)
-- [imtsuki/helang-rs](https://github.com/imtsuki/helang-rs) -  (3 weeks ago)
-- [TinyMPC/tinympc-python](https://github.com/TinyMPC/tinympc-python) - Python interactive interface for TinyMPC (1 month ago)
 
 #### 💬 Feedback
 
