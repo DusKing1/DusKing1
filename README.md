@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([8.0.0-RC3](https://github.com/iNavFlight/inav/releases/tag/8.0.0-RC3), 6 days ago) - INAV: Navigation-enabled flight control software
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([8.0.0-RC3](https://github.com/iNavFlight/inav/releases/tag/8.0.0-RC3), 1 week ago) - INAV: Navigation-enabled flight control software
 - [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.11.1-rc1](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.11.1-rc1), 2 months ago) - Flight Controller Firmware
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc4](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc4), 2 years ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 
@@ -41,12 +41,12 @@
 
 #### ⭐ Recent Stars
 
-- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm (3 days ago)
-- [cwida/ALP](https://github.com/cwida/ALP) - ALP: Adaptive Lossless Floating-Point Compression (3 days ago)
-- [panagiotisl/chimp](https://github.com/panagiotisl/chimp) - Chimp: Efficient Lossless Floating Point Compression for Time Series Databases (3 days ago)
-- [MrBean818/gorilla-paper-encode](https://github.com/MrBean818/gorilla-paper-encode) - gorilla paper encode in C language  (3 days ago)
-- [sercona/rc-elrs-live-channel-display](https://github.com/sercona/rc-elrs-live-channel-display) - Tool to show live remote control (RC) channels, as sniffed from a live RF stream (3 days ago)
-- [LLNL/sundials](https://github.com/LLNL/sundials) - Official development repository for SUNDIALS - a SUite of Nonlinear and DIfferential/ALgebraic equation Solvers. Pull requests are welcome for bug fixes and minor changes. (4 days ago)
+- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm (4 days ago)
+- [cwida/ALP](https://github.com/cwida/ALP) - ALP: Adaptive Lossless Floating-Point Compression (4 days ago)
+- [panagiotisl/chimp](https://github.com/panagiotisl/chimp) - Chimp: Efficient Lossless Floating Point Compression for Time Series Databases (4 days ago)
+- [MrBean818/gorilla-paper-encode](https://github.com/MrBean818/gorilla-paper-encode) - gorilla paper encode in C language  (4 days ago)
+- [sercona/rc-elrs-live-channel-display](https://github.com/sercona/rc-elrs-live-channel-display) - Tool to show live remote control (RC) channels, as sniffed from a live RF stream (4 days ago)
+- [LLNL/sundials](https://github.com/LLNL/sundials) - Official development repository for SUNDIALS - a SUite of Nonlinear and DIfferential/ALgebraic equation Solvers. Pull requests are welcome for bug fixes and minor changes. (5 days ago)
 - [armink/EasyLogger](https://github.com/armink/EasyLogger) - An ultra-lightweight(ROM&lt;1.6K, RAM&lt;0.3k), high-performance C/C&#43;&#43; log library. | 一款超轻量级(ROM&lt;1.6K, RAM&lt;0.3k)、高性能的 C/C&#43;&#43; 日志库 (1 week ago)
 - [redjacketKR/PIDBench](https://github.com/redjacketKR/PIDBench) - PIDBench (1 week ago)
 - [PegasusSimulator/PegasusSimulator](https://github.com/PegasusSimulator/PegasusSimulator) - A framework built on top of NVIDIA Isaac Sim for simulating drones with PX4 support and much more (3 weeks ago)
