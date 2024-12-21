@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [DusKing1/wskey](https://github.com/DusKing1/wskey) -  (today)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (1 month ago)
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (5 months ago)
 - [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (7 months ago)
@@ -9,6 +10,7 @@
 
 #### 🌱 My latest projects
 
+- [DusKing1/wskey](https://github.com/DusKing1/wskey) - 
 - [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation
 - [DusKing1/glados-qinglong](https://github.com/DusKing1/glados-qinglong) - 自己用的glados签到本
 - [DusKing1/Bncr_plugin](https://github.com/DusKing1/Bncr_plugin) - 自己用的无界bot插件
@@ -18,7 +20,6 @@
 - [DusKing1/draw.io](https://github.com/DusKing1/draw.io) - 
 - [DusKing1/helloworld-rust](https://github.com/DusKing1/helloworld-rust) - Rustlang running on a custom F103 dev board
 - [DusKing1/bf-src-main-check](https://github.com/DusKing1/bf-src-main-check) - 
-- [DusKing1/KISS-GUI-CN](https://github.com/DusKing1/KISS-GUI-CN) - Chinese (Both Simplified and Traditional ) Translation for KISS configurator
 
 #### 🔭 Latest releases I've contributed to
 
