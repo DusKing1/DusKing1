@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [BoringBoredom/UEFI-Editor](https://github.com/BoringBoredom/UEFI-Editor) - Aptio V UEFI Editor: an alternative to AMIBCP (today)
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm (6 days ago)
 - [cwida/ALP](https://github.com/cwida/ALP) - ALP: Adaptive Lossless Floating-Point Compression (6 days ago)
 - [panagiotisl/chimp](https://github.com/panagiotisl/chimp) - Chimp: Efficient Lossless Floating Point Compression for Time Series Databases (6 days ago)
@@ -51,7 +52,6 @@
 - [armink/EasyLogger](https://github.com/armink/EasyLogger) - An ultra-lightweight(ROM&lt;1.6K, RAM&lt;0.3k), high-performance C/C&#43;&#43; log library. | 一款超轻量级(ROM&lt;1.6K, RAM&lt;0.3k)、高性能的 C/C&#43;&#43; 日志库 (1 week ago)
 - [redjacketKR/PIDBench](https://github.com/redjacketKR/PIDBench) - PIDBench (1 week ago)
 - [PegasusSimulator/PegasusSimulator](https://github.com/PegasusSimulator/PegasusSimulator) - A framework built on top of NVIDIA Isaac Sim for simulating drones with PX4 support and much more (3 weeks ago)
-- [Scottapotamas/xsens-mti](https://github.com/Scottapotamas/xsens-mti) - C library for managing and reading xsens MTi IMU modules over serial. (4 weeks ago)
 
 #### 💬 Feedback
 
