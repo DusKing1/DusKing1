@@ -23,7 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.11.1-rc2](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.11.1-rc2), 4 days ago) - Flight Controller Firmware
+- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.11.1-rc2](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.11.1-rc2), 5 days ago) - Flight Controller Firmware
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([8.0.0-RC3](https://github.com/iNavFlight/inav/releases/tag/8.0.0-RC3), 3 weeks ago) - INAV: Navigation-enabled flight control software
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc4](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc4), 2 years ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 
@@ -45,13 +45,13 @@
 - [hku-mars/LiDAR_IMU_Init](https://github.com/hku-mars/LiDAR_IMU_Init) - [IROS2022] Robust Real-time LiDAR-inertial Initialization Method. (1 week ago)
 - [Crazepony/crazepony-firmware-rtthread](https://github.com/Crazepony/crazepony-firmware-rtthread) - 飞控固件移植到rtthread (1 week ago)
 - [HKUST-Aerial-Robotics/Teach-Repeat-Replan](https://github.com/HKUST-Aerial-Robotics/Teach-Repeat-Replan) - Teach-Repeat-Replan: A Complete and Robust System for Aggressive Flight in Complex Environments (1 week ago)
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (1 week ago)
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (2 weeks ago)
 - [BoringBoredom/UEFI-Editor](https://github.com/BoringBoredom/UEFI-Editor) - Aptio V UEFI Editor: an alternative to AMIBCP (2 weeks ago)
-- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm (2 weeks ago)
-- [cwida/ALP](https://github.com/cwida/ALP) - ALP: Adaptive Lossless Floating-Point Compression (2 weeks ago)
-- [panagiotisl/chimp](https://github.com/panagiotisl/chimp) - Chimp: Efficient Lossless Floating Point Compression for Time Series Databases (2 weeks ago)
-- [MrBean818/gorilla-paper-encode](https://github.com/MrBean818/gorilla-paper-encode) - gorilla paper encode in C language  (2 weeks ago)
-- [sercona/rc-elrs-live-channel-display](https://github.com/sercona/rc-elrs-live-channel-display) - Tool to show live remote control (RC) channels, as sniffed from a live RF stream (2 weeks ago)
+- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm (3 weeks ago)
+- [cwida/ALP](https://github.com/cwida/ALP) - ALP: Adaptive Lossless Floating-Point Compression (3 weeks ago)
+- [panagiotisl/chimp](https://github.com/panagiotisl/chimp) - Chimp: Efficient Lossless Floating Point Compression for Time Series Databases (3 weeks ago)
+- [MrBean818/gorilla-paper-encode](https://github.com/MrBean818/gorilla-paper-encode) - gorilla paper encode in C language  (3 weeks ago)
+- [sercona/rc-elrs-live-channel-display](https://github.com/sercona/rc-elrs-live-channel-display) - Tool to show live remote control (RC) channels, as sniffed from a live RF stream (3 weeks ago)
 
 #### 💬 Feedback
 
