@@ -23,8 +23,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([8.0.0-RC4](https://github.com/iNavFlight/inav/releases/tag/8.0.0-RC4), 3 days ago) - INAV: Navigation-enabled flight control software
-- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.11.1-rc2](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.11.1-rc2), 1 week ago) - Flight Controller Firmware
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([8.0.0-RC4](https://github.com/iNavFlight/inav/releases/tag/8.0.0-RC4), 4 days ago) - INAV: Navigation-enabled flight control software
+- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.11.1-rc2](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.11.1-rc2), 2 weeks ago) - Flight Controller Firmware
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc4](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc4), 2 years ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 
 #### 🔨 My recent Pull Requests
@@ -48,10 +48,10 @@
 - [HKUST-Aerial-Robotics/Teach-Repeat-Replan](https://github.com/HKUST-Aerial-Robotics/Teach-Repeat-Replan) - Teach-Repeat-Replan: A Complete and Robust System for Aggressive Flight in Complex Environments (2 weeks ago)
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (3 weeks ago)
 - [BoringBoredom/UEFI-Editor](https://github.com/BoringBoredom/UEFI-Editor) - Aptio V UEFI Editor: an alternative to AMIBCP (3 weeks ago)
-- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm (4 weeks ago)
-- [cwida/ALP](https://github.com/cwida/ALP) - ALP: Adaptive Lossless Floating-Point Compression (4 weeks ago)
-- [panagiotisl/chimp](https://github.com/panagiotisl/chimp) - Chimp: Efficient Lossless Floating Point Compression for Time Series Databases (4 weeks ago)
-- [MrBean818/gorilla-paper-encode](https://github.com/MrBean818/gorilla-paper-encode) - gorilla paper encode in C language  (4 weeks ago)
+- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm (1 month ago)
+- [cwida/ALP](https://github.com/cwida/ALP) - ALP: Adaptive Lossless Floating-Point Compression (1 month ago)
+- [panagiotisl/chimp](https://github.com/panagiotisl/chimp) - Chimp: Efficient Lossless Floating Point Compression for Time Series Databases (1 month ago)
+- [MrBean818/gorilla-paper-encode](https://github.com/MrBean818/gorilla-paper-encode) - gorilla paper encode in C language  (1 month ago)
 
 #### 💬 Feedback
 
