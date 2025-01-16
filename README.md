@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [nofeletru/UsbAsp-flash](https://github.com/nofeletru/UsbAsp-flash) - Program allow you to program flash memory on the protocols spi, I2C, MicroWire. Supports CH341a, CH347, UsbAsp, AVRISP(LUFA), Arduino, FT232H. (today)
 - [NVIDIA/Cosmos](https://github.com/NVIDIA/Cosmos) - Cosmos is a world model development platform that consists of world foundation models, tokenizers and video processing pipeline to accelerate the development of Physical AI at Robotics &amp; AV labs.  Cosmos is purpose built for physical AI. The Cosmos repository will enable end users to run the Cosmos models, run inference scripts and generate videos. (1 week ago)
 - [hku-mars/LiDAR_IMU_Init](https://github.com/hku-mars/LiDAR_IMU_Init) - [IROS2022] Robust Real-time LiDAR-inertial Initialization Method. (2 weeks ago)
 - [Crazepony/crazepony-firmware-rtthread](https://github.com/Crazepony/crazepony-firmware-rtthread) - 飞控固件移植到rtthread (2 weeks ago)
@@ -51,7 +52,6 @@
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm (1 month ago)
 - [cwida/ALP](https://github.com/cwida/ALP) - ALP: Adaptive Lossless Floating-Point Compression (1 month ago)
 - [panagiotisl/chimp](https://github.com/panagiotisl/chimp) - Chimp: Efficient Lossless Floating Point Compression for Time Series Databases (1 month ago)
-- [MrBean818/gorilla-paper-encode](https://github.com/MrBean818/gorilla-paper-encode) - gorilla paper encode in C language  (1 month ago)
 
 #### 💬 Feedback
 
