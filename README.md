@@ -42,15 +42,15 @@
 
 #### ⭐ Recent Stars
 
-- [platomav/MCExtractor](https://github.com/platomav/MCExtractor) - Intel, AMD, VIA &amp; Freescale Microcode Extraction Tool (today)
-- [platomav/CPUMicrocodes](https://github.com/platomav/CPUMicrocodes) - Intel, AMD, VIA &amp; Freescale CPU Microcode Repositories (today)
-- [intel/Intel-Linux-Processor-Microcode-Data-Files](https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files) -  (today)
-- [nofeletru/UsbAsp-flash](https://github.com/nofeletru/UsbAsp-flash) - Program allow you to program flash memory on the protocols spi, I2C, MicroWire. Supports CH341a, CH347, UsbAsp, AVRISP(LUFA), Arduino, FT232H. (4 days ago)
+- [platomav/MCExtractor](https://github.com/platomav/MCExtractor) - Intel, AMD, VIA &amp; Freescale Microcode Extraction Tool (1 day ago)
+- [platomav/CPUMicrocodes](https://github.com/platomav/CPUMicrocodes) - Intel, AMD, VIA &amp; Freescale CPU Microcode Repositories (1 day ago)
+- [intel/Intel-Linux-Processor-Microcode-Data-Files](https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files) -  (1 day ago)
+- [nofeletru/UsbAsp-flash](https://github.com/nofeletru/UsbAsp-flash) - Program allow you to program flash memory on the protocols spi, I2C, MicroWire. Supports CH341a, CH347, UsbAsp, AVRISP(LUFA), Arduino, FT232H. (5 days ago)
 - [NVIDIA/Cosmos](https://github.com/NVIDIA/Cosmos) - Cosmos is a world model development platform that consists of world foundation models, tokenizers and video processing pipeline to accelerate the development of Physical AI at Robotics &amp; AV labs.  Cosmos is purpose built for physical AI. The Cosmos repository will enable end users to run the Cosmos models, run inference scripts and generate videos. (1 week ago)
 - [hku-mars/LiDAR_IMU_Init](https://github.com/hku-mars/LiDAR_IMU_Init) - [IROS2022] Robust Real-time LiDAR-inertial Initialization Method. (3 weeks ago)
 - [Crazepony/crazepony-firmware-rtthread](https://github.com/Crazepony/crazepony-firmware-rtthread) - 飞控固件移植到rtthread (3 weeks ago)
 - [HKUST-Aerial-Robotics/Teach-Repeat-Replan](https://github.com/HKUST-Aerial-Robotics/Teach-Repeat-Replan) - Teach-Repeat-Replan: A Complete and Robust System for Aggressive Flight in Complex Environments (3 weeks ago)
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (3 weeks ago)
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (4 weeks ago)
 - [BoringBoredom/UEFI-Editor](https://github.com/BoringBoredom/UEFI-Editor) - Aptio V UEFI Editor: an alternative to AMIBCP (4 weeks ago)
 
 #### 💬 Feedback
