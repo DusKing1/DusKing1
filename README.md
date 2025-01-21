@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [XXLiu-HNU/visualize_uav_trajectory](https://github.com/XXLiu-HNU/visualize_uav_trajectory) - Visualize the trajectory of the drone in the video (today)
 - [platomav/MCExtractor](https://github.com/platomav/MCExtractor) - Intel, AMD, VIA &amp; Freescale Microcode Extraction Tool (1 day ago)
 - [platomav/CPUMicrocodes](https://github.com/platomav/CPUMicrocodes) - Intel, AMD, VIA &amp; Freescale CPU Microcode Repositories (1 day ago)
 - [intel/Intel-Linux-Processor-Microcode-Data-Files](https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files) -  (1 day ago)
@@ -51,7 +52,6 @@
 - [Crazepony/crazepony-firmware-rtthread](https://github.com/Crazepony/crazepony-firmware-rtthread) - 飞控固件移植到rtthread (3 weeks ago)
 - [HKUST-Aerial-Robotics/Teach-Repeat-Replan](https://github.com/HKUST-Aerial-Robotics/Teach-Repeat-Replan) - Teach-Repeat-Replan: A Complete and Robust System for Aggressive Flight in Complex Environments (3 weeks ago)
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (4 weeks ago)
-- [BoringBoredom/UEFI-Editor](https://github.com/BoringBoredom/UEFI-Editor) - Aptio V UEFI Editor: an alternative to AMIBCP (4 weeks ago)
 
 #### 💬 Feedback
 
