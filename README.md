@@ -23,7 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.11.1-rc3](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.11.1-rc3), 1 day ago) - Flight Controller Firmware
+- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.11.1-rc3](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.11.1-rc3), 2 days ago) - Flight Controller Firmware
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([8.0.0](https://github.com/iNavFlight/inav/releases/tag/8.0.0), 2 weeks ago) - INAV: Navigation-enabled flight control software
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc4](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc4), 2 years ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 
@@ -42,12 +42,12 @@
 
 #### ⭐ Recent Stars
 
-- [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications. (3 days ago)
+- [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications. (4 days ago)
 - [acoooder/aliyunpanshare](https://github.com/acoooder/aliyunpanshare) - 阿里云盘、夸克网盘影视资源分享，每日发布最新电视剧、综艺、电影资源。 (2 weeks ago)
 - [XXLiu-HNU/visualize_uav_trajectory](https://github.com/XXLiu-HNU/visualize_uav_trajectory) - Visualize the trajectory of the drone in the video (2 weeks ago)
-- [platomav/MCExtractor](https://github.com/platomav/MCExtractor) - Intel, AMD, VIA &amp; Freescale Microcode Extraction Tool (2 weeks ago)
-- [platomav/CPUMicrocodes](https://github.com/platomav/CPUMicrocodes) - Intel, AMD, VIA &amp; Freescale CPU Microcode Repositories (2 weeks ago)
-- [intel/Intel-Linux-Processor-Microcode-Data-Files](https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files) -  (2 weeks ago)
+- [platomav/MCExtractor](https://github.com/platomav/MCExtractor) - Intel, AMD, VIA &amp; Freescale Microcode Extraction Tool (3 weeks ago)
+- [platomav/CPUMicrocodes](https://github.com/platomav/CPUMicrocodes) - Intel, AMD, VIA &amp; Freescale CPU Microcode Repositories (3 weeks ago)
+- [intel/Intel-Linux-Processor-Microcode-Data-Files](https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files) -  (3 weeks ago)
 - [nofeletru/UsbAsp-flash](https://github.com/nofeletru/UsbAsp-flash) - Program allow you to program flash memory on the protocols spi, I2C, MicroWire. Supports CH341a, CH347, UsbAsp, AVRISP(LUFA), Arduino, FT232H. (3 weeks ago)
 - [NVIDIA/Cosmos](https://github.com/NVIDIA/Cosmos) - Cosmos is a world model development platform that consists of world foundation models, tokenizers and video processing pipeline to accelerate the development of Physical AI at Robotics &amp; AV labs.  Cosmos is purpose built for physical AI. The Cosmos repository will enable end users to run the Cosmos models, run inference scripts and generate videos. (1 month ago)
 - [hku-mars/LiDAR_IMU_Init](https://github.com/hku-mars/LiDAR_IMU_Init) - [IROS2022] Robust Real-time LiDAR-inertial Initialization Method. (1 month ago)
