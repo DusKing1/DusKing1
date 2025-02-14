@@ -23,17 +23,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.11.1-rc3](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.11.1-rc3), 5 days ago) - Flight Controller Firmware
+- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.11.1-rc3](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.11.1-rc3), 6 days ago) - Flight Controller Firmware
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([8.0.0](https://github.com/iNavFlight/inav/releases/tag/8.0.0), 3 weeks ago) - INAV: Navigation-enabled flight control software
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc4](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc4), 2 years ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 
 #### 🔨 My recent Pull Requests
 
 - [Add support for SKYSTARSF405WING target](https://github.com/iNavFlight/inav/pull/10561) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (1 month ago)
-- [Add support for SKYSTARSSF405AIO target](https://github.com/iNavFlight/inav/pull/10469) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (2 months ago)
+- [Add support for SKYSTARSSF405AIO target](https://github.com/iNavFlight/inav/pull/10469) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (3 months ago)
 - [Fixed scale factor for ST&#39;s IMUs](https://github.com/flightng/atbetaflight/pull/63) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (10 months ago)
 - [Fix (?) i-term error rotation](https://github.com/BossHobby/QUICKSILVER/pull/115) on [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) (10 months ago)
-- [修复：修复了SD卡demo中未关闭设备的错误](https://github.com/RT-Thread-packages/peripheral-sample/pull/32) on [RT-Thread-packages/peripheral-sample](https://github.com/RT-Thread-packages/peripheral-sample) (10 months ago)
+- [修复：修复了SD卡demo中未关闭设备的错误](https://github.com/RT-Thread-packages/peripheral-sample/pull/32) on [RT-Thread-packages/peripheral-sample](https://github.com/RT-Thread-packages/peripheral-sample) (11 months ago)
 - [Add support for SKYSTARSF722HDPRO](https://github.com/iNavFlight/inav/pull/9630) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (1 year ago)
 - [Add ICM42605 driver for SKYSTARSF405HD](https://github.com/iNavFlight/inav/pull/9370) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (1 year ago)
 - [add icm42605 driver for SKYSTARSF405HD](https://github.com/DusKing1/inav/pull/83) on [DusKing1/inav](https://github.com/DusKing1/inav) (1 year ago)
@@ -42,8 +42,8 @@
 
 #### ⭐ Recent Stars
 
-- [Lei-Kun/DRL-and-graph-neural-network-for-routing-problems](https://github.com/Lei-Kun/DRL-and-graph-neural-network-for-routing-problems) - This is the official code for the published paper &#39;Solve routing problems with a residual edge-graph attention neural network&#39; (today)
-- [NVIDIA-AI-IOT/jetson-generative-ai-playground](https://github.com/NVIDIA-AI-IOT/jetson-generative-ai-playground) -  (2 days ago)
+- [Lei-Kun/DRL-and-graph-neural-network-for-routing-problems](https://github.com/Lei-Kun/DRL-and-graph-neural-network-for-routing-problems) - This is the official code for the published paper &#39;Solve routing problems with a residual edge-graph attention neural network&#39; (1 day ago)
+- [NVIDIA-AI-IOT/jetson-generative-ai-playground](https://github.com/NVIDIA-AI-IOT/jetson-generative-ai-playground) -  (3 days ago)
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications. (1 week ago)
 - [acoooder/aliyunpanshare](https://github.com/acoooder/aliyunpanshare) - 阿里云盘、夸克网盘影视资源分享，每日发布最新电视剧、综艺、电影资源。 (2 weeks ago)
 - [XXLiu-HNU/visualize_uav_trajectory](https://github.com/XXLiu-HNU/visualize_uav_trajectory) - Visualize the trajectory of the drone in the video (3 weeks ago)
