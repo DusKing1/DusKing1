@@ -23,14 +23,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.11.1-rc4](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.11.1-rc4), 6 days ago) - Flight Controller Firmware
+- [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.11.1-rc4](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.11.1-rc4), 1 week ago) - Flight Controller Firmware
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([8.0.0](https://github.com/iNavFlight/inav/releases/tag/8.0.0), 1 month ago) - INAV: Navigation-enabled flight control software
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc4](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc4), 2 years ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 
 #### 🔨 My recent Pull Requests
 
-- [Fix SKYSTARSF405WING target definition](https://github.com/iNavFlight/inav/pull/10718) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (today)
-- [Add support for SKYSTARSF405WING target](https://github.com/iNavFlight/inav/pull/10561) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (1 month ago)
+- [Fix SKYSTARSF405WING target definition](https://github.com/iNavFlight/inav/pull/10718) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (1 day ago)
+- [Add support for SKYSTARSF405WING target](https://github.com/iNavFlight/inav/pull/10561) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (2 months ago)
 - [Add support for SKYSTARSSF405AIO target](https://github.com/iNavFlight/inav/pull/10469) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (3 months ago)
 - [Fixed scale factor for ST&#39;s IMUs](https://github.com/flightng/atbetaflight/pull/63) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (10 months ago)
 - [Fix (?) i-term error rotation](https://github.com/BossHobby/QUICKSILVER/pull/115) on [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) (10 months ago)
@@ -42,11 +42,11 @@
 
 #### ⭐ Recent Stars
 
-- [SnapDragonfly/jetson-fpv](https://github.com/SnapDragonfly/jetson-fpv) - fpv ground station on jetson (6 days ago)
+- [SnapDragonfly/jetson-fpv](https://github.com/SnapDragonfly/jetson-fpv) - fpv ground station on jetson (1 week ago)
 - [Lei-Kun/DRL-and-graph-neural-network-for-routing-problems](https://github.com/Lei-Kun/DRL-and-graph-neural-network-for-routing-problems) - This is the official code for the published paper &#39;Solve routing problems with a residual edge-graph attention neural network&#39; (1 week ago)
 - [NVIDIA-AI-IOT/jetson-generative-ai-playground](https://github.com/NVIDIA-AI-IOT/jetson-generative-ai-playground) -  (1 week ago)
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications. (2 weeks ago)
-- [acoooder/aliyunpanshare](https://github.com/acoooder/aliyunpanshare) - 阿里云盘、夸克网盘影视资源分享，每日发布最新电视剧、综艺、电影资源。 (3 weeks ago)
+- [acoooder/aliyunpanshare](https://github.com/acoooder/aliyunpanshare) - 阿里云盘、夸克网盘影视资源分享，每日发布最新电视剧、综艺、电影资源。 (4 weeks ago)
 - [XXLiu-HNU/visualize_uav_trajectory](https://github.com/XXLiu-HNU/visualize_uav_trajectory) - Visualize the trajectory of the drone in the video (1 month ago)
 - [platomav/MCExtractor](https://github.com/platomav/MCExtractor) - Intel, AMD, VIA &amp; Freescale Microcode Extraction Tool (1 month ago)
 - [platomav/CPUMicrocodes](https://github.com/platomav/CPUMicrocodes) - Intel, AMD, VIA &amp; Freescale CPU Microcode Repositories (1 month ago)
