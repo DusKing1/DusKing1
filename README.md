@@ -23,7 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([8.0.1-RC1](https://github.com/iNavFlight/inav/releases/tag/8.0.1-RC1), 1 week ago) - INAV: Navigation-enabled flight control software
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([8.0.1-RC1](https://github.com/iNavFlight/inav/releases/tag/8.0.1-RC1), 2 weeks ago) - INAV: Navigation-enabled flight control software
 - [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.11.1-rc4](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.11.1-rc4), 3 weeks ago) - Flight Controller Firmware
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc4](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc4), 2 years ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 
@@ -44,7 +44,7 @@
 
 - [SnapDragonfly/jetson-fpv](https://github.com/SnapDragonfly/jetson-fpv) - First Person View of Flying with jetson (3 weeks ago)
 - [Lei-Kun/DRL-and-graph-neural-network-for-routing-problems](https://github.com/Lei-Kun/DRL-and-graph-neural-network-for-routing-problems) - This is the official code for the published paper &#39;Solve routing problems with a residual edge-graph attention neural network&#39; (3 weeks ago)
-- [NVIDIA-AI-IOT/jetson-generative-ai-playground](https://github.com/NVIDIA-AI-IOT/jetson-generative-ai-playground) -  (3 weeks ago)
+- [NVIDIA-AI-IOT/jetson-generative-ai-playground](https://github.com/NVIDIA-AI-IOT/jetson-generative-ai-playground) -  (4 weeks ago)
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications. (1 month ago)
 - [acoooder/aliyunpanshare](https://github.com/acoooder/aliyunpanshare) - 阿里云盘、夸克网盘影视资源分享，每日发布最新电视剧、综艺、电影资源。 (1 month ago)
 - [XXLiu-HNU/visualize_uav_trajectory](https://github.com/XXLiu-HNU/visualize_uav_trajectory) - Visualize the trajectory of the drone in the video (1 month ago)
