@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) -  (today)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (4 days ago)
 - [SnapDragonfly/jetson-fpv](https://github.com/SnapDragonfly/jetson-fpv) - First Person View of Flying with jetson (4 weeks ago)
 - [Lei-Kun/DRL-and-graph-neural-network-for-routing-problems](https://github.com/Lei-Kun/DRL-and-graph-neural-network-for-routing-problems) - This is the official code for the published paper &#39;Solve routing problems with a residual edge-graph attention neural network&#39; (1 month ago)
@@ -51,7 +52,6 @@
 - [XXLiu-HNU/visualize_uav_trajectory](https://github.com/XXLiu-HNU/visualize_uav_trajectory) - Visualize the trajectory of the drone in the video (1 month ago)
 - [platomav/MCExtractor](https://github.com/platomav/MCExtractor) - Intel, AMD, VIA &amp; Freescale Microcode Extraction Tool (1 month ago)
 - [platomav/CPUMicrocodes](https://github.com/platomav/CPUMicrocodes) - Intel, AMD, VIA &amp; Freescale CPU Microcode Repositories (1 month ago)
-- [intel/Intel-Linux-Processor-Microcode-Data-Files](https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files) -  (1 month ago)
 
 #### 💬 Feedback
 
