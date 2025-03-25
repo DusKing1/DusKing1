@@ -23,15 +23,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([8.0.1-RC1](https://github.com/iNavFlight/inav/releases/tag/8.0.1-RC1), 3 weeks ago) - INAV: Navigation-enabled flight control software
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([8.0.1-RC1](https://github.com/iNavFlight/inav/releases/tag/8.0.1-RC1), 4 weeks ago) - INAV: Navigation-enabled flight control software
 - [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) ([v0.11.1-rc4](https://github.com/BossHobby/QUICKSILVER/releases/tag/v0.11.1-rc4), 1 month ago) - Flight Controller Firmware
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc4](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc4), 2 years ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 
 #### 🔨 My recent Pull Requests
 
-- [Add shape level inflate method](https://github.com/fontanf/packingsolver/pull/169) on [fontanf/packingsolver](https://github.com/fontanf/packingsolver) (5 days ago)
+- [Add shape level inflate method](https://github.com/fontanf/packingsolver/pull/169) on [fontanf/packingsolver](https://github.com/fontanf/packingsolver) (6 days ago)
 - [Fix SKYSTARSF405WING target definition](https://github.com/iNavFlight/inav/pull/10718) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (1 month ago)
-- [Add support for SKYSTARSF405WING target](https://github.com/iNavFlight/inav/pull/10561) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (2 months ago)
+- [Add support for SKYSTARSF405WING target](https://github.com/iNavFlight/inav/pull/10561) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (3 months ago)
 - [Add support for SKYSTARSSF405AIO target](https://github.com/iNavFlight/inav/pull/10469) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (4 months ago)
 - [Fixed scale factor for ST&#39;s IMUs](https://github.com/flightng/atbetaflight/pull/63) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (11 months ago)
 - [Fix (?) i-term error rotation](https://github.com/BossHobby/QUICKSILVER/pull/115) on [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) (11 months ago)
@@ -42,10 +42,10 @@
 
 #### ⭐ Recent Stars
 
-- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win) (today)
-- [ZJU-FAST-Lab/Primitive-Planner](https://github.com/ZJU-FAST-Lab/Primitive-Planner) - Primitive-Swarm: An Ultra-lightweight and Scalable Planner for Large-scale Aerial Swarms (1 day ago)
-- [AngusJohnson/Clipper2](https://github.com/AngusJohnson/Clipper2) - Polygon Clipping and Offsetting - C&#43;&#43;, C# and Delphi (5 days ago)
-- [fontanf/packingsolver](https://github.com/fontanf/packingsolver) - A solver for (geometrical) packing problems (6 days ago)
+- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win) (1 day ago)
+- [ZJU-FAST-Lab/Primitive-Planner](https://github.com/ZJU-FAST-Lab/Primitive-Planner) - Primitive-Swarm: An Ultra-lightweight and Scalable Planner for Large-scale Aerial Swarms (2 days ago)
+- [AngusJohnson/Clipper2](https://github.com/AngusJohnson/Clipper2) - Polygon Clipping and Offsetting - C&#43;&#43;, C# and Delphi (6 days ago)
+- [fontanf/packingsolver](https://github.com/fontanf/packingsolver) - A solver for (geometrical) packing problems (1 week ago)
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) -  (1 week ago)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (1 week ago)
 - [SnapDragonfly/jetson-fpv](https://github.com/SnapDragonfly/jetson-fpv) - First Person View of Flying with jetson (1 month ago)
