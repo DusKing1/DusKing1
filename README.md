@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra (today)
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win) (2 days ago)
 - [ZJU-FAST-Lab/Primitive-Planner](https://github.com/ZJU-FAST-Lab/Primitive-Planner) - Primitive-Swarm: An Ultra-lightweight and Scalable Planner for Large-scale Aerial Swarms (3 days ago)
 - [AngusJohnson/Clipper2](https://github.com/AngusJohnson/Clipper2) - Polygon Clipping and Offsetting - C&#43;&#43;, C# and Delphi (1 week ago)
@@ -51,7 +52,6 @@
 - [SnapDragonfly/jetson-fpv](https://github.com/SnapDragonfly/jetson-fpv) - First Person View of Flying with jetson (1 month ago)
 - [Lei-Kun/DRL-and-graph-neural-network-for-routing-problems](https://github.com/Lei-Kun/DRL-and-graph-neural-network-for-routing-problems) - This is the official code for the published paper &#39;Solve routing problems with a residual edge-graph attention neural network&#39; (1 month ago)
 - [NVIDIA-AI-IOT/jetson-generative-ai-playground](https://github.com/NVIDIA-AI-IOT/jetson-generative-ai-playground) -  (1 month ago)
-- [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications. (1 month ago)
 
 #### 💬 Feedback
 
