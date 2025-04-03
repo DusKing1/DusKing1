@@ -24,13 +24,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([8.0.1](https://github.com/iNavFlight/inav/releases/tag/8.0.1), 5 days ago) - INAV: Navigation-enabled flight control software
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([8.0.1](https://github.com/iNavFlight/inav/releases/tag/8.0.1), 6 days ago) - INAV: Navigation-enabled flight control software
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) ([v1.1.0](https://github.com/fontanf/packingsolver/releases/tag/v1.1.0), 2 years ago) - A solver for (geometrical) packing problems
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc4](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc4), 2 years ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 
 #### 🔨 My recent Pull Requests
 
-- [Allow compute_intersections supports circular arcs](https://github.com/fontanf/packingsolver/pull/185) on [fontanf/packingsolver](https://github.com/fontanf/packingsolver) (2 days ago)
+- [Allow compute_intersections supports circular arcs](https://github.com/fontanf/packingsolver/pull/185) on [fontanf/packingsolver](https://github.com/fontanf/packingsolver) (3 days ago)
 - [Add shape level inflate method](https://github.com/fontanf/packingsolver/pull/169) on [fontanf/packingsolver](https://github.com/fontanf/packingsolver) (2 weeks ago)
 - [Fix SKYSTARSF405WING target definition](https://github.com/iNavFlight/inav/pull/10718) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (1 month ago)
 - [Add support for SKYSTARSF405WING target](https://github.com/iNavFlight/inav/pull/10561) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (3 months ago)
@@ -49,7 +49,7 @@
 - [AngusJohnson/Clipper2](https://github.com/AngusJohnson/Clipper2) - Polygon Clipping and Offsetting - C&#43;&#43;, C# and Delphi (2 weeks ago)
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) - A solver for (geometrical) packing problems (2 weeks ago)
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) -  (2 weeks ago)
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (2 weeks ago)
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (3 weeks ago)
 - [SnapDragonfly/jetson-fpv](https://github.com/SnapDragonfly/jetson-fpv) - First Person View of Flying with jetson (1 month ago)
 - [Lei-Kun/DRL-and-graph-neural-network-for-routing-problems](https://github.com/Lei-Kun/DRL-and-graph-neural-network-for-routing-problems) - This is the official code for the published paper &#39;Solve routing problems with a residual edge-graph attention neural network&#39; (1 month ago)
 - [NVIDIA-AI-IOT/jetson-generative-ai-playground](https://github.com/NVIDIA-AI-IOT/jetson-generative-ai-playground) -  (1 month ago)
