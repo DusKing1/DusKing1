@@ -43,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [fontanf/shape](https://github.com/fontanf/shape) - Geometry library (today)
 - [nerdCopter/rust_blackbox_analyzer](https://github.com/nerdCopter/rust_blackbox_analyzer) - A.I. experiment to read BBL (1 day ago)
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra (1 week ago)
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win) (1 week ago)
@@ -52,7 +53,6 @@
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) -  (2 weeks ago)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (3 weeks ago)
 - [SnapDragonfly/jetson-fpv](https://github.com/SnapDragonfly/jetson-fpv) - First Person View of Flying with jetson (1 month ago)
-- [Lei-Kun/DRL-and-graph-neural-network-for-routing-problems](https://github.com/Lei-Kun/DRL-and-graph-neural-network-for-routing-problems) - This is the official code for the published paper &#39;Solve routing problems with a residual edge-graph attention neural network&#39; (1 month ago)
 
 #### 💬 Feedback
 
