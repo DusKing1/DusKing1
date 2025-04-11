@@ -23,7 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([8.0.1](https://github.com/iNavFlight/inav/releases/tag/8.0.1), 1 week ago) - INAV: Navigation-enabled flight control software
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([8.0.1](https://github.com/iNavFlight/inav/releases/tag/8.0.1), 2 weeks ago) - INAV: Navigation-enabled flight control software
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) ([v1.1.0](https://github.com/fontanf/packingsolver/releases/tag/v1.1.0), 2 years ago) - A solver for (geometrical) packing problems
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) ([v4.3.2-rc4](https://github.com/flightng/atbetaflight/releases/tag/v4.3.2-rc4), 2 years ago) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试
 
@@ -42,8 +42,8 @@
 
 #### ⭐ Recent Stars
 
-- [fontanf/shape](https://github.com/fontanf/shape) - Geometry library (5 days ago)
-- [nerdCopter/rust_blackbox_analyzer](https://github.com/nerdCopter/rust_blackbox_analyzer) - A.I. experiment to read BBL (6 days ago)
+- [fontanf/shape](https://github.com/fontanf/shape) - Geometry library (6 days ago)
+- [nerdCopter/rust_blackbox_analyzer](https://github.com/nerdCopter/rust_blackbox_analyzer) - A.I. experiment to read BBL (1 week ago)
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra (2 weeks ago)
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win) (2 weeks ago)
 - [ZJU-FAST-Lab/Primitive-Planner](https://github.com/ZJU-FAST-Lab/Primitive-Planner) - Primitive-Swarm: An Ultra-lightweight and Scalable Planner for Large-scale Aerial Swarms (2 weeks ago)
