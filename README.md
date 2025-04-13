@@ -46,7 +46,7 @@
 - [nerdCopter/rust_blackbox_analyzer](https://github.com/nerdCopter/rust_blackbox_analyzer) - A.I. experiment to read BBL (1 week ago)
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra (2 weeks ago)
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win) (2 weeks ago)
-- [ZJU-FAST-Lab/Primitive-Planner](https://github.com/ZJU-FAST-Lab/Primitive-Planner) - Primitive-Swarm: An Ultra-lightweight and Scalable Planner for Large-scale Aerial Swarms (2 weeks ago)
+- [ZJU-FAST-Lab/Primitive-Planner](https://github.com/ZJU-FAST-Lab/Primitive-Planner) - Primitive-Swarm: An Ultra-lightweight and Scalable Planner for Large-scale Aerial Swarms (3 weeks ago)
 - [AngusJohnson/Clipper2](https://github.com/AngusJohnson/Clipper2) - Polygon Clipping and Offsetting - C&#43;&#43;, C# and Delphi (3 weeks ago)
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) - A solver for (geometrical) packing problems (3 weeks ago)
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) -  (3 weeks ago)
