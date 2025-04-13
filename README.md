@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [liangkangnan/tinyriscv](https://github.com/liangkangnan/tinyriscv) - A very simple and easy to understand RISC-V core. (today)
 - [fontanf/shape](https://github.com/fontanf/shape) - Geometry library (1 week ago)
 - [nerdCopter/rust_blackbox_analyzer](https://github.com/nerdCopter/rust_blackbox_analyzer) - A.I. experiment to read BBL (1 week ago)
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra (2 weeks ago)
@@ -51,7 +52,6 @@
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) - A solver for (geometrical) packing problems (3 weeks ago)
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) -  (3 weeks ago)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (1 month ago)
-- [SnapDragonfly/jetson-fpv](https://github.com/SnapDragonfly/jetson-fpv) - First Person View of Flying with jetson (1 month ago)
 
 #### 💬 Feedback
 
