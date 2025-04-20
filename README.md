@@ -4,7 +4,7 @@
 
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) - A solver for (geometrical) packing problems (2 weeks ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (3 weeks ago)
-- [DusKing1/wskey](https://github.com/DusKing1/wskey) -  (3 months ago)
+- [DusKing1/wskey](https://github.com/DusKing1/wskey) -  (4 months ago)
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (9 months ago)
 - [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (11 months ago)
 
@@ -42,16 +42,16 @@
 
 #### ⭐ Recent Stars
 
-- [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training (3 days ago)
-- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. (4 days ago)
-- [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming. (6 days ago)
-- [devbisme/skidl](https://github.com/devbisme/skidl) - SKiDL is a module that extends Python with the ability to design electronic circuits. (6 days ago)
-- [liangkangnan/tinyriscv](https://github.com/liangkangnan/tinyriscv) - A very simple and easy to understand RISC-V core. (6 days ago)
+- [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training (4 days ago)
+- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. (5 days ago)
+- [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming. (1 week ago)
+- [devbisme/skidl](https://github.com/devbisme/skidl) - SKiDL is a module that extends Python with the ability to design electronic circuits. (1 week ago)
+- [liangkangnan/tinyriscv](https://github.com/liangkangnan/tinyriscv) - A very simple and easy to understand RISC-V core. (1 week ago)
 - [fontanf/shape](https://github.com/fontanf/shape) - Geometry library (2 weeks ago)
 - [nerdCopter/rust_blackbox_analyzer](https://github.com/nerdCopter/rust_blackbox_analyzer) - A.I. experiment to read BBL (2 weeks ago)
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra (3 weeks ago)
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win) (3 weeks ago)
-- [ZJU-FAST-Lab/Primitive-Planner](https://github.com/ZJU-FAST-Lab/Primitive-Planner) - Primitive-Swarm: An Ultra-lightweight and Scalable Planner for Large-scale Aerial Swarms (3 weeks ago)
+- [ZJU-FAST-Lab/Primitive-Planner](https://github.com/ZJU-FAST-Lab/Primitive-Planner) - Primitive-Swarm: An Ultra-lightweight and Scalable Planner for Large-scale Aerial Swarms (4 weeks ago)
 
 #### 💬 Feedback
 
