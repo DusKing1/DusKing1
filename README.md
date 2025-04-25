@@ -43,6 +43,8 @@
 
 #### ⭐ Recent Stars
 
+- [abbodi1406/C2R-R2V-AIO](https://github.com/abbodi1406/C2R-R2V-AIO) - Office Click-to-Run Retail-to-Volume AIO (today)
+- [liaokongVFX/MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide) - Model Context Protocol(MCP) 编程极速入门 (today)
 - [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (today)
 - [worryzyy/HowToCook-mcp](https://github.com/worryzyy/HowToCook-mcp) - 基于Anduin2017 / HowToCook （程序员在家做饭指南）的mcp server (today)
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - SYSTEM PROMPT TRANSPARENCY FOR ALL - CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, WINDSURF, DEVIN, REPLIT, AND MORE! (2 days ago)
@@ -51,8 +53,6 @@
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. (1 week ago)
 - [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming. (1 week ago)
 - [devbisme/skidl](https://github.com/devbisme/skidl) - SKiDL is a module that extends Python with the ability to design electronic circuits. (1 week ago)
-- [liangkangnan/tinyriscv](https://github.com/liangkangnan/tinyriscv) - A very simple and easy to understand RISC-V core. (1 week ago)
-- [fontanf/shape](https://github.com/fontanf/shape) - Geometry library (2 weeks ago)
 
 #### 💬 Feedback
 
