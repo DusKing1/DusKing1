@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (today)
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) - A solver for (geometrical) packing problems (3 weeks ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (1 month ago)
 - [DusKing1/wskey](https://github.com/DusKing1/wskey) -  (4 months ago)
@@ -10,6 +11,7 @@
 
 #### 🌱 My latest projects
 
+- [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) - 
 - [DusKing1/wskey](https://github.com/DusKing1/wskey) - 
 - [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation
 - [DusKing1/glados-qinglong](https://github.com/DusKing1/glados-qinglong) - 自己用的glados签到本
@@ -19,7 +21,6 @@
 - [DusKing1/sim-key](https://github.com/DusKing1/sim-key) - simulated keyboard on esp8266 nodemcu v3
 - [DusKing1/draw.io](https://github.com/DusKing1/draw.io) - 
 - [DusKing1/helloworld-rust](https://github.com/DusKing1/helloworld-rust) - Rustlang running on a custom F103 dev board
-- [DusKing1/bf-src-main-check](https://github.com/DusKing1/bf-src-main-check) - 
 
 #### 🔭 Latest releases I've contributed to
 
@@ -42,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (today)
 - [worryzyy/HowToCook-mcp](https://github.com/worryzyy/HowToCook-mcp) - 基于Anduin2017 / HowToCook （程序员在家做饭指南）的mcp server (today)
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - SYSTEM PROMPT TRANSPARENCY FOR ALL - CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, WINDSURF, DEVIN, REPLIT, AND MORE! (2 days ago)
 - [unibeck/uptime-monitor](https://github.com/unibeck/uptime-monitor) - A uptime monitoring service that is easy and cheap to run at scale. Create endpoint checks for uptime, latency, and status code. Supports OpsGenie for alerts. (4 days ago)
@@ -51,7 +53,6 @@
 - [devbisme/skidl](https://github.com/devbisme/skidl) - SKiDL is a module that extends Python with the ability to design electronic circuits. (1 week ago)
 - [liangkangnan/tinyriscv](https://github.com/liangkangnan/tinyriscv) - A very simple and easy to understand RISC-V core. (1 week ago)
 - [fontanf/shape](https://github.com/fontanf/shape) - Geometry library (2 weeks ago)
-- [nerdCopter/rust_blackbox_analyzer](https://github.com/nerdCopter/rust_blackbox_analyzer) - A.I. experiment to read BBL (3 weeks ago)
 
 #### 💬 Feedback
 
