@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only). (5 days ago)
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only). (6 days ago)
 - [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (1 week ago)
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) - A solver for (geometrical) packing problems (1 month ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (1 month ago)
 - [DusKing1/wskey](https://github.com/DusKing1/wskey) -  (4 months ago)
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (10 months ago)
-- [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (11 months ago)
+- [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -45,8 +45,8 @@
 
 #### ⭐ Recent Stars
 
-- [LSTM-Kirigaya/openmcp-client](https://github.com/LSTM-Kirigaya/openmcp-client) - A MCP Client for MCP/OpenMCP (2 days ago)
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent &amp; VSCode Agent (And other Open Sourced) System Prompts, Tools &amp; AI Models. (3 days ago)
+- [LSTM-Kirigaya/openmcp-client](https://github.com/LSTM-Kirigaya/openmcp-client) - A MCP Client for MCP/OpenMCP (3 days ago)
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent &amp; VSCode Agent (And other Open Sourced) System Prompts, Tools &amp; AI Models. (4 days ago)
 - [abbodi1406/C2R-R2V-AIO](https://github.com/abbodi1406/C2R-R2V-AIO) - Office Click-to-Run Retail-to-Volume AIO (1 week ago)
 - [liaokongVFX/MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide) - Model Context Protocol(MCP) 编程极速入门 (1 week ago)
 - [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (1 week ago)
