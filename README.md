@@ -8,7 +8,6 @@
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (1 month ago)
 - [DusKing1/wskey](https://github.com/DusKing1/wskey) -  (4 months ago)
 - [flightng/atbetaflight](https://github.com/flightng/atbetaflight) - atbetaflight 是一个基于betaflight 4.3  移植至Artery Tek AT32F435/7 的一个分支。这是我们的第一个尝试 (10 months ago)
-- [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation (1 year ago)
 
 #### 🌱 My latest projects
 
