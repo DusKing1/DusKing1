@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only). (2 weeks ago)
-- [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (2 weeks ago)
+- [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (3 weeks ago)
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) - A solver for (geometrical) packing problems (1 month ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (1 month ago)
 - [DusKing1/wskey](https://github.com/DusKing1/wskey) -  (4 months ago)
@@ -44,14 +44,14 @@
 
 #### ⭐ Recent Stars
 
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (4 days ago)
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (5 days ago)
 - [onecloner/mentat](https://github.com/onecloner/mentat) - Mentat - The AI Coding Assistant  (1 week ago)
 - [LSTM-Kirigaya/openmcp-client](https://github.com/LSTM-Kirigaya/openmcp-client) - A MCP Client for MCP/OpenMCP (2 weeks ago)
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser &amp; Trae AI (And other Open Sourced) System Prompts, Tools &amp; AI Models. (2 weeks ago)
-- [abbodi1406/C2R-R2V-AIO](https://github.com/abbodi1406/C2R-R2V-AIO) - Office Click-to-Run Retail-to-Volume AIO (2 weeks ago)
-- [liaokongVFX/MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide) - Model Context Protocol(MCP) 编程极速入门 (2 weeks ago)
-- [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (2 weeks ago)
-- [worryzyy/HowToCook-mcp](https://github.com/worryzyy/HowToCook-mcp) - 基于Anduin2017 / HowToCook （程序员在家做饭指南）的mcp server (2 weeks ago)
+- [abbodi1406/C2R-R2V-AIO](https://github.com/abbodi1406/C2R-R2V-AIO) - Office Click-to-Run Retail-to-Volume AIO (3 weeks ago)
+- [liaokongVFX/MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide) - Model Context Protocol(MCP) 编程极速入门 (3 weeks ago)
+- [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (3 weeks ago)
+- [worryzyy/HowToCook-mcp](https://github.com/worryzyy/HowToCook-mcp) - 基于Anduin2017 / HowToCook （程序员在家做饭指南）的mcp server (3 weeks ago)
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - SYSTEM PROMPT TRANSPARENCY FOR ALL - CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, WINDSURF, DEVIN, REPLIT, AND MORE! (3 weeks ago)
 - [unibeck/solstatus](https://github.com/unibeck/solstatus) - An uptime monitoring service that is easy and cheap to run at scale. Create endpoint checks for uptime, latency, and status code. Supports OpsGenie for alerts. (3 weeks ago)
 
