@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [voideditor/void](https://github.com/voideditor/void) -  (1 week ago)
+- [voideditor/void](https://github.com/voideditor/void) -  (2 weeks ago)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (3 weeks ago)
 - [onecloner/mentat](https://github.com/onecloner/mentat) - Mentat - The AI Coding Assistant  (3 weeks ago)
 - [LSTM-Kirigaya/openmcp-client](https://github.com/LSTM-Kirigaya/openmcp-client) - A MCP Client for MCP/OpenMCP (1 month ago)
