@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (today)
+- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (1 day ago)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only). (1 month ago)
 - [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (1 month ago)
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) - A solver for (geometrical) packing problems (2 months ago)
@@ -32,7 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add support for SKYSTARSF405V2](https://github.com/iNavFlight/inav/pull/10884) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (1 week ago)
+- [Add support for SKYSTARSF405V2](https://github.com/iNavFlight/inav/pull/10884) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (2 weeks ago)
 - [添加python版的mcp插件](https://github.com/Anduin2017/HowToCook/pull/1566) on [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) (1 month ago)
 - [Allow compute_intersections supports circular arcs](https://github.com/fontanf/packingsolver/pull/185) on [fontanf/packingsolver](https://github.com/fontanf/packingsolver) (2 months ago)
 - [Add shape level inflate method](https://github.com/fontanf/packingsolver/pull/169) on [fontanf/packingsolver](https://github.com/fontanf/packingsolver) (2 months ago)
@@ -47,7 +47,7 @@
 
 - [voideditor/void](https://github.com/voideditor/void) -  (2 weeks ago)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (3 weeks ago)
-- [onecloner/mentat](https://github.com/onecloner/mentat) - Mentat - The AI Coding Assistant  (3 weeks ago)
+- [onecloner/mentat](https://github.com/onecloner/mentat) - Mentat - The AI Coding Assistant  (4 weeks ago)
 - [LSTM-Kirigaya/openmcp-client](https://github.com/LSTM-Kirigaya/openmcp-client) - A MCP Client for MCP/OpenMCP (1 month ago)
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser &amp; Trae AI (And other Open Sourced) System Prompts, Tools &amp; AI Models. (1 month ago)
 - [abbodi1406/C2R-R2V-AIO](https://github.com/abbodi1406/C2R-R2V-AIO) - Office Click-to-Run Retail-to-Volume AIO (1 month ago)
