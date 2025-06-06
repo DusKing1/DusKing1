@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [chipmuenk/pyfda](https://github.com/chipmuenk/pyfda) - Python Filter Design Analysis Tool (today)
 - [voideditor/void](https://github.com/voideditor/void) -  (2 weeks ago)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (3 weeks ago)
 - [onecloner/mentat](https://github.com/onecloner/mentat) - Mentat - The AI Coding Assistant  (4 weeks ago)
@@ -54,7 +55,6 @@
 - [liaokongVFX/MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide) - Model Context Protocol(MCP) 编程极速入门 (1 month ago)
 - [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (1 month ago)
 - [worryzyy/HowToCook-mcp](https://github.com/worryzyy/HowToCook-mcp) - 基于Anduin2017 / HowToCook （程序员在家做饭指南）的mcp server (1 month ago)
-- [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - SYSTEM PROMPT TRANSPARENCY FOR ALL - CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, WINDSURF, DEVIN, REPLIT, AND MORE! (1 month ago)
 
 #### 💬 Feedback
 
