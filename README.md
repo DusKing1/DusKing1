@@ -45,9 +45,9 @@
 
 #### ⭐ Recent Stars
 
-- [neoxic/ESCape32](https://github.com/neoxic/ESCape32) - BLDC motor control firmware for 32-bit ESCs (1 day ago)
-- [flightng/configurator](https://github.com/flightng/configurator) -  (3 days ago)
-- [chipmuenk/pyfda](https://github.com/chipmuenk/pyfda) - Python Filter Design Analysis Tool (6 days ago)
+- [neoxic/ESCape32](https://github.com/neoxic/ESCape32) - BLDC motor control firmware for 32-bit ESCs (2 days ago)
+- [flightng/configurator](https://github.com/flightng/configurator) -  (4 days ago)
+- [chipmuenk/pyfda](https://github.com/chipmuenk/pyfda) - Python Filter Design Analysis Tool (1 week ago)
 - [voideditor/void](https://github.com/voideditor/void) -  (3 weeks ago)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (1 month ago)
 - [onecloner/mentat](https://github.com/onecloner/mentat) - Mentat - The AI Coding Assistant  (1 month ago)
