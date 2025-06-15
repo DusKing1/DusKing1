@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (1 day ago)
+- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (2 days ago)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only). (1 month ago)
 - [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (1 month ago)
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) - A solver for (geometrical) packing problems (2 months ago)
@@ -45,8 +45,8 @@
 
 #### ⭐ Recent Stars
 
-- [neoxic/ESCape32](https://github.com/neoxic/ESCape32) - BLDC motor control firmware for 32-bit ESCs (3 days ago)
-- [flightng/configurator](https://github.com/flightng/configurator) -  (5 days ago)
+- [neoxic/ESCape32](https://github.com/neoxic/ESCape32) - BLDC motor control firmware for 32-bit ESCs (4 days ago)
+- [flightng/configurator](https://github.com/flightng/configurator) -  (6 days ago)
 - [chipmuenk/pyfda](https://github.com/chipmuenk/pyfda) - Python Filter Design Analysis Tool (1 week ago)
 - [voideditor/void](https://github.com/voideditor/void) -  (3 weeks ago)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (1 month ago)
