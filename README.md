@@ -37,7 +37,7 @@
 - [Allow compute_intersections supports circular arcs](https://github.com/fontanf/packingsolver/pull/185) on [fontanf/packingsolver](https://github.com/fontanf/packingsolver) (2 months ago)
 - [Add shape level inflate method](https://github.com/fontanf/packingsolver/pull/169) on [fontanf/packingsolver](https://github.com/fontanf/packingsolver) (3 months ago)
 - [Fix SKYSTARSF405WING target definition](https://github.com/iNavFlight/inav/pull/10718) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (4 months ago)
-- [Add support for SKYSTARSF405WING target](https://github.com/iNavFlight/inav/pull/10561) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (5 months ago)
+- [Add support for SKYSTARSF405WING target](https://github.com/iNavFlight/inav/pull/10561) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (6 months ago)
 - [Add support for SKYSTARSSF405AIO target](https://github.com/iNavFlight/inav/pull/10469) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (7 months ago)
 - [Fixed scale factor for ST&#39;s IMUs](https://github.com/flightng/atbetaflight/pull/63) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 year ago)
 - [Fix (?) i-term error rotation](https://github.com/BossHobby/QUICKSILVER/pull/115) on [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) (1 year ago)
@@ -46,7 +46,7 @@
 #### ⭐ Recent Stars
 
 - [neoxic/ESCape32](https://github.com/neoxic/ESCape32) - BLDC motor control firmware for 32-bit ESCs (1 week ago)
-- [flightng/configurator](https://github.com/flightng/configurator) -  (1 week ago)
+- [flightng/configurator](https://github.com/flightng/configurator) -  (2 weeks ago)
 - [chipmuenk/pyfda](https://github.com/chipmuenk/pyfda) - Python Filter Design Analysis Tool (2 weeks ago)
 - [voideditor/void](https://github.com/voideditor/void) -  (1 month ago)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (1 month ago)
