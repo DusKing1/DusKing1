@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [forrest-runner/forrest](https://github.com/forrest-runner/forrest) - Run GitHub self-hosted runners in qemu VMs (today)
 - [neoxic/ESCape32](https://github.com/neoxic/ESCape32) - BLDC motor control firmware for 32-bit ESCs (1 week ago)
 - [flightng/configurator](https://github.com/flightng/configurator) -  (2 weeks ago)
 - [chipmuenk/pyfda](https://github.com/chipmuenk/pyfda) - Python Filter Design Analysis Tool (2 weeks ago)
@@ -54,7 +55,6 @@
 - [LSTM-Kirigaya/openmcp-client](https://github.com/LSTM-Kirigaya/openmcp-client) - A MCP Client for MCP/OpenMCP (1 month ago)
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser &amp; Trae AI (And other Open Sourced) System Prompts, Tools &amp; AI Models. (1 month ago)
 - [abbodi1406/C2R-R2V-AIO](https://github.com/abbodi1406/C2R-R2V-AIO) - Office Click-to-Run Retail-to-Volume AIO (1 month ago)
-- [liaokongVFX/MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide) - Model Context Protocol(MCP) 编程极速入门 (1 month ago)
 
 #### 💬 Feedback
 
