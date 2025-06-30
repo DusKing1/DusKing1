@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (today)
+- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (1 day ago)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only). (2 months ago)
 - [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (2 months ago)
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) - A solver for (geometrical) packing problems (2 months ago)
@@ -45,16 +45,16 @@
 
 #### ⭐ Recent Stars
 
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (3 days ago)
-- [OpenOSD-X/OpenOSD-X](https://github.com/OpenOSD-X/OpenOSD-X) -  (4 days ago)
-- [forrest-runner/forrest](https://github.com/forrest-runner/forrest) - Run GitHub self-hosted runners in qemu VMs (6 days ago)
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic&#39;s Interactive Prompt Engineering Tutorial (1 day ago)
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (4 days ago)
+- [OpenOSD-X/OpenOSD-X](https://github.com/OpenOSD-X/OpenOSD-X) -  (5 days ago)
+- [forrest-runner/forrest](https://github.com/forrest-runner/forrest) - Run GitHub self-hosted runners in qemu VMs (1 week ago)
 - [neoxic/ESCape32](https://github.com/neoxic/ESCape32) - BLDC motor control firmware for 32-bit ESCs (2 weeks ago)
-- [flightng/configurator](https://github.com/flightng/configurator) -  (2 weeks ago)
+- [flightng/configurator](https://github.com/flightng/configurator) -  (3 weeks ago)
 - [chipmuenk/pyfda](https://github.com/chipmuenk/pyfda) - Python Filter Design Analysis Tool (3 weeks ago)
 - [voideditor/void](https://github.com/voideditor/void) -  (1 month ago)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (1 month ago)
 - [onecloner/mentat](https://github.com/onecloner/mentat) - Mentat - The AI Coding Assistant  (1 month ago)
-- [LSTM-Kirigaya/openmcp-client](https://github.com/LSTM-Kirigaya/openmcp-client) - All in one vscode plugin for mcp developer (1 month ago)
 
 #### 💬 Feedback
 
