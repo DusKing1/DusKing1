@@ -43,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? (today)
 - [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering) - &#34;Context engineering is the delicate art and science of filling the context window with just the right information for the next step.&#34; — Andrej Karpathy. A practical, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization. (1 week ago)
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic&#39;s Interactive Prompt Engineering Tutorial (1 week ago)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (2 weeks ago)
@@ -52,7 +53,6 @@
 - [flightng/configurator](https://github.com/flightng/configurator) -  (1 month ago)
 - [chipmuenk/pyfda](https://github.com/chipmuenk/pyfda) - Python Filter Design Analysis Tool (1 month ago)
 - [voideditor/void](https://github.com/voideditor/void) -  (1 month ago)
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (2 months ago)
 
 #### 💬 Feedback
 
