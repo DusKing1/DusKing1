@@ -43,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [Dyyt587/all_pid](https://github.com/Dyyt587/all_pid) - this is a powerful pid which is include  (today)
 - [jtang613/GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP) - An MCP extension for Ghidra (1 week ago)
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? (1 week ago)
 - [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering) - &#34;Context engineering is the delicate art and science of filling the context window with just the right information for the next step.&#34; — Andrej Karpathy. A frontier, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization. (2 weeks ago)
@@ -52,7 +53,6 @@
 - [forrest-runner/forrest](https://github.com/forrest-runner/forrest) - Run GitHub self-hosted runners in qemu VMs (4 weeks ago)
 - [neoxic/ESCape32](https://github.com/neoxic/ESCape32) - BLDC motor control firmware for 32-bit ESCs (1 month ago)
 - [flightng/configurator](https://github.com/flightng/configurator) -  (1 month ago)
-- [chipmuenk/pyfda](https://github.com/chipmuenk/pyfda) - Python Filter Design Analysis Tool (1 month ago)
 
 #### 💬 Feedback
 
