@@ -35,7 +35,7 @@
 - [Allow compute_intersections supports circular arcs](https://github.com/fontanf/packingsolver/pull/185) on [fontanf/packingsolver](https://github.com/fontanf/packingsolver) (3 months ago)
 - [Add shape level inflate method](https://github.com/fontanf/packingsolver/pull/169) on [fontanf/packingsolver](https://github.com/fontanf/packingsolver) (4 months ago)
 - [Fix SKYSTARSF405WING target definition](https://github.com/iNavFlight/inav/pull/10718) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (5 months ago)
-- [Add support for SKYSTARSF405WING target](https://github.com/iNavFlight/inav/pull/10561) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (6 months ago)
+- [Add support for SKYSTARSF405WING target](https://github.com/iNavFlight/inav/pull/10561) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (7 months ago)
 - [Add support for SKYSTARSSF405AIO target](https://github.com/iNavFlight/inav/pull/10469) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (8 months ago)
 - [Fixed scale factor for ST&#39;s IMUs](https://github.com/flightng/atbetaflight/pull/63) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (1 year ago)
 - [Fix (?) i-term error rotation](https://github.com/BossHobby/QUICKSILVER/pull/115) on [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) (1 year ago)
@@ -43,14 +43,14 @@
 
 #### ⭐ Recent Stars
 
-- [Dyyt587/all_pid](https://github.com/Dyyt587/all_pid) - this is a powerful pid which is include  (1 day ago)
+- [Dyyt587/all_pid](https://github.com/Dyyt587/all_pid) - this is a powerful pid which is include  (2 days ago)
 - [jtang613/GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP) - An MCP extension for Ghidra (1 week ago)
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? (1 week ago)
-- [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering) - &#34;Context engineering is the delicate art and science of filling the context window with just the right information for the next step.&#34; — Andrej Karpathy. A frontier, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization. (2 weeks ago)
+- [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering) - &#34;Context engineering is the delicate art and science of filling the context window with just the right information for the next step.&#34; — Andrej Karpathy. A frontier, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization. (3 weeks ago)
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic&#39;s Interactive Prompt Engineering Tutorial (3 weeks ago)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (3 weeks ago)
-- [OpenOSD-X/OpenOSD-X](https://github.com/OpenOSD-X/OpenOSD-X) -  (3 weeks ago)
-- [forrest-runner/forrest](https://github.com/forrest-runner/forrest) - Run GitHub self-hosted runners in qemu VMs (4 weeks ago)
+- [OpenOSD-X/OpenOSD-X](https://github.com/OpenOSD-X/OpenOSD-X) -  (4 weeks ago)
+- [forrest-runner/forrest](https://github.com/forrest-runner/forrest) - Run GitHub self-hosted runners in qemu VMs (1 month ago)
 - [neoxic/ESCape32](https://github.com/neoxic/ESCape32) - BLDC motor control firmware for 32-bit ESCs (1 month ago)
 - [flightng/configurator](https://github.com/flightng/configurator) -  (1 month ago)
 
