@@ -4,9 +4,9 @@
 
 - [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (1 week ago)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only). (2 months ago)
-- [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (2 months ago)
+- [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (3 months ago)
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) - A solver for (geometrical) packing problems (3 months ago)
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (3 months ago)
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (4 months ago)
 - [DusKing1/wskey](https://github.com/DusKing1/wskey) -  (7 months ago)
 
 #### 🌱 My latest projects
@@ -43,12 +43,12 @@
 
 #### ⭐ Recent Stars
 
-- [Dyyt587/all_pid](https://github.com/Dyyt587/all_pid) - this is a powerful pid which is include  (2 days ago)
+- [Dyyt587/all_pid](https://github.com/Dyyt587/all_pid) - this is a powerful pid which is include  (3 days ago)
 - [jtang613/GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP) - An MCP extension for Ghidra (1 week ago)
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? (1 week ago)
 - [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering) - &#34;Context engineering is the delicate art and science of filling the context window with just the right information for the next step.&#34; — Andrej Karpathy. A frontier, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization. (3 weeks ago)
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic&#39;s Interactive Prompt Engineering Tutorial (3 weeks ago)
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (3 weeks ago)
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (4 weeks ago)
 - [OpenOSD-X/OpenOSD-X](https://github.com/OpenOSD-X/OpenOSD-X) -  (4 weeks ago)
 - [forrest-runner/forrest](https://github.com/forrest-runner/forrest) - Run GitHub self-hosted runners in qemu VMs (1 month ago)
 - [neoxic/ESCape32](https://github.com/neoxic/ESCape32) - BLDC motor control firmware for 32-bit ESCs (1 month ago)
