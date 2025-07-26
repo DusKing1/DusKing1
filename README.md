@@ -43,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [hanun2999/cadence-skill](https://github.com/hanun2999/cadence-skill) -  (today)
 - [system76/kicad-allegro](https://github.com/system76/kicad-allegro) - Converter from Allegro to KiCad, and Allegro extract viewer (today)
 - [uoyniXnaH/AXL-SKILL](https://github.com/uoyniXnaH/AXL-SKILL) - Cadence Allegro Skills. (today)
 - [unihd-cag/skillbridge](https://github.com/unihd-cag/skillbridge) - A seamless python to Cadence Virtuoso Skill interface (today)
@@ -52,7 +53,6 @@
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? (2 weeks ago)
 - [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering) - &#34;Context engineering is the delicate art and science of filling the context window with just the right information for the next step.&#34; — Andrej Karpathy. A frontier, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization. (3 weeks ago)
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic&#39;s Interactive Prompt Engineering Tutorial (3 weeks ago)
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (1 month ago)
 
 #### 💬 Feedback
 
