@@ -43,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no crazy configs, no giant monorepo—but scores 65% on SWE-bench verified! (today)
 - [hanun2999/cadence-skill](https://github.com/hanun2999/cadence-skill) -  (1 day ago)
 - [system76/kicad-allegro](https://github.com/system76/kicad-allegro) - Converter from Allegro to KiCad, and Allegro extract viewer (1 day ago)
 - [uoyniXnaH/AXL-SKILL](https://github.com/uoyniXnaH/AXL-SKILL) - Cadence Allegro Skills. (1 day ago)
@@ -52,7 +53,6 @@
 - [jtang613/GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP) - An MCP extension for Ghidra (1 week ago)
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? (2 weeks ago)
 - [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering) - &#34;Context engineering is the delicate art and science of filling the context window with just the right information for the next step.&#34; — Andrej Karpathy. A frontier, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization. (3 weeks ago)
-- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic&#39;s Interactive Prompt Engineering Tutorial (4 weeks ago)
 
 #### 💬 Feedback
 
