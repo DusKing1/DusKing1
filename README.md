@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (2 days ago)
+- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (3 days ago)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only). (3 months ago)
 - [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (3 months ago)
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) - A solver for (geometrical) packing problems (3 months ago)
@@ -43,16 +43,16 @@
 
 #### ⭐ Recent Stars
 
-- [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no crazy configs, no giant monorepo—but scores 65% on SWE-bench verified! (2 days ago)
-- [hanun2999/cadence-skill](https://github.com/hanun2999/cadence-skill) -  (3 days ago)
-- [system76/kicad-allegro](https://github.com/system76/kicad-allegro) - Converter from Allegro to KiCad, and Allegro extract viewer (3 days ago)
-- [uoyniXnaH/AXL-SKILL](https://github.com/uoyniXnaH/AXL-SKILL) - Cadence Allegro Skills. (3 days ago)
-- [unihd-cag/skillbridge](https://github.com/unihd-cag/skillbridge) - A seamless python to Cadence Virtuoso Skill interface (3 days ago)
-- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs (3 days ago)
+- [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no crazy configs, no giant monorepo—but scores 65% on SWE-bench verified! (3 days ago)
+- [hanun2999/cadence-skill](https://github.com/hanun2999/cadence-skill) -  (4 days ago)
+- [system76/kicad-allegro](https://github.com/system76/kicad-allegro) - Converter from Allegro to KiCad, and Allegro extract viewer (4 days ago)
+- [uoyniXnaH/AXL-SKILL](https://github.com/uoyniXnaH/AXL-SKILL) - Cadence Allegro Skills. (4 days ago)
+- [unihd-cag/skillbridge](https://github.com/unihd-cag/skillbridge) - A seamless python to Cadence Virtuoso Skill interface (4 days ago)
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs (4 days ago)
 - [Dyyt587/all_pid](https://github.com/Dyyt587/all_pid) - this is a powerful pid which is include  (1 week ago)
 - [jtang613/GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP) - An MCP extension for Ghidra (2 weeks ago)
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? (2 weeks ago)
-- [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering) - &#34;Context engineering is the delicate art and science of filling the context window with just the right information for the next step.&#34; — Andrej Karpathy. A frontier, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization. (3 weeks ago)
+- [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering) - &#34;Context engineering is the delicate art and science of filling the context window with just the right information for the next step.&#34; — Andrej Karpathy. A frontier, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization. (4 weeks ago)
 
 #### 💬 Feedback
 
