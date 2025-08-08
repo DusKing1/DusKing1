@@ -43,7 +43,7 @@
 
 #### ⭐ Recent Stars
 
-- [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no crazy configs, no giant monorepo—but scores 68% on SWE-bench verified! (1 week ago)
+- [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores 68% on SWE-bench verified! (1 week ago)
 - [hanun2999/cadence-skill](https://github.com/hanun2999/cadence-skill) -  (1 week ago)
 - [system76/kicad-allegro](https://github.com/system76/kicad-allegro) - Converter from Allegro to KiCad, and Allegro extract viewer (1 week ago)
 - [uoyniXnaH/AXL-SKILL](https://github.com/uoyniXnaH/AXL-SKILL) - Cadence Allegro Skills. (1 week ago)
