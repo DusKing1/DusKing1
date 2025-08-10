@@ -43,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [shareAI-lab/Kode](https://github.com/shareAI-lab/Kode) - LastKode or AgentKode is better? (today)
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores 68% on SWE-bench verified! (2 weeks ago)
 - [hanun2999/cadence-skill](https://github.com/hanun2999/cadence-skill) -  (2 weeks ago)
 - [system76/kicad-allegro](https://github.com/system76/kicad-allegro) - Converter from Allegro to KiCad, and Allegro extract viewer (2 weeks ago)
@@ -52,7 +53,6 @@
 - [Dyyt587/all_pid](https://github.com/Dyyt587/all_pid) - this is a powerful pid which is include  (2 weeks ago)
 - [jtang613/GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP) - An MCP extension for Ghidra (3 weeks ago)
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? (1 month ago)
-- [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering) - &#34;Context engineering is the delicate art and science of filling the context window with just the right information for the next step.&#34; — Andrej Karpathy. A frontier, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization. (1 month ago)
 
 #### 💬 Feedback
 
