@@ -43,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [justjavac/herlang](https://github.com/justjavac/herlang) - Her Programming Language written in Rust. (today)
 - [shareAI-lab/Kode](https://github.com/shareAI-lab/Kode) - Koding with Agent, open Claude Code with support for gemini &#43; gpt5 &#43; kimi &#43; glm4.5 &#43; qwen coder (1 day ago)
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores 68% on SWE-bench verified! (2 weeks ago)
 - [hanun2999/cadence-skill](https://github.com/hanun2999/cadence-skill) -  (2 weeks ago)
@@ -52,7 +53,6 @@
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs (2 weeks ago)
 - [Dyyt587/all_pid](https://github.com/Dyyt587/all_pid) - this is a powerful pid which is include  (3 weeks ago)
 - [jtang613/GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP) - An MCP extension for Ghidra (4 weeks ago)
-- [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? (1 month ago)
 
 #### 💬 Feedback
 
