@@ -43,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [martinbudden/protoflight](https://github.com/martinbudden/protoflight) - Modular open source flight controller firmware (today)
 - [justjavac/herlang](https://github.com/justjavac/herlang) - Her Programming Language written in Rust. (5 days ago)
 - [shareAI-lab/Kode](https://github.com/shareAI-lab/Kode) - Open CC, Koding with GPT5, Kimi2, GLM4.5, Qwen Coder etc.（欢迎网友用Kode 给openCC提PR，加速人类世界生产力进步！） (6 days ago)
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores 68% on SWE-bench verified! (2 weeks ago)
@@ -52,7 +53,6 @@
 - [unihd-cag/skillbridge](https://github.com/unihd-cag/skillbridge) - A seamless python to Cadence Virtuoso Skill interface (3 weeks ago)
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs (3 weeks ago)
 - [Dyyt587/all_pid](https://github.com/Dyyt587/all_pid) - this is a powerful pid which is include  (3 weeks ago)
-- [jtang613/GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP) - An MCP extension for Ghidra (1 month ago)
 
 #### 💬 Feedback
 
