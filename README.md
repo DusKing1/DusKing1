@@ -45,7 +45,7 @@
 
 - [martinbudden/protoflight](https://github.com/martinbudden/protoflight) - Modular open source flight controller firmware (5 days ago)
 - [justjavac/herlang](https://github.com/justjavac/herlang) - Her Programming Language written in Rust. (1 week ago)
-- [shareAI-lab/Kode](https://github.com/shareAI-lab/Kode) - Open CC, Koding with GPT5, Kimi2, GLM4.5, Qwen Coder etc.（欢迎网友用Kode 给openCC提PR，加速人类世界生产力进步！） (1 week ago)
+- [shareAI-lab/Kode](https://github.com/shareAI-lab/Kode) - Open CC, Koding with DeepSeek V3.1, Kimi2, GLM4.5, Qwen Coder etc.（欢迎网友用Kode 给openCC提PR，加速人类世界生产力进步！） (1 week ago)
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores 68% on SWE-bench verified! (3 weeks ago)
 - [hanun2999/cadence-skill](https://github.com/hanun2999/cadence-skill) -  (3 weeks ago)
 - [system76/kicad-allegro](https://github.com/system76/kicad-allegro) - Converter from Allegro to KiCad, and Allegro extract viewer (3 weeks ago)
