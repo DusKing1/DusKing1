@@ -43,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [EvoAgentX/Awesome-Self-Evolving-Agents](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents) -  (today)
 - [martinbudden/protoflight](https://github.com/martinbudden/protoflight) - Modular open source flight controller firmware (6 days ago)
 - [justjavac/herlang](https://github.com/justjavac/herlang) - Her Programming Language written in Rust. (1 week ago)
 - [shareAI-lab/Kode](https://github.com/shareAI-lab/Kode) - Open CC, Koding with DeepSeek V3.1, Kimi2, GLM4.5, Qwen Coder etc.（欢迎网友用Kode 给openCC提PR，加速人类世界生产力进步！） (1 week ago)
@@ -52,7 +53,6 @@
 - [uoyniXnaH/AXL-SKILL](https://github.com/uoyniXnaH/AXL-SKILL) - Cadence Allegro Skills. (3 weeks ago)
 - [unihd-cag/skillbridge](https://github.com/unihd-cag/skillbridge) - A seamless python to Cadence Virtuoso Skill interface (3 weeks ago)
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs (3 weeks ago)
-- [Dyyt587/all_pid](https://github.com/Dyyt587/all_pid) - this is a powerful pid which is include  (1 month ago)
 
 #### 💬 Feedback
 
