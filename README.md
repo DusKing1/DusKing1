@@ -25,7 +25,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ([1.5.0](https://github.com/Anduin2017/HowToCook/releases/tag/1.5.0), 2 months ago) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only).
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([8.0.1](https://github.com/iNavFlight/inav/releases/tag/8.0.1), 4 months ago) - INAV: Navigation-enabled flight control software
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([8.0.1](https://github.com/iNavFlight/inav/releases/tag/8.0.1), 5 months ago) - INAV: Navigation-enabled flight control software
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) ([v1.1.0](https://github.com/fontanf/packingsolver/releases/tag/v1.1.0), 2 years ago) - A solver for (geometrical) packing problems
 
 #### 🔨 My recent Pull Requests
@@ -43,16 +43,16 @@
 
 #### ⭐ Recent Stars
 
-- [Robert-van-Engelen/tinylisp](https://github.com/Robert-van-Engelen/tinylisp) - Lisp in 99 lines of C and how to write one yourself. Includes 21 Lisp primitives, garbage collection and REPL. Includes tail-call optimized versions for speed and reduced memory use. (today)
-- [EvoAgentX/Awesome-Self-Evolving-Agents](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents) - [Survey] A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems (2 days ago)
+- [Robert-van-Engelen/tinylisp](https://github.com/Robert-van-Engelen/tinylisp) - Lisp in 99 lines of C and how to write one yourself. Includes 21 Lisp primitives, garbage collection and REPL. Includes tail-call optimized versions for speed and reduced memory use. (1 day ago)
+- [EvoAgentX/Awesome-Self-Evolving-Agents](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents) - [Survey] A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems (3 days ago)
 - [martinbudden/protoflight](https://github.com/martinbudden/protoflight) - Modular open source flight controller firmware (1 week ago)
-- [justjavac/herlang](https://github.com/justjavac/herlang) - Her Programming Language written in Rust. (1 week ago)
+- [justjavac/herlang](https://github.com/justjavac/herlang) - Her Programming Language written in Rust. (2 weeks ago)
 - [shareAI-lab/Kode](https://github.com/shareAI-lab/Kode) - Like Claude Code, but Koding with DeepSeek V3.1, Kimi2, GLM4.5, Qwen Coder etc.（welcome to use Kode to summit PR) (2 weeks ago)
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores 68% on SWE-bench verified! (4 weeks ago)
-- [hanun2999/cadence-skill](https://github.com/hanun2999/cadence-skill) -  (4 weeks ago)
-- [system76/kicad-allegro](https://github.com/system76/kicad-allegro) - Converter from Allegro to KiCad, and Allegro extract viewer (4 weeks ago)
-- [uoyniXnaH/AXL-SKILL](https://github.com/uoyniXnaH/AXL-SKILL) - Cadence Allegro Skills. (4 weeks ago)
-- [unihd-cag/skillbridge](https://github.com/unihd-cag/skillbridge) - A seamless python to Cadence Virtuoso Skill interface (4 weeks ago)
+- [hanun2999/cadence-skill](https://github.com/hanun2999/cadence-skill) -  (1 month ago)
+- [system76/kicad-allegro](https://github.com/system76/kicad-allegro) - Converter from Allegro to KiCad, and Allegro extract viewer (1 month ago)
+- [uoyniXnaH/AXL-SKILL](https://github.com/uoyniXnaH/AXL-SKILL) - Cadence Allegro Skills. (1 month ago)
+- [unihd-cag/skillbridge](https://github.com/unihd-cag/skillbridge) - A seamless python to Cadence Virtuoso Skill interface (1 month ago)
 
 #### 💬 Feedback
 
