@@ -30,7 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Added ICM42605 IMU support for SKYSTARSH743HD](https://github.com/iNavFlight/inav/pull/11014) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (2 days ago)
+- [Added ICM42605 IMU support for SKYSTARSH743HD](https://github.com/iNavFlight/inav/pull/11014) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (3 days ago)
 - [Add support for SKYSTARSF405V2](https://github.com/iNavFlight/inav/pull/10884) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (3 months ago)
 - [添加python版的mcp插件](https://github.com/Anduin2017/HowToCook/pull/1566) on [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) (4 months ago)
 - [Allow compute_intersections supports circular arcs](https://github.com/fontanf/packingsolver/pull/185) on [fontanf/packingsolver](https://github.com/fontanf/packingsolver) (5 months ago)
@@ -43,11 +43,11 @@
 
 #### ⭐ Recent Stars
 
-- [Robert-van-Engelen/tinylisp](https://github.com/Robert-van-Engelen/tinylisp) - Lisp in 99 lines of C and how to write one yourself. Includes 21 Lisp primitives, garbage collection and REPL. Includes tail-call optimized versions for speed and reduced memory use. (1 week ago)
+- [Robert-van-Engelen/tinylisp](https://github.com/Robert-van-Engelen/tinylisp) - Lisp in 99 lines of C and how to write one yourself. Includes 21 Lisp primitives, garbage collection and REPL. Includes tail-call optimized versions for speed and reduced memory use. (2 weeks ago)
 - [EvoAgentX/Awesome-Self-Evolving-Agents](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents) - [Survey] A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems (2 weeks ago)
 - [martinbudden/protoflight](https://github.com/martinbudden/protoflight) - Modular open source flight controller firmware (3 weeks ago)
 - [justjavac/herlang](https://github.com/justjavac/herlang) - Her Programming Language written in Rust. (3 weeks ago)
-- [shareAI-lab/Kode](https://github.com/shareAI-lab/Kode) - Like Claude Code, but Koding with DeepSeek V3.1, Kimi2, GLM4.5, Qwen Coder etc.（welcome to use Kode to summit PR) (3 weeks ago)
+- [shareAI-lab/Kode](https://github.com/shareAI-lab/Kode) - Like Claude Code, but Koding with DeepSeek V3.1, Kimi2, GLM4.5, Qwen Coder etc.（welcome to use Kode to summit PR) (4 weeks ago)
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores 68% on SWE-bench verified! (1 month ago)
 - [hanun2999/cadence-skill](https://github.com/hanun2999/cadence-skill) -  (1 month ago)
 - [system76/kicad-allegro](https://github.com/system76/kicad-allegro) - Converter from Allegro to KiCad, and Allegro extract viewer (1 month ago)
