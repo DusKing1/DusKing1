@@ -43,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [Shaurya-Sethi/circuitron](https://github.com/Shaurya-Sethi/circuitron) - Circuitron: Agentic PCB Design Accelerator — Generate, plan, and layout circuits from natural language prompts. (today)
 - [SinCerely023/FG_ER3BP_and_Kepler](https://github.com/SinCerely023/FG_ER3BP_and_Kepler) - F and G series solutions of elliptic restricted three-body problem (ER3BP) and two-body/Kepler problem (5 days ago)
 - [aristoteleo/pantheon-cli](https://github.com/aristoteleo/pantheon-cli) - Pantheon-CLI, our first release of PantheonOS, the AgentOS that re-imagines Science (1 week ago)
 - [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) - Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful terminal report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的终端报告 (1 week ago)
@@ -52,7 +53,6 @@
 - [justjavac/herlang](https://github.com/justjavac/herlang) - Her Programming Language written in Rust. (1 month ago)
 - [shareAI-lab/Kode](https://github.com/shareAI-lab/Kode) - Like Claude Code, but Koding with DeepSeek V3.1, Kimi2, GLM4.5, Qwen Coder etc.（welcome to use Kode to summit PR) (1 month ago)
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores 68% on SWE-bench verified! (1 month ago)
-- [hanun2999/cadence-skill](https://github.com/hanun2999/cadence-skill) -  (1 month ago)
 
 #### 💬 Feedback
 
