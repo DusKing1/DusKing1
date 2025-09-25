@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/firmware](https://github.com/flightng/firmware) -  (3 days ago)
-- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (6 days ago)
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only). (4 months ago)
+- [flightng/firmware](https://github.com/flightng/firmware) -  (4 days ago)
+- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (1 week ago)
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only). (5 months ago)
 - [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (5 months ago)
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) - A solver for (geometrical) packing problems (5 months ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (6 months ago)
@@ -25,14 +25,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [flightng/firmware](https://github.com/flightng/firmware) ([0.1.3-12187aa](https://github.com/flightng/firmware/releases/tag/0.1.3-12187aa), 2 days ago) - 
+- [flightng/firmware](https://github.com/flightng/firmware) ([0.1.3-12187aa](https://github.com/flightng/firmware/releases/tag/0.1.3-12187aa), 3 days ago) - 
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ([1.5.0](https://github.com/Anduin2017/HowToCook/releases/tag/1.5.0), 3 months ago) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only).
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([8.0.1](https://github.com/iNavFlight/inav/releases/tag/8.0.1), 6 months ago) - INAV: Navigation-enabled flight control software
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) ([v1.1.0](https://github.com/fontanf/packingsolver/releases/tag/v1.1.0), 2 years ago) - A solver for (geometrical) packing problems
 
 #### 🔨 My recent Pull Requests
 
-- [Added ICM42605 IMU support for SKYSTARSH743HD](https://github.com/iNavFlight/inav/pull/11014) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (2 weeks ago)
+- [Added ICM42605 IMU support for SKYSTARSH743HD](https://github.com/iNavFlight/inav/pull/11014) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (3 weeks ago)
 - [Add support for SKYSTARSF405V2](https://github.com/iNavFlight/inav/pull/10884) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (4 months ago)
 - [添加python版的mcp插件](https://github.com/Anduin2017/HowToCook/pull/1566) on [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) (5 months ago)
 - [Allow compute_intersections supports circular arcs](https://github.com/fontanf/packingsolver/pull/185) on [fontanf/packingsolver](https://github.com/fontanf/packingsolver) (5 months ago)
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - MemU is an open-source memory framework for AI companions (2 days ago)
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - MemU is an open-source memory framework for AI companions (3 days ago)
 - [Shaurya-Sethi/circuitron](https://github.com/Shaurya-Sethi/circuitron) - Circuitron: Agentic PCB Design Accelerator — Generate, plan, and layout circuits from natural language prompts. (1 week ago)
 - [SinCerely023/FG_ER3BP_and_Kepler](https://github.com/SinCerely023/FG_ER3BP_and_Kepler) - F and G series solutions of elliptic restricted three-body problem (ER3BP) and two-body/Kepler problem (1 week ago)
 - [aristoteleo/pantheon-cli](https://github.com/aristoteleo/pantheon-cli) - Pantheon-CLI, our first release of PantheonOS, the AgentOS that re-imagines Science (2 weeks ago)
