@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [shareAI-lab/mini_claude_code](https://github.com/shareAI-lab/mini_claude_code) - 0 -1 diy your agent cli. (today)
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - MemU is an open-source memory framework for AI companions (6 days ago)
 - [Shaurya-Sethi/circuitron](https://github.com/Shaurya-Sethi/circuitron) - Circuitron: Agentic PCB Design Accelerator — Generate, plan, and layout circuits from natural language prompts. (1 week ago)
 - [SinCerely023/FG_ER3BP_and_Kepler](https://github.com/SinCerely023/FG_ER3BP_and_Kepler) - F and G series solutions of elliptic restricted three-body problem (ER3BP) and two-body/Kepler problem (2 weeks ago)
@@ -54,7 +55,6 @@
 - [EvoAgentX/Awesome-Self-Evolving-Agents](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents) - [Survey] A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems (1 month ago)
 - [martinbudden/Protoflight](https://github.com/martinbudden/Protoflight) - Modular open source flight controller firmware (1 month ago)
 - [justjavac/herlang](https://github.com/justjavac/herlang) - Her Programming Language written in Rust. (1 month ago)
-- [shareAI-lab/Kode](https://github.com/shareAI-lab/Kode) - Like Claude Code, but Koding with DeepSeek V3.1, Kimi2, GLM4.5, Qwen Coder etc.（welcome to use Kode to summit PR) (1 month ago)
 
 #### 💬 Feedback
 
