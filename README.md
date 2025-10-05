@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (1 day ago)
-- [flightng/firmware](https://github.com/flightng/firmware) -  (1 week ago)
+- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (2 days ago)
+- [flightng/firmware](https://github.com/flightng/firmware) -  (2 weeks ago)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only). (5 months ago)
 - [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (5 months ago)
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) - A solver for (geometrical) packing problems (6 months ago)
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [flightng/firmware](https://github.com/flightng/firmware) ([0.1.3-0bf3bc5](https://github.com/flightng/firmware/releases/tag/0.1.3-0bf3bc5), 2 days ago) - 
+- [flightng/firmware](https://github.com/flightng/firmware) ([0.1.3-0bf3bc5](https://github.com/flightng/firmware/releases/tag/0.1.3-0bf3bc5), 3 days ago) - 
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ([1.5.0](https://github.com/Anduin2017/HowToCook/releases/tag/1.5.0), 3 months ago) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only).
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([8.0.1](https://github.com/iNavFlight/inav/releases/tag/8.0.1), 6 months ago) - INAV: Navigation-enabled flight control software
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) ([v1.1.0](https://github.com/fontanf/packingsolver/releases/tag/v1.1.0), 2 years ago) - A solver for (geometrical) packing problems
@@ -45,9 +45,9 @@
 
 #### ⭐ Recent Stars
 
-- [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) - Generate code from the terminal! (2 days ago)
-- [anthropics/anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) -  (2 days ago)
-- [shareAI-lab/mini_claude_code](https://github.com/shareAI-lab/mini_claude_code) - 0 -1 diy your agent cli. (6 days ago)
+- [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) - Generate code from the terminal! (3 days ago)
+- [anthropics/anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) -  (3 days ago)
+- [shareAI-lab/mini_claude_code](https://github.com/shareAI-lab/mini_claude_code) - 0 -1 diy your agent cli. (1 week ago)
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - MemU is an open-source memory framework for AI companions (1 week ago)
 - [Shaurya-Sethi/circuitron](https://github.com/Shaurya-Sethi/circuitron) - Circuitron: Agentic PCB Design Accelerator — Generate, plan, and layout circuits from natural language prompts. (2 weeks ago)
 - [SinCerely023/FG_ER3BP_and_Kepler](https://github.com/SinCerely023/FG_ER3BP_and_Kepler) - F and G series solutions of elliptic restricted three-body problem (ER3BP) and two-body/Kepler problem (3 weeks ago)
