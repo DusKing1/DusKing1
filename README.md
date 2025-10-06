@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [shareAI-lab/Kode-sdk](https://github.com/shareAI-lab/Kode-sdk) - agent sdk for building your next-level-agent product. (today)
 - [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) - Generate code from the terminal! (4 days ago)
 - [anthropics/anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) -  (4 days ago)
 - [shareAI-lab/mini_claude_code](https://github.com/shareAI-lab/mini_claude_code) - 0 -1 diy your agent cli. (1 week ago)
@@ -54,7 +55,6 @@
 - [aristoteleo/pantheon-cli](https://github.com/aristoteleo/pantheon-cli) - Pantheon-CLI, our first release of PantheonOS, the AgentOS that re-imagines Science (3 weeks ago)
 - [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) - Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告 (3 weeks ago)
 - [Robert-van-Engelen/tinylisp](https://github.com/Robert-van-Engelen/tinylisp) - Lisp in 99 lines of C and how to write one yourself. Includes 21 Lisp primitives, garbage collection and REPL. Includes tail-call optimized versions for speed and reduced memory use. (1 month ago)
-- [EvoAgentX/Awesome-Self-Evolving-Agents](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents) - [Survey] A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems (1 month ago)
 
 #### 💬 Feedback
 
