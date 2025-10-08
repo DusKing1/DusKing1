@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [flightng/firmware](https://github.com/flightng/firmware) ([v20251005-0.1.3-61c0b53](https://github.com/flightng/firmware/releases/tag/v20251005-0.1.3-61c0b53), 3 days ago) - 
+- [flightng/firmware](https://github.com/flightng/firmware) ([v20251009-0.1.3-a884705](https://github.com/flightng/firmware/releases/tag/v20251009-0.1.3-a884705), today) - 
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ([1.5.0](https://github.com/Anduin2017/HowToCook/releases/tag/1.5.0), 3 months ago) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only).
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([8.0.1](https://github.com/iNavFlight/inav/releases/tag/8.0.1), 6 months ago) - INAV: Navigation-enabled flight control software
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) ([v1.1.0](https://github.com/fontanf/packingsolver/releases/tag/v1.1.0), 2 years ago) - A solver for (geometrical) packing problems
