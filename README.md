@@ -48,7 +48,7 @@
 - [shareAI-lab/Kode-sdk](https://github.com/shareAI-lab/Kode-sdk) - agent sdk for building your next-level-agent product. (3 days ago)
 - [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) - Generate code from the terminal! (1 week ago)
 - [anthropics/anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) -  (1 week ago)
-- [shareAI-lab/mini_claude_code](https://github.com/shareAI-lab/mini_claude_code) - 0 -1 diy your agent cli. (1 week ago)
+- [shareAI-lab/mini_kode](https://github.com/shareAI-lab/mini_kode) - 0 -1 diy your agent cli. (1 week ago)
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - MemU is an open-source memory framework for AI companions (2 weeks ago)
 - [Shaurya-Sethi/circuitron](https://github.com/Shaurya-Sethi/circuitron) - Circuitron: Agentic PCB Design Accelerator — Generate, plan, and layout circuits from natural language prompts. (3 weeks ago)
 - [SinCerely023/FG_ER3BP_and_Kepler](https://github.com/SinCerely023/FG_ER3BP_and_Kepler) - F and G series solutions of elliptic restricted three-body problem (ER3BP) and two-body/Kepler problem (3 weeks ago)
