@@ -4,10 +4,10 @@
 
 - [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (3 days ago)
 - [flightng/firmware](https://github.com/flightng/firmware) -  (2 weeks ago)
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (1 month ago)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only). (5 months ago)
 - [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (5 months ago)
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) - A solver for (geometrical) packing problems (6 months ago)
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (6 months ago)
 - [DusKing1/wskey](https://github.com/DusKing1/wskey) -  (9 months ago)
 
 #### 🌱 My latest projects
