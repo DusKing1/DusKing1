@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (today)
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server (today)
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning &amp; Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM. (1 day ago)
 - [ginobefun/agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn) - 《Agentic Design Patterns》中文翻译版 (2 days ago)
@@ -54,7 +55,6 @@
 - [shareAI-lab/mini_kode](https://github.com/shareAI-lab/mini_kode) - 0 -1 diy your agent cli. (2 weeks ago)
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - MemU is an open-source memory framework for AI companions (3 weeks ago)
 - [Shaurya-Sethi/circuitron](https://github.com/Shaurya-Sethi/circuitron) - Circuitron: Agentic PCB Design Accelerator — Generate, plan, and layout circuits from natural language prompts. (3 weeks ago)
-- [SinCerely023/FG_ER3BP_and_Kepler](https://github.com/SinCerely023/FG_ER3BP_and_Kepler) - F and G series solutions of elliptic restricted three-body problem (ER3BP) and two-body/Kepler problem (1 month ago)
 
 #### 💬 Feedback
 
