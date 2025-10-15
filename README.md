@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (2 days ago)
+- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (3 days ago)
 - [flightng/firmware](https://github.com/flightng/firmware) -  (3 weeks ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (1 month ago)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only). (5 months ago)
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [flightng/firmware](https://github.com/flightng/firmware) ([v20251012-0.1.3-b85ddbd](https://github.com/flightng/firmware/releases/tag/v20251012-0.1.3-b85ddbd), 2 days ago) - 
+- [flightng/firmware](https://github.com/flightng/firmware) ([v20251012-0.1.3-b85ddbd](https://github.com/flightng/firmware/releases/tag/v20251012-0.1.3-b85ddbd), 3 days ago) - 
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ([1.5.0](https://github.com/Anduin2017/HowToCook/releases/tag/1.5.0), 4 months ago) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only).
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([8.0.1](https://github.com/iNavFlight/inav/releases/tag/8.0.1), 6 months ago) - INAV: Navigation-enabled flight control software
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) ([v1.1.0](https://github.com/fontanf/packingsolver/releases/tag/v1.1.0), 2 years ago) - A solver for (geometrical) packing problems
@@ -36,7 +36,7 @@
 - [Add support for SKYSTARSF405V2](https://github.com/iNavFlight/inav/pull/10884) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (4 months ago)
 - [添加python版的mcp插件](https://github.com/Anduin2017/HowToCook/pull/1566) on [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) (5 months ago)
 - [Allow compute_intersections supports circular arcs](https://github.com/fontanf/packingsolver/pull/185) on [fontanf/packingsolver](https://github.com/fontanf/packingsolver) (6 months ago)
-- [Add shape level inflate method](https://github.com/fontanf/packingsolver/pull/169) on [fontanf/packingsolver](https://github.com/fontanf/packingsolver) (6 months ago)
+- [Add shape level inflate method](https://github.com/fontanf/packingsolver/pull/169) on [fontanf/packingsolver](https://github.com/fontanf/packingsolver) (7 months ago)
 - [Fix SKYSTARSF405WING target definition](https://github.com/iNavFlight/inav/pull/10718) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (7 months ago)
 - [Add support for SKYSTARSF405WING target](https://github.com/iNavFlight/inav/pull/10561) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (9 months ago)
 - [Add support for SKYSTARSSF405AIO target](https://github.com/iNavFlight/inav/pull/10469) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (11 months ago)
@@ -45,16 +45,16 @@
 
 #### ⭐ Recent Stars
 
-- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (today)
-- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server (today)
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning &amp; Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM. (1 day ago)
-- [ginobefun/agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn) - 《Agentic Design Patterns》中文翻译版 (2 days ago)
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (1 day ago)
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server (1 day ago)
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning &amp; Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM. (2 days ago)
+- [ginobefun/agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn) - 《Agentic Design Patterns》中文翻译版 (3 days ago)
 - [shareAI-lab/Kode-sdk](https://github.com/shareAI-lab/Kode-sdk) - agent sdk for building your next-level-agent product. (1 week ago)
 - [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) - Generate code from the terminal! (1 week ago)
 - [anthropics/anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) -  (1 week ago)
 - [shareAI-lab/mini_kode](https://github.com/shareAI-lab/mini_kode) - 0 -1 diy your agent cli. (2 weeks ago)
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - MemU is an open-source memory framework for AI companions (3 weeks ago)
-- [Shaurya-Sethi/circuitron](https://github.com/Shaurya-Sethi/circuitron) - Circuitron: Agentic PCB Design Accelerator — Generate, plan, and layout circuits from natural language prompts. (3 weeks ago)
+- [Shaurya-Sethi/circuitron](https://github.com/Shaurya-Sethi/circuitron) - Circuitron: Agentic PCB Design Accelerator — Generate, plan, and layout circuits from natural language prompts. (4 weeks ago)
 
 #### 💬 Feedback
 
