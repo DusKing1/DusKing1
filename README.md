@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) - Post-training with Tinker (today)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (2 days ago)
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (4 days ago)
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (1 week ago)
@@ -54,7 +55,6 @@
 - [shareAI-lab/Kode-sdk](https://github.com/shareAI-lab/Kode-sdk) - agent sdk for building your next-level-agent product. (2 weeks ago)
 - [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) - Generate code from the terminal! (2 weeks ago)
 - [anthropics/anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) -  (2 weeks ago)
-- [shareAI-lab/mini_kode](https://github.com/shareAI-lab/mini_kode) - 0 -1 diy your agent cli. (3 weeks ago)
 
 #### 💬 Feedback
 
