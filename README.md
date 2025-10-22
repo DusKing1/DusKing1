@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (5 days ago)
+- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (6 days ago)
 - [flightng/firmware](https://github.com/flightng/firmware) -  (1 month ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (1 month ago)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only). (5 months ago)
-- [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (5 months ago)
+- [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (6 months ago)
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) - A solver for (geometrical) packing problems (6 months ago)
 - [DusKing1/wskey](https://github.com/DusKing1/wskey) -  (10 months ago)
 
@@ -45,9 +45,9 @@
 
 #### ⭐ Recent Stars
 
-- [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) - Post-training with Tinker (today)
-- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (2 days ago)
-- [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (4 days ago)
+- [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) - Post-training with Tinker (1 day ago)
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (3 days ago)
+- [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (5 days ago)
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (1 week ago)
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server (1 week ago)
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning &amp; Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM. (1 week ago)
