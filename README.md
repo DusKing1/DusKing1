@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [OpenChatGit/F.R.I.D.A.Y](https://github.com/OpenChatGit/F.R.I.D.A.Y) - Neuron Based AI and AI Training (today)
 - [MoonshotAI/kosong](https://github.com/MoonshotAI/kosong) - The LLM abstraction layer for modern AI agent applications. (2 days ago)
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent. (2 weeks ago)
 - [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) - Post-training with Tinker (3 weeks ago)
@@ -54,7 +55,6 @@
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server (4 weeks ago)
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning &amp; Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM. (4 weeks ago)
 - [ginobefun/agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn) - 《Agentic Design Patterns》中文翻译版 (1 month ago)
-- [shareAI-lab/Kode-agent-sdk](https://github.com/shareAI-lab/Kode-agent-sdk) - agent sdk for building your next-level-agent product. (1 month ago)
 
 #### 💬 Feedback
 
