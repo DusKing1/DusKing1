@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (5 days ago)
+- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (6 days ago)
 - [flightng/firmware](https://github.com/flightng/firmware) -  (1 month ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (2 months ago)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only). (6 months ago)
@@ -45,15 +45,15 @@
 
 #### ⭐ Recent Stars
 
-- [alelouis/quadcopter](https://github.com/alelouis/quadcopter) - Implementation of quadcopter flight dynamics &amp; control. (today)
-- [OpenChatGit/F.R.I.D.A.Y](https://github.com/OpenChatGit/F.R.I.D.A.Y) - Neuron Based AI and AI Training (1 day ago)
-- [MoonshotAI/kosong](https://github.com/MoonshotAI/kosong) - The LLM abstraction layer for modern AI agent applications. (3 days ago)
+- [alelouis/quadcopter](https://github.com/alelouis/quadcopter) - Implementation of quadcopter flight dynamics &amp; control. (1 day ago)
+- [OpenChatGit/F.R.I.D.A.Y](https://github.com/OpenChatGit/F.R.I.D.A.Y) - Neuron Based AI and AI Training (2 days ago)
+- [MoonshotAI/kosong](https://github.com/MoonshotAI/kosong) - The LLM abstraction layer for modern AI agent applications. (4 days ago)
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent. (2 weeks ago)
 - [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) - Post-training with Tinker (3 weeks ago)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (3 weeks ago)
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (3 weeks ago)
-- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (4 weeks ago)
-- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server (4 weeks ago)
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (1 month ago)
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server (1 month ago)
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning &amp; Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM. (1 month ago)
 
 #### 💬 Feedback
