@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [MiniMax-AI/Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent) - A minimal yet professional single agent demo project that showcases the core execution pipeline and production-grade features of agents. (today)
 - [alelouis/quadcopter](https://github.com/alelouis/quadcopter) - Implementation of quadcopter flight dynamics &amp; control. (4 days ago)
 - [OpenChatGit/F.R.I.D.A.Y](https://github.com/OpenChatGit/F.R.I.D.A.Y) - Neuron Based AI and AI Training (5 days ago)
 - [MoonshotAI/kosong](https://github.com/MoonshotAI/kosong) - The LLM abstraction layer for modern AI agent applications. (1 week ago)
@@ -54,7 +55,6 @@
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (1 month ago)
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (1 month ago)
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server (1 month ago)
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning &amp; Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM. (1 month ago)
 
 #### 💬 Feedback
 
