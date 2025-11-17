@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (today)
+- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (1 day ago)
 - [flightng/firmware](https://github.com/flightng/firmware) -  (1 month ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (2 months ago)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only). (6 months ago)
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [flightng/firmware](https://github.com/flightng/firmware) ([v20251114-0.1.3-d33fcd5](https://github.com/flightng/firmware/releases/tag/v20251114-0.1.3-d33fcd5), 2 days ago) - 
+- [flightng/firmware](https://github.com/flightng/firmware) ([v20251114-0.1.3-d33fcd5](https://github.com/flightng/firmware/releases/tag/v20251114-0.1.3-d33fcd5), 3 days ago) - 
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ([1.5.0](https://github.com/Anduin2017/HowToCook/releases/tag/1.5.0), 5 months ago) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only).
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([8.0.1](https://github.com/iNavFlight/inav/releases/tag/8.0.1), 7 months ago) - INAV: Navigation-enabled flight control software
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) ([v1.1.0](https://github.com/fontanf/packingsolver/releases/tag/v1.1.0), 2 years ago) - A solver for (geometrical) packing problems
@@ -45,9 +45,9 @@
 
 #### ⭐ Recent Stars
 
-- [MiniMax-AI/Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent) - A minimal yet professional single agent demo project that showcases the core execution pipeline and production-grade features of agents. (today)
-- [alelouis/quadcopter](https://github.com/alelouis/quadcopter) - Implementation of quadcopter flight dynamics &amp; control. (4 days ago)
-- [OpenChatGit/F.R.I.D.A.Y](https://github.com/OpenChatGit/F.R.I.D.A.Y) - Neuron Based AI and AI Training (5 days ago)
+- [MiniMax-AI/Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent) - A minimal yet professional single agent demo project that showcases the core execution pipeline and production-grade features of agents. (1 day ago)
+- [alelouis/quadcopter](https://github.com/alelouis/quadcopter) - Implementation of quadcopter flight dynamics &amp; control. (5 days ago)
+- [OpenChatGit/F.R.I.D.A.Y](https://github.com/OpenChatGit/F.R.I.D.A.Y) - Neuron Based AI and AI Training (6 days ago)
 - [MoonshotAI/kosong](https://github.com/MoonshotAI/kosong) - The LLM abstraction layer for modern AI agent applications. (1 week ago)
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent. (3 weeks ago)
 - [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) - Post-training with Tinker (3 weeks ago)
