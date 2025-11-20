@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (3 days ago)
-- [flightng/firmware](https://github.com/flightng/firmware) -  (1 month ago)
+- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (4 days ago)
+- [flightng/firmware](https://github.com/flightng/firmware) -  (2 months ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (2 months ago)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only). (6 months ago)
 - [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (6 months ago)
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [flightng/firmware](https://github.com/flightng/firmware) ([v20251114-0.1.3-d33fcd5](https://github.com/flightng/firmware/releases/tag/v20251114-0.1.3-d33fcd5), 5 days ago) - 
+- [flightng/firmware](https://github.com/flightng/firmware) ([v20251114-0.1.3-d33fcd5](https://github.com/flightng/firmware/releases/tag/v20251114-0.1.3-d33fcd5), 6 days ago) - 
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ([1.5.0](https://github.com/Anduin2017/HowToCook/releases/tag/1.5.0), 5 months ago) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only).
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([8.0.1](https://github.com/iNavFlight/inav/releases/tag/8.0.1), 7 months ago) - INAV: Navigation-enabled flight control software
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) ([v1.1.0](https://github.com/fontanf/packingsolver/releases/tag/v1.1.0), 2 years ago) - A solver for (geometrical) packing problems
@@ -38,19 +38,19 @@
 - [Allow compute_intersections supports circular arcs](https://github.com/fontanf/packingsolver/pull/185) on [fontanf/packingsolver](https://github.com/fontanf/packingsolver) (7 months ago)
 - [Add shape level inflate method](https://github.com/fontanf/packingsolver/pull/169) on [fontanf/packingsolver](https://github.com/fontanf/packingsolver) (8 months ago)
 - [Fix SKYSTARSF405WING target definition](https://github.com/iNavFlight/inav/pull/10718) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (9 months ago)
-- [Add support for SKYSTARSF405WING target](https://github.com/iNavFlight/inav/pull/10561) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (10 months ago)
+- [Add support for SKYSTARSF405WING target](https://github.com/iNavFlight/inav/pull/10561) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (11 months ago)
 - [Add support for SKYSTARSSF405AIO target](https://github.com/iNavFlight/inav/pull/10469) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (1 year ago)
 - [Fixed scale factor for ST&#39;s IMUs](https://github.com/flightng/atbetaflight/pull/63) on [flightng/atbetaflight](https://github.com/flightng/atbetaflight) (2 years ago)
 - [Fix (?) i-term error rotation](https://github.com/BossHobby/QUICKSILVER/pull/115) on [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [MiniMax-AI/Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent) - A minimal yet professional single agent demo project that showcases the core execution pipeline and production-grade features of agents. (3 days ago)
+- [MiniMax-AI/Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent) - A minimal yet professional single agent demo project that showcases the core execution pipeline and production-grade features of agents. (4 days ago)
 - [alelouis/quadcopter](https://github.com/alelouis/quadcopter) - Implementation of quadcopter flight dynamics &amp; control. (1 week ago)
 - [OpenChatGit/F.R.I.D.A.Y](https://github.com/OpenChatGit/F.R.I.D.A.Y) - Neuron Based AI and AI Training (1 week ago)
 - [MoonshotAI/kosong](https://github.com/MoonshotAI/kosong) - The LLM abstraction layer for modern AI agent applications. (1 week ago)
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent. (3 weeks ago)
-- [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) - Post-training with Tinker (4 weeks ago)
+- [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) - Post-training with Tinker (1 month ago)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (1 month ago)
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (1 month ago)
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (1 month ago)
