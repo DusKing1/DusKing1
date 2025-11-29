@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (1 day ago)
+- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (2 days ago)
 - [flightng/firmware](https://github.com/flightng/firmware) -  (2 months ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (2 months ago)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only). (7 months ago)
 - [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (7 months ago)
-- [fontanf/packingsolver](https://github.com/fontanf/packingsolver) - A solver for (geometrical) packing problems (7 months ago)
+- [fontanf/packingsolver](https://github.com/fontanf/packingsolver) - A solver for (geometrical) packing problems (8 months ago)
 - [DusKing1/wskey](https://github.com/DusKing1/wskey) -  (11 months ago)
 
 #### 🌱 My latest projects
@@ -45,9 +45,9 @@
 
 #### ⭐ Recent Stars
 
-- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows. (1 day ago)
-- [microsoft/Codex-CLI](https://github.com/microsoft/Codex-CLI) - CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents (2 days ago)
-- [shareAI-lab/Kode-cli-shell](https://github.com/shareAI-lab/Kode-cli-shell) - Kode cli, wrote by bash shell (2 days ago)
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows. (2 days ago)
+- [microsoft/Codex-CLI](https://github.com/microsoft/Codex-CLI) - CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents (3 days ago)
+- [shareAI-lab/Kode-cli-shell](https://github.com/shareAI-lab/Kode-cli-shell) - Kode cli, wrote by bash shell (3 days ago)
 - [MiniMax-AI/Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent) - A minimal yet professional single agent demo project that showcases the core execution pipeline and production-grade features of agents. (1 week ago)
 - [alelouis/quadcopter](https://github.com/alelouis/quadcopter) - Implementation of quadcopter flight dynamics &amp; control. (2 weeks ago)
 - [OpenChatGit/F.R.I.D.A.Y](https://github.com/OpenChatGit/F.R.I.D.A.Y) - Neuron Based AI and AI Training (2 weeks ago)
