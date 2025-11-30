@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [cure-lab/MMCircuitEval](https://github.com/cure-lab/MMCircuitEval) - A comprehensive multimodal circuit-focused benchmark for evaluating large language models (LLMs) (today)
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows. (3 days ago)
 - [microsoft/Codex-CLI](https://github.com/microsoft/Codex-CLI) - CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents (4 days ago)
 - [shareAI-lab/Kode-cli-shell](https://github.com/shareAI-lab/Kode-cli-shell) - Kode cli, wrote by bash shell (4 days ago)
@@ -54,7 +55,6 @@
 - [MoonshotAI/kosong](https://github.com/MoonshotAI/kosong) - The LLM abstraction layer for modern AI agent applications. (3 weeks ago)
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent. (1 month ago)
 - [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) - Post-training with Tinker (1 month ago)
-- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (1 month ago)
 
 #### 💬 Feedback
 
