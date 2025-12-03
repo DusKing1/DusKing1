@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (today)
+- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (1 day ago)
 - [flightng/firmware](https://github.com/flightng/firmware) -  (2 months ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (2 months ago)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only). (7 months ago)
@@ -25,14 +25,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.0.0-RC2](https://github.com/iNavFlight/inav/releases/tag/9.0.0-RC2), 2 days ago) - INAV: Navigation-enabled flight control software
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.0.0-RC2](https://github.com/iNavFlight/inav/releases/tag/9.0.0-RC2), 3 days ago) - INAV: Navigation-enabled flight control software
 - [flightng/firmware](https://github.com/flightng/firmware) ([v20251114-0.1.3-d33fcd5](https://github.com/flightng/firmware/releases/tag/v20251114-0.1.3-d33fcd5), 2 weeks ago) - 
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ([1.5.0](https://github.com/Anduin2017/HowToCook/releases/tag/1.5.0), 5 months ago) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only).
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) ([v1.1.0](https://github.com/fontanf/packingsolver/releases/tag/v1.1.0), 2 years ago) - A solver for (geometrical) packing problems
 
 #### 🔨 My recent Pull Requests
 
-- [Added ICM42605 IMU support for SKYSTARSH743HD](https://github.com/iNavFlight/inav/pull/11014) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (2 months ago)
+- [Added ICM42605 IMU support for SKYSTARSH743HD](https://github.com/iNavFlight/inav/pull/11014) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (3 months ago)
 - [Add support for SKYSTARSF405V2](https://github.com/iNavFlight/inav/pull/10884) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (6 months ago)
 - [添加python版的mcp插件](https://github.com/Anduin2017/HowToCook/pull/1566) on [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) (7 months ago)
 - [Allow compute_intersections supports circular arcs](https://github.com/fontanf/packingsolver/pull/185) on [fontanf/packingsolver](https://github.com/fontanf/packingsolver) (8 months ago)
@@ -45,12 +45,12 @@
 
 #### ⭐ Recent Stars
 
-- [cure-lab/MMCircuitEval](https://github.com/cure-lab/MMCircuitEval) - A comprehensive multimodal circuit-focused benchmark for evaluating large language models (LLMs) (2 days ago)
-- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows. (5 days ago)
-- [microsoft/Codex-CLI](https://github.com/microsoft/Codex-CLI) - CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents (6 days ago)
-- [shareAI-lab/Kode-cli-shell](https://github.com/shareAI-lab/Kode-cli-shell) - Kode cli, wrote by bash shell (6 days ago)
+- [cure-lab/MMCircuitEval](https://github.com/cure-lab/MMCircuitEval) - A comprehensive multimodal circuit-focused benchmark for evaluating large language models (LLMs) (3 days ago)
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows. (6 days ago)
+- [microsoft/Codex-CLI](https://github.com/microsoft/Codex-CLI) - CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents (1 week ago)
+- [shareAI-lab/Kode-cli-shell](https://github.com/shareAI-lab/Kode-cli-shell) - Kode cli, wrote by bash shell (1 week ago)
 - [MiniMax-AI/Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent) - A minimal yet professional single agent demo project that showcases the core execution pipeline and production-grade features of agents. (2 weeks ago)
-- [alelouis/quadcopter](https://github.com/alelouis/quadcopter) - Implementation of quadcopter flight dynamics &amp; control. (2 weeks ago)
+- [alelouis/quadcopter](https://github.com/alelouis/quadcopter) - Implementation of quadcopter flight dynamics &amp; control. (3 weeks ago)
 - [OpenChatGit/F.R.I.D.A.Y](https://github.com/OpenChatGit/F.R.I.D.A.Y) - Neuron Based AI and AI Training (3 weeks ago)
 - [MoonshotAI/kosong](https://github.com/MoonshotAI/kosong) - The LLM abstraction layer for modern AI agent applications. (3 weeks ago)
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent. (1 month ago)
