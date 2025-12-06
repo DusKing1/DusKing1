@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (3 days ago)
+- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (4 days ago)
 - [flightng/firmware](https://github.com/flightng/firmware) -  (2 months ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (3 months ago)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only). (7 months ago)
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.0.0-RC2](https://github.com/iNavFlight/inav/releases/tag/9.0.0-RC2), 5 days ago) - INAV: Navigation-enabled flight control software
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.0.0-RC2](https://github.com/iNavFlight/inav/releases/tag/9.0.0-RC2), 6 days ago) - INAV: Navigation-enabled flight control software
 - [flightng/firmware](https://github.com/flightng/firmware) ([v20251114-0.1.3-d33fcd5](https://github.com/flightng/firmware/releases/tag/v20251114-0.1.3-d33fcd5), 3 weeks ago) - 
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ([1.5.0](https://github.com/Anduin2017/HowToCook/releases/tag/1.5.0), 5 months ago) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only).
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) ([v1.1.0](https://github.com/fontanf/packingsolver/releases/tag/v1.1.0), 2 years ago) - A solver for (geometrical) packing problems
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [cure-lab/MMCircuitEval](https://github.com/cure-lab/MMCircuitEval) - A comprehensive multimodal circuit-focused benchmark for evaluating large language models (LLMs) (5 days ago)
+- [cure-lab/MMCircuitEval](https://github.com/cure-lab/MMCircuitEval) - A comprehensive multimodal circuit-focused benchmark for evaluating large language models (LLMs) (6 days ago)
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows. (1 week ago)
 - [microsoft/Codex-CLI](https://github.com/microsoft/Codex-CLI) - CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents (1 week ago)
 - [shareAI-lab/Kode-cli-shell](https://github.com/shareAI-lab/Kode-cli-shell) - Kode cli, wrote by bash shell (1 week ago)
