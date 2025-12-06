@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [CallMeR/opnsense_configuration_notes](https://github.com/CallMeR/opnsense_configuration_notes) - OPNsense 防火墙的安装以及折腾手记。 (today)
 - [cure-lab/MMCircuitEval](https://github.com/cure-lab/MMCircuitEval) - A comprehensive multimodal circuit-focused benchmark for evaluating large language models (LLMs) (6 days ago)
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows. (1 week ago)
 - [microsoft/Codex-CLI](https://github.com/microsoft/Codex-CLI) - CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents (1 week ago)
@@ -54,7 +55,6 @@
 - [OpenChatGit/F.R.I.D.A.Y](https://github.com/OpenChatGit/F.R.I.D.A.Y) - Neuron Based AI and AI Training (3 weeks ago)
 - [MoonshotAI/kosong](https://github.com/MoonshotAI/kosong) - The LLM abstraction layer for modern AI agent applications. (3 weeks ago)
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent. (1 month ago)
-- [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) - Post-training with Tinker (1 month ago)
 
 #### 💬 Feedback
 
