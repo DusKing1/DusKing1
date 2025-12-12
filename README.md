@@ -45,6 +45,8 @@
 
 #### ⭐ Recent Stars
 
+- [primefaces/primeflex](https://github.com/primefaces/primeflex) - PrimeFlex is a lightweight responsive CSS utility library to accompany Prime UI libraries and static webpages as well (today)
+- [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library (today)
 - [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform (3 days ago)
 - [hpmicro/betaflight](https://github.com/hpmicro/betaflight) - Open Source Flight Controller Firmware (3 days ago)
 - [CallMeR/opnsense_configuration_notes](https://github.com/CallMeR/opnsense_configuration_notes) - OPNsense 防火墙的安装以及折腾手记。 (6 days ago)
@@ -53,8 +55,6 @@
 - [microsoft/Codex-CLI](https://github.com/microsoft/Codex-CLI) - CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents (2 weeks ago)
 - [shareAI-lab/Kode-cli-shell](https://github.com/shareAI-lab/Kode-cli-shell) - Kode cli, wrote by bash shell (2 weeks ago)
 - [MiniMax-AI/Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent) - A minimal yet professional single agent demo project that showcases the core execution pipeline and production-grade features of agents. (3 weeks ago)
-- [alelouis/quadcopter](https://github.com/alelouis/quadcopter) - Implementation of quadcopter flight dynamics &amp; control. (1 month ago)
-- [OpenChatGit/F.R.I.D.A.Y](https://github.com/OpenChatGit/F.R.I.D.A.Y) - Neuron Based AI and AI Training (1 month ago)
 
 #### 💬 Feedback
 
