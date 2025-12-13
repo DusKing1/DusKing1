@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [zai-org/GLM-TTS](https://github.com/zai-org/GLM-TTS) - GLM-TTS: Controllable &amp; Emotion-Expressive Zero-shot TTS with Multi-Reward Reinforcement Learning (today)
 - [primefaces/primeflex](https://github.com/primefaces/primeflex) - PrimeFlex is a lightweight responsive CSS utility library to accompany Prime UI libraries and static webpages as well (1 day ago)
 - [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library (1 day ago)
 - [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform (4 days ago)
@@ -54,7 +55,6 @@
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows. (2 weeks ago)
 - [microsoft/Codex-CLI](https://github.com/microsoft/Codex-CLI) - CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents (2 weeks ago)
 - [shareAI-lab/Kode-cli-shell](https://github.com/shareAI-lab/Kode-cli-shell) - Kode cli, wrote by bash shell (2 weeks ago)
-- [MiniMax-AI/Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent) - A minimal yet professional single agent demo project that showcases the core execution pipeline and production-grade features of agents. (3 weeks ago)
 
 #### 💬 Feedback
 
