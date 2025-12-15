@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (1 day ago)
+- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (2 days ago)
 - [flightng/firmware](https://github.com/flightng/firmware) -  (2 months ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (3 months ago)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only). (7 months ago)
@@ -45,11 +45,11 @@
 
 #### ⭐ Recent Stars
 
-- [zai-org/GLM-TTS](https://github.com/zai-org/GLM-TTS) - GLM-TTS: Controllable &amp; Emotion-Expressive Zero-shot TTS with Multi-Reward Reinforcement Learning (1 day ago)
-- [primefaces/primeflex](https://github.com/primefaces/primeflex) - PrimeFlex is a lightweight responsive CSS utility library to accompany Prime UI libraries and static webpages as well (2 days ago)
-- [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library (2 days ago)
-- [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform (5 days ago)
-- [hpmicro/betaflight](https://github.com/hpmicro/betaflight) - Open Source Flight Controller Firmware (5 days ago)
+- [zai-org/GLM-TTS](https://github.com/zai-org/GLM-TTS) - GLM-TTS: Controllable &amp; Emotion-Expressive Zero-shot TTS with Multi-Reward Reinforcement Learning (2 days ago)
+- [primefaces/primeflex](https://github.com/primefaces/primeflex) - PrimeFlex is a lightweight responsive CSS utility library to accompany Prime UI libraries and static webpages as well (3 days ago)
+- [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library (3 days ago)
+- [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform (6 days ago)
+- [hpmicro/betaflight](https://github.com/hpmicro/betaflight) - Open Source Flight Controller Firmware (6 days ago)
 - [CallMeR/opnsense_configuration_notes](https://github.com/CallMeR/opnsense_configuration_notes) - OPNsense 防火墙的安装以及折腾手记。 (1 week ago)
 - [cure-lab/MMCircuitEval](https://github.com/cure-lab/MMCircuitEval) - A comprehensive multimodal circuit-focused benchmark for evaluating large language models (LLMs) (2 weeks ago)
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows. (2 weeks ago)
