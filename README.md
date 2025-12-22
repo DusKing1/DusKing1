@@ -33,7 +33,7 @@
 
 - [Added ICM42605 IMU support for SKYSTARSH743HD](https://github.com/iNavFlight/inav/pull/11014) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (3 months ago)
 - [Add support for SKYSTARSF405V2](https://github.com/iNavFlight/inav/pull/10884) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (7 months ago)
-- [添加python版的mcp插件](https://github.com/Anduin2017/HowToCook/pull/1566) on [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) (7 months ago)
+- [添加python版的mcp插件](https://github.com/Anduin2017/HowToCook/pull/1566) on [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) (8 months ago)
 - [Allow compute_intersections supports circular arcs](https://github.com/fontanf/packingsolver/pull/185) on [fontanf/packingsolver](https://github.com/fontanf/packingsolver) (8 months ago)
 - [Add shape level inflate method](https://github.com/fontanf/packingsolver/pull/169) on [fontanf/packingsolver](https://github.com/fontanf/packingsolver) (9 months ago)
 - [Fix SKYSTARSF405WING target definition](https://github.com/iNavFlight/inav/pull/10718) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (10 months ago)
