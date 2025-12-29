@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (5 days ago)
+- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (6 days ago)
 - [flightng/firmware](https://github.com/flightng/firmware) -  (3 months ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (3 months ago)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only). (8 months ago)
 - [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (8 months ago)
-- [fontanf/packingsolver](https://github.com/fontanf/packingsolver) - A solver for (geometrical) packing problems (8 months ago)
+- [fontanf/packingsolver](https://github.com/fontanf/packingsolver) - A solver for (geometrical) packing problems (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.0.0-RC4](https://github.com/iNavFlight/inav/releases/tag/9.0.0-RC4), 1 day ago) - INAV: Navigation-enabled flight control software
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.0.0-RC4](https://github.com/iNavFlight/inav/releases/tag/9.0.0-RC4), 2 days ago) - INAV: Navigation-enabled flight control software
 - [flightng/firmware](https://github.com/flightng/firmware) ([v20251207-0.1.3-8ab496d](https://github.com/flightng/firmware/releases/tag/v20251207-0.1.3-8ab496d), 3 weeks ago) - 
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ([1.5.0](https://github.com/Anduin2017/HowToCook/releases/tag/1.5.0), 6 months ago) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only).
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) ([v1.1.0](https://github.com/fontanf/packingsolver/releases/tag/v1.1.0), 2 years ago) - A solver for (geometrical) packing problems
