@@ -24,14 +24,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.0.0-RC4](https://github.com/iNavFlight/inav/releases/tag/9.0.0-RC4), 5 days ago) - INAV: Navigation-enabled flight control software
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.0.0-RC4](https://github.com/iNavFlight/inav/releases/tag/9.0.0-RC4), 6 days ago) - INAV: Navigation-enabled flight control software
 - [flightng/firmware](https://github.com/flightng/firmware) ([v20251207-0.1.3-8ab496d](https://github.com/flightng/firmware/releases/tag/v20251207-0.1.3-8ab496d), 3 weeks ago) - 
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ([1.5.0](https://github.com/Anduin2017/HowToCook/releases/tag/1.5.0), 6 months ago) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only).
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) ([v1.1.0](https://github.com/fontanf/packingsolver/releases/tag/v1.1.0), 2 years ago) - A solver for (geometrical) packing problems
 
 #### 🔨 My recent Pull Requests
 
-- [Added ICM42605 IMU support for SKYSTARSH743HD](https://github.com/iNavFlight/inav/pull/11014) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (3 months ago)
+- [Added ICM42605 IMU support for SKYSTARSH743HD](https://github.com/iNavFlight/inav/pull/11014) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (4 months ago)
 - [Add support for SKYSTARSF405V2](https://github.com/iNavFlight/inav/pull/10884) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (7 months ago)
 - [添加python版的mcp插件](https://github.com/Anduin2017/HowToCook/pull/1566) on [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) (8 months ago)
 - [Allow compute_intersections supports circular arcs](https://github.com/fontanf/packingsolver/pull/185) on [fontanf/packingsolver](https://github.com/fontanf/packingsolver) (9 months ago)
@@ -45,8 +45,8 @@
 #### ⭐ Recent Stars
 
 - [zai-org/GLM-TTS](https://github.com/zai-org/GLM-TTS) - GLM-TTS: Controllable &amp; Emotion-Expressive Zero-shot TTS with Multi-Reward Reinforcement Learning (2 weeks ago)
-- [primefaces/primeflex](https://github.com/primefaces/primeflex) - PrimeFlex is a lightweight responsive CSS utility library to accompany Prime UI libraries and static webpages as well (2 weeks ago)
-- [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library (2 weeks ago)
+- [primefaces/primeflex](https://github.com/primefaces/primeflex) - PrimeFlex is a lightweight responsive CSS utility library to accompany Prime UI libraries and static webpages as well (3 weeks ago)
+- [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library (3 weeks ago)
 - [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform (3 weeks ago)
 - [hpmicro/betaflight](https://github.com/hpmicro/betaflight) - Open Source Flight Controller Firmware (3 weeks ago)
 - [CallMeR/opnsense_configuration_notes](https://github.com/CallMeR/opnsense_configuration_notes) - OPNsense 防火墙的安装以及折腾手记。 (3 weeks ago)
