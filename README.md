@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [feiskyer/koder](https://github.com/feiskyer/koder) - Koder - An intuitive AI coding assistant and interactive CLI tool that boosts developer productivity with intelligent automation and context-aware support. (today)
+- [feiskyer/koder](https://github.com/feiskyer/koder) - Koder - An intuitive AI coding assistant and interactive CLI tool that boosts developer productivity with intelligent automation and context-aware support. (1 day ago)
 - [zai-org/GLM-TTS](https://github.com/zai-org/GLM-TTS) - GLM-TTS: Controllable &amp; Emotion-Expressive Zero-shot TTS with Multi-Reward Reinforcement Learning (3 weeks ago)
 - [primefaces/primeflex](https://github.com/primefaces/primeflex) - PrimeFlex is a lightweight responsive CSS utility library to accompany Prime UI libraries and static webpages as well (3 weeks ago)
 - [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library (3 weeks ago)
