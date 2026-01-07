@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (today)
 - [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (2 weeks ago)
 - [flightng/firmware](https://github.com/flightng/firmware) -  (3 months ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (4 months ago)
@@ -44,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [cvetaevvitaliy/OpenPixelOSD](https://github.com/cvetaevvitaliy/OpenPixelOSD) - OpenPixelOSD — Open-source OSD. Designed for analog FPV systems. Focused on maximum flexibility, customization, and zero compromises — no locked features, no proprietary code. Made for the community, powered by the community. (today)
 - [feiskyer/koder](https://github.com/feiskyer/koder) - Koder - An intuitive AI coding assistant and interactive CLI tool that boosts developer productivity with intelligent automation and context-aware support. (1 day ago)
 - [zai-org/GLM-TTS](https://github.com/zai-org/GLM-TTS) - GLM-TTS: Controllable &amp; Emotion-Expressive Zero-shot TTS with Multi-Reward Reinforcement Learning (3 weeks ago)
 - [primefaces/primeflex](https://github.com/primefaces/primeflex) - PrimeFlex is a lightweight responsive CSS utility library to accompany Prime UI libraries and static webpages as well (3 weeks ago)
@@ -53,7 +55,6 @@
 - [CallMeR/opnsense_configuration_notes](https://github.com/CallMeR/opnsense_configuration_notes) - OPNsense 防火墙的安装以及折腾手记。 (1 month ago)
 - [cure-lab/MMCircuitEval](https://github.com/cure-lab/MMCircuitEval) - A comprehensive multimodal circuit-focused benchmark for evaluating large language models (LLMs) (1 month ago)
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows. (1 month ago)
-- [microsoft/Codex-CLI](https://github.com/microsoft/Codex-CLI) - CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents (1 month ago)
 
 #### 💬 Feedback
 
