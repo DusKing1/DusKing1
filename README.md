@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [shareAI-lab/shareskill](https://github.com/shareAI-lab/shareskill) - search for agent skills (today)
 - [cvetaevvitaliy/OpenPixelOSD](https://github.com/cvetaevvitaliy/OpenPixelOSD) - OpenPixelOSD — Open-source OSD. Designed for analog FPV systems. Focused on maximum flexibility, customization, and zero compromises — no locked features, no proprietary code. Made for the community, powered by the community. (1 day ago)
 - [feiskyer/koder](https://github.com/feiskyer/koder) - Koder - An intuitive AI coding assistant and interactive CLI tool that boosts developer productivity with intelligent automation and context-aware support. (2 days ago)
 - [zai-org/GLM-TTS](https://github.com/zai-org/GLM-TTS) - GLM-TTS: Controllable &amp; Emotion-Expressive Zero-shot TTS with Multi-Reward Reinforcement Learning (3 weeks ago)
@@ -54,7 +55,6 @@
 - [hpmicro/betaflight](https://github.com/hpmicro/betaflight) - Open Source Flight Controller Firmware (1 month ago)
 - [CallMeR/opnsense_configuration_notes](https://github.com/CallMeR/opnsense_configuration_notes) - OPNsense 防火墙的安装以及折腾手记。 (1 month ago)
 - [cure-lab/MMCircuitEval](https://github.com/cure-lab/MMCircuitEval) - A comprehensive multimodal circuit-focused benchmark for evaluating large language models (LLMs) (1 month ago)
-- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows. (1 month ago)
 
 #### 💬 Feedback
 
