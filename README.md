@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (today)
+- [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (1 day ago)
 - [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (2 weeks ago)
 - [flightng/firmware](https://github.com/flightng/firmware) -  (3 months ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (4 months ago)
@@ -32,8 +32,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update docs for fidelity x firmware](https://github.com/flightng/docs/pull/5) on [flightng/docs](https://github.com/flightng/docs) (today)
-- [Switch to glightbox and update documentation links](https://github.com/flightng/docs/pull/4) on [flightng/docs](https://github.com/flightng/docs) (1 day ago)
+- [Update docs for fidelity x firmware](https://github.com/flightng/docs/pull/5) on [flightng/docs](https://github.com/flightng/docs) (1 day ago)
+- [Switch to glightbox and update documentation links](https://github.com/flightng/docs/pull/4) on [flightng/docs](https://github.com/flightng/docs) (2 days ago)
 - [Added ICM42605 IMU support for SKYSTARSH743HD](https://github.com/iNavFlight/inav/pull/11014) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (4 months ago)
 - [Add support for SKYSTARSF405V2](https://github.com/iNavFlight/inav/pull/10884) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (7 months ago)
 - [添加python版的mcp插件](https://github.com/Anduin2017/HowToCook/pull/1566) on [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) (8 months ago)
@@ -45,12 +45,12 @@
 
 #### ⭐ Recent Stars
 
-- [shareAI-lab/shareskill](https://github.com/shareAI-lab/shareskill) - search for agent skills (today)
-- [cvetaevvitaliy/OpenPixelOSD](https://github.com/cvetaevvitaliy/OpenPixelOSD) - OpenPixelOSD — Open-source OSD. Designed for analog FPV systems. Focused on maximum flexibility, customization, and zero compromises — no locked features, no proprietary code. Made for the community, powered by the community. (1 day ago)
-- [feiskyer/koder](https://github.com/feiskyer/koder) - Koder - An intuitive AI coding assistant and interactive CLI tool that boosts developer productivity with intelligent automation and context-aware support. (2 days ago)
+- [shareAI-lab/shareskill](https://github.com/shareAI-lab/shareskill) - search for agent skills (1 day ago)
+- [cvetaevvitaliy/OpenPixelOSD](https://github.com/cvetaevvitaliy/OpenPixelOSD) - OpenPixelOSD — Open-source OSD. Designed for analog FPV systems. Focused on maximum flexibility, customization, and zero compromises — no locked features, no proprietary code. Made for the community, powered by the community. (2 days ago)
+- [feiskyer/koder](https://github.com/feiskyer/koder) - Koder - An intuitive AI coding assistant and interactive CLI tool that boosts developer productivity with intelligent automation and context-aware support. (3 days ago)
 - [zai-org/GLM-TTS](https://github.com/zai-org/GLM-TTS) - GLM-TTS: Controllable &amp; Emotion-Expressive Zero-shot TTS with Multi-Reward Reinforcement Learning (3 weeks ago)
-- [primefaces/primeflex](https://github.com/primefaces/primeflex) - PrimeFlex is a lightweight responsive CSS utility library to accompany Prime UI libraries and static webpages as well (3 weeks ago)
-- [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library (3 weeks ago)
+- [primefaces/primeflex](https://github.com/primefaces/primeflex) - PrimeFlex is a lightweight responsive CSS utility library to accompany Prime UI libraries and static webpages as well (4 weeks ago)
+- [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library (4 weeks ago)
 - [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform (1 month ago)
 - [hpmicro/betaflight](https://github.com/hpmicro/betaflight) - Open Source Flight Controller Firmware (1 month ago)
 - [CallMeR/opnsense_configuration_notes](https://github.com/CallMeR/opnsense_configuration_notes) - OPNsense 防火墙的安装以及折腾手记。 (1 month ago)
