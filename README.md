@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Revise and expand Fidelity X documentation](https://github.com/flightng/docs/pull/9) on [flightng/docs](https://github.com/flightng/docs) (today)
 - [Revamp docs with Apple-style design and fullpage scroll](https://github.com/flightng/docs/pull/7) on [flightng/docs](https://github.com/flightng/docs) (1 day ago)
 - [Update docs for fidelity x firmware](https://github.com/flightng/docs/pull/5) on [flightng/docs](https://github.com/flightng/docs) (4 days ago)
 - [Switch to glightbox and update documentation links](https://github.com/flightng/docs/pull/4) on [flightng/docs](https://github.com/flightng/docs) (5 days ago)
@@ -41,7 +42,6 @@
 - [Allow compute_intersections supports circular arcs](https://github.com/fontanf/packingsolver/pull/185) on [fontanf/packingsolver](https://github.com/fontanf/packingsolver) (9 months ago)
 - [Add shape level inflate method](https://github.com/fontanf/packingsolver/pull/169) on [fontanf/packingsolver](https://github.com/fontanf/packingsolver) (9 months ago)
 - [Fix SKYSTARSF405WING target definition](https://github.com/iNavFlight/inav/pull/10718) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (10 months ago)
-- [Add support for SKYSTARSF405WING target](https://github.com/iNavFlight/inav/pull/10561) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (1 year ago)
 
 #### ⭐ Recent Stars
 
