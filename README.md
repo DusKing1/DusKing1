@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (today)
+- [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (1 day ago)
 - [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (3 weeks ago)
 - [flightng/firmware](https://github.com/flightng/firmware) -  (3 months ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (4 months ago)
@@ -32,11 +32,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Improve responsive typography and fullpage scroll](https://github.com/flightng/docs/pull/11) on [flightng/docs](https://github.com/flightng/docs) (today)
-- [Revise and expand Fidelity X documentation](https://github.com/flightng/docs/pull/9) on [flightng/docs](https://github.com/flightng/docs) (1 day ago)
-- [Revamp docs with Apple-style design and fullpage scroll](https://github.com/flightng/docs/pull/7) on [flightng/docs](https://github.com/flightng/docs) (2 days ago)
-- [Update docs for fidelity x firmware](https://github.com/flightng/docs/pull/5) on [flightng/docs](https://github.com/flightng/docs) (5 days ago)
-- [Switch to glightbox and update documentation links](https://github.com/flightng/docs/pull/4) on [flightng/docs](https://github.com/flightng/docs) (6 days ago)
+- [Improve responsive typography and fullpage scroll](https://github.com/flightng/docs/pull/11) on [flightng/docs](https://github.com/flightng/docs) (1 day ago)
+- [Revise and expand Fidelity X documentation](https://github.com/flightng/docs/pull/9) on [flightng/docs](https://github.com/flightng/docs) (2 days ago)
+- [Revamp docs with Apple-style design and fullpage scroll](https://github.com/flightng/docs/pull/7) on [flightng/docs](https://github.com/flightng/docs) (3 days ago)
+- [Update docs for fidelity x firmware](https://github.com/flightng/docs/pull/5) on [flightng/docs](https://github.com/flightng/docs) (6 days ago)
+- [Switch to glightbox and update documentation links](https://github.com/flightng/docs/pull/4) on [flightng/docs](https://github.com/flightng/docs) (1 week ago)
 - [Added ICM42605 IMU support for SKYSTARSH743HD](https://github.com/iNavFlight/inav/pull/11014) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (4 months ago)
 - [Add support for SKYSTARSF405V2](https://github.com/iNavFlight/inav/pull/10884) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (7 months ago)
 - [添加python版的mcp插件](https://github.com/Anduin2017/HowToCook/pull/1566) on [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) (8 months ago)
@@ -45,8 +45,8 @@
 
 #### ⭐ Recent Stars
 
-- [shareAI-lab/shareskill](https://github.com/shareAI-lab/shareskill) - search for agent skills (5 days ago)
-- [cvetaevvitaliy/OpenPixelOSD](https://github.com/cvetaevvitaliy/OpenPixelOSD) - OpenPixelOSD — Open-source OSD. Designed for analog FPV systems. Focused on maximum flexibility, customization, and zero compromises — no locked features, no proprietary code. Made for the community, powered by the community. (6 days ago)
+- [shareAI-lab/shareskill](https://github.com/shareAI-lab/shareskill) - search for agent skills (6 days ago)
+- [cvetaevvitaliy/OpenPixelOSD](https://github.com/cvetaevvitaliy/OpenPixelOSD) - OpenPixelOSD — Open-source OSD. Designed for analog FPV systems. Focused on maximum flexibility, customization, and zero compromises — no locked features, no proprietary code. Made for the community, powered by the community. (1 week ago)
 - [feiskyer/koder](https://github.com/feiskyer/koder) - Koder - An intuitive AI coding assistant and interactive CLI tool that boosts developer productivity with intelligent automation and context-aware support. (1 week ago)
 - [zai-org/GLM-TTS](https://github.com/zai-org/GLM-TTS) - GLM-TTS: Controllable &amp; Emotion-Expressive Zero-shot TTS with Multi-Reward Reinforcement Learning (1 month ago)
 - [primefaces/primeflex](https://github.com/primefaces/primeflex) - PrimeFlex is a lightweight responsive CSS utility library to accompany Prime UI libraries and static webpages as well (1 month ago)
