@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [cuhk-eda/InstantGR](https://github.com/cuhk-eda/InstantGR) - GPU-Accelerated Global Router (today)
 - [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Wan: Open and Advanced Large-Scale Video Generative Models (6 days ago)
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai (1 week ago)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (1 week ago)
@@ -54,7 +55,6 @@
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you. (2 weeks ago)
 - [POSO-PocketSolutions/opencode-cursor-auth](https://github.com/POSO-PocketSolutions/opencode-cursor-auth) - Zero-config authentication for Cursor tools using local credentials. (2 weeks ago)
 - [shareAI-lab/shareskill](https://github.com/shareAI-lab/shareskill) - search for agent skills (3 weeks ago)
-- [cvetaevvitaliy/OpenPixelOSD](https://github.com/cvetaevvitaliy/OpenPixelOSD) - OpenPixelOSD — Open-source OSD. Designed for analog FPV systems. Focused on maximum flexibility, customization, and zero compromises — no locked features, no proprietary code. Made for the community, powered by the community. (3 weeks ago)
 
 #### 💬 Feedback
 
