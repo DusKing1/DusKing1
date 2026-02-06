@@ -40,13 +40,13 @@
 - [Revise and expand Fidelity X documentation](https://github.com/flightng/docs/pull/9) on [flightng/docs](https://github.com/flightng/docs) (3 weeks ago)
 - [Revamp docs with Apple-style design and fullpage scroll](https://github.com/flightng/docs/pull/7) on [flightng/docs](https://github.com/flightng/docs) (3 weeks ago)
 - [Update docs for fidelity x firmware](https://github.com/flightng/docs/pull/5) on [flightng/docs](https://github.com/flightng/docs) (4 weeks ago)
-- [Switch to glightbox and update documentation links](https://github.com/flightng/docs/pull/4) on [flightng/docs](https://github.com/flightng/docs) (4 weeks ago)
+- [Switch to glightbox and update documentation links](https://github.com/flightng/docs/pull/4) on [flightng/docs](https://github.com/flightng/docs) (1 month ago)
 - [Added ICM42605 IMU support for SKYSTARSH743HD](https://github.com/iNavFlight/inav/pull/11014) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [moderngpu/moderngpu](https://github.com/moderngpu/moderngpu) - Patterns and behaviors for GPU computing (today)
-- [cuhk-eda/InstantGR](https://github.com/cuhk-eda/InstantGR) - GPU-Accelerated Global Router (3 days ago)
+- [moderngpu/moderngpu](https://github.com/moderngpu/moderngpu) - Patterns and behaviors for GPU computing (1 day ago)
+- [cuhk-eda/InstantGR](https://github.com/cuhk-eda/InstantGR) - GPU-Accelerated Global Router (4 days ago)
 - [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Wan: Open and Advanced Large-Scale Video Generative Models (1 week ago)
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai (2 weeks ago)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (2 weeks ago)
