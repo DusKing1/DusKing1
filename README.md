@@ -33,10 +33,10 @@
 #### 🔨 My recent Pull Requests
 
 - [Revise and expand supported boards documentation](https://github.com/flightng/docs/pull/15) on [flightng/docs](https://github.com/flightng/docs) (3 weeks ago)
-- [Improve large screen layout and TOC positioning](https://github.com/flightng/docs/pull/14) on [flightng/docs](https://github.com/flightng/docs) (3 weeks ago)
+- [Improve large screen layout and TOC positioning](https://github.com/flightng/docs/pull/14) on [flightng/docs](https://github.com/flightng/docs) (4 weeks ago)
 - [Fix: trigger deploy workflow on master branch instead of main](https://github.com/flightng/docs/pull/13) on [flightng/docs](https://github.com/flightng/docs) (4 weeks ago)
 - [Migrate to astro &#43; starlight](https://github.com/flightng/docs/pull/12) on [flightng/docs](https://github.com/flightng/docs) (4 weeks ago)
-- [Improve responsive typography and fullpage scroll](https://github.com/flightng/docs/pull/11) on [flightng/docs](https://github.com/flightng/docs) (4 weeks ago)
+- [Improve responsive typography and fullpage scroll](https://github.com/flightng/docs/pull/11) on [flightng/docs](https://github.com/flightng/docs) (1 month ago)
 - [Revise and expand Fidelity X documentation](https://github.com/flightng/docs/pull/9) on [flightng/docs](https://github.com/flightng/docs) (1 month ago)
 - [Revamp docs with Apple-style design and fullpage scroll](https://github.com/flightng/docs/pull/7) on [flightng/docs](https://github.com/flightng/docs) (1 month ago)
 - [Update docs for fidelity x firmware](https://github.com/flightng/docs/pull/5) on [flightng/docs](https://github.com/flightng/docs) (1 month ago)
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [moderngpu/moderngpu](https://github.com/moderngpu/moderngpu) - Patterns and behaviors for GPU computing (6 days ago)
+- [moderngpu/moderngpu](https://github.com/moderngpu/moderngpu) - Patterns and behaviors for GPU computing (1 week ago)
 - [cuhk-eda/InstantGR](https://github.com/cuhk-eda/InstantGR) - GPU-Accelerated Global Router (1 week ago)
 - [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Wan: Open and Advanced Large-Scale Video Generative Models (2 weeks ago)
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai (3 weeks ago)
@@ -54,7 +54,7 @@
 - [DiningFactory/panda-vpn-pro](https://github.com/DiningFactory/panda-vpn-pro) - 🚁🚀 2025机场推荐 |  熊猫VPN（PandaVPNPro）已确定跑路！快连VPN ，小牛加速器（小牛VPN）体验不佳且价格贵。低价机场，便宜机场，平价机场，性价比机场，高速机场，稳定机场，一元机场，翻墙机场，付费机场，收费机场，冷门机场，优质机场，廉价机场。机场评测，中国翻墙，科学上网，梯子。非永久免费梯子，官网，非永久免费VPN，非免费机场！VPN China。按量计费机场，按量付费机场，不限时机场。机场节点订阅，节点分享，Clash节点，V2ray节点，非免费节点。适用ClashForWindows，V2rayN，singbox，nekobox，小火箭等代理软件🚀🚁 (3 weeks ago)
 - [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork, powered by opencode (3 weeks ago)
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness (3 weeks ago)
-- [POSO-PocketSolutions/opencode-cursor-auth](https://github.com/POSO-PocketSolutions/opencode-cursor-auth) - Zero-config authentication for Cursor tools using local credentials. (3 weeks ago)
+- [POSO-PocketSolutions/opencode-cursor-auth](https://github.com/POSO-PocketSolutions/opencode-cursor-auth) - Zero-config authentication for Cursor tools using local credentials. (4 weeks ago)
 
 #### 💬 Feedback
 
