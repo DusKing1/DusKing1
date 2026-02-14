@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [SOAR-Robotics-Lab/OpenPrism](https://github.com/SOAR-Robotics-Lab/OpenPrism) - Bring diagrams, charts, and AI-generated images into your OpenCode agent—multi-tier visualization for design, analysis, and presentation.o your AI coding agent workflow. (today)
 - [moderngpu/moderngpu](https://github.com/moderngpu/moderngpu) - Patterns and behaviors for GPU computing (1 week ago)
 - [cuhk-eda/InstantGR](https://github.com/cuhk-eda/InstantGR) - GPU-Accelerated Global Router (1 week ago)
 - [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Wan: Open and Advanced Large-Scale Video Generative Models (2 weeks ago)
@@ -54,7 +55,6 @@
 - [DiningFactory/panda-vpn-pro](https://github.com/DiningFactory/panda-vpn-pro) - 🚁🚀 2025机场推荐 |  熊猫VPN（PandaVPNPro）已确定跑路！快连VPN ，小牛加速器（小牛VPN）体验不佳且价格贵。低价机场，便宜机场，平价机场，性价比机场，高速机场，稳定机场，一元机场，翻墙机场，付费机场，收费机场，冷门机场，优质机场，廉价机场。机场评测，中国翻墙，科学上网，梯子。非永久免费梯子，官网，非永久免费VPN，非免费机场！VPN China。按量计费机场，按量付费机场，不限时机场。机场节点订阅，节点分享，Clash节点，V2ray节点，非免费节点。适用ClashForWindows，V2rayN，singbox，nekobox，小火箭等代理软件🚀🚁 (3 weeks ago)
 - [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork, powered by opencode (3 weeks ago)
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness (3 weeks ago)
-- [POSO-PocketSolutions/opencode-cursor-auth](https://github.com/POSO-PocketSolutions/opencode-cursor-auth) - Zero-config authentication for Cursor tools using local credentials. (1 month ago)
 
 #### 💬 Feedback
 
