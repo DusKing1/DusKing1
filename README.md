@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [shareAI-lab/bashclaw](https://github.com/shareAI-lab/bashclaw) - Bash is all you need ! Pure Bash reimplementation of OpenClaw, runing on Android &amp; MacOS &amp; Any Unix platform (today)
+- [shareAI-lab/bashclaw](https://github.com/shareAI-lab/bashclaw) - Bash is all you need  —— Pure Bash reimpl of OpenClaw, runing on Android &amp; MacOS &amp; Any Unix platform (today)
 - [SOAR-Robotics-Lab/OpenPrism](https://github.com/SOAR-Robotics-Lab/OpenPrism) - Bring diagrams, charts, and AI-generated images into your OpenCode agent—multi-tier visualization for design, analysis, and presentation.o your AI coding agent workflow. (1 day ago)
 - [moderngpu/moderngpu](https://github.com/moderngpu/moderngpu) - Patterns and behaviors for GPU computing (1 week ago)
 - [cuhk-eda/InstantGR](https://github.com/cuhk-eda/InstantGR) - GPU-Accelerated Global Router (1 week ago)
