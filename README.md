@@ -32,6 +32,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add AGENTS.md for LLM-assisted development](https://github.com/am32-firmware/am32-configurator/pull/40) on [am32-firmware/am32-configurator](https://github.com/am32-firmware/am32-configurator) (today)
+- [Add AGENTS.md project knowledge docs](https://github.com/MakerPnP/makerpnp/pull/13) on [MakerPnP/makerpnp](https://github.com/MakerPnP/makerpnp) (today)
 - [Revise and expand supported boards documentation](https://github.com/flightng/docs/pull/15) on [flightng/docs](https://github.com/flightng/docs) (1 month ago)
 - [Improve large screen layout and TOC positioning](https://github.com/flightng/docs/pull/14) on [flightng/docs](https://github.com/flightng/docs) (1 month ago)
 - [Fix: trigger deploy workflow on master branch instead of main](https://github.com/flightng/docs/pull/13) on [flightng/docs](https://github.com/flightng/docs) (1 month ago)
@@ -40,8 +42,6 @@
 - [Revise and expand Fidelity X documentation](https://github.com/flightng/docs/pull/9) on [flightng/docs](https://github.com/flightng/docs) (1 month ago)
 - [Revamp docs with Apple-style design and fullpage scroll](https://github.com/flightng/docs/pull/7) on [flightng/docs](https://github.com/flightng/docs) (1 month ago)
 - [Update docs for fidelity x firmware](https://github.com/flightng/docs/pull/5) on [flightng/docs](https://github.com/flightng/docs) (1 month ago)
-- [Switch to glightbox and update documentation links](https://github.com/flightng/docs/pull/4) on [flightng/docs](https://github.com/flightng/docs) (1 month ago)
-- [Added ICM42605 IMU support for SKYSTARSH743HD](https://github.com/iNavFlight/inav/pull/11014) on [iNavFlight/inav](https://github.com/iNavFlight/inav) (5 months ago)
 
 #### ⭐ Recent Stars
 
