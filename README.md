@@ -47,7 +47,7 @@
 
 - [a-little-wifi/Tinyriser](https://github.com/a-little-wifi/Tinyriser) - Cooler/cuter riser for Lenovo 8th/9th gen Tiny5 PCs (1 day ago)
 - [MakerPnP/makerpnp](https://github.com/MakerPnP/makerpnp) - PCB assembly software for Makers, including planning, pick-and-place and gerber viewing. (1 day ago)
-- [shareAI-lab/bashclaw](https://github.com/shareAI-lab/bashclaw) - Bash is all you need  —— Pure Bash reimpl of OpenClaw, runing on Android, MacOS &amp; any Unix System since 2006. (3 days ago)
+- [shareAI-lab/BashClaw](https://github.com/shareAI-lab/BashClaw) - Bash is All You Need. A pure Bash reimplementation of OpenClaw. No dependencies. No runtime. Runs everywhere since 2006 (3 days ago)
 - [SOAR-Robotics-Lab/OpenPrism](https://github.com/SOAR-Robotics-Lab/OpenPrism) - Bring diagrams, charts, and AI-generated images into your OpenCode agent—multi-tier visualization for design, analysis, and presentation.o your AI coding agent workflow. (4 days ago)
 - [moderngpu/moderngpu](https://github.com/moderngpu/moderngpu) - Patterns and behaviors for GPU computing (1 week ago)
 - [cuhk-eda/InstantGR](https://github.com/cuhk-eda/InstantGR) - GPU-Accelerated Global Router (2 weeks ago)
