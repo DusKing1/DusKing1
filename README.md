@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person&#39;s profile in 1000 social media \ websites (today)
 - [huggingface/skills](https://github.com/huggingface/skills) -  (2 days ago)
 - [a-little-wifi/Tinyriser](https://github.com/a-little-wifi/Tinyriser) - Cooler/cuter riser for Lenovo 8th/9th gen Tiny5 PCs (1 week ago)
 - [MakerPnP/makerpnp](https://github.com/MakerPnP/makerpnp) - PCB assembly software for Makers, including planning, pick-and-place and gerber viewing. (1 week ago)
@@ -56,7 +57,6 @@
 - [cuhk-eda/InstantGR](https://github.com/cuhk-eda/InstantGR) - GPU-Accelerated Global Router (3 weeks ago)
 - [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Wan: Open and Advanced Large-Scale Video Generative Models (4 weeks ago)
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai (1 month ago)
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (1 month ago)
 
 #### 💬 Feedback
 
