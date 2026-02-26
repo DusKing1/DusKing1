@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [duanyytop/agents-radar](https://github.com/duanyytop/agents-radar) - A daily digest pipeline that tracks GitHub activity across AI CLI tools and the OpenClaw agent ecosystem, scrapes official content from Anthropic and OpenAI, and publishes Chinese-language reports as Markdown files and GitHub Issues.  (today)
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person&#39;s profile in 1000 social media \ websites (2 days ago)
 - [huggingface/skills](https://github.com/huggingface/skills) -  (4 days ago)
 - [a-little-wifi/Tinyriser](https://github.com/a-little-wifi/Tinyriser) - Cooler/cuter riser for Lenovo 8th/9th gen Tiny5 PCs (1 week ago)
@@ -56,7 +57,6 @@
 - [moderngpu/moderngpu](https://github.com/moderngpu/moderngpu) - Patterns and behaviors for GPU computing (3 weeks ago)
 - [cuhk-eda/InstantGR](https://github.com/cuhk-eda/InstantGR) - GPU-Accelerated Global Router (3 weeks ago)
 - [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Wan: Open and Advanced Large-Scale Video Generative Models (1 month ago)
-- [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai (1 month ago)
 
 #### 💬 Feedback
 
