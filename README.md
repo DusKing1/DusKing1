@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [flightng/nightly-firmware](https://github.com/flightng/nightly-firmware) - Fydelix nightly firmware builds (automated) (today)
 - [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (5 days ago)
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (6 days ago)
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (1 month ago)
