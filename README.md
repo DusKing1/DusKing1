@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [duanyytop/agents-radar](https://github.com/duanyytop/agents-radar) - A daily digest pipeline that tracks GitHub activity across AI CLI tools and the OpenClaw agent ecosystem, scrapes official content from Anthropic and OpenAI, and publishes Chinese-language reports as Markdown files and GitHub Issues.  (2 days ago)
+- [duanyytop/agents-radar](https://github.com/duanyytop/agents-radar) - Tracks Claude Code, Codex, Gemini CLI, OpenClaw ecosystem, GitHub AI trending, and Anthropic/OpenAI updates. Daily Chinese digests via GitHub Actions. (2 days ago)
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person&#39;s profile in 1000 social media \ websites (4 days ago)
 - [huggingface/skills](https://github.com/huggingface/skills) -  (6 days ago)
 - [a-little-wifi/Tinyriser](https://github.com/a-little-wifi/Tinyriser) - Cooler/cuter riser for Lenovo 8th/9th gen Tiny5 PCs (1 week ago)
