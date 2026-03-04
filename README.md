@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [betrusted-io/xous-core](https://github.com/betrusted-io/xous-core) - The Xous microkernel (today)
 - [waoowaooAI/waoowaoo](https://github.com/waoowaooAI/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film &amp; video production. From shorts to live-action with Hollywood-standard workflows. (3 days ago)
 - [duanyytop/agents-radar](https://github.com/duanyytop/agents-radar) - Tracks Claude Code, Codex, Gemini CLI, OpenClaw ecosystem, GitHub AI trending, and Anthropic/OpenAI updates. Daily Chinese digests via GitHub Actions. (6 days ago)
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person&#39;s profile in 1000 social media \ websites (1 week ago)
@@ -56,7 +57,6 @@
 - [shareAI-lab/BashClaw](https://github.com/shareAI-lab/BashClaw) - Bash is All You Need. A pure Bash reimplementation of OpenClaw. No dependencies. No runtime. Runs everywhere since 2006 (2 weeks ago)
 - [SOAR-Robotics-Lab/OpenPrism](https://github.com/SOAR-Robotics-Lab/OpenPrism) - Bring diagrams, charts, and AI-generated images into your OpenCode agent—multi-tier visualization for design, analysis, and presentation.o your AI coding agent workflow. (2 weeks ago)
 - [moderngpu/moderngpu](https://github.com/moderngpu/moderngpu) - Patterns and behaviors for GPU computing (3 weeks ago)
-- [cuhk-eda/InstantGR](https://github.com/cuhk-eda/InstantGR) - GPU-Accelerated Global Router (1 month ago)
 
 #### 💬 Feedback
 
