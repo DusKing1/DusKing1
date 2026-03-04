@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (today)
-- [flightng/nightly-firmware](https://github.com/flightng/nightly-firmware) - Fydelix nightly firmware builds (automated) (4 days ago)
+- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (1 day ago)
+- [flightng/nightly-firmware](https://github.com/flightng/nightly-firmware) - Fydelix nightly firmware builds (automated) (5 days ago)
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (1 week ago)
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (1 month ago)
 - [flightng/firmware](https://github.com/flightng/firmware) -  (5 months ago)
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (5 months ago)
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (6 months ago)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only). (10 months ago)
 - [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (10 months ago)
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) - A solver for (geometrical) packing problems (11 months ago)
@@ -34,7 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(opencode): add data residency header support for OpenAI Enterprise](https://github.com/anomalyco/opencode/pull/15844) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (today)
+- [feat(provider): add data residency header support for OpenAI Enterprise](https://github.com/anomalyco/opencode/pull/15844) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (1 day ago)
 - [Fix out-of-bounds write in restLastSquaredDeviations fill](https://github.com/dlaidig/vqf/pull/37) on [dlaidig/vqf](https://github.com/dlaidig/vqf) (1 week ago)
 - [feat(provider): add 1M context window support for Anthropic models](https://github.com/anomalyco/opencode/pull/14375) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (1 week ago)
 - [Add AGENTS.md for LLM-assisted development](https://github.com/am32-firmware/am32-configurator/pull/40) on [am32-firmware/am32-configurator](https://github.com/am32-firmware/am32-configurator) (2 weeks ago)
@@ -47,8 +47,8 @@
 
 #### ⭐ Recent Stars
 
-- [waoowaooAI/waoowaoo](https://github.com/waoowaooAI/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film &amp; video production. From shorts to live-action with Hollywood-standard workflows. (2 days ago)
-- [duanyytop/agents-radar](https://github.com/duanyytop/agents-radar) - Tracks Claude Code, Codex, Gemini CLI, OpenClaw ecosystem, GitHub AI trending, and Anthropic/OpenAI updates. Daily Chinese digests via GitHub Actions. (5 days ago)
+- [waoowaooAI/waoowaoo](https://github.com/waoowaooAI/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film &amp; video production. From shorts to live-action with Hollywood-standard workflows. (3 days ago)
+- [duanyytop/agents-radar](https://github.com/duanyytop/agents-radar) - Tracks Claude Code, Codex, Gemini CLI, OpenClaw ecosystem, GitHub AI trending, and Anthropic/OpenAI updates. Daily Chinese digests via GitHub Actions. (6 days ago)
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person&#39;s profile in 1000 social media \ websites (1 week ago)
 - [huggingface/skills](https://github.com/huggingface/skills) -  (1 week ago)
 - [a-little-wifi/Tinyriser](https://github.com/a-little-wifi/Tinyriser) - Cooler/cuter riser for Lenovo 8th/9th gen Tiny5 PCs (2 weeks ago)
@@ -56,7 +56,7 @@
 - [shareAI-lab/BashClaw](https://github.com/shareAI-lab/BashClaw) - Bash is All You Need. A pure Bash reimplementation of OpenClaw. No dependencies. No runtime. Runs everywhere since 2006 (2 weeks ago)
 - [SOAR-Robotics-Lab/OpenPrism](https://github.com/SOAR-Robotics-Lab/OpenPrism) - Bring diagrams, charts, and AI-generated images into your OpenCode agent—multi-tier visualization for design, analysis, and presentation.o your AI coding agent workflow. (2 weeks ago)
 - [moderngpu/moderngpu](https://github.com/moderngpu/moderngpu) - Patterns and behaviors for GPU computing (3 weeks ago)
-- [cuhk-eda/InstantGR](https://github.com/cuhk-eda/InstantGR) - GPU-Accelerated Global Router (4 weeks ago)
+- [cuhk-eda/InstantGR](https://github.com/cuhk-eda/InstantGR) - GPU-Accelerated Global Router (1 month ago)
 
 #### 💬 Feedback
 
