@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (today)
 - [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (2 days ago)
 - [flightng/nightly-firmware](https://github.com/flightng/nightly-firmware) - Fydelix nightly firmware builds (automated) (6 days ago)
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (1 week ago)
@@ -14,6 +15,7 @@
 
 #### 🌱 My latest projects
 
+- [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support
 - [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) - 
 - [DusKing1/wskey](https://github.com/DusKing1/wskey) - 
 - [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation
@@ -23,7 +25,6 @@
 - [DusKing1/logger-presets](https://github.com/DusKing1/logger-presets) - 
 - [DusKing1/sim-key](https://github.com/DusKing1/sim-key) - simulated keyboard on esp8266 nodemcu v3
 - [DusKing1/draw.io](https://github.com/DusKing1/draw.io) - 
-- [DusKing1/helloworld-rust](https://github.com/DusKing1/helloworld-rust) - Rustlang running on a custom F103 dev board
 
 #### 🔭 Latest releases I've contributed to
 
