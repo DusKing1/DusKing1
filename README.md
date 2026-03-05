@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (today)
 - [betrusted-io/xous-core](https://github.com/betrusted-io/xous-core) - The Xous microkernel (1 day ago)
 - [waoowaooAI/waoowaoo](https://github.com/waoowaooAI/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film &amp; video production. From shorts to live-action with Hollywood-standard workflows. (4 days ago)
 - [duanyytop/agents-radar](https://github.com/duanyytop/agents-radar) - Tracks Claude Code, Codex, Gemini CLI, OpenClaw ecosystem, GitHub AI trending, and Anthropic/OpenAI updates. Daily Chinese digests via GitHub Actions. (1 week ago)
@@ -57,7 +58,6 @@
 - [MakerPnP/makerpnp](https://github.com/MakerPnP/makerpnp) - PCB assembly software for Makers, including planning, pick-and-place and gerber viewing. (2 weeks ago)
 - [shareAI-lab/BashClaw](https://github.com/shareAI-lab/BashClaw) - Bash is All You Need. A pure Bash reimplementation of OpenClaw. No dependencies. No runtime. Runs everywhere since 2006 (2 weeks ago)
 - [SOAR-Robotics-Lab/OpenPrism](https://github.com/SOAR-Robotics-Lab/OpenPrism) - Bring diagrams, charts, and AI-generated images into your OpenCode agent—multi-tier visualization for design, analysis, and presentation.o your AI coding agent workflow. (2 weeks ago)
-- [moderngpu/moderngpu](https://github.com/moderngpu/moderngpu) - Patterns and behaviors for GPU computing (4 weeks ago)
 
 #### 💬 Feedback
 
