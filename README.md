@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. (today)
 - [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (today)
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (1 day ago)
 - [betrusted-io/xous-core](https://github.com/betrusted-io/xous-core) - The Xous microkernel (2 days ago)
@@ -57,7 +58,6 @@
 - [huggingface/skills](https://github.com/huggingface/skills) -  (1 week ago)
 - [a-little-wifi/Tinyriser](https://github.com/a-little-wifi/Tinyriser) - Cooler/cuter riser for Lenovo 8th/9th gen Tiny5 PCs (2 weeks ago)
 - [MakerPnP/makerpnp](https://github.com/MakerPnP/makerpnp) - PCB assembly software for Makers, including planning, pick-and-place and gerber viewing. (2 weeks ago)
-- [shareAI-lab/BashClaw](https://github.com/shareAI-lab/BashClaw) - Bash is All You Need. A pure Bash reimplementation of OpenClaw. No dependencies. No runtime. Runs everywhere since 2006 (2 weeks ago)
 
 #### 💬 Feedback
 
