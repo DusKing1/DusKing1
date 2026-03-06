@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (today)
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (1 day ago)
 - [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (3 days ago)
 - [flightng/nightly-firmware](https://github.com/flightng/nightly-firmware) - Fydelix nightly firmware builds (automated) (1 week ago)
@@ -11,10 +12,10 @@
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (6 months ago)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only). (10 months ago)
 - [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (10 months ago)
-- [fontanf/packingsolver](https://github.com/fontanf/packingsolver) - A solver for (geometrical) packing problems (11 months ago)
 
 #### 🌱 My latest projects
 
+- [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support
 - [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) - 
 - [DusKing1/wskey](https://github.com/DusKing1/wskey) - 
@@ -24,7 +25,6 @@
 - [DusKing1/github-slideshow](https://github.com/DusKing1/github-slideshow) - A robot powered training repository :robot:
 - [DusKing1/logger-presets](https://github.com/DusKing1/logger-presets) - 
 - [DusKing1/sim-key](https://github.com/DusKing1/sim-key) - simulated keyboard on esp8266 nodemcu v3
-- [DusKing1/draw.io](https://github.com/DusKing1/draw.io) - 
 
 #### 🔭 Latest releases I've contributed to
 
@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (today)
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (1 day ago)
 - [betrusted-io/xous-core](https://github.com/betrusted-io/xous-core) - The Xous microkernel (2 days ago)
 - [waoowaooAI/waoowaoo](https://github.com/waoowaooAI/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film &amp; video production. From shorts to live-action with Hollywood-standard workflows. (5 days ago)
@@ -57,7 +58,6 @@
 - [a-little-wifi/Tinyriser](https://github.com/a-little-wifi/Tinyriser) - Cooler/cuter riser for Lenovo 8th/9th gen Tiny5 PCs (2 weeks ago)
 - [MakerPnP/makerpnp](https://github.com/MakerPnP/makerpnp) - PCB assembly software for Makers, including planning, pick-and-place and gerber viewing. (2 weeks ago)
 - [shareAI-lab/BashClaw](https://github.com/shareAI-lab/BashClaw) - Bash is All You Need. A pure Bash reimplementation of OpenClaw. No dependencies. No runtime. Runs everywhere since 2006 (2 weeks ago)
-- [SOAR-Robotics-Lab/OpenPrism](https://github.com/SOAR-Robotics-Lab/OpenPrism) - Bring diagrams, charts, and AI-generated images into your OpenCode agent—multi-tier visualization for design, analysis, and presentation.o your AI coding agent workflow. (2 weeks ago)
 
 #### 💬 Feedback
 
