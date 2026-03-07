@@ -52,7 +52,7 @@
 - [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (1 day ago)
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (2 days ago)
 - [betrusted-io/xous-core](https://github.com/betrusted-io/xous-core) - The Xous microkernel (3 days ago)
-- [waoowaooAI/waoowaoo](https://github.com/waoowaooAI/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film &amp; video production. From shorts to live-action with Hollywood-standard workflows. (6 days ago)
+- [saturndec/waoowaoo](https://github.com/saturndec/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film &amp; video production. From shorts to live-action with Hollywood-standard workflows. (6 days ago)
 - [duanyytop/agents-radar](https://github.com/duanyytop/agents-radar) - Tracks Claude Code, Codex, Gemini CLI, OpenClaw ecosystem, GitHub AI trending, and Anthropic/OpenAI updates. Daily Chinese digests via GitHub Actions. (1 week ago)
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person&#39;s profile in 1000 social media \ websites (1 week ago)
 - [huggingface/skills](https://github.com/huggingface/skills) -  (1 week ago)
