@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (today)
 - [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (3 days ago)
-- [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (5 days ago)
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (6 days ago)
 - [flightng/nightly-firmware](https://github.com/flightng/nightly-firmware) - Fydelix nightly firmware builds (automated) (1 week ago)
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (2 weeks ago)
