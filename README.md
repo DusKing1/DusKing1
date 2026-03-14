@@ -48,6 +48,8 @@
 
 #### ⭐ Recent Stars
 
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer (today)
+- [SOAR-Robotics-Lab/ClawSpine](https://github.com/SOAR-Robotics-Lab/ClawSpine) - Spinal system that connects Claw-like agents to robots (today)
 - [xenodrive/vis](https://github.com/xenodrive/vis) - OpenCode Visualizer (today)
 - [shanggl/dshot-decoder](https://github.com/shanggl/dshot-decoder) - DShot protocol decoder for sigrok/libsigrokdecode - DShot150/300/600 ESC communication decoder with bidirectional eRPM telemetry support (today)
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - CLI-Anything: Making ALL Software Agent-Native (2 days ago)
@@ -56,8 +58,6 @@
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (6 days ago)
 - [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. (1 week ago)
 - [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (1 week ago)
-- [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (1 week ago)
-- [betrusted-io/xous-core](https://github.com/betrusted-io/xous-core) - The Xous microkernel (1 week ago)
 
 #### 💬 Feedback
 
