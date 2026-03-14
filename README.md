@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (2 days ago)
-- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (5 days ago)
+- [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (3 days ago)
+- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (6 days ago)
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (1 week ago)
 - [flightng/nightly-firmware](https://github.com/flightng/nightly-firmware) - Fydelix nightly firmware builds (automated) (2 weeks ago)
-- [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (2 weeks ago)
+- [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (3 weeks ago)
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (1 month ago)
 - [flightng/firmware](https://github.com/flightng/firmware) -  (5 months ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (6 months ago)
@@ -29,14 +29,14 @@
 #### 🔭 Latest releases I've contributed to
 
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.1](https://github.com/dlaidig/vqf/releases/tag/v2.1.1), 2 weeks ago) - 
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.0.1](https://github.com/iNavFlight/inav/releases/tag/9.0.1), 3 weeks ago) - INAV: Navigation-enabled flight control software
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.0.1](https://github.com/iNavFlight/inav/releases/tag/9.0.1), 4 weeks ago) - INAV: Navigation-enabled flight control software
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ([1.5.0](https://github.com/Anduin2017/HowToCook/releases/tag/1.5.0), 9 months ago) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only).
 - [fontanf/packingsolver](https://github.com/fontanf/packingsolver) ([v1.1.0](https://github.com/fontanf/packingsolver/releases/tag/v1.1.0), 2 years ago) - A solver for (geometrical) packing problems
 
 #### 🔨 My recent Pull Requests
 
 - [feat(provider): add data residency header support for OpenAI Enterprise](https://github.com/anomalyco/opencode/pull/15844) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (1 week ago)
-- [Fix out-of-bounds write in restLastSquaredDeviations fill](https://github.com/dlaidig/vqf/pull/37) on [dlaidig/vqf](https://github.com/dlaidig/vqf) (2 weeks ago)
+- [Fix out-of-bounds write in restLastSquaredDeviations fill](https://github.com/dlaidig/vqf/pull/37) on [dlaidig/vqf](https://github.com/dlaidig/vqf) (3 weeks ago)
 - [feat(provider): add 1M context window support for Anthropic models](https://github.com/anomalyco/opencode/pull/14375) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (3 weeks ago)
 - [Add AGENTS.md for LLM-assisted development](https://github.com/am32-firmware/am32-configurator/pull/40) on [am32-firmware/am32-configurator](https://github.com/am32-firmware/am32-configurator) (3 weeks ago)
 - [Add AGENTS.md project knowledge docs](https://github.com/MakerPnP/makerpnp/pull/13) on [MakerPnP/makerpnp](https://github.com/MakerPnP/makerpnp) (3 weeks ago)
@@ -44,14 +44,14 @@
 - [Improve large screen layout and TOC positioning](https://github.com/flightng/docs/pull/14) on [flightng/docs](https://github.com/flightng/docs) (1 month ago)
 - [Fix: trigger deploy workflow on master branch instead of main](https://github.com/flightng/docs/pull/13) on [flightng/docs](https://github.com/flightng/docs) (1 month ago)
 - [Migrate to astro &#43; starlight](https://github.com/flightng/docs/pull/12) on [flightng/docs](https://github.com/flightng/docs) (1 month ago)
-- [Improve responsive typography and fullpage scroll](https://github.com/flightng/docs/pull/11) on [flightng/docs](https://github.com/flightng/docs) (1 month ago)
+- [Improve responsive typography and fullpage scroll](https://github.com/flightng/docs/pull/11) on [flightng/docs](https://github.com/flightng/docs) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - CLI-Anything: Making ALL Software Agent-Native (1 day ago)
-- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs (1 day ago)
-- [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage (4 days ago)
-- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (5 days ago)
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - CLI-Anything: Making ALL Software Agent-Native (2 days ago)
+- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs (2 days ago)
+- [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage (5 days ago)
+- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (6 days ago)
 - [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. (1 week ago)
 - [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (1 week ago)
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (1 week ago)
