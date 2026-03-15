@@ -48,6 +48,8 @@
 
 #### ⭐ Recent Stars
 
+- [yuleisheng/symphony-lark](https://github.com/yuleisheng/symphony-lark) - Lark Tasks fork of OpenAI Symphony (today)
+- [MorvanZhou/zhongjie](https://github.com/MorvanZhou/zhongjie) - 让你的 AI 助手变成一位经验丰富的买房参谋 (today)
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer (1 day ago)
 - [SOAR-Robotics-Lab/ClawSpine](https://github.com/SOAR-Robotics-Lab/ClawSpine) - Spinal system that connects Claw-like agents to robots (1 day ago)
 - [xenodrive/vis](https://github.com/xenodrive/vis) - OpenCode Visualizer (1 day ago)
@@ -56,8 +58,6 @@
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs (3 days ago)
 - [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage (6 days ago)
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (1 week ago)
-- [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. (1 week ago)
-- [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (1 week ago)
 
 #### 💬 Feedback
 
