@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (3 days ago)
-- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (6 days ago)
+- [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (4 days ago)
+- [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (1 week ago)
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (1 week ago)
 - [flightng/nightly-firmware](https://github.com/flightng/nightly-firmware) - Fydelix nightly firmware builds (automated) (2 weeks ago)
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (3 weeks ago)
@@ -42,20 +42,20 @@
 - [Add AGENTS.md project knowledge docs](https://github.com/MakerPnP/makerpnp/pull/13) on [MakerPnP/makerpnp](https://github.com/MakerPnP/makerpnp) (3 weeks ago)
 - [Revise and expand supported boards documentation](https://github.com/flightng/docs/pull/15) on [flightng/docs](https://github.com/flightng/docs) (1 month ago)
 - [Improve large screen layout and TOC positioning](https://github.com/flightng/docs/pull/14) on [flightng/docs](https://github.com/flightng/docs) (1 month ago)
-- [Fix: trigger deploy workflow on master branch instead of main](https://github.com/flightng/docs/pull/13) on [flightng/docs](https://github.com/flightng/docs) (1 month ago)
-- [Migrate to astro &#43; starlight](https://github.com/flightng/docs/pull/12) on [flightng/docs](https://github.com/flightng/docs) (1 month ago)
+- [Fix: trigger deploy workflow on master branch instead of main](https://github.com/flightng/docs/pull/13) on [flightng/docs](https://github.com/flightng/docs) (2 months ago)
+- [Migrate to astro &#43; starlight](https://github.com/flightng/docs/pull/12) on [flightng/docs](https://github.com/flightng/docs) (2 months ago)
 - [Improve responsive typography and fullpage scroll](https://github.com/flightng/docs/pull/11) on [flightng/docs](https://github.com/flightng/docs) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer (today)
-- [SOAR-Robotics-Lab/ClawSpine](https://github.com/SOAR-Robotics-Lab/ClawSpine) - Spinal system that connects Claw-like agents to robots (today)
-- [xenodrive/vis](https://github.com/xenodrive/vis) - OpenCode Visualizer (today)
-- [shanggl/dshot-decoder](https://github.com/shanggl/dshot-decoder) - DShot protocol decoder for sigrok/libsigrokdecode - DShot150/300/600 ESC communication decoder with bidirectional eRPM telemetry support (today)
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - CLI-Anything: Making ALL Software Agent-Native (2 days ago)
-- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs (2 days ago)
-- [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage (5 days ago)
-- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (6 days ago)
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer (1 day ago)
+- [SOAR-Robotics-Lab/ClawSpine](https://github.com/SOAR-Robotics-Lab/ClawSpine) - Spinal system that connects Claw-like agents to robots (1 day ago)
+- [xenodrive/vis](https://github.com/xenodrive/vis) - OpenCode Visualizer (1 day ago)
+- [shanggl/dshot-decoder](https://github.com/shanggl/dshot-decoder) - DShot protocol decoder for sigrok/libsigrokdecode - DShot150/300/600 ESC communication decoder with bidirectional eRPM telemetry support (1 day ago)
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - CLI-Anything: Making ALL Software Agent-Native (3 days ago)
+- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs (3 days ago)
+- [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage (6 days ago)
+- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (1 week ago)
 - [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. (1 week ago)
 - [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (1 week ago)
 
