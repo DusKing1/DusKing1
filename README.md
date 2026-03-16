@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows (today)
 - [yuleisheng/symphony-lark](https://github.com/yuleisheng/symphony-lark) - Lark Tasks fork of OpenAI Symphony (1 day ago)
 - [MorvanZhou/zhongjie](https://github.com/MorvanZhou/zhongjie) - 让你的 AI 助手变成一位经验丰富的买房参谋 (1 day ago)
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer (2 days ago)
@@ -57,7 +58,6 @@
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - CLI-Anything: Making ALL Software Agent-Native (4 days ago)
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs (4 days ago)
 - [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage (1 week ago)
-- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (1 week ago)
 
 #### 💬 Feedback
 
