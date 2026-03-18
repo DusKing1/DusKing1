@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (6 days ago)
+- [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (1 week ago)
 - [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (1 week ago)
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (1 week ago)
 - [flightng/nightly-firmware](https://github.com/flightng/nightly-firmware) - Fydelix nightly firmware builds (automated) (2 weeks ago)
@@ -48,16 +48,16 @@
 
 #### ⭐ Recent Stars
 
-- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - Open-source database of 700&#43; cybersecurity skills for AI agents and security practitioners (today)
-- [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows (1 day ago)
-- [yuleisheng/symphony-lark](https://github.com/yuleisheng/symphony-lark) - Lark Tasks fork of OpenAI Symphony (2 days ago)
-- [MorvanZhou/zhongjie](https://github.com/MorvanZhou/zhongjie) - 让你的 AI 助手变成一位经验丰富的买房参谋 (2 days ago)
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 10 opinionated tools that serve as CEO, Eng Manager, Release Manager, Doc Engineer, and QA (3 days ago)
-- [SOAR-Robotics-Lab/ClawSpine](https://github.com/SOAR-Robotics-Lab/ClawSpine) - Spinal system that connects Claw-like agents to robots (3 days ago)
-- [xenodrive/vis](https://github.com/xenodrive/vis) - OpenCode Visualizer (3 days ago)
-- [shanggl/dshot-decoder](https://github.com/shanggl/dshot-decoder) - DShot protocol decoder for sigrok/libsigrokdecode - DShot150/300/600 ESC communication decoder with bidirectional eRPM telemetry support (3 days ago)
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - CLI-Anything: Making ALL Software Agent-Native (5 days ago)
-- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs (5 days ago)
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - Open-source database of 700&#43; cybersecurity skills for AI agents and security practitioners (1 day ago)
+- [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows (2 days ago)
+- [yuleisheng/symphony-lark](https://github.com/yuleisheng/symphony-lark) - Lark Tasks fork of OpenAI Symphony (3 days ago)
+- [MorvanZhou/zhongjie](https://github.com/MorvanZhou/zhongjie) - 让你的 AI 助手变成一位经验丰富的买房参谋 (3 days ago)
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 10 opinionated tools that serve as CEO, Eng Manager, Release Manager, Doc Engineer, and QA (4 days ago)
+- [SOAR-Robotics-Lab/ClawSpine](https://github.com/SOAR-Robotics-Lab/ClawSpine) - Spinal system that connects Claw-like agents to robots (4 days ago)
+- [xenodrive/vis](https://github.com/xenodrive/vis) - OpenCode Visualizer (4 days ago)
+- [shanggl/dshot-decoder](https://github.com/shanggl/dshot-decoder) - DShot protocol decoder for sigrok/libsigrokdecode - DShot150/300/600 ESC communication decoder with bidirectional eRPM telemetry support (4 days ago)
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - CLI-Anything: Making ALL Software Agent-Native (6 days ago)
+- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs (6 days ago)
 
 #### 💬 Feedback
 
