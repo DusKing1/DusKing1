@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (today)
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - Open-source database of 700&#43; cybersecurity skills for AI agents and security practitioners (2 days ago)
 - [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows (3 days ago)
 - [yuleisheng/symphony-lark](https://github.com/yuleisheng/symphony-lark) - Lark Tasks fork of OpenAI Symphony (4 days ago)
@@ -57,7 +58,6 @@
 - [xenodrive/vis](https://github.com/xenodrive/vis) - OpenCode Visualizer (5 days ago)
 - [shanggl/dshot-decoder](https://github.com/shanggl/dshot-decoder) - DShot protocol decoder for sigrok/libsigrokdecode - DShot150/300/600 ESC communication decoder with bidirectional eRPM telemetry support (5 days ago)
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - CLI-Anything: Making ALL Software Agent-Native (1 week ago)
-- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs (1 week ago)
 
 #### 💬 Feedback
 
