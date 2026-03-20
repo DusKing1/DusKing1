@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [jackwener/opencli](https://github.com/jackwener/opencli) - Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction. (1 day ago)
+- [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (1 day ago)
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (1 day ago)
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 734&#43; structured cybersecurity skills for AI agents · MITRE ATT&amp;CK mapped · agentskills.io open standard · Works with Claude Code, GitHub Copilot, OpenAI Codex CLI, Cursor, Gemini CLI &amp; 20&#43; platforms · Penetration testing, DFIR, threat intel, cloud security &amp; more · Apache 2.0 (3 days ago)
 - [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows (4 days ago)
