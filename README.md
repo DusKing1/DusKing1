@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [qqqlab/madflight](https://github.com/qqqlab/madflight) - Flight Controller for ESP32 / Raspberry Pico / STM32 (today)
 - [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (2 days ago)
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (2 days ago)
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 734&#43; structured cybersecurity skills for AI agents · MITRE ATT&amp;CK mapped · agentskills.io open standard · Works with Claude Code, GitHub Copilot, OpenAI Codex CLI, Cursor, Gemini CLI &amp; 20&#43; platforms · Penetration testing, DFIR, threat intel, cloud security &amp; more · Apache 2.0 (4 days ago)
@@ -57,7 +58,6 @@
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (1 week ago)
 - [SOAR-Robotics-Lab/ClawSpine](https://github.com/SOAR-Robotics-Lab/ClawSpine) - Spinal system that connects Claw-like agents to robots (1 week ago)
 - [xenodrive/vis](https://github.com/xenodrive/vis) - OpenCode Visualizer (1 week ago)
-- [shanggl/dshot-decoder](https://github.com/shanggl/dshot-decoder) - DShot protocol decoder for sigrok/libsigrokdecode - DShot150/300/600 ESC communication decoder with bidirectional eRPM telemetry support (1 week ago)
 
 #### 💬 Feedback
 
