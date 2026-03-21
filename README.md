@@ -6,12 +6,12 @@
 - [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (1 week ago)
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (2 weeks ago)
 - [flightng/nightly-firmware](https://github.com/flightng/nightly-firmware) - Fydelix nightly firmware builds (automated) (3 weeks ago)
-- [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (3 weeks ago)
+- [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (4 weeks ago)
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (2 months ago)
 - [flightng/firmware](https://github.com/flightng/firmware) -  (6 months ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (6 months ago)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only). (10 months ago)
-- [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (10 months ago)
+- [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) -  (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -36,7 +36,7 @@
 #### 🔨 My recent Pull Requests
 
 - [feat(provider): add data residency header support for OpenAI Enterprise](https://github.com/anomalyco/opencode/pull/15844) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (2 weeks ago)
-- [Fix out-of-bounds write in restLastSquaredDeviations fill](https://github.com/dlaidig/vqf/pull/37) on [dlaidig/vqf](https://github.com/dlaidig/vqf) (3 weeks ago)
+- [Fix out-of-bounds write in restLastSquaredDeviations fill](https://github.com/dlaidig/vqf/pull/37) on [dlaidig/vqf](https://github.com/dlaidig/vqf) (4 weeks ago)
 - [feat(provider): add 1M context window support for Anthropic models](https://github.com/anomalyco/opencode/pull/14375) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (4 weeks ago)
 - [Add AGENTS.md for LLM-assisted development](https://github.com/am32-firmware/am32-configurator/pull/40) on [am32-firmware/am32-configurator](https://github.com/am32-firmware/am32-configurator) (1 month ago)
 - [Add AGENTS.md project knowledge docs](https://github.com/MakerPnP/makerpnp/pull/13) on [MakerPnP/makerpnp](https://github.com/MakerPnP/makerpnp) (1 month ago)
@@ -48,16 +48,16 @@
 
 #### ⭐ Recent Stars
 
-- [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (1 day ago)
-- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (1 day ago)
-- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 734&#43; structured cybersecurity skills for AI agents · MITRE ATT&amp;CK mapped · agentskills.io open standard · Works with Claude Code, GitHub Copilot, OpenAI Codex CLI, Cursor, Gemini CLI &amp; 20&#43; platforms · Penetration testing, DFIR, threat intel, cloud security &amp; more · Apache 2.0 (3 days ago)
-- [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows (4 days ago)
-- [yuleisheng/symphony-lark](https://github.com/yuleisheng/symphony-lark) - Lark Tasks fork of OpenAI Symphony (5 days ago)
-- [MorvanZhou/zhongjie](https://github.com/MorvanZhou/zhongjie) - 让你的 AI 助手变成一位经验丰富的买房参谋 (5 days ago)
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (6 days ago)
-- [SOAR-Robotics-Lab/ClawSpine](https://github.com/SOAR-Robotics-Lab/ClawSpine) - Spinal system that connects Claw-like agents to robots (6 days ago)
-- [xenodrive/vis](https://github.com/xenodrive/vis) - OpenCode Visualizer (6 days ago)
-- [shanggl/dshot-decoder](https://github.com/shanggl/dshot-decoder) - DShot protocol decoder for sigrok/libsigrokdecode - DShot150/300/600 ESC communication decoder with bidirectional eRPM telemetry support (6 days ago)
+- [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (2 days ago)
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (2 days ago)
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 734&#43; structured cybersecurity skills for AI agents · MITRE ATT&amp;CK mapped · agentskills.io open standard · Works with Claude Code, GitHub Copilot, OpenAI Codex CLI, Cursor, Gemini CLI &amp; 20&#43; platforms · Penetration testing, DFIR, threat intel, cloud security &amp; more · Apache 2.0 (4 days ago)
+- [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows (5 days ago)
+- [yuleisheng/symphony-lark](https://github.com/yuleisheng/symphony-lark) - Lark Tasks fork of OpenAI Symphony (6 days ago)
+- [MorvanZhou/zhongjie](https://github.com/MorvanZhou/zhongjie) - 让你的 AI 助手变成一位经验丰富的买房参谋 (6 days ago)
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (1 week ago)
+- [SOAR-Robotics-Lab/ClawSpine](https://github.com/SOAR-Robotics-Lab/ClawSpine) - Spinal system that connects Claw-like agents to robots (1 week ago)
+- [xenodrive/vis](https://github.com/xenodrive/vis) - OpenCode Visualizer (1 week ago)
+- [shanggl/dshot-decoder](https://github.com/shanggl/dshot-decoder) - DShot protocol decoder for sigrok/libsigrokdecode - DShot150/300/600 ESC communication decoder with bidirectional eRPM telemetry support (1 week ago)
 
 #### 💬 Feedback
 
