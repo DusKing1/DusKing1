@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: 添加 Windows Terminal 配色方案支持](https://github.com/jqlong17/ghostty-opencode-themes/pull/1) on [jqlong17/ghostty-opencode-themes](https://github.com/jqlong17/ghostty-opencode-themes) (today)
 - [feat(provider): add data residency header support for OpenAI Enterprise](https://github.com/anomalyco/opencode/pull/15844) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (2 weeks ago)
 - [Fix out-of-bounds write in restLastSquaredDeviations fill](https://github.com/dlaidig/vqf/pull/37) on [dlaidig/vqf](https://github.com/dlaidig/vqf) (1 month ago)
 - [feat(provider): add 1M context window support for Anthropic models](https://github.com/anomalyco/opencode/pull/14375) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (1 month ago)
@@ -45,7 +46,6 @@
 - [Improve large screen layout and TOC positioning](https://github.com/flightng/docs/pull/14) on [flightng/docs](https://github.com/flightng/docs) (2 months ago)
 - [Fix: trigger deploy workflow on master branch instead of main](https://github.com/flightng/docs/pull/13) on [flightng/docs](https://github.com/flightng/docs) (2 months ago)
 - [Migrate to astro &#43; starlight](https://github.com/flightng/docs/pull/12) on [flightng/docs](https://github.com/flightng/docs) (2 months ago)
-- [Improve responsive typography and fullpage scroll](https://github.com/flightng/docs/pull/11) on [flightng/docs](https://github.com/flightng/docs) (2 months ago)
 
 #### ⭐ Recent Stars
 
