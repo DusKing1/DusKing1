@@ -49,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [shahidshabbir-se/opencode-anthropic-oauth](https://github.com/shahidshabbir-se/opencode-anthropic-oauth) - OpenCode plugin for Anthropic Claude Pro/Max OAuth login — no Claude Code needed. (today)
 - [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth) - OpenCode plugin that uses your existing Claude Code credentials — no separate login needed (today)
 - [jqlong17/ghostty-opencode-themes](https://github.com/jqlong17/ghostty-opencode-themes) -  (3 days ago)
 - [qqqlab/madflight](https://github.com/qqqlab/madflight) - Flight Controller for ESP32 / Raspberry Pico / STM32 (4 days ago)
@@ -58,7 +59,6 @@
 - [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows (1 week ago)
 - [yuleisheng/symphony-lark](https://github.com/yuleisheng/symphony-lark) - Lark Tasks fork of OpenAI Symphony (1 week ago)
 - [MorvanZhou/zhongjie](https://github.com/MorvanZhou/zhongjie) - 让你的 AI 助手变成一位经验丰富的买房参谋 (1 week ago)
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (1 week ago)
 
 #### 💬 Feedback
 
