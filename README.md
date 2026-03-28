@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DusKing1/opencode-anthropic-auth](https://github.com/DusKing1/opencode-anthropic-auth) -  (2 days ago)
+- [DusKing1/opencode-anthropic-auth](https://github.com/DusKing1/opencode-anthropic-auth) -  (3 days ago)
 - [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (2 weeks ago)
 - [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (2 weeks ago)
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (3 weeks ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [flightng/firmware](https://github.com/flightng/firmware) ([v0.1.3](https://github.com/flightng/firmware/releases/tag/v0.1.3), 6 days ago) - 
+- [flightng/firmware](https://github.com/flightng/firmware) ([v0.1.3](https://github.com/flightng/firmware/releases/tag/v0.1.3), 1 week ago) - 
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.1](https://github.com/dlaidig/vqf/releases/tag/v2.1.1), 1 month ago) - 
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.0.1](https://github.com/iNavFlight/inav/releases/tag/9.0.1), 1 month ago) - INAV: Navigation-enabled flight control software
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ([1.5.0](https://github.com/Anduin2017/HowToCook/releases/tag/1.5.0), 9 months ago) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only).
@@ -36,7 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: 添加 Windows Terminal 配色方案支持](https://github.com/jqlong17/ghostty-opencode-themes/pull/1) on [jqlong17/ghostty-opencode-themes](https://github.com/jqlong17/ghostty-opencode-themes) (4 days ago)
+- [feat: 添加 Windows Terminal 配色方案支持](https://github.com/jqlong17/ghostty-opencode-themes/pull/1) on [jqlong17/ghostty-opencode-themes](https://github.com/jqlong17/ghostty-opencode-themes) (5 days ago)
 - [feat(provider): add data residency header support for OpenAI Enterprise](https://github.com/anomalyco/opencode/pull/15844) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (3 weeks ago)
 - [Fix out-of-bounds write in restLastSquaredDeviations fill](https://github.com/dlaidig/vqf/pull/37) on [dlaidig/vqf](https://github.com/dlaidig/vqf) (1 month ago)
 - [feat(provider): add 1M context window support for Anthropic models](https://github.com/anomalyco/opencode/pull/14375) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (1 month ago)
@@ -49,14 +49,14 @@
 
 #### ⭐ Recent Stars
 
-- [OrangeViolin/content-pipeline](https://github.com/OrangeViolin/content-pipeline) - Claude Code Skill：内容生产线 (1 day ago)
-- [psmux/psmux](https://github.com/psmux/psmux) - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native Powershell Tmux designed for Windows in Rust 🦀 (1 day ago)
-- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods (2 days ago)
-- [happier-dev/happier](https://github.com/happier-dev/happier) - Mobile, Web &amp; Desktop client for Codex, Claude Code, OpenCode, Kimi, Augment Code, Qwen, fully end-to-end encrypted (2 days ago)
-- [shahidshabbir-se/opencode-anthropic-oauth](https://github.com/shahidshabbir-se/opencode-anthropic-oauth) - OpenCode plugin for Anthropic Claude Pro/Max OAuth login — no Claude Code needed. (2 days ago)
-- [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth) - OpenCode plugin that uses your existing Claude Code credentials — no separate login needed (2 days ago)
-- [jqlong17/ghostty-opencode-themes](https://github.com/jqlong17/ghostty-opencode-themes) -  (5 days ago)
-- [qqqlab/madflight](https://github.com/qqqlab/madflight) - Flight Controller for ESP32 / Raspberry Pico / STM32 (6 days ago)
+- [OrangeViolin/content-pipeline](https://github.com/OrangeViolin/content-pipeline) - Claude Code Skill：内容生产线 (2 days ago)
+- [psmux/psmux](https://github.com/psmux/psmux) - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native Powershell Tmux designed for Windows in Rust 🦀 (2 days ago)
+- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods (3 days ago)
+- [happier-dev/happier](https://github.com/happier-dev/happier) - Mobile, Web &amp; Desktop client for Codex, Claude Code, OpenCode, Kimi, Augment Code, Qwen, fully end-to-end encrypted (3 days ago)
+- [shahidshabbir-se/opencode-anthropic-oauth](https://github.com/shahidshabbir-se/opencode-anthropic-oauth) - OpenCode plugin for Anthropic Claude Pro/Max OAuth login — no Claude Code needed. (3 days ago)
+- [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth) - OpenCode plugin that uses your existing Claude Code credentials — no separate login needed (3 days ago)
+- [jqlong17/ghostty-opencode-themes](https://github.com/jqlong17/ghostty-opencode-themes) -  (6 days ago)
+- [qqqlab/madflight](https://github.com/qqqlab/madflight) - Flight Controller for ESP32 / Raspberry Pico / STM32 (1 week ago)
 - [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (1 week ago)
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (1 week ago)
 
