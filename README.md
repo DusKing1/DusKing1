@@ -49,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [ex-machina-co/opencode-anthropic-auth](https://github.com/ex-machina-co/opencode-anthropic-auth) -  (today)
 - [OrangeViolin/content-pipeline](https://github.com/OrangeViolin/content-pipeline) - Claude Code Skill：内容生产线 (2 days ago)
 - [psmux/psmux](https://github.com/psmux/psmux) - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native Powershell Tmux designed for Windows in Rust 🦀 (2 days ago)
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods (3 days ago)
@@ -58,7 +59,6 @@
 - [jqlong17/ghostty-opencode-themes](https://github.com/jqlong17/ghostty-opencode-themes) -  (6 days ago)
 - [qqqlab/madflight](https://github.com/qqqlab/madflight) - Flight Controller for ESP32 / Raspberry Pico / STM32 (1 week ago)
 - [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (1 week ago)
-- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (1 week ago)
 
 #### 💬 Feedback
 
