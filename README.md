@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DusKing1/opencode-anthropic-auth](https://github.com/DusKing1/opencode-anthropic-auth) -  (3 days ago)
+- [DusKing1/opencode-anthropic-auth](https://github.com/DusKing1/opencode-anthropic-auth) -  (4 days ago)
 - [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (3 weeks ago)
 - [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (3 weeks ago)
-- [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (3 weeks ago)
+- [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (4 weeks ago)
 - [flightng/nightly-firmware](https://github.com/flightng/nightly-firmware) - Fydelix nightly firmware builds (automated) (1 month ago)
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (1 month ago)
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (2 months ago)
@@ -37,7 +37,7 @@
 #### 🔨 My recent Pull Requests
 
 - [feat: 添加 Windows Terminal 配色方案支持](https://github.com/jqlong17/ghostty-opencode-themes/pull/1) on [jqlong17/ghostty-opencode-themes](https://github.com/jqlong17/ghostty-opencode-themes) (1 week ago)
-- [feat(provider): add data residency header support for OpenAI Enterprise](https://github.com/anomalyco/opencode/pull/15844) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (4 weeks ago)
+- [feat(provider): add data residency header support for OpenAI Enterprise](https://github.com/anomalyco/opencode/pull/15844) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (1 month ago)
 - [Fix out-of-bounds write in restLastSquaredDeviations fill](https://github.com/dlaidig/vqf/pull/37) on [dlaidig/vqf](https://github.com/dlaidig/vqf) (1 month ago)
 - [feat(provider): add 1M context window support for Anthropic models](https://github.com/anomalyco/opencode/pull/14375) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (1 month ago)
 - [Add AGENTS.md for LLM-assisted development](https://github.com/am32-firmware/am32-configurator/pull/40) on [am32-firmware/am32-configurator](https://github.com/am32-firmware/am32-configurator) (1 month ago)
@@ -49,12 +49,12 @@
 
 #### ⭐ Recent Stars
 
-- [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - The best agent harness. (today)
-- [bcefghj/miniClaudeCode](https://github.com/bcefghj/miniClaudeCode) - miniClaudeCode - 从50万行蒸馏到~1000行的Claude Code核心Agent架构最小复现 | Distilled Claude Code agent framework (today)
-- [Safphere/claude-code](https://github.com/Safphere/claude-code) - Claude Code v2.1.88 - Full TypeScript source restored from npm source map (1 day ago)
-- [ex-machina-co/opencode-anthropic-auth](https://github.com/ex-machina-co/opencode-anthropic-auth) -  (4 days ago)
-- [OrangeViolin/content-pipeline](https://github.com/OrangeViolin/content-pipeline) - Claude Code Skill：内容生产线 (6 days ago)
-- [psmux/psmux](https://github.com/psmux/psmux) - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native Powershell Tmux designed for Windows in Rust 🦀 (6 days ago)
+- [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - The best agent harness. (1 day ago)
+- [bcefghj/miniClaudeCode](https://github.com/bcefghj/miniClaudeCode) - miniClaudeCode - 从50万行蒸馏到~1000行的Claude Code核心Agent架构最小复现 | Distilled Claude Code agent framework (1 day ago)
+- [Safphere/claude-code](https://github.com/Safphere/claude-code) - Claude Code v2.1.88 - Full TypeScript source restored from npm source map (2 days ago)
+- [ex-machina-co/opencode-anthropic-auth](https://github.com/ex-machina-co/opencode-anthropic-auth) -  (5 days ago)
+- [OrangeViolin/content-pipeline](https://github.com/OrangeViolin/content-pipeline) - Claude Code Skill：内容生产线 (1 week ago)
+- [psmux/psmux](https://github.com/psmux/psmux) - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native Powershell Tmux designed for Windows in Rust 🦀 (1 week ago)
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods (1 week ago)
 - [happier-dev/happier](https://github.com/happier-dev/happier) - Mobile, Web &amp; Desktop client for Codex, Claude Code, OpenCode, Kimi, Augment Code, Qwen, fully end-to-end encrypted (1 week ago)
 - [shahidshabbir-se/opencode-anthropic-oauth](https://github.com/shahidshabbir-se/opencode-anthropic-oauth) - OpenCode plugin for Anthropic Claude Pro/Max OAuth login — no Claude Code needed. (1 week ago)
