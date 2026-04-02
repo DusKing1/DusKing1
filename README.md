@@ -49,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex. (today)
 - [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - The best agent harness. (1 day ago)
 - [bcefghj/miniClaudeCode](https://github.com/bcefghj/miniClaudeCode) - miniClaudeCode - 从50万行蒸馏到~1000行的Claude Code核心Agent架构最小复现 | Distilled Claude Code agent framework (1 day ago)
 - [Safphere/claude-code](https://github.com/Safphere/claude-code) - Claude Code v2.1.88 - Full TypeScript source restored from npm source map (2 days ago)
@@ -58,7 +59,6 @@
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods (1 week ago)
 - [happier-dev/happier](https://github.com/happier-dev/happier) - Mobile, Web &amp; Desktop client for Codex, Claude Code, OpenCode, Kimi, Augment Code, Qwen, fully end-to-end encrypted (1 week ago)
 - [shahidshabbir-se/opencode-anthropic-oauth](https://github.com/shahidshabbir-se/opencode-anthropic-oauth) - OpenCode plugin for Anthropic Claude Pro/Max OAuth login — no Claude Code needed. (1 week ago)
-- [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth) - OpenCode plugin that uses your existing Claude Code credentials — no separate login needed (1 week ago)
 
 #### 💬 Feedback
 
