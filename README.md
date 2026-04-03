@@ -49,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [sawzhang/deep-dive-claude-code](https://github.com/sawzhang/deep-dive-claude-code) - 《深入理解 Claude Code 源码》— 系统剖析 Anthropic Claude Code CLI 的架构设计、工程实践与编程哲学 | 25 chapters, 101 Mermaid diagrams, 467 code blocks (today)
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex. (1 day ago)
 - [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - The best agent harness. (2 days ago)
 - [bcefghj/miniClaudeCode](https://github.com/bcefghj/miniClaudeCode) - miniClaudeCode - 从50万行蒸馏到~1000行的Claude Code核心Agent架构最小复现 | Distilled Claude Code agent framework (2 days ago)
@@ -58,7 +59,6 @@
 - [psmux/psmux](https://github.com/psmux/psmux) - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native Powershell Tmux designed for Windows in Rust 🦀 (1 week ago)
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods (1 week ago)
 - [happier-dev/happier](https://github.com/happier-dev/happier) - Mobile, Web &amp; Desktop client for Codex, Claude Code, OpenCode, Kimi, Augment Code, Qwen, fully end-to-end encrypted (1 week ago)
-- [shahidshabbir-se/opencode-anthropic-oauth](https://github.com/shahidshabbir-se/opencode-anthropic-oauth) - OpenCode plugin for Anthropic Claude Pro/Max OAuth login — no Claude Code needed. (1 week ago)
 
 #### 💬 Feedback
 
