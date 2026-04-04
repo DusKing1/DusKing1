@@ -48,16 +48,16 @@
 
 #### ⭐ Recent Stars
 
+- [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - &#34;OpenHarness: Open Agent Harness&#34; (today)
+- [ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity) - Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration (today)
 - [sawzhang/deep-dive-claude-code](https://github.com/sawzhang/deep-dive-claude-code) - 《深入理解 Claude Code 源码》— 系统剖析 Anthropic Claude Code CLI 的架构设计、工程实践与编程哲学 | 25 chapters, 101 Mermaid diagrams, 467 code blocks (1 day ago)
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (2 days ago)
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (2 days ago)
 - [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - The best agent harness. (3 days ago)
 - [bcefghj/miniClaudeCode](https://github.com/bcefghj/miniClaudeCode) - miniClaudeCode - 从50万行蒸馏到~1000行的Claude Code核心Agent架构最小复现 | Distilled Claude Code agent framework (3 days ago)
 - [Safphere/claude-code](https://github.com/Safphere/claude-code) - Claude Code v2.1.88 - Full TypeScript source restored from npm source map (4 days ago)
 - [ex-machina-co/opencode-anthropic-auth](https://github.com/ex-machina-co/opencode-anthropic-auth) -  (1 week ago)
 - [OrangeViolin/content-pipeline](https://github.com/OrangeViolin/content-pipeline) - AI-powered content production pipeline for creators. One prompt → multi-platform publishing. Claude Code Skill. (1 week ago)
 - [psmux/psmux](https://github.com/psmux/psmux) - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native Powershell Tmux designed for Windows in Rust 🦀 (1 week ago)
-- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods (1 week ago)
-- [happier-dev/happier](https://github.com/happier-dev/happier) - Mobile, Web &amp; Desktop client for Codex, Claude Code, OpenCode, Kimi, Augment Code, Qwen, fully end-to-end encrypted (1 week ago)
 
 #### 💬 Feedback
 
