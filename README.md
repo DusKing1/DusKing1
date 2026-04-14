@@ -43,8 +43,8 @@
 - [Add AGENTS.md project knowledge docs](https://github.com/MakerPnP/makerpnp/pull/13) on [MakerPnP/makerpnp](https://github.com/MakerPnP/makerpnp) (1 month ago)
 - [Revise and expand supported boards documentation](https://github.com/flightng/docs/pull/15) on [flightng/docs](https://github.com/flightng/docs) (2 months ago)
 - [Improve large screen layout and TOC positioning](https://github.com/flightng/docs/pull/14) on [flightng/docs](https://github.com/flightng/docs) (2 months ago)
-- [Fix: trigger deploy workflow on master branch instead of main](https://github.com/flightng/docs/pull/13) on [flightng/docs](https://github.com/flightng/docs) (2 months ago)
-- [Migrate to astro &#43; starlight](https://github.com/flightng/docs/pull/12) on [flightng/docs](https://github.com/flightng/docs) (2 months ago)
+- [Fix: trigger deploy workflow on master branch instead of main](https://github.com/flightng/docs/pull/13) on [flightng/docs](https://github.com/flightng/docs) (3 months ago)
+- [Migrate to astro &#43; starlight](https://github.com/flightng/docs/pull/12) on [flightng/docs](https://github.com/flightng/docs) (3 months ago)
 
 #### ⭐ Recent Stars
 
@@ -54,7 +54,7 @@
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (1 week ago)
 - [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - The best agent harness. (1 week ago)
 - [bcefghj/miniClaudeCode](https://github.com/bcefghj/miniClaudeCode) - miniClaudeCode - 从50万行蒸馏到~1000行的Claude Code核心Agent架构最小复现 | Distilled Claude Code agent framework (1 week ago)
-- [Safphere/claude-code](https://github.com/Safphere/claude-code) - Claude Code v2.1.88 - Full TypeScript source restored from npm source map (1 week ago)
+- [Safphere/claude-code](https://github.com/Safphere/claude-code) - Claude Code v2.1.88 - Full TypeScript source restored from npm source map (2 weeks ago)
 - [ex-machina-co/opencode-anthropic-auth](https://github.com/ex-machina-co/opencode-anthropic-auth) -  (2 weeks ago)
 - [OrangeViolin/content-pipeline](https://github.com/OrangeViolin/content-pipeline) - AI-powered content production pipeline for creators. One prompt → multi-platform publishing. Claude Code Skill. (2 weeks ago)
 - [psmux/psmux](https://github.com/psmux/psmux) - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native Powershell Tmux designed for Windows in Rust 🦀 (2 weeks ago)
