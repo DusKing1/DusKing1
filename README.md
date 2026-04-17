@@ -50,7 +50,7 @@
 
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - &#34;OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!&#34; (1 week ago)
 - [ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity) - Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration (1 week ago)
-- [sawzhang/deep-dive-claude-code](https://github.com/sawzhang/deep-dive-claude-code) - 《深入理解 Claude Code 源码》— 系统剖析 Anthropic Claude Code CLI 的架构设计、工程实践与编程哲学 | 25 chapters, 101 Mermaid diagrams, 467 code blocks (1 week ago)
+- [sawzhang/deep-dive-claude-code](https://github.com/sawzhang/deep-dive-claude-code) - 《深入理解 Claude Code 源码》— 系统剖析 Anthropic Claude Code CLI 的架构设计、工程实践与编程哲学 | 25 chapters, 101 Mermaid diagrams, 467 code blocks (2 weeks ago)
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (2 weeks ago)
 - [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - The best agent harness. (2 weeks ago)
 - [bcefghj/miniClaudeCode](https://github.com/bcefghj/miniClaudeCode) - miniClaudeCode - 从50万行蒸馏到~1000行的Claude Code核心Agent架构最小复现 | Distilled Claude Code agent framework (2 weeks ago)
