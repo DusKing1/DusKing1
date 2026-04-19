@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DusKing1/opencode-anthropic-auth](https://github.com/DusKing1/opencode-anthropic-auth) -  (2 weeks ago)
+- [DusKing1/opencode-anthropic-auth](https://github.com/DusKing1/opencode-anthropic-auth) -  (3 weeks ago)
 - [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (1 month ago)
 - [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (1 month ago)
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (1 month ago)
 - [flightng/nightly-firmware](https://github.com/flightng/nightly-firmware) - Fydelix nightly firmware builds (automated) (1 month ago)
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (1 month ago)
-- [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (2 months ago)
-- [flightng/firmware](https://github.com/flightng/firmware) -  (6 months ago)
+- [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (3 months ago)
+- [flightng/firmware](https://github.com/flightng/firmware) -  (7 months ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (7 months ago)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only). (11 months ago)
 
