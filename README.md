@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (today)
+- [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (1 day ago)
 - [DusKing1/opencode-anthropic-auth](https://github.com/DusKing1/opencode-anthropic-auth) -  (3 weeks ago)
 - [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (1 month ago)
 - [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (1 month ago)
@@ -28,14 +28,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [flightng/firmware](https://github.com/flightng/firmware) ([v0.1.3](https://github.com/flightng/firmware/releases/tag/v0.1.3), 4 weeks ago) - 
+- [flightng/firmware](https://github.com/flightng/firmware) ([v0.1.3](https://github.com/flightng/firmware/releases/tag/v0.1.3), 1 month ago) - 
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.1](https://github.com/dlaidig/vqf/releases/tag/v2.1.1), 1 month ago) - 
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.0.1](https://github.com/iNavFlight/inav/releases/tag/9.0.1), 2 months ago) - INAV: Navigation-enabled flight control software
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ([1.5.0](https://github.com/Anduin2017/HowToCook/releases/tag/1.5.0), 10 months ago) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only).
 
 #### 🔨 My recent Pull Requests
 
-- [feat: 添加 Windows Terminal 配色方案支持](https://github.com/jqlong17/ghostty-opencode-themes/pull/1) on [jqlong17/ghostty-opencode-themes](https://github.com/jqlong17/ghostty-opencode-themes) (3 weeks ago)
+- [feat: 添加 Windows Terminal 配色方案支持](https://github.com/jqlong17/ghostty-opencode-themes/pull/1) on [jqlong17/ghostty-opencode-themes](https://github.com/jqlong17/ghostty-opencode-themes) (4 weeks ago)
 - [feat(provider): add data residency header support for OpenAI Enterprise](https://github.com/anomalyco/opencode/pull/15844) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (1 month ago)
 - [Fix out-of-bounds write in restLastSquaredDeviations fill](https://github.com/dlaidig/vqf/pull/37) on [dlaidig/vqf](https://github.com/dlaidig/vqf) (1 month ago)
 - [feat(provider): add 1M context window support for Anthropic models](https://github.com/anomalyco/opencode/pull/14375) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (1 month ago)
