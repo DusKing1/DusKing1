@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (4 days ago)
+- [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (5 days ago)
 - [DusKing1/opencode-anthropic-auth](https://github.com/DusKing1/opencode-anthropic-auth) -  (3 weeks ago)
 - [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (1 month ago)
 - [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (1 month ago)
@@ -29,7 +29,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [flightng/firmware](https://github.com/flightng/firmware) ([v0.1.3](https://github.com/flightng/firmware/releases/tag/v0.1.3), 1 month ago) - 
-- [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.1](https://github.com/dlaidig/vqf/releases/tag/v2.1.1), 1 month ago) - 
+- [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.1](https://github.com/dlaidig/vqf/releases/tag/v2.1.1), 2 months ago) - 
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.0.1](https://github.com/iNavFlight/inav/releases/tag/9.0.1), 2 months ago) - INAV: Navigation-enabled flight control software
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ([1.5.0](https://github.com/Anduin2017/HowToCook/releases/tag/1.5.0), 10 months ago) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Simplified Chinese only).
 
@@ -48,10 +48,10 @@
 
 #### ⭐ Recent Stars
 
-- [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (3 days ago)
+- [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (4 days ago)
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - &#34;OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!&#34; (2 weeks ago)
 - [ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity) - Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration (2 weeks ago)
-- [sawzhang/deep-dive-claude-code](https://github.com/sawzhang/deep-dive-claude-code) - 《深入理解 Claude Code 源码》— 系统剖析 Anthropic Claude Code CLI 的架构设计、工程实践与编程哲学 | 25 chapters, 101 Mermaid diagrams, 467 code blocks (2 weeks ago)
+- [sawzhang/deep-dive-claude-code](https://github.com/sawzhang/deep-dive-claude-code) - 《深入理解 Claude Code 源码》— 系统剖析 Anthropic Claude Code CLI 的架构设计、工程实践与编程哲学 | 25 chapters, 101 Mermaid diagrams, 467 code blocks (3 weeks ago)
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (3 weeks ago)
 - [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - The best agent harness. (3 weeks ago)
 - [bcefghj/miniClaudeCode](https://github.com/bcefghj/miniClaudeCode) - miniClaudeCode - 从50万行蒸馏到~1000行的Claude Code核心Agent架构最小复现 | Distilled Claude Code agent framework (3 weeks ago)
