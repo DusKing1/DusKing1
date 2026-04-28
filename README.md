@@ -3,11 +3,11 @@
 #### 👷 Check out what I'm currently working on
 
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (1 week ago)
-- [DusKing1/opencode-anthropic-auth](https://github.com/DusKing1/opencode-anthropic-auth) -  (4 weeks ago)
+- [DusKing1/opencode-anthropic-auth](https://github.com/DusKing1/opencode-anthropic-auth) -  (1 month ago)
 - [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (1 month ago)
 - [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (1 month ago)
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (1 month ago)
-- [flightng/nightly-firmware](https://github.com/flightng/nightly-firmware) - Fydelix nightly firmware builds (automated) (1 month ago)
+- [flightng/nightly-firmware](https://github.com/flightng/nightly-firmware) - Fydelix nightly firmware builds (automated) (2 months ago)
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (2 months ago)
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (3 months ago)
 - [flightng/firmware](https://github.com/flightng/firmware) -  (7 months ago)
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan 多功能面板 (2 days ago)
+- [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan 多功能面板 (3 days ago)
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (1 week ago)
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - &#34;OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!&#34; (3 weeks ago)
 - [ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity) - Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration (3 weeks ago)
@@ -56,7 +56,7 @@
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (3 weeks ago)
 - [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - The best agent harness. (3 weeks ago)
 - [bcefghj/miniClaudeCode](https://github.com/bcefghj/miniClaudeCode) - miniClaudeCode - 从50万行蒸馏到~1000行的Claude Code核心Agent架构最小复现 | Distilled Claude Code agent framework (3 weeks ago)
-- [Safphere/claude-code](https://github.com/Safphere/claude-code) - Claude Code v2.1.88 - Full TypeScript source restored from npm source map (3 weeks ago)
+- [Safphere/claude-code](https://github.com/Safphere/claude-code) - Claude Code v2.1.88 - Full TypeScript source restored from npm source map (4 weeks ago)
 - [ex-machina-co/opencode-anthropic-auth](https://github.com/ex-machina-co/opencode-anthropic-auth) -  (1 month ago)
 
 #### 💬 Feedback
