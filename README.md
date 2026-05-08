@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (today)
+- [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (1 day ago)
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (2 weeks ago)
 - [DusKing1/opencode-anthropic-auth](https://github.com/DusKing1/opencode-anthropic-auth) -  (1 month ago)
 - [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (1 month ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) ([v1.1.0](https://github.com/DusKing1/opencode-openai-residency/releases/tag/v1.1.0), today) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support
+- [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) ([v1.1.0](https://github.com/DusKing1/opencode-openai-residency/releases/tag/v1.1.0), 1 day ago) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support
 - [flightng/firmware](https://github.com/flightng/firmware) ([v0.1.3](https://github.com/flightng/firmware/releases/tag/v0.1.3), 1 month ago) - 
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.1](https://github.com/dlaidig/vqf/releases/tag/v2.1.1), 2 months ago) - 
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.0.1](https://github.com/iNavFlight/inav/releases/tag/9.0.1), 2 months ago) - INAV: Navigation-enabled flight control software
@@ -48,8 +48,8 @@
 
 #### ⭐ Recent Stars
 
-- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (2 days ago)
-- [squatchlab/hdzero-programmer-linux](https://github.com/squatchlab/hdzero-programmer-linux) -  (2 days ago)
+- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (3 days ago)
+- [squatchlab/hdzero-programmer-linux](https://github.com/squatchlab/hdzero-programmer-linux) -  (3 days ago)
 - [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan 多功能面板 (1 week ago)
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (2 weeks ago)
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - &#34;OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!&#34; (1 month ago)
