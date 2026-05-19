@@ -3,14 +3,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (1 week ago)
-- [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (4 weeks ago)
+- [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (1 month ago)
 - [DusKing1/opencode-anthropic-auth](https://github.com/DusKing1/opencode-anthropic-auth) -  (1 month ago)
 - [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (2 months ago)
 - [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (2 months ago)
 - [flightng/nightly-firmware](https://github.com/flightng/nightly-firmware) - Fydelix nightly firmware builds (automated) (2 months ago)
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (2 months ago)
-- [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (3 months ago)
-- [flightng/firmware](https://github.com/flightng/firmware) -  (7 months ago)
+- [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (4 months ago)
+- [flightng/firmware](https://github.com/flightng/firmware) -  (8 months ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (8 months ago)
 
 #### 🌱 My latest projects
@@ -49,8 +49,8 @@
 #### ⭐ Recent Stars
 
 - [ArduPilot/ArduRemoteID](https://github.com/ArduPilot/ArduRemoteID) - RemoteID support using OpenDroneID (1 week ago)
-- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (1 week ago)
-- [squatchlab/hdzero-programmer-linux](https://github.com/squatchlab/hdzero-programmer-linux) -  (1 week ago)
+- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (2 weeks ago)
+- [squatchlab/hdzero-programmer-linux](https://github.com/squatchlab/hdzero-programmer-linux) -  (2 weeks ago)
 - [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan 多功能面板 (3 weeks ago)
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (4 weeks ago)
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - &#34;OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!&#34; (1 month ago)
