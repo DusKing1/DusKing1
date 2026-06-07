@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (4 weeks ago)
+- [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (1 month ago)
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (1 month ago)
 - [DusKing1/opencode-anthropic-auth](https://github.com/DusKing1/opencode-anthropic-auth) -  (2 months ago)
 - [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (2 months ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.1.0-RC1](https://github.com/iNavFlight/inav/releases/tag/9.1.0-RC1), 1 day ago) - INAV: Navigation-enabled flight control software
-- [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) ([v1.1.1](https://github.com/DusKing1/opencode-openai-residency/releases/tag/v1.1.1), 4 weeks ago) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.1.0-RC1](https://github.com/iNavFlight/inav/releases/tag/9.1.0-RC1), 2 days ago) - INAV: Navigation-enabled flight control software
+- [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) ([v1.1.1](https://github.com/DusKing1/opencode-openai-residency/releases/tag/v1.1.1), 1 month ago) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support
 - [flightng/firmware](https://github.com/flightng/firmware) ([v0.1.3](https://github.com/flightng/firmware/releases/tag/v0.1.3), 2 months ago) - 
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.1](https://github.com/dlaidig/vqf/releases/tag/v2.1.1), 3 months ago) - 
 
