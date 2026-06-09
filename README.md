@@ -5,7 +5,7 @@
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (1 month ago)
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (1 month ago)
 - [DusKing1/opencode-anthropic-auth](https://github.com/DusKing1/opencode-anthropic-auth) -  (2 months ago)
-- [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (2 months ago)
+- [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (3 months ago)
 - [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (3 months ago)
 - [flightng/nightly-firmware](https://github.com/flightng/nightly-firmware) - Fydelix nightly firmware builds (automated) (3 months ago)
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (3 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.1.0-RC1](https://github.com/iNavFlight/inav/releases/tag/9.1.0-RC1), 3 days ago) - INAV: Navigation-enabled flight control software
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.1.0-RC1](https://github.com/iNavFlight/inav/releases/tag/9.1.0-RC1), 4 days ago) - INAV: Navigation-enabled flight control software
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) ([v1.1.1](https://github.com/DusKing1/opencode-openai-residency/releases/tag/v1.1.1), 1 month ago) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support
 - [flightng/firmware](https://github.com/flightng/firmware) ([v0.1.3](https://github.com/flightng/firmware/releases/tag/v0.1.3), 2 months ago) - 
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.1](https://github.com/dlaidig/vqf/releases/tag/v2.1.1), 3 months ago) - 
@@ -49,7 +49,7 @@
 #### ⭐ Recent Stars
 
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents. (1 week ago)
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local (1 week ago)
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local (2 weeks ago)
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. (2 weeks ago)
 - [ArduPilot/ArduRemoteID](https://github.com/ArduPilot/ArduRemoteID) - RemoteID support using OpenDroneID (1 month ago)
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (1 month ago)
