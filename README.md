@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [flightng/firmware](https://github.com/flightng/firmware) ([v0.2.0-rc4](https://github.com/flightng/firmware/releases/tag/v0.2.0-rc4), today) - 
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) ([v1.2.0](https://github.com/DusKing1/opencode-openai-residency/releases/tag/v1.2.0), 1 week ago) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support
-- [flightng/firmware](https://github.com/flightng/firmware) ([v0.2.0-rc3](https://github.com/flightng/firmware/releases/tag/v0.2.0-rc3), 1 week ago) - 
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.1.0-RC1](https://github.com/iNavFlight/inav/releases/tag/9.1.0-RC1), 1 month ago) - INAV: Navigation-enabled flight control software
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.1](https://github.com/dlaidig/vqf/releases/tag/v2.1.1), 4 months ago) - 
 
