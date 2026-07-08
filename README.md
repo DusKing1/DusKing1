@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [flightng/firmware](https://github.com/flightng/firmware) ([v0.2.0-rc4](https://github.com/flightng/firmware/releases/tag/v0.2.0-rc4), 2 days ago) - 
+- [flightng/firmware](https://github.com/flightng/firmware) ([v0.2.0-rc4](https://github.com/flightng/firmware/releases/tag/v0.2.0-rc4), 3 days ago) - 
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) ([v1.2.0](https://github.com/DusKing1/opencode-openai-residency/releases/tag/v1.2.0), 1 week ago) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.1.0-RC1](https://github.com/iNavFlight/inav/releases/tag/9.1.0-RC1), 1 month ago) - INAV: Navigation-enabled flight control software
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.1](https://github.com/dlaidig/vqf/releases/tag/v2.1.1), 4 months ago) - 
@@ -48,13 +48,13 @@
 
 #### ⭐ Recent Stars
 
-- [am32-firmware/AM32-bootloader](https://github.com/am32-firmware/AM32-bootloader) - AM32 bootloader (2 days ago)
+- [am32-firmware/AM32-bootloader](https://github.com/am32-firmware/AM32-bootloader) - AM32 bootloader (3 days ago)
 - [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) - AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 &#43; 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters&#39; methodologies &#43; multi-agent adversarial analysis. (1 week ago)
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. (3 weeks ago)
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents. (1 month ago)
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local (1 month ago)
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. (1 month ago)
-- [ArduPilot/ArduRemoteID](https://github.com/ArduPilot/ArduRemoteID) - RemoteID support using OpenDroneID (1 month ago)
+- [ArduPilot/ArduRemoteID](https://github.com/ArduPilot/ArduRemoteID) - RemoteID support using OpenDroneID (2 months ago)
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (2 months ago)
 - [squatchlab/hdzero-programmer-linux](https://github.com/squatchlab/hdzero-programmer-linux) -  (2 months ago)
 - [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan/SS 多功能面板 (2 months ago)
