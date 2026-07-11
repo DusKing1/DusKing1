@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (1 week ago)
-- [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (1 week ago)
+- [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (2 weeks ago)
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (2 months ago)
 - [DusKing1/opencode-anthropic-auth](https://github.com/DusKing1/opencode-anthropic-auth) -  (3 months ago)
 - [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (4 months ago)
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [flightng/firmware](https://github.com/flightng/firmware) ([v0.2.0](https://github.com/flightng/firmware/releases/tag/v0.2.0), 1 day ago) - 
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.1.0](https://github.com/iNavFlight/inav/releases/tag/9.1.0), 1 day ago) - INAV: Navigation-enabled flight control software
-- [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.2](https://github.com/dlaidig/vqf/releases/tag/v2.1.2), 1 day ago) - 
-- [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) ([v1.2.0](https://github.com/DusKing1/opencode-openai-residency/releases/tag/v1.2.0), 1 week ago) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support
+- [flightng/firmware](https://github.com/flightng/firmware) ([v0.2.0](https://github.com/flightng/firmware/releases/tag/v0.2.0), 2 days ago) - 
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.1.0](https://github.com/iNavFlight/inav/releases/tag/9.1.0), 2 days ago) - INAV: Navigation-enabled flight control software
+- [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.2](https://github.com/dlaidig/vqf/releases/tag/v2.1.2), 2 days ago) - 
+- [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) ([v1.2.0](https://github.com/DusKing1/opencode-openai-residency/releases/tag/v1.2.0), 2 weeks ago) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support
 
 #### 🔨 My recent Pull Requests
 
@@ -48,9 +48,9 @@
 
 #### ⭐ Recent Stars
 
-- [am32-firmware/AM32-bootloader](https://github.com/am32-firmware/AM32-bootloader) - AM32 bootloader (5 days ago)
-- [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) - AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 &#43; 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters&#39; methodologies &#43; multi-agent adversarial analysis. (1 week ago)
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. (4 weeks ago)
+- [am32-firmware/AM32-bootloader](https://github.com/am32-firmware/AM32-bootloader) - AM32 bootloader (6 days ago)
+- [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) - AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 &#43; 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters&#39; methodologies &#43; multi-agent adversarial analysis. (2 weeks ago)
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. (1 month ago)
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents. (1 month ago)
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local (1 month ago)
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. (1 month ago)
