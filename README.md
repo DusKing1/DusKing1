@@ -41,16 +41,16 @@
 - [feat(provider): add data residency header support for OpenAI Enterprise](https://github.com/anomalyco/opencode/pull/15844) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (4 months ago)
 - [Fix out-of-bounds write in restLastSquaredDeviations fill](https://github.com/dlaidig/vqf/pull/37) on [dlaidig/vqf](https://github.com/dlaidig/vqf) (4 months ago)
 - [feat(provider): add 1M context window support for Anthropic models](https://github.com/anomalyco/opencode/pull/14375) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (4 months ago)
-- [Add AGENTS.md for LLM-assisted development](https://github.com/am32-firmware/am32-configurator/pull/40) on [am32-firmware/am32-configurator](https://github.com/am32-firmware/am32-configurator) (4 months ago)
-- [Add AGENTS.md project knowledge docs](https://github.com/MakerPnP/makerpnp/pull/13) on [MakerPnP/makerpnp](https://github.com/MakerPnP/makerpnp) (4 months ago)
-- [Revise and expand supported boards documentation](https://github.com/flightng/docs/pull/15) on [flightng/docs](https://github.com/flightng/docs) (5 months ago)
+- [Add AGENTS.md for LLM-assisted development](https://github.com/am32-firmware/am32-configurator/pull/40) on [am32-firmware/am32-configurator](https://github.com/am32-firmware/am32-configurator) (5 months ago)
+- [Add AGENTS.md project knowledge docs](https://github.com/MakerPnP/makerpnp/pull/13) on [MakerPnP/makerpnp](https://github.com/MakerPnP/makerpnp) (5 months ago)
+- [Revise and expand supported boards documentation](https://github.com/flightng/docs/pull/15) on [flightng/docs](https://github.com/flightng/docs) (6 months ago)
 - [Improve large screen layout and TOC positioning](https://github.com/flightng/docs/pull/14) on [flightng/docs](https://github.com/flightng/docs) (6 months ago)
 
 #### ⭐ Recent Stars
 
-- [Manwe-777/pid-tuna](https://github.com/Manwe-777/pid-tuna) - Modern and easy to use PIDtoolbox port (today)
-- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely. (1 day ago)
-- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (4 days ago)
+- [Manwe-777/pid-tuna](https://github.com/Manwe-777/pid-tuna) - Modern and easy to use PIDtoolbox port (1 day ago)
+- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely. (2 days ago)
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (5 days ago)
 - [am32-firmware/AM32-bootloader](https://github.com/am32-firmware/AM32-bootloader) - AM32 bootloader (1 week ago)
 - [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) - AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 &#43; 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters&#39; methodologies &#43; multi-agent adversarial analysis. (2 weeks ago)
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. (1 month ago)
