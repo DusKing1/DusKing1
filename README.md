@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (today)
-- [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (2 weeks ago)
+- [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (1 day ago)
+- [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (3 weeks ago)
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (3 weeks ago)
 - [DusKing1/opencode-anthropic-auth](https://github.com/DusKing1/opencode-anthropic-auth) -  (3 months ago)
 - [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (4 months ago)
 - [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (4 months ago)
 - [flightng/nightly-firmware](https://github.com/flightng/nightly-firmware) - Fydelix nightly firmware builds (automated) (4 months ago)
-- [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (4 months ago)
+- [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (5 months ago)
 - [flightng/firmware](https://github.com/flightng/firmware) -  (10 months ago)
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (10 months ago)
 
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) ([v0.1.1](https://github.com/DusKing1/opencode-anthropic-console/releases/tag/v0.1.1), today) - 
+- [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) ([v0.1.1](https://github.com/DusKing1/opencode-anthropic-console/releases/tag/v0.1.1), 1 day ago) - 
 - [flightng/firmware](https://github.com/flightng/firmware) ([v0.2.0](https://github.com/flightng/firmware/releases/tag/v0.2.0), 1 week ago) - 
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.1.0](https://github.com/iNavFlight/inav/releases/tag/9.1.0), 1 week ago) - INAV: Navigation-enabled flight control software
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.2](https://github.com/dlaidig/vqf/releases/tag/v2.1.2), 1 week ago) - 
@@ -36,11 +36,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add ARTERY ecosystem partner acknowledgment to sponsor page](https://github.com/flightng/docs/pull/19) on [flightng/docs](https://github.com/flightng/docs) (2 weeks ago)
-- [Sync Fidelity X docs with firmware v0.2.0 and configurator](https://github.com/flightng/docs/pull/18) on [flightng/docs](https://github.com/flightng/docs) (4 weeks ago)
-- [feat: 添加 Windows Terminal 配色方案支持](https://github.com/jqlong17/ghostty-opencode-themes/pull/1) on [jqlong17/ghostty-opencode-themes](https://github.com/jqlong17/ghostty-opencode-themes) (3 months ago)
+- [Add ARTERY ecosystem partner acknowledgment to sponsor page](https://github.com/flightng/docs/pull/19) on [flightng/docs](https://github.com/flightng/docs) (3 weeks ago)
+- [Sync Fidelity X docs with firmware v0.2.0 and configurator](https://github.com/flightng/docs/pull/18) on [flightng/docs](https://github.com/flightng/docs) (1 month ago)
+- [feat: 添加 Windows Terminal 配色方案支持](https://github.com/jqlong17/ghostty-opencode-themes/pull/1) on [jqlong17/ghostty-opencode-themes](https://github.com/jqlong17/ghostty-opencode-themes) (4 months ago)
 - [feat(provider): add data residency header support for OpenAI Enterprise](https://github.com/anomalyco/opencode/pull/15844) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (4 months ago)
-- [Fix out-of-bounds write in restLastSquaredDeviations fill](https://github.com/dlaidig/vqf/pull/37) on [dlaidig/vqf](https://github.com/dlaidig/vqf) (4 months ago)
+- [Fix out-of-bounds write in restLastSquaredDeviations fill](https://github.com/dlaidig/vqf/pull/37) on [dlaidig/vqf](https://github.com/dlaidig/vqf) (5 months ago)
 - [feat(provider): add 1M context window support for Anthropic models](https://github.com/anomalyco/opencode/pull/14375) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (5 months ago)
 - [Add AGENTS.md for LLM-assisted development](https://github.com/am32-firmware/am32-configurator/pull/40) on [am32-firmware/am32-configurator](https://github.com/am32-firmware/am32-configurator) (5 months ago)
 - [Add AGENTS.md project knowledge docs](https://github.com/MakerPnP/makerpnp/pull/13) on [MakerPnP/makerpnp](https://github.com/MakerPnP/makerpnp) (5 months ago)
@@ -49,10 +49,10 @@
 
 #### ⭐ Recent Stars
 
-- [shareAI-lab/shareAI-skills](https://github.com/shareAI-lab/shareAI-skills) - shareAI Lab&#39;s skills for agent to build agent &amp; other custom software system (today)
-- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 (2 days ago)
-- [Manwe-777/pid-tuna](https://github.com/Manwe-777/pid-tuna) - Modern and easy to use PIDtoolbox port (4 days ago)
-- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely. (5 days ago)
+- [shareAI-lab/shareAI-skills](https://github.com/shareAI-lab/shareAI-skills) - shareAI Lab&#39;s skills for agent to build agent &amp; other custom software system (1 day ago)
+- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 (3 days ago)
+- [Manwe-777/pid-tuna](https://github.com/Manwe-777/pid-tuna) - Modern and easy to use PIDtoolbox port (5 days ago)
+- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely. (6 days ago)
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (1 week ago)
 - [am32-firmware/AM32-bootloader](https://github.com/am32-firmware/AM32-bootloader) - AM32 bootloader (2 weeks ago)
 - [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) - AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 &#43; 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters&#39; methodologies &#43; multi-agent adversarial analysis. (3 weeks ago)
