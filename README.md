@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (2 days ago)
+- [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (3 days ago)
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (3 weeks ago)
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (3 weeks ago)
 - [DusKing1/opencode-anthropic-auth](https://github.com/DusKing1/opencode-anthropic-auth) -  (3 months ago)
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) ([v0.1.1](https://github.com/DusKing1/opencode-anthropic-console/releases/tag/v0.1.1), 2 days ago) - 
-- [flightng/firmware](https://github.com/flightng/firmware) ([v0.2.0](https://github.com/flightng/firmware/releases/tag/v0.2.0), 1 week ago) - 
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.1.0](https://github.com/iNavFlight/inav/releases/tag/9.1.0), 1 week ago) - INAV: Navigation-enabled flight control software
-- [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.2](https://github.com/dlaidig/vqf/releases/tag/v2.1.2), 1 week ago) - 
+- [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) ([v0.1.1](https://github.com/DusKing1/opencode-anthropic-console/releases/tag/v0.1.1), 3 days ago) - 
+- [flightng/firmware](https://github.com/flightng/firmware) ([v0.2.0](https://github.com/flightng/firmware/releases/tag/v0.2.0), 2 weeks ago) - 
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.1.0](https://github.com/iNavFlight/inav/releases/tag/9.1.0), 2 weeks ago) - INAV: Navigation-enabled flight control software
+- [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.2](https://github.com/dlaidig/vqf/releases/tag/v2.1.2), 2 weeks ago) - 
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) ([v1.2.0](https://github.com/DusKing1/opencode-openai-residency/releases/tag/v1.2.0), 3 weeks ago) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support
 
 #### 🔨 My recent Pull Requests
@@ -49,9 +49,9 @@
 
 #### ⭐ Recent Stars
 
-- [shareAI-lab/shareAI-skills](https://github.com/shareAI-lab/shareAI-skills) - shareAI Lab&#39;s skills for agent to build agent &amp; other custom software system (2 days ago)
-- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 (4 days ago)
-- [Manwe-777/pid-tuna](https://github.com/Manwe-777/pid-tuna) - Modern and easy to use PIDtoolbox port (6 days ago)
+- [shareAI-lab/shareAI-skills](https://github.com/shareAI-lab/shareAI-skills) - shareAI Lab&#39;s skills for agent to build agent &amp; other custom software system (3 days ago)
+- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 (5 days ago)
+- [Manwe-777/pid-tuna](https://github.com/Manwe-777/pid-tuna) - Modern and easy to use PIDtoolbox port (1 week ago)
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely. (1 week ago)
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (1 week ago)
 - [am32-firmware/AM32-bootloader](https://github.com/am32-firmware/AM32-bootloader) - AM32 bootloader (2 weeks ago)
