@@ -49,6 +49,8 @@
 
 #### ⭐ Recent Stars
 
+- [si-view/via](https://github.com/si-view/via) - via is a lightweight Cadence Virtuoso IPC bridge written in Rust. (today)
+- [bbenchoff/OrthoRoute](https://github.com/bbenchoff/OrthoRoute) - OrthoRoute: A GPU-accelerated PCB autorouter for KiCad (today)
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. (today)
 - [shareAI-lab/shareAI-skills](https://github.com/shareAI-lab/shareAI-skills) - shareAI Lab&#39;s skills for agent to build agent &amp; other custom software system (3 days ago)
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 (5 days ago)
@@ -57,8 +59,6 @@
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (1 week ago)
 - [am32-firmware/AM32-bootloader](https://github.com/am32-firmware/AM32-bootloader) - AM32 bootloader (2 weeks ago)
 - [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) - AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 &#43; 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters&#39; methodologies &#43; multi-agent adversarial analysis. (3 weeks ago)
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. (1 month ago)
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents. (1 month ago)
 
 #### 💬 Feedback
 
