@@ -50,7 +50,7 @@
 #### ⭐ Recent Stars
 
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (today)
-- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal. (today)
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - agent multiplexer that lives in your terminal. (today)
 - [Frogrey/zmk-config-sofle](https://github.com/Frogrey/zmk-config-sofle) -  (1 day ago)
 - [ethz-asl/rotors_simulator](https://github.com/ethz-asl/rotors_simulator) - RotorS is a UAV gazebo simulator (3 days ago)
 - [si-view/via](https://github.com/si-view/via) - via is a lightweight Cadence Virtuoso IPC bridge written in Rust. (6 days ago)
