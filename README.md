@@ -49,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (today)
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal. (today)
 - [Frogrey/zmk-config-sofle](https://github.com/Frogrey/zmk-config-sofle) -  (1 day ago)
 - [ethz-asl/rotors_simulator](https://github.com/ethz-asl/rotors_simulator) - RotorS is a UAV gazebo simulator (3 days ago)
@@ -58,7 +59,6 @@
 - [shareAI-lab/shareAI-skills](https://github.com/shareAI-lab/shareAI-skills) - shareAI Lab&#39;s skills for agent to build agent &amp; other custom software system (1 week ago)
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 (1 week ago)
 - [Manwe-777/pid-tuna](https://github.com/Manwe-777/pid-tuna) - Modern and easy to use PIDtoolbox port (1 week ago)
-- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely. (2 weeks ago)
 
 #### 💬 Feedback
 
