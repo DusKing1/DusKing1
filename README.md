@@ -49,6 +49,9 @@
 
 #### ⭐ Recent Stars
 
+- [ibelick/ui-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers (today)
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps (today)
+- [openai/codex-security](https://github.com/openai/codex-security) - OpenAI&#39;s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security (today)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (1 day ago)
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (1 day ago)
 - [Frogrey/zmk-config-sofle](https://github.com/Frogrey/zmk-config-sofle) -  (2 days ago)
@@ -56,9 +59,6 @@
 - [si-view/via](https://github.com/si-view/via) - via is a lightweight Cadence Virtuoso IPC bridge written in Rust. (1 week ago)
 - [bbenchoff/OrthoRoute](https://github.com/bbenchoff/OrthoRoute) - OrthoRoute: A GPU-accelerated PCB autorouter for KiCad (1 week ago)
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. (1 week ago)
-- [shareAI-lab/shareAI-skills](https://github.com/shareAI-lab/shareAI-skills) - shareAI Lab&#39;s skills for agent to build agent &amp; other custom software system (1 week ago)
-- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 (1 week ago)
-- [Manwe-777/pid-tuna](https://github.com/Manwe-777/pid-tuna) - Modern and easy to use PIDtoolbox port (2 weeks ago)
 
 #### 💬 Feedback
 
