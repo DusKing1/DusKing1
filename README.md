@@ -36,6 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: validate display work queue fallback](https://github.com/DusKing1/zmk/pull/3) on [DusKing1/zmk](https://github.com/DusKing1/zmk) (today)
+- [CI validation for display work queue choices](https://github.com/DusKing1/zmk/pull/2) on [DusKing1/zmk](https://github.com/DusKing1/zmk) (today)
 - [CI validation for zmkfirmware/zmk#3460](https://github.com/DusKing1/zmk/pull/1) on [DusKing1/zmk](https://github.com/DusKing1/zmk) (today)
 - [fix(display): use the low priority work queue by default](https://github.com/zmkfirmware/zmk/pull/3460) on [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) (today)
 - [Add ARTERY ecosystem partner acknowledgment to sponsor page](https://github.com/flightng/docs/pull/19) on [flightng/docs](https://github.com/flightng/docs) (1 month ago)
@@ -44,8 +46,6 @@
 - [feat(provider): add data residency header support for OpenAI Enterprise](https://github.com/anomalyco/opencode/pull/15844) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (5 months ago)
 - [Fix out-of-bounds write in restLastSquaredDeviations fill](https://github.com/dlaidig/vqf/pull/37) on [dlaidig/vqf](https://github.com/dlaidig/vqf) (5 months ago)
 - [feat(provider): add 1M context window support for Anthropic models](https://github.com/anomalyco/opencode/pull/14375) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (5 months ago)
-- [Add AGENTS.md for LLM-assisted development](https://github.com/am32-firmware/am32-configurator/pull/40) on [am32-firmware/am32-configurator](https://github.com/am32-firmware/am32-configurator) (5 months ago)
-- [Add AGENTS.md project knowledge docs](https://github.com/MakerPnP/makerpnp/pull/13) on [MakerPnP/makerpnp](https://github.com/MakerPnP/makerpnp) (5 months ago)
 
 #### ⭐ Recent Stars
 
