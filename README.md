@@ -36,10 +36,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: validate display work queue fallback](https://github.com/DusKing1/zmk/pull/3) on [DusKing1/zmk](https://github.com/DusKing1/zmk) (1 day ago)
-- [CI validation for display work queue choices](https://github.com/DusKing1/zmk/pull/2) on [DusKing1/zmk](https://github.com/DusKing1/zmk) (1 day ago)
-- [CI validation for zmkfirmware/zmk#3460](https://github.com/DusKing1/zmk/pull/1) on [DusKing1/zmk](https://github.com/DusKing1/zmk) (1 day ago)
-- [fix(display): use the low priority work queue by default](https://github.com/zmkfirmware/zmk/pull/3460) on [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) (1 day ago)
+- [ci: validate display work queue fallback](https://github.com/DusKing1/zmk/pull/3) on [DusKing1/zmk](https://github.com/DusKing1/zmk) (2 days ago)
+- [CI validation for display work queue choices](https://github.com/DusKing1/zmk/pull/2) on [DusKing1/zmk](https://github.com/DusKing1/zmk) (2 days ago)
+- [CI validation for zmkfirmware/zmk#3460](https://github.com/DusKing1/zmk/pull/1) on [DusKing1/zmk](https://github.com/DusKing1/zmk) (2 days ago)
+- [fix(display): use the low priority work queue by default](https://github.com/zmkfirmware/zmk/pull/3460) on [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) (2 days ago)
 - [Add ARTERY ecosystem partner acknowledgment to sponsor page](https://github.com/flightng/docs/pull/19) on [flightng/docs](https://github.com/flightng/docs) (1 month ago)
 - [Sync Fidelity X docs with firmware v0.2.0 and configurator](https://github.com/flightng/docs/pull/18) on [flightng/docs](https://github.com/flightng/docs) (1 month ago)
 - [feat: 添加 Windows Terminal 配色方案支持](https://github.com/jqlong17/ghostty-opencode-themes/pull/1) on [jqlong17/ghostty-opencode-themes](https://github.com/jqlong17/ghostty-opencode-themes) (4 months ago)
@@ -49,13 +49,13 @@
 
 #### ⭐ Recent Stars
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers® (today)
-- [ibelick/ui-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers (4 days ago)
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps (4 days ago)
-- [openai/codex-security](https://github.com/openai/codex-security) - OpenAI&#39;s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security (4 days ago)
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (5 days ago)
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (5 days ago)
-- [Frogrey/zmk-config-sofle](https://github.com/Frogrey/zmk-config-sofle) -  (6 days ago)
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers® (1 day ago)
+- [ibelick/ui-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers (5 days ago)
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps (5 days ago)
+- [openai/codex-security](https://github.com/openai/codex-security) - OpenAI&#39;s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security (5 days ago)
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (6 days ago)
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (6 days ago)
+- [Frogrey/zmk-config-sofle](https://github.com/Frogrey/zmk-config-sofle) -  (1 week ago)
 - [ethz-asl/rotors_simulator](https://github.com/ethz-asl/rotors_simulator) - RotorS is a UAV gazebo simulator (1 week ago)
 - [si-view/via](https://github.com/si-view/via) - via is a lightweight Cadence Virtuoso IPC bridge written in Rust. (1 week ago)
 - [bbenchoff/OrthoRoute](https://github.com/bbenchoff/OrthoRoute) - OrthoRoute: A GPU-accelerated PCB autorouter for KiCad (1 week ago)
