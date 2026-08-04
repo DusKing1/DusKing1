@@ -49,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker) - A tool to unlobotomize your NVIDIA card! (today)
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers® (1 day ago)
 - [ibelick/ui-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers (5 days ago)
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps (5 days ago)
@@ -58,7 +59,6 @@
 - [Frogrey/zmk-config-sofle](https://github.com/Frogrey/zmk-config-sofle) -  (1 week ago)
 - [ethz-asl/rotors_simulator](https://github.com/ethz-asl/rotors_simulator) - RotorS is a UAV gazebo simulator (1 week ago)
 - [si-view/via](https://github.com/si-view/via) - via is a lightweight Cadence Virtuoso IPC bridge written in Rust. (1 week ago)
-- [bbenchoff/OrthoRoute](https://github.com/bbenchoff/OrthoRoute) - OrthoRoute: A GPU-accelerated PCB autorouter for KiCad (1 week ago)
 
 #### 💬 Feedback
 
