@@ -49,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop  (today)
 - [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker) - A tool to unlobotomize your NVIDIA card! (4 days ago)
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers® (5 days ago)
 - [ibelick/ui-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers (1 week ago)
@@ -58,7 +59,6 @@
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (1 week ago)
 - [Frogrey/zmk-config-sofle](https://github.com/Frogrey/zmk-config-sofle) -  (1 week ago)
 - [ethz-asl/rotors_simulator](https://github.com/ethz-asl/rotors_simulator) - RotorS is a UAV gazebo simulator (1 week ago)
-- [si-view/via](https://github.com/si-view/via) - via is a lightweight Cadence Virtuoso IPC bridge written in Rust. (2 weeks ago)
 
 #### 💬 Feedback
 
