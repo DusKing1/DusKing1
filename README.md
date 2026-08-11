@@ -49,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [jiwangyihao/omp-openai-provider-tools](https://github.com/jiwangyihao/omp-openai-provider-tools) -  (today)
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more (2 days ago)
 - [CadQuery/cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT (2 days ago)
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop  (3 days ago)
@@ -58,7 +59,6 @@
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps (1 week ago)
 - [openai/codex-security](https://github.com/openai/codex-security) - OpenAI&#39;s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security (1 week ago)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (1 week ago)
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (1 week ago)
 
 #### 💬 Feedback
 
