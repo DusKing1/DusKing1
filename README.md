@@ -49,6 +49,8 @@
 
 #### ⭐ Recent Stars
 
+- [smarzban/herdr-file-viewer](https://github.com/smarzban/herdr-file-viewer) - A git-aware, read-only file viewer for herdr. Mouse friendly,  keyboard-driven TUI: tree &#43; content pane with diffs, rendered markdown, and syntax highlighting. (today)
+- [alexarthurs/herdr-sidebar](https://github.com/alexarthurs/herdr-sidebar) - VS Code-style sidebar for the herdr: file explorer &#43; git source control in one pane — syntax-highlighted previews, VS Code-style diffs, GitLens-style drawers, AI commit messages (today)
 - [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (1 day ago)
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (3 days ago)
 - [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语 (4 days ago)
@@ -57,8 +59,6 @@
 - [CadQuery/cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT (1 week ago)
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop  (1 week ago)
 - [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker) - A tool to unlobotomize your NVIDIA card! (1 week ago)
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers® (2 weeks ago)
-- [ibelick/ui-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers (2 weeks ago)
 
 #### 💬 Feedback
 
