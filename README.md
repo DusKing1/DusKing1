@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ai/providers): declare Codex workspace data residency from token claims](https://github.com/can1357/oh-my-pi/pull/9128) on [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (today)
 - [ci: validate display work queue fallback](https://github.com/DusKing1/zmk/pull/3) on [DusKing1/zmk](https://github.com/DusKing1/zmk) (2 weeks ago)
 - [CI validation for display work queue choices](https://github.com/DusKing1/zmk/pull/2) on [DusKing1/zmk](https://github.com/DusKing1/zmk) (2 weeks ago)
 - [CI validation for zmkfirmware/zmk#3460](https://github.com/DusKing1/zmk/pull/1) on [DusKing1/zmk](https://github.com/DusKing1/zmk) (2 weeks ago)
@@ -45,7 +46,6 @@
 - [feat: 添加 Windows Terminal 配色方案支持](https://github.com/jqlong17/ghostty-opencode-themes/pull/1) on [jqlong17/ghostty-opencode-themes](https://github.com/jqlong17/ghostty-opencode-themes) (5 months ago)
 - [feat(provider): add data residency header support for OpenAI Enterprise](https://github.com/anomalyco/opencode/pull/15844) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (5 months ago)
 - [Fix out-of-bounds write in restLastSquaredDeviations fill](https://github.com/dlaidig/vqf/pull/37) on [dlaidig/vqf](https://github.com/dlaidig/vqf) (6 months ago)
-- [feat(provider): add 1M context window support for Anthropic models](https://github.com/anomalyco/opencode/pull/14375) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (6 months ago)
 
 #### ⭐ Recent Stars
 
