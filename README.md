@@ -49,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [suncityldp/zx-bench](https://github.com/suncityldp/zx-bench) -  (today)
 - [smarzban/herdr-file-viewer](https://github.com/smarzban/herdr-file-viewer) - A git-aware, read-only file viewer for herdr. Mouse friendly,  keyboard-driven TUI: tree &#43; content pane with diffs, rendered markdown, and syntax highlighting. (3 days ago)
 - [alexarthurs/herdr-sidebar](https://github.com/alexarthurs/herdr-sidebar) - VS Code-style sidebar for the herdr: file explorer &#43; git source control in one pane — syntax-highlighted previews, VS Code-style diffs, GitLens-style drawers, AI commit messages (3 days ago)
 - [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (4 days ago)
@@ -58,7 +59,6 @@
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more (1 week ago)
 - [CadQuery/cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT (1 week ago)
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop  (1 week ago)
-- [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker) - A tool to unlobotomize your NVIDIA card! (2 weeks ago)
 
 #### 💬 Feedback
 
