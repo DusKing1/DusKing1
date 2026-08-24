@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.0.3](https://github.com/can1357/oh-my-pi/releases/tag/v18.0.3), 1 day ago) - ⌥ Coding agent with the IDE wired in
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.0.4](https://github.com/can1357/oh-my-pi/releases/tag/v18.0.4), today) - ⌥ Coding agent with the IDE wired in
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) ([v0.3.2](https://github.com/DusKing1/opencode-anthropic-console/releases/tag/v0.3.2), 1 week ago) - 
 - [flightng/firmware](https://github.com/flightng/firmware) ([v0.2.0](https://github.com/flightng/firmware/releases/tag/v0.2.0), 1 month ago) - 
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.1.0](https://github.com/iNavFlight/inav/releases/tag/9.1.0), 1 month ago) - INAV: Navigation-enabled flight control software
