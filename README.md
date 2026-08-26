@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in (4 days ago)
-- [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (1 week ago)
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in (5 days ago)
+- [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (2 weeks ago)
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (1 month ago)
-- [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (1 month ago)
-- [DusKing1/opencode-anthropic-auth](https://github.com/DusKing1/opencode-anthropic-auth) -  (4 months ago)
+- [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (2 months ago)
+- [DusKing1/opencode-anthropic-auth](https://github.com/DusKing1/opencode-anthropic-auth) -  (5 months ago)
 - [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (5 months ago)
 - [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (5 months ago)
-- [flightng/nightly-firmware](https://github.com/flightng/nightly-firmware) - Fydelix nightly firmware builds (automated) (5 months ago)
+- [flightng/nightly-firmware](https://github.com/flightng/nightly-firmware) - Fydelix nightly firmware builds (automated) (6 months ago)
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (6 months ago)
 - [flightng/firmware](https://github.com/flightng/firmware) -  (11 months ago)
 
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.0.5](https://github.com/can1357/oh-my-pi/releases/tag/v18.0.5), today) - ⌥ Coding agent with the IDE wired in
-- [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) ([v0.3.2](https://github.com/DusKing1/opencode-anthropic-console/releases/tag/v0.3.2), 1 week ago) - 
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.0.5](https://github.com/can1357/oh-my-pi/releases/tag/v18.0.5), 1 day ago) - ⌥ Coding agent with the IDE wired in
+- [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) ([v0.3.2](https://github.com/DusKing1/opencode-anthropic-console/releases/tag/v0.3.2), 2 weeks ago) - 
 - [flightng/firmware](https://github.com/flightng/firmware) ([v0.2.0](https://github.com/flightng/firmware/releases/tag/v0.2.0), 1 month ago) - 
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.1.0](https://github.com/iNavFlight/inav/releases/tag/9.1.0), 1 month ago) - INAV: Navigation-enabled flight control software
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.2](https://github.com/dlaidig/vqf/releases/tag/v2.1.2), 1 month ago) - 
-- [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) ([v1.2.0](https://github.com/DusKing1/opencode-openai-residency/releases/tag/v1.2.0), 1 month ago) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support
+- [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) ([v1.2.0](https://github.com/DusKing1/opencode-openai-residency/releases/tag/v1.2.0), 2 months ago) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support
 
 #### 🔨 My recent Pull Requests
 
-- [fix(ai/providers): declare Codex workspace data residency from token claims](https://github.com/can1357/oh-my-pi/pull/9128) on [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (5 days ago)
+- [fix(ai/providers): declare Codex workspace data residency from token claims](https://github.com/can1357/oh-my-pi/pull/9128) on [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (6 days ago)
 - [ci: validate display work queue fallback](https://github.com/DusKing1/zmk/pull/3) on [DusKing1/zmk](https://github.com/DusKing1/zmk) (3 weeks ago)
 - [CI validation for display work queue choices](https://github.com/DusKing1/zmk/pull/2) on [DusKing1/zmk](https://github.com/DusKing1/zmk) (3 weeks ago)
 - [CI validation for zmkfirmware/zmk#3460](https://github.com/DusKing1/zmk/pull/1) on [DusKing1/zmk](https://github.com/DusKing1/zmk) (3 weeks ago)
@@ -50,7 +50,7 @@
 
 #### ⭐ Recent Stars
 
-- [suncityldp/zx-bench](https://github.com/suncityldp/zx-bench) -  (5 days ago)
+- [suncityldp/zx-bench](https://github.com/suncityldp/zx-bench) -  (6 days ago)
 - [smarzban/herdr-file-viewer](https://github.com/smarzban/herdr-file-viewer) - A git-aware, read-only file viewer for herdr. Mouse friendly,  keyboard-driven TUI: tree &#43; content pane with diffs, rendered markdown, and syntax highlighting. (1 week ago)
 - [alexarthurs/herdr-sidebar](https://github.com/alexarthurs/herdr-sidebar) - VS Code-style sidebar for the herdr: file explorer &#43; git source control in one pane — syntax-highlighted previews, VS Code-style diffs, GitLens-style drawers, AI commit messages (1 week ago)
 - [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (1 week ago)
