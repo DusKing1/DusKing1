@@ -17,6 +17,7 @@
 
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) - 
 - [DusKing1/opencode-anthropic-auth](https://github.com/DusKing1/opencode-anthropic-auth) - 
+- [DusKing1/ghostty-opencode-themes](https://github.com/DusKing1/ghostty-opencode-themes) - 
 - [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support
 - [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) - 
@@ -24,7 +25,6 @@
 - [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation
 - [DusKing1/glados-qinglong](https://github.com/DusKing1/glados-qinglong) - 自己用的glados签到本
 - [DusKing1/Bncr_plugin](https://github.com/DusKing1/Bncr_plugin) - 自己用的无界bot插件
-- [DusKing1/github-slideshow](https://github.com/DusKing1/github-slideshow) - A robot powered training repository :robot:
 
 #### 🔭 Latest releases I've contributed to
 
@@ -44,9 +44,9 @@
 - [fix(display): use the low priority work queue by default](https://github.com/zmkfirmware/zmk/pull/3460) on [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) (1 month ago)
 - [Add ARTERY ecosystem partner acknowledgment to sponsor page](https://github.com/flightng/docs/pull/19) on [flightng/docs](https://github.com/flightng/docs) (2 months ago)
 - [Sync Fidelity X docs with firmware v0.2.0 and configurator](https://github.com/flightng/docs/pull/18) on [flightng/docs](https://github.com/flightng/docs) (2 months ago)
-- [feat: 添加 Windows Terminal 配色方案支持](https://github.com/jqlong17/ghostty-opencode-themes/pull/1) on [jqlong17/ghostty-opencode-themes](https://github.com/jqlong17/ghostty-opencode-themes) (5 months ago)
 - [feat(provider): add data residency header support for OpenAI Enterprise](https://github.com/anomalyco/opencode/pull/15844) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (6 months ago)
 - [Fix out-of-bounds write in restLastSquaredDeviations fill](https://github.com/dlaidig/vqf/pull/37) on [dlaidig/vqf](https://github.com/dlaidig/vqf) (6 months ago)
+- [feat(provider): add 1M context window support for Anthropic models](https://github.com/anomalyco/opencode/pull/14375) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (6 months ago)
 
 #### ⭐ Recent Stars
 
