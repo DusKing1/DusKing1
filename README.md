@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.1.10](https://github.com/can1357/oh-my-pi/releases/tag/v18.1.10), today) - ⌥ Coding agent with the IDE wired in
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.1.10](https://github.com/can1357/oh-my-pi/releases/tag/v18.1.10), 1 day ago) - ⌥ Coding agent with the IDE wired in
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) ([v0.3.2](https://github.com/DusKing1/opencode-anthropic-console/releases/tag/v0.3.2), 3 weeks ago) - 
 - [flightng/firmware](https://github.com/flightng/firmware) ([v0.2.0](https://github.com/flightng/firmware/releases/tag/v0.2.0), 1 month ago) - 
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([9.1.0](https://github.com/iNavFlight/inav/releases/tag/9.1.0), 1 month ago) - INAV: Navigation-enabled flight control software
@@ -50,8 +50,8 @@
 
 #### ⭐ Recent Stars
 
-- [multiwii/baseflight](https://github.com/multiwii/baseflight) - 32 bit fork of the MultiWii RC flight controller firmware (1 day ago)
-- [superxslam/TartanIMU](https://github.com/superxslam/TartanIMU) - First Attempt on IMU &#34;Foundation Model&#34; (1 day ago)
+- [multiwii/baseflight](https://github.com/multiwii/baseflight) - 32 bit fork of the MultiWii RC flight controller firmware (2 days ago)
+- [superxslam/TartanIMU](https://github.com/superxslam/TartanIMU) - First Attempt on IMU &#34;Foundation Model&#34; (2 days ago)
 - [suncityldp/zx-bench](https://github.com/suncityldp/zx-bench) -  (2 weeks ago)
 - [smarzban/herdr-file-viewer](https://github.com/smarzban/herdr-file-viewer) - A git-aware, read-only file viewer for herdr. Mouse friendly,  keyboard-driven TUI: tree &#43; content pane with diffs, rendered markdown, and syntax highlighting. (2 weeks ago)
 - [alexarthurs/herdr-sidebar](https://github.com/alexarthurs/herdr-sidebar) - VS Code-style sidebar for the herdr: file explorer &#43; git source control in one pane — syntax-highlighted previews, VS Code-style diffs, GitLens-style drawers, AI commit messages (2 weeks ago)
