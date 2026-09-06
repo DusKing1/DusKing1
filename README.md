@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.1.11](https://github.com/can1357/oh-my-pi/releases/tag/v18.1.11), 1 day ago) - ⌥ Coding agent with the IDE wired in
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.1.12](https://github.com/can1357/oh-my-pi/releases/tag/v18.1.12), today) - ⌥ Coding agent with the IDE wired in
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) ([v0.3.2](https://github.com/DusKing1/opencode-anthropic-console/releases/tag/v0.3.2), 3 weeks ago) - 
 - [flightng/firmware](https://github.com/flightng/firmware) ([v0.2.0](https://github.com/flightng/firmware/releases/tag/v0.2.0), 1 month ago) - 
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.2](https://github.com/dlaidig/vqf/releases/tag/v2.1.2), 1 month ago) - 
