@@ -51,7 +51,7 @@
 
 - [multiwii/baseflight](https://github.com/multiwii/baseflight) - 32 bit fork of the MultiWii RC flight controller firmware (1 week ago)
 - [superxslam/TartanIMU](https://github.com/superxslam/TartanIMU) - First Attempt on IMU &#34;Foundation Model&#34; (1 week ago)
-- [suncityldp/zx-bench](https://github.com/suncityldp/zx-bench) -  (3 weeks ago)
+- [suncityldp/zx-bench](https://github.com/suncityldp/zx-bench) - A reproducible local LLM benchmarking platform with versioned datasets, deterministic scoring, and auditable reports. (3 weeks ago)
 - [smarzban/herdr-file-viewer](https://github.com/smarzban/herdr-file-viewer) - A git-aware, read-only file viewer for herdr. Mouse friendly,  keyboard-driven TUI: tree &#43; content pane with diffs, rendered markdown, and syntax highlighting. (3 weeks ago)
 - [alexarthurs/herdr-sidebar](https://github.com/alexarthurs/herdr-sidebar) - VS Code-style sidebar for the herdr: file explorer &#43; git source control in one pane — syntax-highlighted previews, VS Code-style diffs, GitLens-style drawers, AI commit messages (3 weeks ago)
 - [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (4 weeks ago)
