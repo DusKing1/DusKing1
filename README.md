@@ -11,7 +11,7 @@
 - [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (6 months ago)
 - [flightng/nightly-firmware](https://github.com/flightng/nightly-firmware) - Fydelix nightly firmware builds (automated) (6 months ago)
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (6 months ago)
-- [flightng/firmware](https://github.com/flightng/firmware) -  (11 months ago)
+- [flightng/firmware](https://github.com/flightng/firmware) -  (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.2.0](https://github.com/can1357/oh-my-pi/releases/tag/v18.2.0), today) - ⌥ Coding agent with the IDE wired in
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.2.1](https://github.com/can1357/oh-my-pi/releases/tag/v18.2.1), 1 day ago) - ⌥ Coding agent with the IDE wired in
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) ([v0.3.2](https://github.com/DusKing1/opencode-anthropic-console/releases/tag/v0.3.2), 1 month ago) - 
 - [flightng/firmware](https://github.com/flightng/firmware) ([v0.2.0](https://github.com/flightng/firmware/releases/tag/v0.2.0), 2 months ago) - 
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.2](https://github.com/dlaidig/vqf/releases/tag/v2.1.2), 2 months ago) - 
@@ -49,12 +49,12 @@
 
 #### ⭐ Recent Stars
 
-- [8JackXu8/DJIRCPlus-Bridge_RCPlus-](https://github.com/8JackXu8/DJIRCPlus-Bridge_RCPlus-) - 用RCPlus2控制器充当Xbox控制器 (1 day ago)
+- [8JackXu8/DJIRCPlus-Bridge_RCPlus-](https://github.com/8JackXu8/DJIRCPlus-Bridge_RCPlus-) - 用RCPlus2控制器充当Xbox控制器 (2 days ago)
 - [multiwii/baseflight](https://github.com/multiwii/baseflight) - 32 bit fork of the MultiWii RC flight controller firmware (1 week ago)
 - [superxslam/TartanIMU](https://github.com/superxslam/TartanIMU) - First Attempt on IMU &#34;Foundation Model&#34; (1 week ago)
 - [suncityldp/zx-bench](https://github.com/suncityldp/zx-bench) - A reproducible local LLM benchmarking platform with versioned datasets, deterministic scoring, and auditable reports. (3 weeks ago)
-- [smarzban/herdr-file-viewer](https://github.com/smarzban/herdr-file-viewer) - A git-aware, read-only file viewer for herdr. Mouse friendly,  keyboard-driven TUI: tree &#43; content pane with diffs, rendered markdown, and syntax highlighting. (4 weeks ago)
-- [alexarthurs/herdr-sidebar](https://github.com/alexarthurs/herdr-sidebar) - VS Code-style sidebar for the herdr: file explorer &#43; git source control in one pane — syntax-highlighted previews, VS Code-style diffs, GitLens-style drawers, AI commit messages (4 weeks ago)
+- [smarzban/herdr-file-viewer](https://github.com/smarzban/herdr-file-viewer) - A git-aware, read-only file viewer for herdr. Mouse friendly,  keyboard-driven TUI: tree &#43; content pane with diffs, rendered markdown, and syntax highlighting. (1 month ago)
+- [alexarthurs/herdr-sidebar](https://github.com/alexarthurs/herdr-sidebar) - VS Code-style sidebar for the herdr: file explorer &#43; git source control in one pane — syntax-highlighted previews, VS Code-style diffs, GitLens-style drawers, AI commit messages (1 month ago)
 - [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (1 month ago)
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (1 month ago)
 - [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语 (1 month ago)
