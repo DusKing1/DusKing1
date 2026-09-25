@@ -5,11 +5,11 @@
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. (1 month ago)
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (1 month ago)
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (2 months ago)
-- [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (2 months ago)
-- [DusKing1/opencode-anthropic-auth](https://github.com/DusKing1/opencode-anthropic-auth) -  (5 months ago)
+- [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (3 months ago)
+- [DusKing1/opencode-anthropic-auth](https://github.com/DusKing1/opencode-anthropic-auth) -  (6 months ago)
 - [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (6 months ago)
 - [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (6 months ago)
-- [flightng/nightly-firmware](https://github.com/flightng/nightly-firmware) - Fydelix nightly firmware builds (automated) (6 months ago)
+- [flightng/nightly-firmware](https://github.com/flightng/nightly-firmware) - Fydelix nightly firmware builds (automated) (7 months ago)
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (7 months ago)
 - [flightng/firmware](https://github.com/flightng/firmware) -  (1 year ago)
 
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.3.0](https://github.com/can1357/oh-my-pi/releases/tag/v18.3.0), today) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.3.0](https://github.com/can1357/oh-my-pi/releases/tag/v18.3.0), 1 day ago) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) ([v0.3.2](https://github.com/DusKing1/opencode-anthropic-console/releases/tag/v0.3.2), 1 month ago) - 
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.2](https://github.com/dlaidig/vqf/releases/tag/v2.1.2), 2 months ago) - 
-- [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) ([v1.2.0](https://github.com/DusKing1/opencode-openai-residency/releases/tag/v1.2.0), 2 months ago) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support
+- [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) ([v1.2.0](https://github.com/DusKing1/opencode-openai-residency/releases/tag/v1.2.0), 3 months ago) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support
 
 #### 🔨 My recent Pull Requests
 
