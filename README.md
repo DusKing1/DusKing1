@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.3.0](https://github.com/can1357/oh-my-pi/releases/tag/v18.3.0), 1 day ago) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.3.1](https://github.com/can1357/oh-my-pi/releases/tag/v18.3.1), today) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) ([v0.3.2](https://github.com/DusKing1/opencode-anthropic-console/releases/tag/v0.3.2), 1 month ago) - 
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.2](https://github.com/dlaidig/vqf/releases/tag/v2.1.2), 2 months ago) - 
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) ([v1.2.0](https://github.com/DusKing1/opencode-openai-residency/releases/tag/v1.2.0), 3 months ago) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support
