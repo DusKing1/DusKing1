@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [kcosr/herdr-web](https://github.com/kcosr/herdr-web) - Web-based client for https://herdr.dev/ terminal session manager (today)
 - [DusKing1/omp-plugins](https://github.com/DusKing1/omp-plugins) - Plugins for oh-my-pi (omp), installable via omp&#39;s marketplace (today)
 - [Zhen-Bo/smell-check](https://github.com/Zhen-Bo/smell-check) - Agent Skill for code and test smell audits. Evidence-ranked findings from Refactoring, Clean Code, and the test-smell literature. Formerly pragmatic-code-review. (2 days ago)
 - [8JackXu8/DJIRCPlus-Bridge_RCPlus-](https://github.com/8JackXu8/DJIRCPlus-Bridge_RCPlus-) - 用RCPlus2控制器充当Xbox控制器 (1 week ago)
@@ -57,7 +58,6 @@
 - [suncityldp/zx-bench](https://github.com/suncityldp/zx-bench) - A reproducible local LLM benchmarking platform with versioned datasets, deterministic scoring, and auditable reports. (1 month ago)
 - [smarzban/herdr-file-viewer](https://github.com/smarzban/herdr-file-viewer) - A git-aware, read-only file viewer for herdr. Mouse friendly,  keyboard-driven TUI: tree &#43; content pane with diffs, rendered markdown, and syntax highlighting. (1 month ago)
 - [alexarthurs/herdr-sidebar](https://github.com/alexarthurs/herdr-sidebar) - VS Code-style sidebar for the herdr: file explorer &#43; git source control in one pane — syntax-highlighted previews, VS Code-style diffs, GitLens-style drawers, AI commit messages (1 month ago)
-- [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (1 month ago)
 
 #### 💬 Feedback
 
