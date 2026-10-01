@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [DusKing1/ha-tcl-tv](https://github.com/DusKing1/ha-tcl-tv) - TCL 电视 Home Assistant 局域网遥控 · Liquid Glass 圆盘卡片 · 完整协议参考 (today)
 - [DusKing1/omp-plugins](https://github.com/DusKing1/omp-plugins) - Plugins for oh-my-pi (omp), installable via omp&#39;s marketplace (today)
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. (1 month ago)
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (1 month ago)
@@ -11,10 +12,10 @@
 - [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (6 months ago)
 - [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (6 months ago)
 - [flightng/nightly-firmware](https://github.com/flightng/nightly-firmware) - Fydelix nightly firmware builds (automated) (7 months ago)
-- [dlaidig/vqf](https://github.com/dlaidig/vqf) -  (7 months ago)
 
 #### 🌱 My latest projects
 
+- [DusKing1/ha-tcl-tv](https://github.com/DusKing1/ha-tcl-tv) - TCL 电视 Home Assistant 局域网遥控 · Liquid Glass 圆盘卡片 · 完整协议参考
 - [DusKing1/omp-plugins](https://github.com/DusKing1/omp-plugins) - Plugins for oh-my-pi (omp), installable via omp&#39;s marketplace
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) - 
 - [DusKing1/opencode-anthropic-auth](https://github.com/DusKing1/opencode-anthropic-auth) - 
@@ -24,11 +25,11 @@
 - [DusKing1/howtocook-py-mcp](https://github.com/DusKing1/howtocook-py-mcp) - 
 - [DusKing1/wskey](https://github.com/DusKing1/wskey) - 
 - [DusKing1/vqf-c](https://github.com/DusKing1/vqf-c) - VQF C implementation
-- [DusKing1/glados-qinglong](https://github.com/DusKing1/glados-qinglong) - 自己用的glados签到本
 
 #### 🔭 Latest releases I've contributed to
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.4.8](https://github.com/can1357/oh-my-pi/releases/tag/v18.4.8), today) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
+- [DusKing1/ha-tcl-tv](https://github.com/DusKing1/ha-tcl-tv) ([v0.3.2](https://github.com/DusKing1/ha-tcl-tv/releases/tag/v0.3.2), today) - TCL 电视 Home Assistant 局域网遥控 · Liquid Glass 圆盘卡片 · 完整协议参考
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.4.9](https://github.com/can1357/oh-my-pi/releases/tag/v18.4.9), today) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) ([v0.3.2](https://github.com/DusKing1/opencode-anthropic-console/releases/tag/v0.3.2), 1 month ago) - 
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.2](https://github.com/dlaidig/vqf/releases/tag/v2.1.2), 2 months ago) - 
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) ([v1.2.0](https://github.com/DusKing1/opencode-openai-residency/releases/tag/v1.2.0), 3 months ago) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support
@@ -48,6 +49,8 @@
 
 #### ⭐ Recent Stars
 
+- [am32-firmware/Am32-Wifi-Bridge](https://github.com/am32-firmware/Am32-Wifi-Bridge) - Creates Esp32 C3 wifi host bridge to work with AM32. Includes signal passthrough.  (today)
+- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents. (today)
 - [kcosr/herdr-web](https://github.com/kcosr/herdr-web) - Web-based client for https://herdr.dev/ terminal session manager (4 days ago)
 - [DusKing1/omp-plugins](https://github.com/DusKing1/omp-plugins) - Plugins for oh-my-pi (omp), installable via omp&#39;s marketplace (4 days ago)
 - [Zhen-Bo/smell-check](https://github.com/Zhen-Bo/smell-check) - Agent Skill for code and test smell audits. Evidence-ranked findings from Refactoring, Clean Code, and the test-smell literature. Formerly pragmatic-code-review. (6 days ago)
@@ -56,8 +59,6 @@
 - [superxslam/TartanIMU](https://github.com/superxslam/TartanIMU) - First Attempt on IMU &#34;Foundation Model&#34; (4 weeks ago)
 - [HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) -  (1 month ago)
 - [suncityldp/zx-bench](https://github.com/suncityldp/zx-bench) - A reproducible local LLM benchmarking platform with versioned datasets, deterministic scoring, and auditable reports. (1 month ago)
-- [smarzban/herdr-file-viewer](https://github.com/smarzban/herdr-file-viewer) - A git-aware, read-only file viewer for herdr. Mouse friendly,  keyboard-driven TUI: tree &#43; content pane with diffs, rendered markdown, and syntax highlighting. (1 month ago)
-- [alexarthurs/herdr-sidebar](https://github.com/alexarthurs/herdr-sidebar) - VS Code-style sidebar for the herdr: file explorer &#43; git source control in one pane — syntax-highlighted previews, VS Code-style diffs, GitLens-style drawers, AI commit messages (1 month ago)
 
 #### 💬 Feedback
 
