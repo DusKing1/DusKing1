@@ -49,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [devswha/herdr-web-ui](https://github.com/devswha/herdr-web-ui) - Browser and phone client for herdr: chat and live terminal for every agent pane, remote PCs over SSH, web push alerts (today)
 - [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you (1 day ago)
 - [Qrome/QLiteOSD](https://github.com/Qrome/QLiteOSD) - Arduino based OSD for DJI FPV (2 days ago)
 - [davidmolony/MESC_FOC_ESC](https://github.com/davidmolony/MESC_FOC_ESC) - MESC, Molony ESC, STM32F303 based FOC&#43;BLDC ready, HALL, Encoder, Sensorless, single sides, 2 layer, ~90A @48V (2 days ago)
@@ -58,7 +59,6 @@
 - [DusKing1/omp-plugins](https://github.com/DusKing1/omp-plugins) - Plugins for oh-my-pi (omp), installable via omp&#39;s marketplace (1 week ago)
 - [Zhen-Bo/smell-check](https://github.com/Zhen-Bo/smell-check) - Agent Skill for code and test smell audits. Evidence-ranked findings from Refactoring, Clean Code, and the test-smell literature. Formerly pragmatic-code-review. (1 week ago)
 - [8JackXu8/DJIRCPlus-Bridge_RCPlus-](https://github.com/8JackXu8/DJIRCPlus-Bridge_RCPlus-) - 用RCPlus2控制器充当Xbox控制器 (2 weeks ago)
-- [multiwii/baseflight](https://github.com/multiwii/baseflight) - 32 bit fork of the MultiWii RC flight controller firmware (1 month ago)
 
 #### 💬 Feedback
 
