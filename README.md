@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DusKing1/ha-tcl-tv](https://github.com/DusKing1/ha-tcl-tv) - TCL 电视 Home Assistant 局域网遥控 · Liquid Glass 圆盘卡片 · 完整协议参考 (1 day ago)
-- [DusKing1/omp-plugins](https://github.com/DusKing1/omp-plugins) - Plugins for oh-my-pi (omp), installable via omp&#39;s marketplace (5 days ago)
+- [DusKing1/ha-tcl-tv](https://github.com/DusKing1/ha-tcl-tv) - TCL 电视 Home Assistant 局域网遥控 · Liquid Glass 圆盘卡片 · 完整协议参考 (2 days ago)
+- [DusKing1/omp-plugins](https://github.com/DusKing1/omp-plugins) - Plugins for oh-my-pi (omp), installable via omp&#39;s marketplace (6 days ago)
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. (1 month ago)
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (1 month ago)
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (3 months ago)
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (3 months ago)
 - [DusKing1/opencode-anthropic-auth](https://github.com/DusKing1/opencode-anthropic-auth) -  (6 months ago)
-- [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (6 months ago)
+- [DusKing1/opencode-anthropic-context-1m](https://github.com/DusKing1/opencode-anthropic-context-1m) - OpenCode plugin to enable 1M context window for supported Anthropic Claude models (7 months ago)
 - [flightng/test-configurator](https://github.com/flightng/test-configurator) -  (7 months ago)
 - [flightng/nightly-firmware](https://github.com/flightng/nightly-firmware) - Fydelix nightly firmware builds (automated) (7 months ago)
 
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.6.3](https://github.com/can1357/oh-my-pi/releases/tag/v18.6.3), today) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
-- [DusKing1/ha-tcl-tv](https://github.com/DusKing1/ha-tcl-tv) ([v0.3.2](https://github.com/DusKing1/ha-tcl-tv/releases/tag/v0.3.2), 5 days ago) - TCL 电视 Home Assistant 局域网遥控 · Liquid Glass 圆盘卡片 · 完整协议参考
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.7.0](https://github.com/can1357/oh-my-pi/releases/tag/v18.7.0), 1 day ago) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
+- [DusKing1/ha-tcl-tv](https://github.com/DusKing1/ha-tcl-tv) ([v0.3.2](https://github.com/DusKing1/ha-tcl-tv/releases/tag/v0.3.2), 6 days ago) - TCL 电视 Home Assistant 局域网遥控 · Liquid Glass 圆盘卡片 · 完整协议参考
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) ([v0.3.2](https://github.com/DusKing1/opencode-anthropic-console/releases/tag/v0.3.2), 1 month ago) - 
-- [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.2](https://github.com/dlaidig/vqf/releases/tag/v2.1.2), 2 months ago) - 
+- [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.2](https://github.com/dlaidig/vqf/releases/tag/v2.1.2), 3 months ago) - 
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) ([v1.2.0](https://github.com/DusKing1/opencode-openai-residency/releases/tag/v1.2.0), 3 months ago) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support
 
 #### 🔨 My recent Pull Requests
@@ -49,16 +49,16 @@
 
 #### ⭐ Recent Stars
 
-- [ace-cooper/AceMicroFlyer-ESP32](https://github.com/ace-cooper/AceMicroFlyer-ESP32) - A ESP32-C3 Super Mini Micro Drone Project (2 days ago)
-- [TimHanewich/centauri](https://github.com/TimHanewich/centauri) - A complete, custom-built quadcopter system (flight controller, transmitter, telemetry tools) built entirely from scratch in Python on a Raspberry Pi Pico, no off-the-shelf flight controller required. (2 days ago)
-- [makerspet/oomwoo](https://github.com/makerspet/oomwoo) - Open-source vacuum robot cleaner (2 days ago)
-- [larashero3-dotcom/lieflat-charts](https://github.com/larashero3-dotcom/lieflat-charts) - Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。 (2 days ago)
-- [devswha/herdr-web-ui](https://github.com/devswha/herdr-web-ui) - Browser and phone client for herdr: chat and live terminal for every agent pane, remote PCs over SSH, web push alerts (2 days ago)
-- [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you (3 days ago)
-- [Qrome/QLiteOSD](https://github.com/Qrome/QLiteOSD) - Arduino based OSD for DJI FPV (4 days ago)
-- [davidmolony/MESC_FOC_ESC](https://github.com/davidmolony/MESC_FOC_ESC) - MESC, Molony ESC, STM32F303 based FOC&#43;BLDC ready, HALL, Encoder, Sensorless, single sides, 2 layer, ~90A @48V (4 days ago)
-- [am32-firmware/Am32-Wifi-Bridge](https://github.com/am32-firmware/Am32-Wifi-Bridge) - Creates Esp32 C3 wifi host bridge to work with AM32. Includes signal passthrough.  (5 days ago)
-- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents. (5 days ago)
+- [ace-cooper/AceMicroFlyer-ESP32](https://github.com/ace-cooper/AceMicroFlyer-ESP32) - A ESP32-C3 Super Mini Micro Drone Project (3 days ago)
+- [TimHanewich/centauri](https://github.com/TimHanewich/centauri) - A complete, custom-built quadcopter system (flight controller, transmitter, telemetry tools) built entirely from scratch in Python on a Raspberry Pi Pico, no off-the-shelf flight controller required. (3 days ago)
+- [makerspet/oomwoo](https://github.com/makerspet/oomwoo) - Open-source vacuum robot cleaner (3 days ago)
+- [larashero3-dotcom/lieflat-charts](https://github.com/larashero3-dotcom/lieflat-charts) - Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。 (3 days ago)
+- [devswha/herdr-web-ui](https://github.com/devswha/herdr-web-ui) - Browser and phone client for herdr: chat and live terminal for every agent pane, remote PCs over SSH, web push alerts (3 days ago)
+- [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you (4 days ago)
+- [Qrome/QLiteOSD](https://github.com/Qrome/QLiteOSD) - Arduino based OSD for DJI FPV (5 days ago)
+- [davidmolony/MESC_FOC_ESC](https://github.com/davidmolony/MESC_FOC_ESC) - MESC, Molony ESC, STM32F303 based FOC&#43;BLDC ready, HALL, Encoder, Sensorless, single sides, 2 layer, ~90A @48V (5 days ago)
+- [am32-firmware/Am32-Wifi-Bridge](https://github.com/am32-firmware/Am32-Wifi-Bridge) - Creates Esp32 C3 wifi host bridge to work with AM32. Includes signal passthrough.  (6 days ago)
+- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents. (6 days ago)
 
 #### 💬 Feedback
 
