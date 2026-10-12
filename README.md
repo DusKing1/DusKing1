@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DusKing1/ha-tcl-tv](https://github.com/DusKing1/ha-tcl-tv) - TCL 电视 Home Assistant 局域网遥控 · Liquid Glass 圆盘卡片 · 完整协议参考 (6 days ago)
+- [DusKing1/ha-tcl-tv](https://github.com/DusKing1/ha-tcl-tv) - TCL 电视 Home Assistant 局域网遥控 · Liquid Glass 圆盘卡片 · 完整协议参考 (1 week ago)
 - [DusKing1/omp-plugins](https://github.com/DusKing1/omp-plugins) - Plugins for oh-my-pi (omp), installable via omp&#39;s marketplace (1 week ago)
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. (1 month ago)
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (2 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.9.2](https://github.com/can1357/oh-my-pi/releases/tag/v18.9.2), today) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.10.0](https://github.com/can1357/oh-my-pi/releases/tag/v18.10.0), today) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [DusKing1/ha-tcl-tv](https://github.com/DusKing1/ha-tcl-tv) ([v0.3.2](https://github.com/DusKing1/ha-tcl-tv/releases/tag/v0.3.2), 1 week ago) - TCL 电视 Home Assistant 局域网遥控 · Liquid Glass 圆盘卡片 · 完整协议参考
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) ([v0.3.2](https://github.com/DusKing1/opencode-anthropic-console/releases/tag/v0.3.2), 2 months ago) - 
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.2](https://github.com/dlaidig/vqf/releases/tag/v2.1.2), 3 months ago) - 
