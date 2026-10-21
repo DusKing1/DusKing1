@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(catalog): extend Devin model discovery timeout to 15s](https://github.com/can1357/oh-my-pi/pull/16668) on [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (today)
 - [feat(ai,catalog): add native Factory Droid provider (continues #8577)](https://github.com/can1357/oh-my-pi/pull/13276) on [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (3 weeks ago)
 - [Adapt Shenzhen accounts to electricity-calendar endpoints (2026-09 CSG migration)](https://github.com/windyboy/china_southern_power_grid_stat/pull/6) on [windyboy/china_southern_power_grid_stat](https://github.com/windyboy/china_southern_power_grid_stat) (1 month ago)
 - [fix(ai/providers): declare Codex workspace data residency from token claims](https://github.com/can1357/oh-my-pi/pull/9128) on [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (2 months ago)
@@ -45,7 +46,6 @@
 - [fix(display): use the low priority work queue by default](https://github.com/zmkfirmware/zmk/pull/3460) on [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) (2 months ago)
 - [Add ARTERY ecosystem partner acknowledgment to sponsor page](https://github.com/flightng/docs/pull/19) on [flightng/docs](https://github.com/flightng/docs) (3 months ago)
 - [Sync Fidelity X docs with firmware v0.2.0 and configurator](https://github.com/flightng/docs/pull/18) on [flightng/docs](https://github.com/flightng/docs) (4 months ago)
-- [feat(provider): add data residency header support for OpenAI Enterprise](https://github.com/anomalyco/opencode/pull/15844) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (7 months ago)
 
 #### ⭐ Recent Stars
 
