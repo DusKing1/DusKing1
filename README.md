@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. (2 days ago)
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. (3 days ago)
 - [DusKing1/ha-tcl-tv](https://github.com/DusKing1/ha-tcl-tv) - TCL 电视 Home Assistant 局域网遥控 · Liquid Glass 圆盘卡片 · 完整协议参考 (2 weeks ago)
 - [DusKing1/omp-plugins](https://github.com/DusKing1/omp-plugins) - Plugins for oh-my-pi (omp), installable via omp&#39;s marketplace (3 weeks ago)
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (2 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.12.6](https://github.com/can1357/oh-my-pi/releases/tag/v18.12.6), 2 days ago) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.12.6](https://github.com/can1357/oh-my-pi/releases/tag/v18.12.6), 3 days ago) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [DusKing1/ha-tcl-tv](https://github.com/DusKing1/ha-tcl-tv) ([v0.3.2](https://github.com/DusKing1/ha-tcl-tv/releases/tag/v0.3.2), 3 weeks ago) - TCL 电视 Home Assistant 局域网遥控 · Liquid Glass 圆盘卡片 · 完整协议参考
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) ([v0.3.2](https://github.com/DusKing1/opencode-anthropic-console/releases/tag/v0.3.2), 2 months ago) - 
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.2](https://github.com/dlaidig/vqf/releases/tag/v2.1.2), 3 months ago) - 
@@ -36,7 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix(catalog): extend Devin model discovery timeout to 15s](https://github.com/can1357/oh-my-pi/pull/16668) on [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (2 days ago)
+- [fix(catalog): extend Devin model discovery timeout to 15s](https://github.com/can1357/oh-my-pi/pull/16668) on [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (3 days ago)
 - [feat(ai,catalog): add native Factory Droid provider (continues #8577)](https://github.com/can1357/oh-my-pi/pull/13276) on [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (4 weeks ago)
 - [Adapt Shenzhen accounts to electricity-calendar endpoints (2026-09 CSG migration)](https://github.com/windyboy/china_southern_power_grid_stat/pull/6) on [windyboy/china_southern_power_grid_stat](https://github.com/windyboy/china_southern_power_grid_stat) (1 month ago)
 - [fix(ai/providers): declare Codex workspace data residency from token claims](https://github.com/can1357/oh-my-pi/pull/9128) on [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (2 months ago)
@@ -54,7 +54,7 @@
 - [makerspet/oomwoo](https://github.com/makerspet/oomwoo) - Open-source vacuum robot cleaner (2 weeks ago)
 - [larashero3-dotcom/lieflat-charts](https://github.com/larashero3-dotcom/lieflat-charts) - Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。 (2 weeks ago)
 - [devswha/ovis](https://github.com/devswha/ovis) - Ovis (formerly herdr web UI): free, open-source browser and phone client for herdr. Chat and live terminal for Claude Code, Codex and every agent pane, remote PCs over SSH, web push alerts (2 weeks ago)
-- [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you (2 weeks ago)
+- [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you (3 weeks ago)
 - [Qrome/QLiteOSD](https://github.com/Qrome/QLiteOSD) - Arduino based OSD for DJI FPV (3 weeks ago)
 - [davidmolony/MESC_FOC_ESC](https://github.com/davidmolony/MESC_FOC_ESC) - MESC, Molony ESC, STM32F303 based FOC&#43;BLDC ready, HALL, Encoder, Sensorless, single sides, 2 layer, ~90A @48V (3 weeks ago)
 - [am32-firmware/Am32-Wifi-Bridge](https://github.com/am32-firmware/Am32-Wifi-Bridge) - Creates Esp32 C3 wifi host bridge to work with AM32. Includes signal passthrough.  (3 weeks ago)
