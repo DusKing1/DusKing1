@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.13.2](https://github.com/can1357/oh-my-pi/releases/tag/v18.13.2), 1 day ago) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.13.3](https://github.com/can1357/oh-my-pi/releases/tag/v18.13.3), today) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [DusKing1/ha-tcl-tv](https://github.com/DusKing1/ha-tcl-tv) ([v0.3.2](https://github.com/DusKing1/ha-tcl-tv/releases/tag/v0.3.2), 3 weeks ago) - TCL 电视 Home Assistant 局域网遥控 · Liquid Glass 圆盘卡片 · 完整协议参考
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) ([v0.3.2](https://github.com/DusKing1/opencode-anthropic-console/releases/tag/v0.3.2), 2 months ago) - 
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.2](https://github.com/dlaidig/vqf/releases/tag/v2.1.2), 3 months ago) - 
@@ -49,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [gehee/fpvOS](https://github.com/gehee/fpvOS) - Open firmware for FPV vrx and vtx (today)
 - [ace-cooper/AceMicroFlyer-ESP32](https://github.com/ace-cooper/AceMicroFlyer-ESP32) - A ESP32-C3 Super Mini Micro Drone Project (3 weeks ago)
 - [TimHanewich/centauri](https://github.com/TimHanewich/centauri) - A complete, custom-built quadcopter system (flight controller, transmitter, telemetry tools) built entirely from scratch in Python on a Raspberry Pi Pico, no off-the-shelf flight controller required. (3 weeks ago)
 - [makerspet/oomwoo](https://github.com/makerspet/oomwoo) - Open-source vacuum robot cleaner (3 weeks ago)
@@ -58,7 +59,6 @@
 - [Qrome/QLiteOSD](https://github.com/Qrome/QLiteOSD) - Arduino based OSD for DJI FPV (3 weeks ago)
 - [davidmolony/MESC_FOC_ESC](https://github.com/davidmolony/MESC_FOC_ESC) - MESC, Molony ESC, STM32F303 based FOC&#43;BLDC ready, HALL, Encoder, Sensorless, single sides, 2 layer, ~90A @48V (3 weeks ago)
 - [am32-firmware/Am32-Wifi-Bridge](https://github.com/am32-firmware/Am32-Wifi-Bridge) - Creates Esp32 C3 wifi host bridge to work with AM32. Includes signal passthrough.  (3 weeks ago)
-- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents. (3 weeks ago)
 
 #### 💬 Feedback
 
