@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. (2 days ago)
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. (3 days ago)
 - [DusKing1/ha-tcl-tv](https://github.com/DusKing1/ha-tcl-tv) - TCL 电视 Home Assistant 局域网遥控 · Liquid Glass 圆盘卡片 · 完整协议参考 (3 weeks ago)
-- [DusKing1/omp-plugins](https://github.com/DusKing1/omp-plugins) - Plugins for oh-my-pi (omp), installable via omp&#39;s marketplace (3 weeks ago)
+- [DusKing1/omp-plugins](https://github.com/DusKing1/omp-plugins) - Plugins for oh-my-pi (omp), installable via omp&#39;s marketplace (4 weeks ago)
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (2 months ago)
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (4 months ago)
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support (4 months ago)
@@ -28,15 +28,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.13.3](https://github.com/can1357/oh-my-pi/releases/tag/v18.13.3), today) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
-- [DusKing1/ha-tcl-tv](https://github.com/DusKing1/ha-tcl-tv) ([v0.3.2](https://github.com/DusKing1/ha-tcl-tv/releases/tag/v0.3.2), 3 weeks ago) - TCL 电视 Home Assistant 局域网遥控 · Liquid Glass 圆盘卡片 · 完整协议参考
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.13.3](https://github.com/can1357/oh-my-pi/releases/tag/v18.13.3), 1 day ago) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
+- [DusKing1/ha-tcl-tv](https://github.com/DusKing1/ha-tcl-tv) ([v0.3.2](https://github.com/DusKing1/ha-tcl-tv/releases/tag/v0.3.2), 4 weeks ago) - TCL 电视 Home Assistant 局域网遥控 · Liquid Glass 圆盘卡片 · 完整协议参考
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) ([v0.3.2](https://github.com/DusKing1/opencode-anthropic-console/releases/tag/v0.3.2), 2 months ago) - 
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.2](https://github.com/dlaidig/vqf/releases/tag/v2.1.2), 3 months ago) - 
 - [DusKing1/opencode-openai-residency](https://github.com/DusKing1/opencode-openai-residency) ([v1.2.0](https://github.com/DusKing1/opencode-openai-residency/releases/tag/v1.2.0), 4 months ago) - OpenCode plugin: adds x-openai-internal-codex-residency header for OpenAI Enterprise data residency support
 
 #### 🔨 My recent Pull Requests
 
-- [fix(ai): report Codex spend-cap credits for credit-billed workspace seats](https://github.com/can1357/oh-my-pi/pull/16973) on [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (3 days ago)
+- [fix(ai): report Codex spend-cap credits for credit-billed workspace seats](https://github.com/can1357/oh-my-pi/pull/16973) on [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (4 days ago)
 - [fix(catalog): extend Devin model discovery timeout to 15s](https://github.com/can1357/oh-my-pi/pull/16668) on [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (1 week ago)
 - [feat(ai,catalog): add native Factory Droid provider (continues #8577)](https://github.com/can1357/oh-my-pi/pull/13276) on [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (1 month ago)
 - [Adapt Shenzhen accounts to electricity-calendar endpoints (2026-09 CSG migration)](https://github.com/windyboy/china_southern_power_grid_stat/pull/6) on [windyboy/china_southern_power_grid_stat](https://github.com/windyboy/china_southern_power_grid_stat) (1 month ago)
@@ -49,7 +49,7 @@
 
 #### ⭐ Recent Stars
 
-- [gehee/fpvOS](https://github.com/gehee/fpvOS) - Open firmware for FPV vrx and vtx (today)
+- [gehee/fpvOS](https://github.com/gehee/fpvOS) - Open firmware for FPV vrx and vtx (1 day ago)
 - [ace-cooper/AceMicroFlyer-ESP32](https://github.com/ace-cooper/AceMicroFlyer-ESP32) - A ESP32-C3 Super Mini Micro Drone Project (3 weeks ago)
 - [TimHanewich/centauri](https://github.com/TimHanewich/centauri) - A complete, custom-built quadcopter system (flight controller, transmitter, telemetry tools) built entirely from scratch in Python on a Raspberry Pi Pico, no off-the-shelf flight controller required. (3 weeks ago)
 - [makerspet/oomwoo](https://github.com/makerspet/oomwoo) - Open-source vacuum robot cleaner (3 weeks ago)
@@ -58,7 +58,7 @@
 - [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you (3 weeks ago)
 - [Qrome/QLiteOSD](https://github.com/Qrome/QLiteOSD) - Arduino based OSD for DJI FPV (3 weeks ago)
 - [davidmolony/MESC_FOC_ESC](https://github.com/davidmolony/MESC_FOC_ESC) - MESC, Molony ESC, STM32F303 based FOC&#43;BLDC ready, HALL, Encoder, Sensorless, single sides, 2 layer, ~90A @48V (3 weeks ago)
-- [am32-firmware/Am32-Wifi-Bridge](https://github.com/am32-firmware/Am32-Wifi-Bridge) - Creates Esp32 C3 wifi host bridge to work with AM32. Includes signal passthrough.  (3 weeks ago)
+- [am32-firmware/Am32-Wifi-Bridge](https://github.com/am32-firmware/Am32-Wifi-Bridge) - Creates Esp32 C3 wifi host bridge to work with AM32. Includes signal passthrough.  (4 weeks ago)
 
 #### 💬 Feedback
 
