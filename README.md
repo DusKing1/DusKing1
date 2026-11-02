@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. (6 days ago)
-- [DusKing1/ha-tcl-tv](https://github.com/DusKing1/ha-tcl-tv) - TCL 电视 Home Assistant 局域网遥控 · Liquid Glass 圆盘卡片 · 完整协议参考 (3 weeks ago)
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. (1 week ago)
+- [DusKing1/ha-tcl-tv](https://github.com/DusKing1/ha-tcl-tv) - TCL 电视 Home Assistant 局域网遥控 · Liquid Glass 圆盘卡片 · 完整协议参考 (4 weeks ago)
 - [DusKing1/omp-plugins](https://github.com/DusKing1/omp-plugins) - Plugins for oh-my-pi (omp), installable via omp&#39;s marketplace (1 month ago)
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) -  (2 months ago)
 - [flightng/docs](https://github.com/flightng/docs) - Docs for FlightNG (4 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.15.0](https://github.com/can1357/oh-my-pi/releases/tag/v18.15.0), today) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.15.0](https://github.com/can1357/oh-my-pi/releases/tag/v18.15.0), 1 day ago) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [DusKing1/ha-tcl-tv](https://github.com/DusKing1/ha-tcl-tv) ([v0.3.2](https://github.com/DusKing1/ha-tcl-tv/releases/tag/v0.3.2), 1 month ago) - TCL 电视 Home Assistant 局域网遥控 · Liquid Glass 圆盘卡片 · 完整协议参考
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) ([v0.3.2](https://github.com/DusKing1/opencode-anthropic-console/releases/tag/v0.3.2), 2 months ago) - 
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.2](https://github.com/dlaidig/vqf/releases/tag/v2.1.2), 3 months ago) - 
@@ -49,14 +49,14 @@
 
 #### ⭐ Recent Stars
 
-- [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app) - herdr desktop app (2 days ago)
-- [gehee/fpvOS](https://github.com/gehee/fpvOS) - Open firmware for FPV vrx and vtx (4 days ago)
+- [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app) - herdr desktop app (3 days ago)
+- [gehee/fpvOS](https://github.com/gehee/fpvOS) - Open firmware for FPV vrx and vtx (5 days ago)
 - [ace-cooper/AceMicroFlyer-ESP32](https://github.com/ace-cooper/AceMicroFlyer-ESP32) - A ESP32-C3 Super Mini Micro Drone Project (4 weeks ago)
 - [TimHanewich/centauri](https://github.com/TimHanewich/centauri) - A complete, custom-built quadcopter system (flight controller, transmitter, telemetry tools) built entirely from scratch in Python on a Raspberry Pi Pico, no off-the-shelf flight controller required. (4 weeks ago)
 - [makerspet/oomwoo](https://github.com/makerspet/oomwoo) - Open-source vacuum robot cleaner (4 weeks ago)
 - [larashero3-dotcom/lieflat-charts](https://github.com/larashero3-dotcom/lieflat-charts) - Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。 (4 weeks ago)
 - [devswha/ovis](https://github.com/devswha/ovis) - Ovis (formerly herdr web UI): free, open-source browser and phone client for herdr. Chat and live terminal for Claude Code, Codex and every agent pane, remote PCs over SSH, web push alerts (4 weeks ago)
-- [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you (4 weeks ago)
+- [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you (1 month ago)
 - [Qrome/QLiteOSD](https://github.com/Qrome/QLiteOSD) - Arduino based OSD for DJI FPV (1 month ago)
 - [davidmolony/MESC_FOC_ESC](https://github.com/davidmolony/MESC_FOC_ESC) - MESC, Molony ESC, STM32F303 based FOC&#43;BLDC ready, HALL, Encoder, Sensorless, single sides, 2 layer, ~90A @48V (1 month ago)
 
