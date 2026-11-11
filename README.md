@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.18.7](https://github.com/can1357/oh-my-pi/releases/tag/v18.18.7), today) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.18.7](https://github.com/can1357/oh-my-pi/releases/tag/v18.18.7), 1 day ago) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [DusKing1/ha-tcl-tv](https://github.com/DusKing1/ha-tcl-tv) ([v0.3.2](https://github.com/DusKing1/ha-tcl-tv/releases/tag/v0.3.2), 1 month ago) - TCL 电视 Home Assistant 局域网遥控 · Liquid Glass 圆盘卡片 · 完整协议参考
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) ([v0.3.2](https://github.com/DusKing1/opencode-anthropic-console/releases/tag/v0.3.2), 3 months ago) - 
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.2](https://github.com/dlaidig/vqf/releases/tag/v2.1.2), 4 months ago) - 
@@ -37,7 +37,7 @@
 #### 🔨 My recent Pull Requests
 
 - [fix(ai): report Codex spend-cap credits for credit-billed workspace seats](https://github.com/can1357/oh-my-pi/pull/16973) on [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (2 weeks ago)
-- [fix(catalog): extend Devin model discovery timeout to 15s](https://github.com/can1357/oh-my-pi/pull/16668) on [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (2 weeks ago)
+- [fix(catalog): extend Devin model discovery timeout to 15s](https://github.com/can1357/oh-my-pi/pull/16668) on [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (3 weeks ago)
 - [feat(ai,catalog): add native Factory Droid provider (continues #8577)](https://github.com/can1357/oh-my-pi/pull/13276) on [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (1 month ago)
 - [Adapt Shenzhen accounts to electricity-calendar endpoints (2026-09 CSG migration)](https://github.com/windyboy/china_southern_power_grid_stat/pull/6) on [windyboy/china_southern_power_grid_stat](https://github.com/windyboy/china_southern_power_grid_stat) (2 months ago)
 - [fix(ai/providers): declare Codex workspace data residency from token claims](https://github.com/can1357/oh-my-pi/pull/9128) on [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (2 months ago)
@@ -50,7 +50,7 @@
 #### ⭐ Recent Stars
 
 - [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app) - herdr desktop app (1 week ago)
-- [gehee/fpvOS](https://github.com/gehee/fpvOS) - Open firmware for FPV vrx and vtx (1 week ago)
+- [gehee/fpvOS](https://github.com/gehee/fpvOS) - Open firmware for FPV vrx and vtx (2 weeks ago)
 - [ace-cooper/AceMicroFlyer-ESP32](https://github.com/ace-cooper/AceMicroFlyer-ESP32) - A ESP32-C3 Super Mini Micro Drone Project (1 month ago)
 - [TimHanewich/centauri](https://github.com/TimHanewich/centauri) - A complete, custom-built quadcopter system (flight controller, transmitter, telemetry tools) built entirely from scratch in Python on a Raspberry Pi Pico, no off-the-shelf flight controller required. (1 month ago)
 - [makerspet/oomwoo](https://github.com/makerspet/oomwoo) - Open-source vacuum robot cleaner (1 month ago)
