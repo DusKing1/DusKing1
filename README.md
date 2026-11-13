@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.19.0](https://github.com/can1357/oh-my-pi/releases/tag/v18.19.0), today) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ([v18.20.0](https://github.com/can1357/oh-my-pi/releases/tag/v18.20.0), 1 day ago) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [DusKing1/ha-tcl-tv](https://github.com/DusKing1/ha-tcl-tv) ([v0.3.2](https://github.com/DusKing1/ha-tcl-tv/releases/tag/v0.3.2), 1 month ago) - TCL 电视 Home Assistant 局域网遥控 · Liquid Glass 圆盘卡片 · 完整协议参考
 - [DusKing1/opencode-anthropic-console](https://github.com/DusKing1/opencode-anthropic-console) ([v0.3.2](https://github.com/DusKing1/opencode-anthropic-console/releases/tag/v0.3.2), 3 months ago) - 
 - [dlaidig/vqf](https://github.com/dlaidig/vqf) ([v2.1.2](https://github.com/dlaidig/vqf/releases/tag/v2.1.2), 4 months ago) - 
@@ -49,7 +49,7 @@
 
 #### ⭐ Recent Stars
 
-- [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app) - herdr desktop app (1 week ago)
+- [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app) - herdr desktop app (2 weeks ago)
 - [gehee/fpvOS](https://github.com/gehee/fpvOS) - Open firmware for FPV vrx and vtx (2 weeks ago)
 - [ace-cooper/AceMicroFlyer-ESP32](https://github.com/ace-cooper/AceMicroFlyer-ESP32) - A ESP32-C3 Super Mini Micro Drone Project (1 month ago)
 - [TimHanewich/centauri](https://github.com/TimHanewich/centauri) - A complete, custom-built quadcopter system (flight controller, transmitter, telemetry tools) built entirely from scratch in Python on a Raspberry Pi Pico, no off-the-shelf flight controller required. (1 month ago)
